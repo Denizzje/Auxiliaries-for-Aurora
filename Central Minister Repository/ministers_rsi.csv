@@ -1,0 +1,116 @@
+RSI,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
+508001,Head of State,Palmiro Togliatti,1936,1964,1999,1,syndicalist demagogue,High,M3021,x
+508002,Head of Government,Antonio Gramsci,1936,1964,1999,1,Silent Workhorse,High,kaiserreich antoniogramsci,x
+508003,Foreign Minister,Pietro Nenni,1936,1964,1999,1,Ideological Crusader,High,M3062,x
+508004,Minister of Armament,Vittorio Vidali,1936,1964,1999,1,Infantry Proponent,High,M3087,x
+508005,Minister of Security,Ruggiero Grieco,1936,1964,1999,1,Man of the People,High,kaiserreich_RSI_Greco,x 
+508006,Head of Military Intelligence,Giuseppe di Vittorio,1936,1964,1999,1,Political Specialist,High,M3120,x
+508007,Chief of Staff,Camillo Berneri,1936,1964,1999,1,School of Defence,High,kaiserreich_RSI_Berneri,x
+508008,Chief of Army,Umberto Marzocchi,1936,1964,1999,1,Elastic Defence Doctrine,High,kaiserreich_RSI_Marzocchi,x
+508009,Chief of Navy,Francesco Maugeri,1936,1964,1999,1,Decisive Naval Battle Doctrine,High,kaiserreich_RSI_Maugeri,x
+508010,Chief of Air Force,Mario Ajmone Cat,1936,1964,1999,1,Air Superiority Doctrine,High,kaiserreich_RSI_Ajmone_Cat,x
+508011,Head of Government,Amadeo Bordiga,1936,1964,1999,1,Naive Optimist,High,kaiserreich_RSI_Amedeo_Bordiga,x
+508014,Minister of Armament,Fausto Gullo,1936,1964,1999,1,Military Entrepreneur,High,kaiserreich_RSI_Gullo,x
+508015,Minister of Security,Antonio Gramsci,1938,1964,1999,1,Crime Fighter,High,kaiserreich antoniogramsci,x
+508016,Head of Military Intelligence,Palmiro Togliatti,1938,1964,1999,1,Technical Specialist,High,M3021,x
+508024,Minister of Armament,Mauro Scoccimarro,1940,1964,1999,1,Air Superiority Proponent,High,M3088,x
+508022,Head of Government,Pietro Ingrao,1946,1964,1999,1,Ambitious Union Boss,High,kaiserreich_RSI_Ingrao,x
+508025,Minister of Security,Pietro Secchia,1948,1964,1999,1,Back Stabber,High,kaiserreich_RSI_Secchia,x
+508026,Head of Military Intelligence,Giorgo Napolitano,1938,1964,1999,1,Political Specialist,High,kaiserreich_RSI_Napolitano,x
+508101,Head of State,Filippo Turati,1936,1964,1999,2,Benevolent Gentleman,High,kaiserreich_RSI_Turati,x
+508102,Head of Government,Giacomo Matteotti,1936,1964,1999,2,Silent Workhorse,High,kaiserreich_RSI_Matteotti,x
+508103,Foreign Minister,Luigi Longo,1936,1964,1999,2,Ideological Crusader,High,M3022,x
+508104,Minister of Armament,Carlo Rosselli,1936,1964,1999,2,Administrative Genius,High,kaiserreich_RSI_Rosselli,x
+508105,Minister of Security,Giuseppe Romita,1936,1964,1999,2,Compassionate Gentleman,High,M3105,x
+508106,Head of Military Intelligence,Antonio Pesenti,1936,1964,1999,2,Technical Specialist,High,M3024,x
+508107,Chief of Staff,Luigi Longo,1936,1964,1999,2,School of Mass Combat,High,M3022,x
+508108,Chief of Army,Alfredo Pizzoni,1936,1964,1999,2,Armoured Spearhead Doctrine,High,kaiserreich_RSI_Pizzoni,x
+508109,Chief of Navy,Angelo Corsi,1936,1964,1999,2,Power Projection Doctrine,High,kaiserreich_RSI_Corsi,x
+508110,Chief of Air Force,Renato Sandalli,1936,1964,1999,2,Naval Aviation Doctrine,High,M3020,x
+508111,Head of State,Sandro Pertini,1946,1964,1999,2,Benevolent Gentleman,High,kaiserreich_RSI_Pertini,x
+508112,Head of Government,Luigi Longo,1936,1964,1999,2,Political Protege,High,M3022,x
+508113,Foreign Minister,Giacomo Matteotti,1936,1964,1999,2,Biased Intellectual,High,kaiserreich_RSI_Matteotti,x
+508114,Minister of Armament,Antonio Pesenti,1940,1964,1999,2,Resource Industrialist,High,M3024,x
+508115,Head of Military Intelligence,Elio Vittorini,1938,1964,1999,2,Political Specialist,High,Elio_Vittorini,x
+508119,Chief of Navy,Raffaele de Courten,1936,1964,1999,2,Open Seas Doctrine,High,M3019,x
+508122,Head of Government,Gaetano Salvemini,1940,1964,1999,2,Political Protege,High,kaiserreich_RSI_Salvemini,x
+508132,Head of Government,Giorgio Amendola,1946,1964,1999,2,Silent Workhorse,High,kaiserreich_RSI_Amendola,x
+508123,Foreign Minister,Giuseppe Saragat,1940,1964,1999,2,Great Compromiser,High,kaiserreich_RSI_Saragat,x
+508125,Minister of Security,Francesco De Martino,1951,1964,1999,2,Compassionate Gentleman,High,kaiserreich_RSI_De_Martino,x
+508126,Head of Military Intelligence,Giacomo Mancini,1949,1964,1999,2,Political Specialist,High,kaiserreich_RSI_Mancini,x
+508201,Head of State,Benito Mussolini,1936,1964,1999,0,totalist president,High,kaiserreich_RSI_Benito_Mussolini,x
+508202,Head of Government,Michele Bianchi,1936,1964,1999,0,Silent Workhorse,High,kaiserreich_RSI_Bianchi,x
+508203,Foreign Minister,Dino Grandi,1936,1964,1999,0,Great Compromiser,High,M3056,x
+508204,Minister of Armament,Giuseppe Bottai,1936,1964,1999,0,Infantry Proponent,High,kaiserreich_RSI_Bottai,x
+508205,Minister of Security,Cesare Maria De Vecchi,1936,1964,1999,0,Prince of Terror,High,kaiserreich_RSI_De_Vecchi,x
+508206,Head of Military Intelligence,Emilio De Bono,1936,1964,1999,0,Logistics Specialist,High,kaiserreich_RSI_De_Bono,x
+508207,Chief of Staff,Renato Ricci,1936,1964,1999,0,School of Mass Combat,High,kaiserreich_RSI_renato_ricci,x
+508208,Chief of Army,Emilio De Bono,1936,1964,1999,0,Decisive Battle Doctrine,High,kaiserreich_RSI_De_Bono,x
+508209,Chief of Navy,Domenico Cavagnari,1936,1964,1999,0,Decisive Naval Battle Doctrine,High,M3009,x
+508210,Chief of Air Force,Italo Balbo,1936,1964,1999,0,Army Aviation Doctrine,High,kaiserreich_RSI_Balbo,x
+508212,Head of Government,Luigi Federzoni,1936,1964,1999,0,Ambitious Union Boss,High,kaiserreich_RSI_Federzoni,x
+508214,Minister of Armament,Guido Jung,1936,1964,1999,0,Administrative Genius,High,M3076,x
+508215,Minister of Security,Benito Mussolini,1938,1964,1999,0,Man of the People,High,kaiserreich_RSI_Benito_Mussolini,x
+508216,Head of Military Intelligence,Dino Grandi,1938,1964,1999,0,Technical Specialist,High,M3056,x
+508219,Chief of Navy,Dino Grandi,1938,1964,1999,0,Power Projection Doctrine,High,M3153,x
+508222,Head of Government,Benito Mussolini,1937,1964,1999,0,Old General,High,kaiserreich_RSI_Benito_Mussolini,x
+508226,Head of Military Intelligence,Umberto Ricci,1940,1964,1999,0,Industrial Specialist,High,kaiserreich_RSI_umberto_ricci,x
+508301,Head of State,Enrico De Nicola,1936,1964,1999,4,Popular Figurehead,High,M3039,x
+508302,Head of Government,Guglielmo Giannini,1944,1964,1999,4,Naive Optimist,High,kaiserreich_RSI_Giannini,x
+508303,Foreign Minister,Francesco Saverio Nitti,1936,1964,1999,4,General Staffer,High,kaiserreich_RSI_Nitti,x
+508304,Minister of Armament,Epicarmo Corbino,1936,1964,1999,4,Infantry Proponent,High,kaiserreich_RSI_Corbino,x
+508305,Minister of Security,Enrico De Nicola,1936,1964,1999,4,Crime Fighter,High,M3039,x
+508306,Head of Military Intelligence,Benedetto Croce,1936,1964,1999,4,Technical Specialist,High,kaiserreich_RSI_Croce,x
+508307,Chief of Staff,Giuseppe Spataro,1936,1964,1999,4,School of Defence,High,kaiserreich_RSI_Spataro,x
+508309,Chief of Navy,Emilio Ferreri,1936,1964,1999,4,Indirect Approach Doctrine,High,kaiserreich_RSI_Ferreri,x
+508310,Chief of Air Force,Carlo Scialoja,1936,1964,1999,4,Army Aviation Doctrine,High,M3157,x
+508312,Head of Government,Enrico De Nicola,1936,1964,1999,4,Ambitious Union Boss,High,M3039,x
+508314,Minister of Armament,Alberto Beneduce,1936,1964,1999,4,Military Entrepreneur,High,kaiserreich_RSI_Beneduce,x
+508315,Minister of Security,Vincenzo Arangio-Ruiz,1936,1964,1999,4,Silent Lawyer,High,kaiserreich_RSI_Arangio_Ruiz,x
+508317,Chief of Staff,Cipriano Facchinetti,1937,1964,1999,4,School of Manoeuvre,High,M3083,x
+508318,Chief of Army,Giancarlo Pajetta,1942,1964,1999,4,Static Defence Doctrine,High,M3028,x
+508319,Chief of Navy,Giancarlo Pajetta,1942,1964,1999,4,Power Projection Doctrine,High,M3028,x
+508324,Minister of Armament,Cipriano Facchinetti,1937,1964,1999,4,Resource Industrialist,High,M3083,x
+508401,Head of State,Mario Scelba,1936,1964,1999,6,Autocratic Charmer,High,M3101,x
+508402,Head of Government,Giuseppe Alessi,1936,1964,1999,6,Backroom Backstabber,High,Giuseppe_Alessi,x
+508403,Foreign Minister,Gaetano Martino,1936,1964,1999,6,Ideological Crusader,High,kaiserreich_RSI_Martino,x
+508404,Minister of Armament,Silvio Milazzo,1936,1964,1999,6,Resource Industrialist,High,kaiserreich_RSI_Milazzo,x
+508405,Minister of Security,Mario Scelba,1936,1964,1999,6,Back Stabber,High,M3101,x
+508406,Head of Military Intelligence,Giacomo Acerbo,1936,1964,1999,6,Industrial Specialist,High,M3073,x
+508407,Chief of Staff,Gennaro Cassiani,1936,1964,1999,6,School of Defence,High,kaiserreich_RSI_Cassiani,x
+508408,Chief of Army,Luigi Rizzo,1936,1964,1999,6,Guns and Butter Doctrine,High,kaiserreich_RSI_Rizzo,x
+508409,Chief of Navy,Luigi Rizzo,1936,1964,1999,6,Open Seas Doctrine,High,kaiserreich_RSI_Rizzo,x
+508412,Head of Government,Gennaro Cassiani,1938,1964,1999,6,Political Protege,High,kaiserreich_RSI_Cassiani,x
+508414,Minister of Armament,Giacomo Acerbo,1938,1964,1999,6,Resource Industrialist,High,M3073,x
+508501,Head of State,Vito Cascio Ferro,1936,1964,1999,9,Autocratic Charmer,High,kaiserreich_RSI_Vito_Cascio_Ferro,x
+508502,Head of Government,Vito Cascio Ferro,1936,1964,1999,9,Backroom Backstabber,High,kaiserreich_RSI_Vito_Cascio_Ferro,x
+508503,Foreign Minister,Salvatore Lucky Luciano Lucania,1936,1964,1999,9,iron fisted brute,High,kaiserreich_RSI_Lucania,x
+508504,Minister of Armament,Vito Genovese,1936,1964,1999,9,Corrupt Kleptocrat,High,kaiserreich_RSI_Vito_Genovese,x
+508505,Minister of Security,Vito Genovese,1936,1964,1999,9,Prince of Terror,High,kaiserreich_RSI_Vito_Genovese,x
+508506,Head of Military Intelligence,Salvatore Lucky Luciano Lucania,1936,1964,1999,9,Dismal Enigma,High,kaiserreich_RSI_Lucania,x
+508507,Chief of Staff,Calogero Vizzini,1936,1964,1999,9,School of Mass Combat,High,kaiserreich_RSI_Vizzini,x
+508508,Chief of Army,Giuseppe Genco Russo,1936,1964,1999,9,Static Defence Doctrine,High,kaiserreich_RSI_Genco_Russo,x
+508512,Head of Government,Salvatore Giuliano,1944,1964,1999,9,Old General,High,kaiserreich_RSI_Giuliano,x
+508516,Head of Military Intelligence,Salvatore Giuliano,1943,1964,1999,9,Logistics Specialist,High,kaiserreich_RSI_Giuliano,x
+508601,Head of State,Roberto Farinacci,1936,1964,1999,7,Stern Imperialist,High,M3096,x
+508602,Head of Government,Achille Starace,1936,1964,1999,7,Old General,High,M3126,x
+508603,Foreign Minister,Filippo Anfuso,1936,1964,1999,7,Ideological Crusader,High,kaiserreich_RSI_Anfuso,x
+508604,Minister of Armament,Domenico Pellegrini Giampietro,1936,1964,1999,7,Military Entrepreneur,High,kaiserreich_RSI_Pellegrini_Giampietro,x
+508605,Minister of Security,Roberto Farinacci,1936,1964,1999,7,Efficient Sociopath,High,M3096,x
+508606,Head of Military Intelligence,Bruno Spampanato,1936,1964,1999,7,Political Specialist,High,kaiserreich_RSI_Spampanato,x
+508607,Chief of Staff,Federico Baistrocchi,1936,1964,1999,7,School of Defence,High,M3064,x
+508608,Chief of Army,Achille Starace,1936,1964,1999,7,Static Defence Doctrine,High,M3126,x
+508610,Chief of Air Force,Adriano Visconti,1936,1964,1999,4,Air Superiority Doctrine,High,kaiserreich_RSI_Visconti,x
+508611,Head of State,S.M.R. Ferdinand Pius di Borbone-Due Sicilie,1936,1964,1999,7,Autocratic Charmer,High,ferdinandopius,x
+508612,Head of State,S.M.R. Ferdinand Pius di Borbone-Due Sicilie,1936,1964,1999,6,Benevolent Gentleman,High,ferdinandopius,x
+508613,Head of State,S.M.R. Alfonso Maria di Borbone-Due Sicilie,1940,1964,1999,7,Autocratic Charmer,High,mariadenapoles,x
+508614,Head of State,S.M.R. Alfonso Maria di Borbone-Due Sicilie,1940,1964,1999,6,Benevolent Gentleman,High,mariadenapoles,x
+508615,Head of Government,Ranieri di Borbone-Due Sicilie,1936,1964,1999,7,Political Protege,High,ranieri,x
+508616,Head of State,Calogero Vizzini,1936,1964,1999,9,Popular Figurehead,High,kaiserreich_RSI_Vizzini,x
+508617,Head of Government,Calogero Vizzini,1936,1964,1999,9,Flamboyant Tough Guy,High,kaiserreich_RSI_Vizzini,x
+508618,Head of State,Lucio Tasca Lanza,1936,1964,1999,7,Weary Stiffneck,High,RSI_lucio_tasca,x
+508619,Head of Government,Lucio Tasca Lanza,1936,1964,1999,7,Happy Amateur,High,RSI_lucio_tasca,x
+508620,Head of State,S.A. Giovanni Alliata di Montereale,1936,1964,1999,7,Pig-headed Isolationist,High,RSI_montereale,x
+508621,Head of State,S.A. Giuseppe Tomasi di Lampedusa,1936,1964,1999,7,Weary Stiffneck,High,RSI_lampedusa,x
+508622,Head of State,S.A. Fulco Ruffo di Calabria,1936,1964,1999,8,Powerhungry demagogue,High,RSI_calabria,x
+508623,Head of Government,S.A. Fulco Ruffo di Calabria,1936,1964,1999,8,Old airmarshal,High,RSI_calabria,x

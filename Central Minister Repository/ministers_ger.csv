@@ -1,0 +1,314 @@
+GER,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
+,Replacements,,,,,,,,,X
+2,Head of Government,Heinrich Class,1936,1964,1999,9,Flamboyant Tough Guy,Very High,GER_Heinrich Class,X
+3,Foreign Minister,Constantin von Neurath,1936,1964,1999,6,Great Compromiser,High,M3,X
+4,Minister of Armament,Werner von Blomberg,1936,1964,1999,9,Infantry Proponent,High,M4,X
+5,Minister of Security,Otto von Feldmann,1936,1964,1999,9,Efficient Sociopath,Very High,GER_von Feldmann,X
+6,Head of Military Intelligence,Wilhelm Canaris,1936,1964,1999,8,Dismal Enigma,Medium,M6,X
+7,Chief of Staff,Ludwig Beck,1936,1964,1999,7,School of Manoeuvre,High,M7,X
+8,Chief of Army,Werner von Fritsch,1936,1964,1999,7,Armoured Spearhead Doctrine,High,M8,X
+9,Chief of Navy,Erich Raeder,1936,1964,1999,9,Decisive Naval Battle Doctrine,High,M9,X
+10,Chief of Air Force,Hermann Köhl,1936,1964,1999,7,Army Aviation Doctrine,Very High,Kaiserreich hermann koehl,X
+11,Head of Military Intelligence,Walter Nicolai,1936,1964,1999,7,Political Specialist,High,kaiserreichwalternicolai,X
+12,Head of Military Intelligence,Ferdinand von Bredow,1936,1964,1999,8,Political Specialist,Medium,kaiserreichferdinandvonbredow,X
+32,Head of State,Karl Dönitz,1945,1964,1999,9,Resigned Generalissimo,High,M32,X
+33,Head of State,Oskar von Hindenburg,1960,1964,1999,8,Insignificant Layman,High,M33,X
+34,Head of State,Ludwig Beck,1944,1964,1999,7,Resigned Generalissimo,High,M7,X
+35,Head of State,Hjalmar Schacht,1945,1964,1999,8,Pig-headed Isolationist,High,M14,X
+36,Head of State,S.K.M. Wilhelm II von Preussen,1930,1964,1999,7,Weltkrieg Emperor,High,kaiserreich wilhelmiih,X
+37,Head of State,S.K.M. Wilhelm III von Preussen,1941,1964,1999,7,Moderate Kaiser,High,M37,X
+38,Head of State,Theodor Heuss,1946,1964,1999,6,Die-hard Reformer,High,M38,X
+39,Head of State,Ludwig Renn,1936,1964,1999,0,Insignificant Layman,High,M21,X
+42,Head of Government,Hermann Ehrhardt,1941,1964,1999,9,Old Admiral,High,GER_Ehrhardt,X
+43,Minister of Armament,Ludwig Mies van der Rohe,1936,1964,1999,6,Construction Magnate,Very High,GER_Rohe,X
+44,Head of Government,Otto Meissner,1936,1964,1999,7,Naive Optimist,High,M44,X
+45,Head of Government,Kurt von Schleicher,1936,1964,1999,7,Old General,High,kaiserreich schleichervonkurt,X
+46,Head of Government,Albert Dufour-Feronce,1938,1964,1999,7,Flamboyant Tough Guy,High,M46,X
+47,Head of Government,Franz von Papen,1936,1964,1999,7,Happy Amateur,High,M47,X
+48,Head of Government,Carl Friedrich Goerdeler,1942,1964,1999,7,Happy Amateur,High,M12,X
+49,Head of Government,Johann Schwerin von Krosigk,1944,1964,1999,7,Silent Workhorse,High,M49,X
+50,Head of Government,Konrad Adenauer,1946,1964,1999,6,Silent Workhorse,High,M50,X
+51,Head of Government,Ernst Thalmann,1936,1964,1999,0,Backroom Backstabber,High,M22,X
+52,Head of Government,Ernst Toller,1939,1964,1999,0,Ambitious Union Boss,High,M25,X
+53,Head of Government,Walter Ulbricht,1946,1964,1999,0,Backroom Backstabber,High,M53,X
+55,Foreign Minister,Joachim von Ribbentrop,1960,1964,1999,9,Iron Fisted Brute,High,M55,X
+56,Foreign Minister,Artur Mahraun,1942,1964,1999,9,Ideological Crusader,Very High,GER_Mahraun,X
+57,Foreign Minister,Heinrich Class,1936,1964,1999,9,Ideological Crusader,Very High,GER_Heinrich Class,X
+58,Foreign Minister,Wilhelm Solf,1936,1964,1999,6,Great Compromiser,Very High,Kaiserreich Solf,X
+59,Foreign Minister,Johann Schwerin von Krosigk,1945,1964,1999,7,Apologetic Clerk,Very High,M49,X
+60,Foreign Minister,Ludwig Kastl,1936,1964,1999,7,Biased Intellectual,High,M60,X
+62,Foreign Minister,Oskar Meissner,1942,1964,1999,7,The Cloak N Dagger Schemer,Low,M44,X
+63,Foreign Minister,Johann Schwerin von Krosigk,1936,1964,1999,7,Apologetic Clerk,High,M49,X
+64,Foreign Minister,Thomas Mann,1936,1964,1999,7,General Staffer,Medium,M64,X
+65,Foreign Minister,Albert Dufour-Feronce,1938,1964,1999,7,Great Compromiser,Medium,M46,X
+66,Foreign Minister,Wilhelm Waetzoldt,1938,1964,1999,7,Apologetic Clerk,Medium,M66,X
+67,Foreign Minister,Franz von Papen,1940,1964,1999,7,Great Compromiser,Very High,M67,X
+68,Foreign Minister,Friedrich-Werner von der Schulenberg,1936,1964,1999,7,Ideological Crusader,Medium,M68,X
+70,Foreign Minister,Carl Melchior,1945,1964,1999,7,Ideological Crusader,Medium,M70,X
+71,Foreign Minister,Theodor Heuss,1946,1964,1999,6,Apologetic Clerk,Very High,M38,X
+72,Foreign Minister,Konrad Adenauer,1947,1964,1999,6,Great Compromiser,Very High,M50,X
+73,Foreign Minister,Walter Ulbricht,1936,1964,1999,0,The Cloak N Dagger Schemer,High,M53,X
+74,Foreign Minister,Helmut Herzfelde,1940,1964,1999,0,Ideological Crusader,High,M23,X
+76,Minister of Armament,Heinrich Class,1938,1964,1999,9,Planned Economy Proponent,Very High,GER_Heinrich Class,X
+77,Minister of Armament,Hjalmar Schacht,1936,1964,1999,7,Bank President,Medium,M14,X
+78,Minister of Armament,Friedrich Flick,1937,1964,1999,9,Laissez-Faire Capitalist,Medium,M78,X
+79,Minister of Armament,Hermann Göring,1960,1964,1999,9,Air to Ground Proponent,Very High,M10,X
+80,Minister of Armament,Walter Funk,1939,1964,1999,9,Resource Industrialist,Very High,M80,X
+81,Minister of Armament,Gerhard Rossbach,1936,1964,1999,9,Military Entrepreneur,Very High,GER_Rossbach,X
+82,Minister of Armament,Hans-Jürgen von Blumenthal,1937,1964,1999,8,Reformer,Very High,GER_von Blumenthal,X
+83,Minister of Armament,Max Amann,1941,1964,1999,9,Battle Fleet Proponent,Very High,M83,X
+84,Minister of Armament,Franz Xavier-Schwarz,1936,1964,1999,9,Resource Industrialist,Very High,M84,X
+85,Minister of Armament,Johann Schwerin von Krosigk,1936,1964,1999,7,Resource Industrialist,Very High,M49,X
+87,Minister of Armament,Oswald Pohl,1943,1964,1999,9,Military Entrepreneur,High,M87,X
+88,Minister of Armament,Theodor Duesterberg,1936,1964,1999,9,Industrial Chemist,High,GER_Duesterberg,X
+89,Minister of Armament,Karl Otto Saur,1945,1964,1999,9,Military Entrepreneur,High,M89,X
+90,Minister of Armament,Fritz Thyssen,1936,1964,1999,7,Steel Magnate,Very High,M90,X
+91,Minister of Armament,Heinz Guderian,1937,1964,1999,7,Reformer,Very High,M157,X
+93,Minister of Armament,Hans-Georg von Friedeburg,1942,1964,1999,9,Submarine Proponent,Very High,M93,X
+94,Minister of Armament,Fritz Tornow,1944,1964,1999,8,Military Entrepreneur,Medium,M94,X
+95,Minister of Armament,Julius Curtius,1936,1964,1999,7,Resource Industrialist,Medium,M95,X
+96,Minister of Armament,Paul Lejeune-Jung,1938,1964,1999,7,Industrial Chemist,Very High,M96,X
+97,Minister of Armament,Alfried Krupp,1936,1964,1999,7,Balanced Budget Economy,Very High,M97,X
+98,Minister of Armament,Georg Thomas,1940,1964,1999,7,Theoretical Scientist,Low,M98,X
+99,Minister of Armament,Carl Friedrich Goerdeler,1940,1964,1999,7,Mixed Economy,Very High,M12,X
+100,Minister of Armament,Walter Gropius,1936,1964,1999,7,Administrative Genius,Very High,GER_Gropius,X
+101,Minister of Armament,Johannes Popitz,1943,1964,1999,7,Resource Industrialist,Very High,M101,X
+102,Minister of Armament,Claus Schenck von Stauffenberg,1944,1964,1999,7,Reformer,High,M102,X
+104,Minister of Armament,Ludwig Erhard,1947,1964,1999,6,Administrative Genius,Very High,M104,X
+105,Minister of Armament,Albert Kuntz,1936,1964,1999,0,Resource Industrialist,High,M105,X
+106,Minister of Armament,Willie Munzenberg,1942,1964,1999,0,Administrative Genius,High,M24,X
+108,Minister of Security,Wilhelm Frick,1938,1964,1999,9,Prince of Terror,Very High,M5,X
+109,Minister of Security,Viktor Lutze,1939,1964,1999,9,Compassionate Gentleman,Very High,M109,X
+110,Minister of Security,Artur Mahraun,1936,1964,1999,9,Secret Police Chief,Very High,GER_Mahraun,X
+111,Minister of Security,Heinrich Müller,1943,1964,1999,9,Prince of Terror,Very Low,M26,X
+112,Minister of Security,Stephanie von Hohenlohe,1938,1964,1999,8,Crooked Kleptocrat,Medium,Kaiserreich von Hohenlohe,X
+113,Minister of Security,Karl Hanke,1944,1964,1999,9,Back Stabber,Very Low,M113,X
+114,Minister of Security,Otto Georg Thierack,1942,1964,1999,9,Crime Fighter,Very High,M114,X
+115,Minister of Security,Franz von Papen,1946,1964,1999,7,Compassionate Gentleman,Very High,M47,X
+116,Minister of Security,Ernst Trendelenburg,1936,1964,1999,7,Compassionate Gentleman,Medium,M116,X
+117,Minister of Security,Alfred Hugenberg,1936,1964,1999,7,Media Magnate,Medium,M117,X
+118,Minister of Security,Heinrich Müller,1939,1964,1999,7,Efficient Sociopath,Very Low,M26,X
+119,Minister of Security,Arthur Nebe,1942,1964,1999,8,Secret Police Chief,Low,M119,X
+120,Minister of Security,Arthur Axmann,1945,1964,1999,8,Man of the People,Low,M120,X
+121,Minister of Security,Johann von Bernstorff,1936,1964,1999,7,Back Stabber,Medium,M121,X
+122,Minister of Security,Karl Sack,1936,1964,1999,7,Silent Lawyer,Medium,M122,X
+123,Minister of Security,Wilhelm von Gayl,1938,1964,1999,7,Secret Police Chief,High,M15,X
+124,Minister of Security,Walter Schellenberg,1939,1964,1999,7,Efficient Sociopath,Low,M124,X
+125,Minister of Security,Josef Wirmer,1942,1964,1999,7,Man of the People,Medium,M125,X
+126,Minister of Security,Fritz von Schulenburg,1942,1964,1999,7,Compassionate Gentleman,Very High,M126,X
+127,Minister of Security,Henning von Tresckow,1938,1964,1999,7,Crime Fighter,Very High,M127,X
+128,Minister of Security,Hermann Ehrhardt,1937,1964,1999,9,Prince of Terror,Very High,GER_Ehrhardt,X
+131,Minister of Security,Ernst Toller,1936,1964,1999,0,Man of the People,Low,M25,X
+132,Minister of Security,Ludwig Renn,1939,1964,1999,0,Efficient Sociopath,Very High,M21,X
+133,Minister of Security,Julius Leber,1942,1964,1999,0,Compassionate Gentleman,High,M133,X
+134,Minister of Security,Walter Ulbricht,1944,1964,1999,0,Prince of Terror,High,M53,X
+136,Head of Military Intelligence,Hans-Georg von Friedeburg,1942,1964,1999,9,Naval Intelligence Specialist,Medium,M93,X
+137,Head of Military Intelligence,Kurt Ludwig,1938,1964,1999,7,Technical Specialist,High,Kaiserreich KLudwig,X
+138,Head of Military Intelligence,Karl Boy-Ed,1936,1964,1999,7,Technical Specialist,High,Kaiserreich Boy-Ed,X
+139,Head of Military Intelligence,Hermann Ehrhardt,1936,1964,1999,9,Naval Intelligence Specialist,Very High,GER_Ehrhardt,X
+140,Head of Military Intelligence,Hjalmar Schacht,1940,1964,1999,7,Industrial Specialist,Medium,M14,X
+141,Head of Military Intelligence,Oskar von Hindenburg,1936,1964,1999,7,Political Specialist,Medium,M33,X
+142,Head of Military Intelligence,Franz von Rintelen,1936,1964,1999,7,Political Specialist,High,Kaiserreich von Rintelen,X
+143,Head of Military Intelligence,Stephanie von Hohenlohe,1938,1964,1999,8,Dismal Enigma,Medium,Kaiserreich von Hohenlohe,X
+144,Head of Military Intelligence,Carl von Schubert,1936,1964,1999,7,Logistics Specialist,High,M144,X
+146,Head of Military Intelligence,Hans Oster,1939,1964,1999,7,Political Specialist,High,M146,X
+147,Head of Military Intelligence,Georg Hansen,1940,1964,1999,7,Technical Specialist,Medium,M147,X
+148,Head of Military Intelligence,Heinrich Albert,1936,1964,1999,7,Political Specialist,High,Kaiserreich Heinrich Albert,X
+150,Head of Military Intelligence,Reinhard Gehlen,1941,1964,1999,6,Dismal Enigma,High,M150,X
+151,Head of Military Intelligence,Ernst Thalmann,1936,1964,1999,0,Industrial Specialist,High,M22,X
+152,Head of Military Intelligence,Erich Weinert,1938,1964,1999,0,Logistics Specialist,High,M152,X
+153,Head of Military Intelligence,Heinrich Müller,1943,1964,1999,0,Political Specialist,Very High,M26,X
+155,Chief of Staff,Franz Halder,1938,1964,1999,8,School of Fire Support,Medium,M155,X
+156,Chief of Staff,Alfred Jodl,1939,1964,1999,9,School of Psychology,High,M156,X
+157,Chief of Staff,Heinz Guderian,1937,1964,1999,7,School of Manoeuvre,Medium,M157,X
+158,Chief of Staff,Hans Krebs,1945,1964,1999,9,School of Defence,Medium,M158,X
+159,Chief of Staff,Fritz Bayerlein,1936,1964,1999,7,School of Psychology,High,M159,X
+160,Chief of Staff,Erich Hoepner,1937,1964,1999,8,School of Fire Support,Medium,M18,X
+162,Chief of Staff,Erwin von Witzleben,1936,1964,1999,7,School of Fire Support,High,M17,X
+163,Chief of Staff,Kurt Zeitzler,1942,1964,1999,8,School of Defence,Medium,M163,X
+165,Chief of Staff,Erwin Rommel,1943,1964,1999,7,School of Manoeuvre,High,M165,X
+168,Chief of Staff,Adolf Heusinger,1942,1964,1999,7,School of Mass Combat,Low,M168,X
+169,Chief of Staff,Walther von Seydlitz-Kurzbach,1936,1964,1999,7,School of Manoeuvre,High,L251,X
+170,Chief of Staff,Hans Speidel,1946,1964,1999,6,School of Mass Combat,High,M170,X
+171,Chief of Staff,Ernst Wollweber,1936,1964,1999,0,School of Mass Combat,Very High,M27,X
+172,Chief of Staff,Erich Weinert,1944,1964,1999,0,School of Psychology,High,M152,X
+174,Chief of Army,Walther von Brauchitsch,1938,1964,1999,8,Armoured Spearhead Doctrine,High,M174,X
+175,Chief of Army,Kurt von Hammerstein-Equord,1939,1964,1999,8,Guns and Butter Doctrine,High,M175,X
+176,Chief of Army,Wilhelm Keitel,1940,1964,1999,9,Armoured Spearhead Doctrine,Very High,M176,X
+179,Chief of Army,Erich von Ludendorff,1936,1964,1999,9,Elastic Defence Doctrine,High,M179,X
+180,Chief of Army,Werner von Blomberg,1937,1964,1999,9,Guns and Butter Doctrine,High,M4,X
+182,Chief of Army,Fedor von Bock,1939,1964,1999,8,Decisive Battle Doctrine,High,M182,X
+183,Chief of Army,Erich Hoepner,1942,1964,1999,8,Armoured Spearhead Doctrine,High,M18,X
+184,Chief of Army,Erwin von Witzleben,1938,1964,1999,7,Static Defence Doctrine,High,M17,X
+185,Chief of Army,Walter von Lüttwitz,1936,1964,1999,7,Decisive Battle Doctrine,Low,M185,X
+187,Chief of Army,Hans-Jürgen von Arnim,1936,1964,1999,8,Static Defence Doctrine,High,L272,X
+188,Chief of Army,Theodor Blank,1946,1964,1999,6,Armoured Spearhead Doctrine,High,M188,X
+189,Chief of Army,Hans Speidel,1947,1964,1999,6,Decisive Battle Doctrine,High,M170,X
+190,Chief of Army,Hans Kahle,1936,1964,1999,0,Decisive Battle Doctrine,Very High,M28,X
+192,Chief of Navy,Karl Dönitz,1942,1964,1999,9,Indirect Approach Doctrine,Very High,M32,X
+193,Chief of Navy,Hans-Georg von Friedeburg,1936,1964,1999,8,Open Seas Doctrine,Medium,M93,X
+194,Chief of Navy,Kurt Freiwald,1945,1964,1999,9,Base Control Doctrine,Medium,M194,X
+195,Chief of Navy,Alfred Saalwächter,1936,1964,1999,8,Open Seas Doctrine,High,M195,X
+198,Chief of Navy,Conrad Albrecht,1939,1964,1999,7,Open Seas Doctrine,Medium,M198,X
+199,Chief of Navy,Gustav Kieseritzky,1940,1964,1999,7,Base Control Doctrine,Medium,M199,X
+200,Chief of Navy,Erich Bey,1946,1964,1999,6,Open Seas Doctrine,High,M200,X
+201,Chief of Navy,Fritz Scheelen,1936,1964,1999,0,Base Control Doctrine,Very High,M29,X
+203,Chief of Air Force,Hugo Sperrle,1939,1964,1999,9,Carpet Bombing Doctrine,High,M203,X
+204,Chief of Air Force,Robert Ritter von Greim,1936,1964,1999,9,Air Superiority Doctrine,Medium,M204,X
+205,Chief of Air Force,Karl Koller,1936,1964,1999,8,Army Aviation Doctrine,Medium,M205,X
+206,Chief of Air Force,Erhard Milch,1942,1964,1999,8,Air Superiority Doctrine,Medium,M206,X
+207,Chief of Air Force,Albert Kesselring,1937,1964,1999,8,Vertical Envelopment Doctrine,High,M207,X
+208,Chief of Air Force,Carl Friedrich von Siemens,1936,1964,1999,7,Air Superiority Doctrine,High,M208,X
+209,Chief of Air Force,Ernst Udet,1940,1964,1999,7,Army Aviation Doctrine,High,M20,X
+210,Chief of Air Force,Wilhelm Oxenius,1945,1964,1999,7,Naval Aviation Doctrine,Medium,M210,X
+23,Foreign Minister,Helmet Herzfelde,1936,1964,1999,0,Ideological Crusader,High,M23,X
+214,Head of Government,Franz Xaver Ritter von Epp,1936,1964,1999,9,Old General,Very High,M214,X
+216,Head of Government,Gregor Strasser,1936,1964,1999,9,Flamboyant Tough Guy,Very High,kaiserreich gregorstrasser,X
+217,Head of Government,Friedrich Wilhelm Kritzinger,1945,1964,1999,9,Naive Optimist,Very High,M217,X
+219,Minister of Armament,Franz Xaver Ritter von Epp,1936,1964,1999,9,Infantry Proponent,Very High,M214,X
+220,Minister of Armament,Franz Seldte,1936,1964,1999,9,Military Entrepreneur,Very High,M220,X
+221,Minister of Armament,Gregor Strasser,1936,1964,1999,9,Planned Economy Proponent,Very High,kaiserreich GregorStrasser,X
+222,Minister of Armament,Xaver Dorsch,1944,1964,1999,8,Air Superiority Proponent,Very High,M222,X
+223,Minister of Security,Franz Gürtner,1936,1964,1999,8,Silent Lawyer,Medium,M223,X
+224,Minister of Security,Hans-Jürgen von Blumenthal,1936,1964,1999,8,Compassionate Gentleman,Very High,GER_von Blumenthal,X
+226,Minister of Security,Walter Buch,1937,1964,1999,9,Man of the People,High,M226,X
+227,Minister of Security,Hans Frank,1941,1964,1999,8,Prince of Terror,Very High,M227,X
+229,Chief of Staff,Erich von Manstein,1942,1964,1999,7,School of Manoeuvre,Medium,L324,X
+230,Chief of Staff,Ernst Busch,1945,1964,1999,9,School of Fire Support,High,L33,X
+231,Chief of Army,Günther von Kluge,1942,1964,1999,7,Decisive Battle Doctrine,Medium,L311,X
+232,Chief of Army,Wilhelm Ritter von Thoma,1936,1964,1999,7,Armoured Spearhead Doctrine,Very High,L345,X
+233,Chief of Navy,Wilhelm Marschall,1941,1964,1999,9,Open Seas Doctrine,High,L407,X
+234,Chief of Navy,Walter Warzecha,1942,1964,1999,7,Indirect Approach Doctrine,Medium,L891,X
+235,Chief of Air Force,Otto Dessloch,1939,1964,1999,9,Army Aviation Doctrine,High,L434,X
+236,Chief of Air Force,Ulrich Grauert,1936,1964,1999,8,Air Superiority Doctrine,High,L439,X
+237,Chief of Air Force,Hans-Jürgen Stumpff,1944,1964,1999,9,Army Aviation Doctrine,Very High,L471,X
+238,Chief of Staff,Walther von Reichenau,1941,1964,1999,9,School of Fire Support,Very High,L334,X
+239,Head of Military Intelligence,Ernst Wollweber,1936,1964,1999,0,Industrial Specialist,Very High,M27,X
+240,Minister of Armament,Karl Dönitz,1944,1964,1999,9,Submarine Proponent,Very High,M32,X
+241,Minister of Armament,Lutz von Schwerin-Krosigk,1945,1964,1999,7,Planned Economy Proponent,Very High,M241,X
+242,Minister of Security,Paul Giesler,1945,1964,1999,9,Efficient Sociopath,Very High,M242,X
+243,Minister of Security,Werner Naumann,1945,1964,1999,9,Compassionate Gentleman,Very High,M243,X
+244,Minister of Security,Reinhard Heydrich,1960,1964,1999,9,Prince of Terror,Very High,M244,X
+245,Minister of Armament,Alfred Hugenberg,1936,1964,1999,7,Construction Magnate,High,M117,X
+246,Minister of Security,Helmuth von Moltke,1939,1964,1999,6,Compassionate Gentleman,High,M246,X
+247,Head of Military Intelligence,Hans Gisevius,1939,1964,1999,6,Dismal Enigma,Medium,M247,X
+248,Minister of Security,Hans Dohnanyi,1936,1964,1999,6,Silent Lawyer,Medium,M248,X
+249,Head of Military Intelligence,Hans Dohnanyi,1936,1964,1999,6,Political Specialist,Medium,M248,X
+250,Minister of Security,Rudolf Diels,1936,1964,1999,7,Crime Fighter,Medium,M250,X
+251,Minister of Armament,Gustav Krupp,1936,1964,1999,7,Steel Magnate,High,M251,X
+252,Minister of Armament,Walter Caspari,1936,1964,1999,9,Infantry Proponent,Very High,GER_Caspari,X
+253,Chief of Navy,Ludwig von Reuter,1936,1964,1999,7,Power Projection Doctrine,High,kaiserreich reutervonludwig,X
+254,Chief of Staff,August Von Mackensen,1936,1964,1999,8,School of Fire Support,High,kaiserreich mackensenvonaugust,X
+255,Chief of Army,August Von Mackensen,1936,1964,1999,8,Decisive Battle Doctrine,High,kaiserreich mackensenvonaugust,X
+256,Head of Government,August Von Mackensen,1936,1964,1999,8,Respected War Hero,High,kaiserreich mackensenvonaugust,X
+257,Chief of Staff,Hans von Seeckt,1936,1964,1999,8,School of Psychology,High,kaiserreich hansvonseeckt2,X
+258,Chief of Army,Hans von Seeckt,1936,1964,1999,8,Static Defence Doctrine,High,kaiserreich hansvonseeckt2,X
+259,Head of State,Paul von Lettow-Vorbeck,1936,1964,1999,6,Benevolent Gentleman,High,kaiserreich lettowvorbeckvonpaul,X
+260,Head of Government,Paul von Lettow-Vorbeck,1936,1964,1999,6,The Lion Of Africa,Very High,kaiserreich lettowvorbeckvonpaul,X
+261,Chief of Staff,Paul von Lettow-Vorbeck,1939,1964,1999,6,School of Psychology,High,kaiserreich lettowvorbeckvonpaul,X
+262,Chief of Army,Paul von Lettow-Vorbeck,1939,1964,1999,6,Doctrine of Autonomy,High,kaiserreich lettowvorbeckvonpaul,X
+263,Head of Government,Kurt von Schleicher,1936,1964,1999,7,Silent Workhorse,High,kaiserreich schleichervonkurt,X
+264,Minister of Security,Kurt von Schleicher,1936,1964,1999,7,Silent Lawyer,High,kaiserreich schleichervonkurt,X
+265,Chief of Navy,Wilhelm Souchon,1936,1964,1999,7,Open Seas Doctrine,Very High,kaiserreich souchonwilhelm,X
+266,Minister of Armament,Wilhelm Groener,1936,1964,1999,7,Military Entrepreneur,High,kaiserreich groenerwilhelm,X
+267,Chief of Staff,Wilhelm Groener,1936,1964,1999,7,School of Psychology,High,M166,X
+268,Minister of Armament,Albert Einstein,1939,1964,1999,5,Theoretical Scientist,High,kaiserreich alberteinstein,X
+269,Head of Government,Walther von Rathenau,1936,1964,1999,5,Corporate Suit,High,kaiserreich walthervonrathennau,X
+270,Minister of Armament,Walther von Rathenau,1936,1964,1999,5,Administrative Genius,High,kaiserreich walthervonrathennau,X
+271,Head of Government,Erich von Ludendorff,1936,1964,1999,9,Flamboyant Tough Guy,High,M179,X
+272,Minister of Armament,Hans von Blumenthal,1936,1964,1999,7,Battle Fleet Proponent,High,kaiserreich HansvonBlumenthal,X
+273,Chief of Air Force,Manfred Freiherr von Richthofen,1936,1964,1999,7,The Red Baron,High,kaiserreich manfredvonrichtofen,X
+274,Head of Government,Manfred Freiherr von Richthofen,1936,1964,1999,7,Old Airmarshal,High,kaiserreich manfredvonrichtofen,X
+275,Chief of Army,Georg von Bruchmüller,1936,1964,1999,7,Elastic Defence Doctrine,High,Kaiserreich Bruchmüller,X
+276,Chief of Navy,Felix Graf von Luckner,1936,1964,1999,7,Indirect Approach Doctrine,Very High,Kaiserreich Luckner,X
+278,Head of Government,Heinrich Brüning,1936,1964,1999,7,Silent Workhorse,Medium,kaiserreich heinrichbruning,X
+280,Head of State,S.K.M. Wilhelm IV von Preussen,1936,1964,1999,7,Benevolent Gentleman,High,kaiserreichwilhelmIV,X
+281,Head of State,Otto Wels,1936,1964,1999,3,Pig-headed Isolationist,High,kaiserreich ottowells,X
+282,Head of Government,Otto Wels,1936,1964,1999,3,Corporate Suit,High,kaiserreich ottowells,X
+283,Minister of Armament,Otto Wels,1936,1964,1999,3,Mixed Economy,High,kaiserreich ottowells,X
+284,Head of Government,Arthur Crispien,1936,1964,1999,3,Political Protege,High,kaiserreich arthurchrispian,X
+285,Minister of Security,Arthur Crispien,1936,1964,1999,3,Silent Lawyer,High,kaiserreich arthurchrispian,X
+286,Head of State,Hans Vogel,1936,1964,1999,3,Benevolent Gentleman,High,kaiserreich hansvogel,X
+287,Head of Government,Hans Vogel,1936,1964,1999,3,Ambitious Union Boss,High,kaiserreich hansvogel,X
+288,Foreign Minister,Hans Vogel,1936,1964,1999,3,Great Compromiser,High,kaiserreich hansvogel,X
+289,Minister of Armament,Gustav Bauer,1936,1964,1999,3,Keynesian Economy,High,kaiserreich gustavbauer,X
+290,Minister of Security,Gustav Bauer,1936,1964,1999,3,Man of the People,High,kaiserreich gustavbauer,X
+291,Head of Government,Kurt Schumacher,1936,1964,1999,3,Ambitious Union Boss,High,M506011,X
+292,Minister of Armament,Kurt Schumacher,1936,1964,1999,3,Mixed Economy,High,M506011,X
+293,Minister of Security,Gustav Noske,1936,1964,1999,3,Crime Fighter,High,kaiserreich gustavnoske,X
+294,Head of Military Intelligence,Gustav Noske,1936,1964,1999,3,Logistics Specialist,High,kaiserreich gustavnoske,X
+295,Foreign Minister,Erich Ollenhauer,1936,1964,1999,3,Iron Fisted Brute,Very High,M506014,X
+296,Minister of Security,Georg August Zinn,1936,1964,1999,3,Prince of Terror,High,M506023,X
+297,Head of Military Intelligence,Eugen Gerstenmaier,1936,1964,1999,3,Technical Specialist,High,M506028,X
+298,Chief of Staff,Hans Speidel,1936,1964,1999,3,School of Fire Support,Medium,L506191,X
+299,Chief of Army,Oskar Hansen,1936,1964,1999,3,Decisive Battle Doctrine,Medium,L118,X
+300,Chief of Navy,Conrad Patzig,1936,1964,1999,3,Decisive Naval Battle Doctrine,Medium,L506300,X
+301,Chief of Air Force,Josef Kammhuber,1936,1964,1999,5,Army Aviation Doctrine,Medium,L448,X
+302,Head of State,Walther von Rathenau,1936,1964,1999,5,Benevolent Gentleman,Very High,kaiserreich walthervonrathennau,X
+303,Head of Government,Wilhelm Külz,1936,1964,1999,5,Ambitious Union Boss,Very High,kaiserreich wilhelmkuelz,X
+304,Foreign Minister,Wilhelm Roepke,1936,1964,1999,5,Biased Intellectual,Very High,kaiserreich wilhelmroepke,X
+305,Minister of Armament,Dr. Otto Gessler,1936,1964,1999,5,Corrupt Kleptocrat,Very High,kaiserreich ottogessler,X
+306,Head of Military Intelligence,Hanns Seidel,1936,1964,1999,5,Naval Intelligence Specialist,High,M506029,X
+307,Minister of Security,Reinhold Maier,1936,1964,1999,5,Compassionate Gentleman,High,M506024,X
+308,Chief of Staff,Josef Kammhuber,1936,1964,1999,5,School of Psychology,Medium,L448,X
+309,Chief of Army,Karl Heinrich Lübke,1936,1964,1999,5,Guns and Butter Doctrine,Medium,M506033,X
+310,Chief of Navy,Erich Köhler,1936,1964,1999,5,Base Control Doctrine,Medium,M506035,X
+311,Chief of Air Force,Franz Josef Strauss,1936,1964,1999,6,Vertical Envelopment Doctrine,Medium,M506027,X
+312,Head of State,Theodor Heuss,1936,1964,1999,5,Die-hard Reformer,High,M38,X
+313,Head of Government,Franz Blücher,1936,1964,1999,5,Political Protege,High,M506012,X
+315,Foreign Minister,Theodor Heuss,1936,1964,1999,5,Apologetic Clerk,Very High,M38,X
+316,Foreign Minister,Heinrich von Brentano,1936,1964,1999,5,Ideological Crusader,Very High,M506013,X
+317,Foreign Minister,Thomas Dehler,1936,1964,1999,5,Apologetic Clerk,Very High,M506015,X
+318,Minister of Security,Gustav Heinemann,1936,1964,1999,5,Man of the People,High,M130,X
+320,Minister of Armament,Franz Etzel,1936,1964,1999,5,Bank President,Very High,M506004,X
+321,Minister of Armament,Heinz Starke,1936,1964,1999,5,Theoretical Scientist,Very High,M506019,X
+326,Head of Military Intelligence,Hans Gisevius,1936,1964,1999,5,Dismal Enigma,Medium,M247,X
+327,Head of Military Intelligence,Dr. Otto Gessler,1936,1964,1999,5,Technical Specialist,Very High,kaiserreich ottogessler,X
+328,Chief of Air Force,Herrmann Ehlers,1936,1964,1999,5,Naval Aviation Doctrine,Medium,M506038,X
+329,Head of State,Ludwig Kaas,1936,1964,1999,6,Autocratic Charmer,High,kaiserreich ludwigkaas,X
+330,Head of Government,Heinrich Brüning,1936,1964,1999,6,Silent Workhorse,Medium,kaiserreich heinrichbruning,X
+331,Foreign Minister,Konrad Adenauer,1936,1964,1999,6,Great Compromiser,Very High,M50,X
+332,Minister of Armament,Adam Stegerwald,1936,1964,1999,6,Laissez-Faire Capitalist,High,kaiserreich adamstegerwald,X
+333,Head of Military Intelligence,Franz Josef Strauss,1936,1964,1999,6,Industrial Specialist,High,M506027,X
+334,Minister of Security,Karl Arnold,1936,1964,1999,6,Crime Fighter,High,M129,X
+337,Chief of Navy,Herrmann Mootz,1936,1964,1999,6,Indirect Approach Doctrine,Medium,L506297,X
+339,Head of State,Heinrich Brüning,1936,1964,1999,6,Weary Stiffneck,Medium,kaiserreich heinrichbruning,X
+340,Head of State,Adam Stegerwald,1936,1964,1999,6,Die-hard Reformer,High,kaiserreich adamstegerwald,X
+341,Head of Government,Konrad Adenauer,1936,1964,1999,6,Silent Workhorse,High,M50,X
+342,Head of Government,Konrad Adenauer,1936,1964,1999,6,Corporate Suit,High,M50,X
+343,Head of Government,Ludwig Kaas,1936,1964,1999,6,Happy Amateur,High,kaiserreich ludwigkaas,X
+344,Head of Government,Adam Stegerwald,1936,1964,1999,6,Ambitious Union Boss,High,kaiserreich adamstegerwald,X
+345,Foreign Minister,Ludwig Kaas,1936,1964,1999,6,Ideological Crusader,Very High,kaiserreich ludwigkaas,X
+346,Minister of Armament,Fritz Schäffer,1936,1964,1999,6,Laissez-Faire Capitalist,Very High,M103,X
+347,Minister of Armament,Ludwig Erhard,1936,1964,1999,6,Administrative Genius,Very High,M104,X
+350,Minister of Armament,Heinrich Brüning,1936,1964,1999,6,Balanced Budget Economy,Medium,kaiserreich heinrichbruning,X
+351,Minister of Security,Josef Wirmer,1936,1964,1999,7,Man of the People,High,M125,X
+353,Minister of Security,Robert Lehr,1936,1964,1999,6,Man of the People,Medium,M506005,X
+354,Minister of Security,Gustav Heinemann,1936,1964,1999,6,Silent Lawyer,High,M130,X
+355,Head of Military Intelligence,Hans Ehard,1936,1964,1999,6,Political Specialist,High,M149,X
+356,Head of Military Intelligence,Theodor Blank,1936,1964,1999,6,Political Specialist,Medium,M506006,X
+358,Chief of Staff,Oskar Hansen,1936,1964,1999,6,School of Manoeuvre,Medium,L118,X
+359,Chief of Air Force,Alfred Bülowius,1936,1964,1999,6,Air Superiority Doctrine,Medium,L431,X
+360,Chief of Air Force,Herrmann Ehlers,1936,1964,1999,5,Naval Aviation Doctrine,Medium,M506038,X
+362,Chief of Air Force,Herrmann Ehlers,1936,1964,1999,5,Naval Aviation Doctrine,Medium,M506038,X
+364,Head of State,S.K.M. Friedrich Wilhelm V von Romanov,1936,1964,1999,6,Russian Aristocrat,High,Friedrich Wilhelm V,X
+366,Head of State,S.K.M. Ruprecht I von Bayern,1936,1964,1999,6,Popular Figurehead,High,RuprechtI,X
+368,Head of State,S.K.M. Ernest August I von Hannover,1936,1964,1999,6,Popular Figurehead,High,Ernst_August_III,X
+370,Head of State,Gerd von Rundstedt,1936,1964,1999,7,Resigned Generalissimo,High,Rundstedt,X
+372,Head of Government,Fedor von Bock,1936,1964,1999,7,Old General,High,FedorvonBock,X
+373,Head of State,S.K.M. Friedrich Wilhelm V von Romanov,1936,1964,1999,7,Russian Aristocrat,High,Friedrich Wilhelm V,X
+374,Head of State,S.K.M. Ruprecht I von Bayern,1936,1964,1999,7,Popular Figurehead,High,RuprechtI,X
+375,Head of State,S.K.M. Ernest August I von Hannover,1936,1964,1999,7,Popular Figurehead,High,Ernst_August_III,X
+376,Head of State,S.K.M. Wilhelm II von Preussen,1936,1964,1999,4,Weltkrieg Emperor,High,kaiserreich wilhelmiih,X
+377,Head of State,S.K.M. Wilhelm III von Preussen,1941,1964,1999,4,Moderate Kaiser,High,M37,X
+378,Head of State,S.K.M. Wilhelm IV von Preussen,1936,1964,1999,4,Benevolent Gentleman,High,kaiserreichwilhelmIV,X
+379,Head of Government,Alfred von Tirpitz,1920,1934,1935,7,Old Admiral,High,1454,X
+380,Head of State,S.K.M. Felix I von Habsburg-Lothringen,1936,1964,1999,6,Benevolent Gentleman,High,kai_felhablot,X
+381,Head of State,S.K.M. Felix I von Habsburg-Lothringen,1936,1964,1999,7,Benevolent Gentleman,High,kai_felhablot,X
+382,Head of Government,Georg von Hertling,1917,1934,1935,6,Backroom Backstabber,High,3437,X
+383,Head of State,S.K.M. Wilhelm II von Preussen,1914,1934,1935,7,Stern Imperialist,High,3451,X
+384,Head of Government,Herbert Frahm,1936,1964,1999,3,Flamboyant Tough Guy,Very High,kai_herbfrahm,X
+385,Chief of Staff,Theodor von Hippel,1936,1970,1999,7,School of Psychology,Very High,kaiserreichhippel,X
+386,Head of Government,Kuno von Westarp,1936,1937,1937,6,Silent Workhorse,Medium,kaiserreichvonwestarp,X
+387,Foreign Minister,Ulrich von Hassel,1936,1964,1999,7,Biased Intellectual,High,M13,X
+388,Head of Government,Ulrich von Hassel,1936,1964,1999,7,Flamboyant Tough Guy,High,M13,X

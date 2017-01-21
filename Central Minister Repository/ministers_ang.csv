@@ -1,0 +1,57 @@
+ANG,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
+568001,Head of State,Ilidio Machado,1936,1964,1999,2,Die-hard Reformer,High,ANG_ilidio_machado,x
+568002,Head of State,Óscar Bento Ribas,1936,1964,1999,2,Benevolent Gentleman,High,ANG_oscar_bento_ribas,x
+568003,Head of State,Simão Gonçalves Toko,1936,1964,1999,3,Popular Figurehead,High,ANG_simao_toko,x
+568004,Head of State,Lemba Diamakungo,1936,1964,1999,1,Barking Buffoon,High,unknown,x
+568005,Head of Government,Óscar Bento Ribas,1936,1964,1999,2,Naive Optimist,High,ANG_oscar_bento_ribas,x
+568006,Head of Government,Ilidio Machado,1936,1964,1999,2,Silent Workhorse,High,ANG_ilidio_machado,x
+568007,Head of Government,Victor Buhr,1936,1964,1999,5,Happy Amateur,High,M568013,x
+568008,Foreign Minister,Agenor Miranda,1936,1964,1999,3,Great Compromiser,High,ANG_agenor_miranda,x
+568009,Foreign Minister,Simão Gonçalves Toko,1936,1964,1999,3,Ideological Crusader,High,ANG_simao_toko,x
+568010,Foreign Minister,Manuel Tuluma,1936,1964,1999,2,The Cloak N Dagger Schemer,High,M568016,x
+568011,Foreign Minister,Ilidio Machado,1936,1964,1999,2,Great Compromiser,High,ANG_ilidio_machado,x
+568012,Foreign Minister,Óscar Bento Ribas,1936,1964,1999,2,Biased Intellectual,High,ANG_oscar_bento_ribas,x
+568013,Minister of Armament,Fernando Cunha e Costa,1936,1964,1999,5,Military Entrepreneur,Medium,M568017,x
+568014,Minister of Armament,Henrique Galvão,1936,1964,1999,2,Military Entrepreneur,Medium,ANG_henrique_galvao,x
+568015,Minister of Armament,Bento de Jesus Caraça,1936,1964,1999,1,Theoretical Scientist,Medium,ANG_bento_caraca,x
+568016,Minister of Armament,António Aniceto Monteiro,1936,1964,1999,2,Administrative Genius,Medium,ANG_antonio_aniceto_monteiro,x
+568017,Minister of Security,António Aniceto Monteiro,1936,1964,1999,2,Silent Lawyer,Medium,ANG_antonio_aniceto_monteiro,x
+568018,Minister of Security,Euclides da Costa Bravo,1936,1964,1999,2,Compassionate Gentleman,Medium,M568021,x
+568019,Minister of Security,Henrique Galvão,1936,1964,1999,2,Man of the People,Medium,ANG_henrique_galvao,x
+568020,Minister of Security,Paulo Cordeiro,1936,1964,1999,7,Man of the People,Medium,M568005,x
+568021,Head of Military Intelligence,Fernando Ferreira Mello,1936,1964,1999,7,Dismal Enigma,Medium,M568006,x
+568022,Head of Military Intelligence,Bento de Jesus Caraça,1936,1964,1999,1,Technical Specialist,Medium,ANG_bento_caraca,x
+568023,Chief of Staff,Julio Goncalves de Campos,1936,1964,1999,2,School of Mass Combat,Medium,M568026,x
+568024,Chief of Staff,Henrique Galvão,1936,1964,1999,2,school of defence,Medium,ANG_henrique_galvao,x
+568025,Chief of Staff,João Macedo é Brito,1936,1964,1999,7,School of Psychology,Medium,M568007,x
+568026,Chief of Army,Francesco Perreira de Eca,1936,1964,1999,7,Static Defence Doctrine,Medium,M568008,x
+568027,Chief of Army,Henrique Galvão,1936,1964,1999,2,Static Defence Doctrine,Medium,ANG_henrique_galvao,x
+568028,Chief of Army,Francisco d'Aluz Ribeiro,1936,1964,1999,5,Guns and Butter Doctrine,Medium,M568028,x
+568029,Chief of Navy,Francisco da Costa Andrade,1936,1964,1999,5,Decisive Naval Battle Doctrine,High,M568030,x
+568030,Chief of Navy,Mousinho de Albuquerque,1936,1964,1999,7,Indirect Approach Doctrine,Medium,M568009,x
+568031,Chief of Air Force,Joao Luís Carvalho,1936,1964,1999,5,Air Superiority Doctrine,Medium,M568032,x
+568032,Chief of Air Force,Manuel Tuluma,1936,1964,1999,2,Carpet Bombing Doctrine,Medium,M568016,x
+568033,Chief of Air Force,Óscar Monteiro Torres,1936,1964,1999,2,Air Superiority Doctrine,Medium,ANG_oscar_monteiro_torres,x
+568034,Chief of Air Force,Rogerio Fangueiro,1936,1964,1999,7,Army Aviation Doctrine,Medium,M568010,x
+5680010,Head of State,Antonio Lopes Mateus,1936,1964,1999,7,Insignificant Layman,High,M568001,x
+5680020,Head of Government,Manoel Costa Marques Mano,1936,1964,1999,7,Flamboyant Tough Guy,High,M568002,x
+5680030,Foreign Minister,Alvaro de Freitas Morna,1936,1964,1999,7,General Staffer,High,M568003,x
+5680040,Minister of Armament,Vasco Lopes Alves,1936,1964,1999,7,Tank Proponent,Medium,M568004,x
+5680050,Minister of Security,Paulo Cordeiro,1936,1964,1999,7,Man of the People,Medium,M568005,x
+5680060,Head of Military Intelligence,Fernando Ferreira Mello,1936,1964,1999,7,Dismal Enigma,Medium,M568006,x
+5680070,Chief of Staff,João Macedo é Brito,1936,1964,1999,7,School of Psychology,Medium,M568007,x
+5680080,Chief of Army,Francesco Perreira de Eca,1936,1964,1999,7,Static Defence Doctrine,Medium,M568008,x
+5680090,Chief of Navy,Mousinho de Albuquerque,1936,1964,1999,7,Indirect Approach Doctrine,Medium,M568009,x
+5680100,Chief of Air Force,Rogerio Fangueiro,1936,1964,1999,7,Army Aviation Doctrine,Medium,M568010,x
+5680110,Head of State,Eugenio Daõ Schneider,1936,1964,1999,5,Pig-headed Isolationist,High,M568011,x
+5680170,Minister of Armament,Fernando Cunha e Costa,1936,1964,1999,5,Military Entrepreneur,Medium,M568017,x
+5680190,Minister of Security,Manuel Gomes da Costa,1936,1964,1999,5,Crooked Kleptocrat,Medium,M568019,x
+5680200,Minister of Security,Wenceslau Borini,1943,1964,1999,5,Silent Lawyer,Medium,M568020,x
+5680220,Head of Military Intelligence,Horacio Silva e Silva,1936,1964,1999,5,Industrial Specialist,Medium,M568022,x
+5680240,Chief of Staff,Vasco Lopes Alves,1943,1964,1999,7,School of Manoeuvre,Medium,M568004,x
+5680250,Chief of Staff,Joaquim Placido Durate,1936,1964,1999,5,School of Defence,Medium,M568025,x
+5680260,Chief of Staff,Julio Goncalves de Campos,1936,1964,1999,2,School of Mass Combat,Medium,M568026,x
+5680270,Chief of Army,Julio de Morais Sarmento,1941,1964,1999,7,Elastic Defence Doctrine,Medium,M568027,x
+5680280,Chief of Army,Francisco d'Aluz Ribeiro,1936,1964,1999,5,Guns and Butter Doctrine,Medium,M568028,x
+5680281,Head of State,Under German administration,1963,1964,1999,7,Weary Stiffneck,High,kai_gercoladmi,x
+5680282,Head of State,Under German administration,1963,1964,1999,6,Weary Stiffneck,High,kai_gercoladmi,x

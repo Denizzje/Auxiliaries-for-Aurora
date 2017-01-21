@@ -1,0 +1,145 @@
+IRE,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
+,Replacements,,,,,,,,,X
+25001,Head of State,Michael Collins,1936,1964,1999,7,Resigned Generalissimo,High,kaiserreich mcollins,X
+25002,Head of Government,Eoin O'Duffy,1936,1964,1999,8,Backroom Backstabber,High,M25018,X
+25003,Foreign Minister,Eamon de Valera,1936,1964,1999,5,Ideological Crusader,Undying,M25002,X
+25004,Minister of Armament,Seán MacEntee,1936,1964,1999,5,Laissez-Faire Capitalist,High,M25004,X
+25005,Minister of Security,Archbishop John Charles McQuaid,1936,1964,1999,8,Man of the People,High,kaiserreich archMcQuaid,X
+25006,Head of Military Intelligence,Gerald Boland,1936,1964,1999,5,Political Specialist,High,M25006,X
+25007,Chief of Staff,Michael J. Costello,1936,1964,1999,5,School of Defence,High,M25007,X
+25008,Chief of Army,Donal Buckley,1936,1964,1999,5,Elastic Defence Doctrine,High,M25001,X
+25009,Chief of Navy,H.T. Green,1936,1964,1999,6,Base Control Doctrine,High,M25009,X
+25010,Chief of Air Force,Patrick A. Mulcahy,1936,1964,1999,5,Air Superiority Doctrine,High,M25010,X
+25032,Head of State,Cathal Brugha,1936,1964,1999,3,Benevolent Gentleman,High,CathalBrugha,X
+25033,Head of State,Seán Lemass,1936,1964,1999,5,Pig-headed Isolationist,High,M25033,X
+25034,Head of State,Frank Fahy,1936,1964,1999,5,Insignificant Layman,High,M25031,X
+25035,Head of State,Douglas Hyde,1936,1964,1999,5,Popular Figurehead,High,M25035,X
+25036,Head of State,Seán T. O'Ceallaigh,1936,1964,1999,5,Autocratic Charmer,High,M25036,X
+25037,Head of State,Frank McDermott,1936,1964,1999,6,Weary Stiffneck,High,M25076,X
+25038,Head of State,Eoin MacNeill,1936,1964,1999,6,Stern Imperialist,High,M25038,X
+25039,Head of State,Jim Larkin sr.,1936,1964,1999,1,Barking Buffoon,High,M25021,X
+25040,Head of State,Oliver J. Flanagan,1936,1964,1999,7,Weary Stiffneck,High,M25011,X
+25041,Head of State,Jim Larkin jr.,1936,1964,1999,1,Insignificant Layman,High,M25022,X
+25042,Head of Government,Thomas Johnson,1936,1964,1999,3,Ambitious Union Boss,High,M25042,X
+25043,Head of Government,Seán Lemass,1936,1964,1999,5,Smiling Oilman,High,M25033,X
+25044,Head of Government,William Norton,1936,1964,1999,3,Happy Amateur,High,M25044,X
+25046,Head of Government,William T. Cosgrave,1936,1964,1999,6,Silent Workhorse,High,M25046,X
+25047,Head of Government,Richard Mulcahy,1936,1964,1999,7,Corporate Suit,High,M25126,X
+25048,Head of Government,John A. Costello,1936,1964,1999,6,Backroom Backstabber,High,M25077,X
+25049,Head of Government,Patrick Sweeney,1936,1964,1999,8,Happy Amateur,High,M25012,X
+25050,Head of Government,Peadar O'Donnell,1936,1964,1999,1,Naive Optimist,High,PeadarO'Donnell,X
+25051,Foreign Minister,Liam O'Monahan,1936,1964,1999,3,Great Compromiser,High,M25051,X
+25052,Foreign Minister,Michael O'Rafferty,1936,1964,1999,3,The Cloak N Dagger Schemer,High,M25052,X
+25053,Foreign Minister,Thomas Johnson,1936,1964,1999,3,Ideological Crusader,Very High,M25042,X
+25054,Foreign Minister,William Norton,1936,1964,1999,3,Apologetic Clerk,High,M25044,X
+25056,Foreign Minister,Patrick A. Mulcahy,1936,1964,1999,5,General Staffer,High,M25010,X
+25057,Foreign Minister,William T. Cosgrave,1936,1964,1999,6,Biased Intellectual,Undying,M25046,X
+25058,Foreign Minister,Kevin O'Higgins,1936,1964,1999,7,Ideological Crusader,High,M25058,X
+25059,Foreign Minister,Richard Mulcahy,1936,1964,1999,7,Apologetic Clerk,Undying,M25126,X
+25060,Foreign Minister,John A. Costello,1936,1964,1999,6,Great Compromiser,High,M25077,X
+25061,Foreign Minister,Sean MacBride,1936,1964,1999,3,Ideological Crusader,High,M25061,X
+25062,Foreign Minister,Oliver J. Flanagan,1936,1964,1999,7,Biased Intellectual,Low,M25011,X
+25063,Foreign Minister,Sean Murray,1936,1964,1999,1,General Staffer,High,M25026,X
+25064,Foreign Minister,Bill Gannon,1936,1964,1999,2,Ideological Crusader,High,M25023,X
+25065,Minister of Armament,Seán Lemass,1936,1964,1999,5,Resource Industrialist,High,M25033,X
+25066,Minister of Armament,William Gallacher,1936,1964,1999,3,Air Superiority Proponent,High,M25066,X
+25067,Minister of Armament,Sean Murray,1936,1964,1999,3,Air to Ground Proponent,High,M25026,X
+25068,Minister of Armament,Sean Lester,1936,1964,1999,3,Battle Fleet Proponent,High,M25068,X
+25069,Minister of Armament,Ernest Blythe,1936,1964,1999,6,Administrative Genius,High,ErnestBlythe,X
+25070,Minister of Armament,William Norton,1936,1964,1999,3,Resource Industrialist,High,M25044,X
+25072,Minister of Armament,Douglas Hyde,1936,1964,1999,5,Military Entrepreneur,High,M25035,X
+25073,Minister of Armament,Seán T. O'Ceallaigh,1936,1964,1999,5,Military Entrepreneur,High,M25036,X
+25074,Minister of Armament,Frank Aiken,1936,1964,1999,5,Resource Industrialist,High,M25074,X
+25075,Minister of Armament,Patrick A. Mulcahy,1936,1964,1999,5,Military Entrepreneur,High,M25010,X
+25076,Minister of Armament,Frank McDermott,1936,1964,1999,6,Strategic Air Proponent,High,M25076,X
+25077,Minister of Armament,John A. Costello,1936,1964,1999,6,Air to Ground Proponent,High,M25077,X
+25078,Minister of Armament,Richard Mulcahy,1936,1964,1999,7,Military Entrepreneur,High,M25126,X
+25079,Minister of Armament,Seán Moylan,1936,1964,1999,5,Infantry Proponent,High,M25079,X
+25080,Minister of Armament,Patrick Lynch,1936,1964,1999,6,Submarine Proponent,High,M25080,X
+25081,Minister of Armament,John O'Byrne,1936,1964,1999,6,Laissez-Faire Capitalist,High,M25081,X
+25082,Minister of Armament,Patrick McGilligan,1936,1964,1999,6,Resource Industrialist,High,M25082,X
+25083,Minister of Armament,Oliver J. Flanagan,1936,1964,1999,7,Resource Industrialist,High,M25011,X
+25084,Minister of Armament,Eoin O'Duffy,1936,1964,1999,8,Infantry Proponent,High,M25018,X
+25085,Minister of Armament,Sighle Humphreys,1936,1964,1999,2,Administrative Genius,High,SighleHumphreys,X
+25086,Minister of Armament,Jim Larkin jr.,1936,1964,1999,1,Air Superiority Proponent,Very High,M25022,X
+25087,Minister of Armament,Bill Gannon,1936,1964,1999,2,Tank Proponent,Very Low,M25023,X
+25088,Minister of Security,George Gilmore,1936,1964,1999,3,Man of the People,High,GeorgeGilmore,X
+25089,Minister of Security,Jack Thomas,1936,1964,1999,3,Man of the People,High,M25089,X
+25090,Minister of Security,James Geoghegan,1936,1964,1999,5,Silent Lawyer,High,M25090,X
+25091,Minister of Security,Edward J. Phelan,1936,1964,1999,3,Prince of Terror,High,M25091,X
+25092,Minister of Security,Cearbhall O'Dalaigh,1936,1964,1999,5,Compassionate Gentleman,High,M25092,X
+25093,Minister of Security,Kevin Dixon,1936,1964,1999,3,Efficient Sociopath,High,M25093,X
+25095,Minister of Security,Gerald Boland,1936,1964,1999,5,Crime Fighter,High,M25006,X
+25096,Minister of Security,Eoin MacNeill,1936,1964,1999,6,Efficient Sociopath,High,M25038,X
+25097,Minister of Security,John W. Dulanty,1936,1964,1999,6,Crime Fighter,High,M25097,X
+25098,Minister of Security,Cecil Lavery,1936,1964,1999,6,Silent Lawyer,High,M25069,X
+25099,Minister of Security,Ludwig Bieler,1936,1964,1999,6,Prince of Terror,High,M25099,X
+25100,Minister of Security,Kevin Haugh,1936,1964,1999,6,Silent Lawyer,High,M25100,X
+25101,Minister of Security,Sean MacEoin,1936,1964,1999,7,Compassionate Gentleman,High,M25028,X
+25102,Minister of Security,Gearóid Ó Cuinnegáin,1936,1964,1999,8,Efficient Sociopath,High,GearoidOCuinnegain,X
+25103,Minister of Security,Bill Scott,1936,1964,1999,1,Man of the People,High,M25025,X
+25104,Minister of Security,Betty Sinclair,1936,1964,1999,2,Back Stabber,High,M25104,X
+25105,Head of Military Intelligence,Denis McCullough,1936,1964,1999,6,Naval Intelligence Specialist,Medium,M25105,X
+25106,Head of Military Intelligence,Joseph Conolly,1936,1964,1999,5,Political Specialist,High,M25106,X
+25107,Head of Military Intelligence,Padraig O'Connor,1936,1964,1999,3,Industrial Specialist,High,M25107,X
+25108,Head of Military Intelligence,Hugh Kennedy,1936,1964,1999,5,Technical Specialist,High,M25108,X
+25109,Head of Military Intelligence,Frank Aiken,1936,1964,1999,5,Industrial Specialist,High,M25074,X
+25110,Head of Military Intelligence,Dan McKenna,1936,1964,1999,5,Technical Specialist,High,M25110,X
+25111,Head of Military Intelligence,Oscar Traynor,1936,1964,1999,5,Logistics Specialist,High,M25111,X
+25112,Head of Military Intelligence,Jack Lynch,1936,1964,1999,5,Political Specialist,High,M25112,X
+25113,Head of Military Intelligence,Liam Archer,1936,1964,1999,6,Dismal Enigma,High,M25113,X
+25114,Head of Military Intelligence,Joseph Walshe,1936,1964,1999,6,Industrial Specialist,High,M25114,X
+25115,Head of Military Intelligence,Cathal Goulding,1936,1964,1999,3,Logistics Specialist,High,CathalGoulding,X
+25116,Head of Military Intelligence,Sean MacEoin,1936,1964,1999,7,Political Specialist,High,M25028,X
+25117,Head of Military Intelligence,Donal Brackley,1936,1964,1999,8,Industrial Specialist,High,M25014,X
+25118,Head of Military Intelligence,Patrick Sweeney,1936,1964,1999,8,Dismal Enigma,Medium,M25012,X
+25119,Head of Military Intelligence,Sean Murray,1936,1964,1999,1,Naval Intelligence Specialist,High,M25026,X
+25120,Head of Military Intelligence,Betty Sinclair,1936,1964,1999,2,Technical Specialist,High,M25104,X
+25121,Chief of Staff,Norman Devlin,1936,1964,1999,3,School of Manoeuvre,Very Low,M25121,X
+25122,Chief of Staff,Seán O'Grady,1936,1964,1999,5,School of Psychology,High,M25122,X
+25123,Chief of Staff,Michael Brennan,1936,1964,1999,6,School of Defence,High,M25123,X
+25124,Chief of Staff,Dan Bryan,1936,1964,1999,5,School of Fire Support,High,M25124,X
+25125,Chief of Staff,Dan McKenna,1936,1964,1999,5,School of Mass Combat,High,M25125,X
+25126,Chief of Staff,Richard Mulcahy,1936,1964,1999,7,School of Psychology,High,M25126,X
+25127,Chief of Staff,Conor Maguire,1936,1964,1999,5,School of Mass Combat,High,M25127,X
+25128,Chief of Staff,Liam Archer,1936,1964,1999,6,School of Fire Support,High,M25113,X
+25129,Chief of Staff,Oscar Traynor,1936,1964,1999,5,School of Mass Combat,High,M25152,X
+25130,Chief of Staff,Padraig O'Connor,1936,1964,1999,1,School of Psychology,High,M25027,X
+25131,Chief of Staff,Frank Lynch,1936,1964,1999,2,School of Mass Combat,High,M25131,X
+25132,Chief of Army,Cecil Lavery,1936,1964,1999,6,Decisive Battle Doctrine,High,M25069,X
+25133,Chief of Army,William Norton,1936,1964,1999,3,Guns and Butter Doctrine,High,M25044,X
+25134,Chief of Army,Emmett Dalton,1936,1964,1999,6,Elastic Defence Doctrine,High,M25134,X
+25135,Chief of Army,Frank Fahy,1936,1964,1999,5,Static Defence Doctrine,High,M25031,X
+25136,Chief of Army,Michael J. Costello,1936,1964,1999,5,Elastic Defence Doctrine,High,M25007,X
+25137,Chief of Army,Liam Archer,1936,1964,1999,6,Armoured Spearhead Doctrine,High,M25113,X
+25138,Chief of Army,Eoin O'Duffy,1936,1964,1999,8,Elastic Defence Doctrine,High,M25018,X
+25139,Chief of Army,Seán MacEoin,1936,1964,1999,7,Decisive Battle Doctrine,High,M25028,X
+25140,Chief of Navy,A.T. Lawlor,1936,1964,1999,3,Open Seas Doctrine,High,M25140,X
+25141,Chief of Navy,S. O'Muiris,1936,1964,1999,3,Decisive Naval Battle Doctrine,High,M25141,X
+25142,Chief of Navy,Seán MacEntee,1936,1964,1999,5,Open Seas Doctrine,High,M25004,X
+25143,Chief of Navy,Thomas Derrig,1936,1964,1999,5,Power Projection Doctrine,High,M25143,X
+25144,Chief of Navy,Seán T. O'Ceallaigh,1936,1964,1999,5,Base Control Doctrine,High,M25036,X
+25145,Chief of Navy,A.H.J. Jerome,1936,1964,1999,5,Indirect Approach Doctrine,High,M25145,X
+25146,Chief of Navy,John O'Byrne,1936,1964,1999,6,Power Projection Doctrine,High,M25081,X
+25148,Chief of Navy,Eamonn Broy,1936,1964,1999,8,Power Projection Doctrine,High,M25015,X
+25149,Chief of Navy,Andy Barr,1936,1964,1999,2,Indirect Approach Doctrine,High,AndyBarr,X
+25150,Chief of Air Force,Cearbhall O'Dalaigh,1936,1964,1999,5,Vertical Envelopment Doctrine,High,M25092,X
+25151,Chief of Air Force,Michael J. Costello,1936,1964,1999,5,Army Aviation Doctrine,High,M25007,X
+25152,Chief of Air Force,Oscar Traynor,1936,1964,1999,5,Vertical Envelopment Doctrine,High,M25152,X
+25153,Chief of Air Force,Charles Casey,1936,1964,1999,6,Air Superiority Doctrine,High,M25153,X
+25154,Chief of Air Force,W. Delamere,1936,1964,1999,5,Naval Aviation Doctrine,High,M25154,X
+25155,Chief of Air Force,H.T. Green,1936,1964,1999,6,Naval Aviation Doctrine,High,M25009,X
+25156,Chief of Air Force,P. Quinn,1936,1964,1999,6,Carpet Bombing Doctrine,High,M25156,X
+25157,Chief of Air Force,Jack White,1936,1964,1999,2,Army Aviation Doctrine,High,M25020,X
+25158,Chief of Air Force,Pieras Beaslai,1936,1964,1999,7,Air Superiority Doctrine,High,M25030,X
+25159,Chief of Air Force,Charles Donnelly,1936,1964,1999,1,Vertical Envelopment Doctrine,High,CharlesDonnelly,X
+25160,Head of State,H.R.M. Edward VIII,1936,1964,1999,6,Revanchist Monarch,High,M1011,X
+25161,Head of State,A.S.R. Brian III,1936,1964,1999,6,German Aristocrat,High,kai_brianIII,X
+25162,Head of State,A.S.R. Brian III,1936,1964,1999,7,German Aristocrat,High,kai_brianIII,X
+25163,Chief of Army,Michael O'Riordan,1936,1964,1999,1,Guns and Butter Doctrine,High,MichaelO'Riordan,X
+25164,Chief of Staff,Maurice Twomey,1936,1964,1999,1,School of Psychology,High,MossTwomey,X
+25165,Chief of Navy,Robert E. Childers,1936,1964,1999,3,Open Seas Doctrine,High,RobertErskineChilders,X
+25166,Chief of Air Force,James O'Donovan,1936,1964,1999,3,Air Superiority Doctrine,High,JamesO'Donovan,X
+25167,Chief of Army,Tom Barry,1936,1964,1999,3,Elastic Defence Doctrine,High,TomBarry,X
+25168,Chief of Staff,Liam Lynch,1936,1964,1999,3,School of Mass Combat,High,LiamLynch,X
+25169,Head of Government,Brendan Corish,1936,1970,1999,3,Silent Workhorse,High,BrendanCorish,X

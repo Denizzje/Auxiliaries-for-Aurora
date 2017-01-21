@@ -1,0 +1,130 @@
+PRK,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
+,Replacements,,,,,,,,,X
+579001,Head of State,Lala Lajpat Rai,1936,1964,1999,2,Weary Stiffneck,High,PRKTil,X
+579003,Head of Government,Narendra Deva,1936,1964,1999,2,Ambitious Union Boss,High,PRKNar,X
+579004,Foreign Minister,Subhas Chandra Bose,1936,1964,1999,0,General Staffer,High,KRSubhas,X
+579008,Minister of Armament,Lal Bahadur Shastri,1936,1964,1966,1,Administrative Genius,High,PRKSha,X
+579126,Head of Government,Lal Bahadur Shastri,1940,1966,1966,1,Silent Workhorse,Very High,PRKSha,X
+579127,Head of Government,Panjabrao Deshmukh,1940,1965,1965,2,Ambitious Union Boss,Very High,PRKDes,X
+579128,Minister of Armament,Panjabrao Deshmukh,1938,1965,1965,2,Theoretical Scientist,Very High,PRKDes,X
+579011,Minister of Security,Rafi Ahmed Kidwai,1936,1964,1999,2,Crime Fighter,Medium,M59068,X
+579012,Head of Military Intelligence,Jagjivan Ram,1936,1964,1999,2,Political Specialist,Very High,PRKJag,X
+579014,Chief of Staff,Subhas Chandra Bose,1936,1964,1999,0,School of Manoeuvre,Medium,KRSubhas,X
+579016,Chief of Navy,Bhaskar Soman,1936,1964,1999,2,Decisive Naval Battle Doctrine,Medium,M59107,X
+579018,Chief of Army,M. P. T. Acharya,1936,1964,1999,2,Guns and Butter Doctrine,Very High,PRKAch,X
+579017,Chief of Air Force,Subroto Mukherjee,1936,1964,1999,2,Army Aviation Doctrine,Medium,M59115,X
+579002,Head of Government,Mohandas Karamchand Gandhi,1936,1964,1999,2,Silent Workhorse,High,PRKGandhi,X
+579005,Foreign Minister,Ananthasayanam Ayyangar,1936,1964,1999,2,Great Compromiser,Low,M59044,X
+579006,Foreign Minister,Sarat Chandra Bose,1936,1964,1999,0,The Cloak N Dagger Schemer,Very High,M59045,X
+579007,Minister of Armament,Vallabhbhai Jhaverbhai Patel,1936,1964,1999,1,Mixed Economy,High,PRKPat,X
+579009,Minister of Armament,Dr. John Mathai,1936,1964,1999,2,Balanced Budget Economy,Very High,M59039,X
+579010,Minister of Armament,Hitendra Desai,1936,1964,1999,4,Resource Industrialist,Very High,M59060,X
+579013,Head of Military Intelligence,Rafi Ahmed Kidwai,1936,1964,1999,2,Dismal Enigma,Medium,M59068,X
+579015,Chief of Staff,Barindra Kumar Ghosh,1936,1964,1999,2,School of Mass Combat,High,PRKBar,X
+579019,Minister of Security,Subhas Chandra Bose,1936,1964,1999,0,Compassionate Gentleman,Medium,KRSubhas,X
+579020,Minister of Security,Mohandas Karamchand Gandhi,1936,1964,1999,2,Great Soul,High,PRKGandhi,X
+579021,Head of Government,Shri Aurobindo,1936,1964,1999,2,Naive Optimist,Medium,KRAuro,X
+579022,Head of Government,Rabindranath Tagore,1936,1942,1942,2,Silent Workhorse,Medium,KRTagore,X
+579023,Foreign Minister,Sardul Singh Caveeshar,1936,1964,1999,0,Biased Intellectual,Medium,PRKCav,X
+579024,Minister of Armament,Syama Prasad Mookerjee,1936,1964,1999,6,Theoretical Scientist,Medium,Syama_Prasad_Mookerjee,X
+579025,Minister of Security,A.C. Bhaktivedanta Swami Prabhupada,1936,1964,1999,7,Compassionate Gentleman,Medium,AC_Bhaktivedanta_Swami_Prabhupada,X
+579026,Head of Military Intelligence,M. A. G. Osmani,1952,1964,1999,1,Logistics Specialist,Medium,MAG_Osmani,X
+579027,Chief of Staff,Rash Behari Bose,1936,1964,1999,1,School of Psychology,Medium,PRKReh,X
+579028,Chief of Army,Tarak Nath Das,1936,1964,1999,1,Elastic Defence Doctrine,Medium,Tarak_Nath_Das,X
+579029,Chief of Navy,M. A. G. Osmani,1952,1964,1999,1,Base Control Doctrine,Medium,MAG_Osmani,X
+579030,Chief of Air Force,P. Krishnamurti,1936,1964,1999,1,Army Aviation Doctrine,Medium,PRKPkr,X
+579031,Head of State,A. K. Fazlul Huq,1936,1962,1962,1,Tiger Of Bengal,High,PRKHuq,X
+579032,Head of Government,Muhammad Ali Bogra,1952,1964,1999,3,Ambitious Union Boss,Medium,Muhammad_Ali_Bogra,X
+579033,Foreign Minister,Alexandra David-Néel,1936,1964,1999,0,Ideological Crusader,Medium,PRKAlex,X
+579034,Minister of Armament,Jnananjan Niyogi,1936,1956,1956,2,Administrative Genius,Medium,Jnananjan_Niyogi,X
+579035,Minister of Security,Maulana Bhashani,1936,1964,1999,2,Man of the People,Medium,Maulana_Bhashani,X
+579036,Head of Military Intelligence,Rash Behari Bose,1936,1964,1999,1,Political Specialist,Medium,PRKReh,X
+579037,Chief of Staff,Tarak Nath Das,1936,1964,1999,1,School of Manoeuvre,Medium,Tarak_Nath_Das,X
+579038,Chief of Army,Baba Prithvi Singh Azad,1936,1964,1999,3,Elastic Defence Doctrine,Medium,Baba_Prithvi_Singh_Azad,X
+579117,Chief of Army,A.D.Loganadan,1936,1964,1999,0,Armoured Spearhead Doctrine,Very High,PRKLog,X
+579118,Chief of Staff,A.D.Loganadan,1936,1964,1999,0,School of Fire Support,Very High,PRKLog,X
+579039,Head of State,Nawab Khwaja Habibullah,1936,1964,1999,7,Pig-headed Isolationist,Medium,Nawab_Khwaja_Habibullah,X
+579040,Head of Government,Huseyn Shaheed Suhrawardy,1936,1964,1999,5,Ambitious Union Boss,Medium,Huseyn_Shaheed_Suhrawardy,X
+579041,Foreign Minister,Sisir Kumar Maitra,1936,1964,1999,5,Biased Intellectual,Medium,Sisir_Kumar_Maitra,X
+579042,Minister of Security,Bhupal Bose,1936,1964,1999,4,Silent Lawyer,Medium,Bhupal_Bose,X
+579043,Chief of Staff,Pandit Parmanand,1936,1964,1999,2,School of Defence,Medium,Pandit_Parmanand,X
+579044,Chief of Army,Pandit Parmanand,1936,1964,1999,2,Elastic Defence Doctrine,Medium,Pandit_Parmanand,X
+579045,Head of State,Iskander Mirza,1952,1964,1999,3,Weary Stiffneck,Medium,Iskander_Mirza,X
+579046,Head of Government,Khawaja Nazimuddin,1936,1964,1999,6,Political Protege,Medium,Khawaja_Nazimuddin,X
+579047,Foreign Minister,Paramhansa Yogananda,1936,1964,1999,3,Great Compromiser,Medium,Paramhansa_Yogananda,X
+579048,Minister of Security,Narayan Roy,1936,1964,1999,3,Crime Fighter,Medium,Narayan_Roy,X
+579049,Minister of Security,Bidhan Chandra Roy,1936,1964,1999,3,Compassionate Gentleman,Very High,Bidhan_Chandra_Roy,X
+579050,Chief of Army,Rash Behari Bose,1936,1964,1999,1,Elastic Defence Doctrine,Medium,PRKReh,X
+579052,Head of Government,Sucheta Kriplani,1936,1964,1999,4,Political Protege,Medium,Sucheta_Kriplani,X
+579053,Foreign Minister,Sri Anandamoyi Ma,1936,1964,1999,4,Great Compromiser,Medium,Sri_Anandamoyi_Ma,X
+579054,Minister of Armament,Prafulla Chandra Roy,1936,1964,1999,2,Theoretical Scientist,Medium,Prafulla_Chandra_Roy,X
+579055,Chief of Staff,M. A. G. Osmani,1952,1964,1999,1,School of Mass Combat,Medium,MAG_Osmani,X
+579056,Chief of Army,M. A. G. Osmani,1952,1964,1999,1,Armoured Spearhead Doctrine,Medium,MAG_Osmani,X
+579057,Minister of Security,Chandrasekhar Azad,1936,1964,1999,0,Efficient Sociopath,High,PRKCha,X
+579124,Head of Government,Bidhan Chandra Roy,1944,1970,1999,3,Happy Amateur,Very High,Bidhan_Chandra_Roy,X
+579125,Minister of Armament,Gulzarilal Nanda,1940,1970,1998,1,Industrialiser,Very High,PRKGul,X
+579058,Chief of Army,Bhagat Singh,1936,1964,1999,0,Doctrine of Autonomy,High,KRBhagat_Singh,X
+579115,Foreign Minister,A. C. N. Nambiar,1936,1964,1986,0,Great Compromiser,Very High,PRKNam,X
+579059,Head of State,Sarojini Naidu,1936,1964,1999,1,Benevolent Gentleman,High,KRNaidu,X
+579060,Minister of Security,Sarojini Naidu,1936,1964,1999,1,Man of the People,High,KRNaidu,X
+579061,Foreign Minister,Sohan Singh Bhakna,1936,1964,1999,1,General Staffer,High,KRSohan,X
+579062,Chief of Staff,Virendranath Chattopadhyaya,1936,1964,1999,0,School of Fire Support,High,KRVirendranath,X
+579114,Minister of Armament,Prasanta C. Mahalanobis,1936,1964,1999,2,Industrialiser,Very High,PRKMaha,X
+579063,Head of Military Intelligence,Rahul Sankrityayan,1936,1964,1999,1,Industrial Specialist,High,KRRahul,X
+579064,Minister of Security,Vinayak Damodar Savarkar,1936,1964,1999,1,Prince of Terror,High,PRKVin,X
+579065,Minister of Armament,Bhupendra Kumar Datta,1936,1964,1999,1,Resource Industrialist,High,KRDatta,X
+579066,Chief of Army,Bhupendra Kumar Datta,1936,1964,1999,1,Guns and Butter Doctrine,High,KRDatta,X
+579067,Chief of Navy,Lala Har Dayal,1936,1964,1999,2,Power Projection Doctrine,High,KRLar,X
+579068,Chief of Air Force,Pulin Behari Das,1936,1964,1999,2,Air Superiority Doctrine,High,KRDas,X
+579122,Minister of Security,Puran Chand Joshi,1937,1970,1980,1,Crime Fighter,Very High,PRKPcj,X
+579123,Head of Government,Puran Chand Joshi,1944,1970,1980,1,Reformist Soldierhog,Very High,PRKPcj,X
+579069,Head of Military Intelligence,Manabendra Nath Roy,1936,1964,1999,1,Logistics Specialist,High,KRNath,X
+579110,Head of Government,Manabendra Nath Roy,1936,1964,1999,1,Reformist Soldierhog,Very High,KRNath,X
+579070,Chief of Staff,Bhai Bhagwan Singh,1936,1964,1999,1,School of Mass Combat,High,KRBhag,X
+579071,Foreign Minister,Bhavabhushan Mitra,1936,1964,1999,1,Ideological Crusader,High,KRMitra,X
+579072,Head of Government,Jawaharlal Nehru,1936,1964,1999,1,Flamboyant Tough Guy,High,PRKNeh,X
+579111,Head of State,Jawaharlal Nehru,1936,1964,1999,1,Stern Imperialist,Very High,PRKNeh,X
+579112,Minister of Security,V. M. Tarkunde,1936,1964,1999,1,Crime Fighter,Very High,PRKVmt,X
+579073,Minister of Armament,Jawaharlal Nehru,1936,1964,1999,1,Industrialiser,High,PRKNeh,X
+579074,Head of Government,Hemanta Kumar Sarkar,1936,1964,1999,0,Ambitious Union Boss,Very High,PRKHem,X
+579105,Minister of Security,U. Muthuramalingam Thevar,1936,1964,1999,0,Secret Police Chief,Very High,PRKMut,X
+579106,Minister of Armament,Nalini Ranjan Sarkar ,1936,1964,1999,0,Administrative Genius,Very High,PRKNal,X
+579113,Chief of Staff,Sahajanand Saraswati,1936,1964,1999,1,School of Mass Combat,Very High,PRKSah,X
+579107,Head of Military Intelligence,Muzaffar Ahmed,1936,1964,1999,0,Logistics Specialist,Very High,PRKMuz,X
+579108,Head of Government,Jayaprakash Narayan,1936,1964,1979,1,Naive Optimist,Very High,PRKJay,X
+579109,Foreign Minister,Jayaprakash Narayan,1936,1964,1979,1,Great Compromiser,Very High,PRKJay,X
+579075,Minister of Armament,Bhogaraju Pattabhi Sitaramayya,1936,1964,1999,2,Keynesian Economy,High,PRKBho,X
+579076,Minister of Security,Rajkumari Amrit Kaur,1936,1964,1999,2,Health and Safety,High,PRKAmr,X
+579077,Head of Military Intelligence,J. B. Kripalani,1936,1964,1999,2,Logistics Specialist,High,PRKKri,X
+579078,Chief of Air Force,Dodla Ranga Reddy,1936,1964,1999,1,Carpet Bombing Doctrine,High,PRKDad,X
+579079,Chief of Air Force,Syed Naseem Haider,1936,1964,1999,1,Naval Aviation Doctrine,High,PRKHai,X
+579119,Chief of Army,Surya Sen,1936,1964,1999,1,Doctrine of Autonomy,Very High,PRKSen,X
+579120,Minister of Armament,Surya Sen,1936,1964,1999,1,Reformer,Very High,PRKSen,X
+579121,Head of State,Nirmal Kumar Bose,1936,1970,1972,2,Popular Figurehead,Very High,PRKNirmal,X
+579080,Chief of Air Force,Gurbachan Singh,1936,1964,1999,0,Army Aviation Doctrine,High,PRKGur,X
+579081,Minister of Armament,Leela Roy,1936,1964,1999,0,Planned Economy Proponent,Medium,PRKLee,X
+579082,Head of State,Subhas Chandra Bose,1936,1964,1999,0,Red Netaji,High,KRSubhas,X
+579083,Foreign Minister,Vallabhbhai Jhaverbhai Patel,1936,1964,1999,1,Iron Fisted Brute,High,PRKPat,X
+579084,Foreign Minister,Mahadev Desai,1936,1964,1999,2,Great Compromiser,High,PRKMah,X
+579085,Head of State,Mohandas Karamchand Gandhi,1936,1964,1999,2,Great Soul2,Very High,PRKGandhi,X
+579086,Chief of Air Force,Niranjan Prasad,1936,1964,1999,2,Air Superiority Doctrine,High,PRKNir,X
+579087,Chief of Staff,Ba Cho,1936,1964,1999,2,School of Defence,High,BURBoc,X
+579088,Foreign Minister,U Nu,1936,1964,1999,2,The Cloak N Dagger Schemer,High,BURUnu,X
+579089,Foreign Minister,Aung San,1936,1964,1999,2,Ideological Crusader,High,BURAun,X
+579090,Minister of Armament,Ba Win,1936,1964,1999,2,Resource Industrialist,High,BURWin,X
+579091,Minister of Security,Thakin Mya,1936,1964,1999,2,Compassionate Gentleman,High,BURMayt,X
+579092,Head of Military Intelligence,Abdul Razak,1936,1964,1999,2,Dismal Enigma,High,BURAbd,X
+579093,Chief of Staff,Thakin Soe,1936,1964,1999,1,School of Manoeuvre,High,BURSoe,X
+579094,Chief of Army,Than Tun,1936,1964,1999,1,Guns and Butter Doctrine,High,BURTun,X
+579095,Chief of Staff,Chempakaraman Pillai,1936,1964,1999,1,School of Defence,High,INDChem,X
+579096,Chief of Army,Chempakaraman Pillai,1936,1964,1999,1,Decisive Battle Doctrine,High,INDChem,X
+579097,Chief of Navy,Sannappa Parameshwar Gaonkar,1936,1964,1999,1,Decisive Naval Battle Doctrine,High,INDPara,X
+579098,Chief of Air Force,P. Krishna Pillai,1936,1964,1999,1,Carpet Bombing Doctrine,High,INDPPil,X
+579099,Chief of Staff,Mahendra Pratap,1936,1964,1999,1,School of Fire Support,Medium,PRKPra,X
+579100,Chief of Army,Mahendra Pratap,1936,1964,1999,1,Elastic Defence Doctrine,Medium,PRKPra,X
+579101,Chief of Staff,Shripad Amrit Dange,1936,1964,1999,1,Commando Doctrine Staff,Very High,PRKDan,X
+579102,Chief of Army,Shripad Amrit Dange,1936,1964,1999,1,Commando Doctrine Army,Very High,PRKDan,X
+579103,Head of Government,Shripad Amrit Dange,1936,1964,1999,1,Ambitious Union Boss,Very High,PRKDan,X
+579104,Head of State,Shripad Amrit Dange,1936,1964,1999,1,Die-hard Reformer,Very High,PRKDan,X
+579116,Head of Military Intelligence,V. Subbiah,1938,1964,1999,1,Political Specialist,Very High,PRKSub,X
+579129,Minister of Armament,Army Reform Committee,1936,1970,1999,1,Army Reform Committee,Very High,PRKRef,X

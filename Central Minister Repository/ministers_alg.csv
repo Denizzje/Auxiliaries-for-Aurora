@@ -1,0 +1,50 @@
+ALG,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
+530001,Head of State,Akhemuk ag Ihemma,1936,1964,1999,7,Pig-headed Isolationist,High,Ihemma,x
+530002,Head of Government,Dassine Oult Yemma,1936,1964,1999,7,Flamboyant Tough Guy,High,Yemma,x
+530003,Head of Government,Rabnala Oult Lekal,1940,1964,1999,7,Old General,High,KaiserreichRabnala,x
+530004,Foreign Minister,Mokhtar Kodogo,1936,1964,1999,7,Apologetic Clerk,Very High,unknown,x
+530005,Foreign Minister,Attaher ag Illi,1936,1964,1999,7,The Cloak N Dagger Schemer,High,Illi,x
+530006,Foreign Minister,Akhemuk ag Ihemma,1936,1964,1999,7,Ideological Crusader,Very High,Ihemma,x
+530007,Foreign Minister,Bayy ag Akhemuk,1936,1964,1999,7,Biased Intellectual,High,KaiserreichTuareg6,x
+530008,Foreign Minister,Rabnala Oult Lekal,1939,1964,1999,7,General Staffer,Very High,KaiserreichRabnala,x
+530009,Foreign Minister,Dassine Oult Yemma,1936,1964,1999,7,Great Compromiser,High,Yemma,x
+530010,Foreign Minister,Zodi Ikhia,1939,1964,1999,7,iron fisted brute,Very High,unknown,x
+530011,Minister of Armament,Dassine Oult Yemma,1936,1964,1999,7,Laissez-Faire Capitalist,Very High,Yemma,x
+530012,Minister of Armament,Akhemuk ag Ihemma,1936,1964,1999,7,Administrative Genius,High,Ihemma,x
+530013,Minister of Armament,Bayy ag Akhemuk,1936,1964,1999,7,Theoretical Scientist,High,KaiserreichTuareg6,x
+530014,Minister of Armament,Rabnala Oult Lekal,1939,1964,1999,7,Military Entrepreneur,Very High,KaiserreichRabnala,x
+530015,Minister of Armament,Ag Mohammed Wau Teguidda Kaocen,1936,1964,1999,7,Tank Proponent,Very High,Kaocen,x
+530016,Minister of Armament,Meslar ag Amayas,1936,1964,1999,7,Infantry Proponent,Very High,KaiserreichTuareg3,x
+530017,Minister of Armament,Mokhtar Kodogo,1936,1964,1999,7,Strategic Air Proponent,Very High,unknown,x
+530018,Minister of Armament,Zodi Ikhia,1939,1964,1999,7,Resource Industrialist,Very High,unknown,x
+530019,Minister of Armament,Attaher ag Illi,1936,1964,1999,7,Corrupt Kleptocrat,High,Illi,x
+530020,Minister of Armament,`Umaru Agg-Ibrahim,1936,1964,1999,7,Submarine Proponent,Very High,unknown,x
+530021,Minister of Armament,Intalla ag Attaher,1936,1964,1999,7,air to ground proponent,Very High,KaiserreichTuareg7,x
+530022,Minister of Security,Intalla ag Attaher,1936,1964,1999,7,Crime Fighter,High,KaiserreichTuareg5,x
+530023,Minister of Security,Dassine Oult Yemma,1936,1964,1999,7,Man of the People,High,Yemma,x
+530024,Minister of Security,Rabnala Oult Lekal,1936,1964,1999,7,Efficient Sociopath,High,KaiserreichRabnala,x
+530025,Minister of Security,Zodi Ikhia,1939,1964,1999,7,Prince of Terror,Very High,unknown,x
+530026,Minister of Security,Akhemuk ag Ihemma,1936,1964,1999,7,Silent Lawyer,Very High,Ihemma,x
+530027,Minister of Security,Attaher ag Illi,1936,1964,1999,7,Crooked Kleptocrat,High,Illi,x
+530028,Minister of Security,Bayy ag Akhemuk,1936,1964,1999,7,Compassionate Gentleman,Very High,KaiserreichTuareg6,x
+530029,Minister of Security,Ag Mohammed Wau Teguidda Kaocen,1936,1964,1999,7,Back Stabber,Very High,Kaocen,x
+530030,Head of Military Intelligence,Dassine Oult Yemma,1936,1964,1999,7,Political Specialist,Very High,Yemma,x
+530031,Head of Military Intelligence,Bayy ag Akhemuk,1936,1964,1999,7,Technical Specialist,High,KaiserreichTuareg6,x
+530032,Head of Military Intelligence,Attaher ag Illi,1936,1964,1999,7,Dismal Enigma,High,Illi,x
+530033,Head of Military Intelligence,Rabnala Oult Lekal,1939,1964,1999,7,Logistics Specialist,Very High,KaiserreichRabnala,x
+530034,Head of Military Intelligence,Zodi Ikhia,1939,1964,1999,7,Industrial Specialist,Very High,unknown,x
+530035,Chief of Staff,Akhemuk ag Ihemma,1936,1964,1999,7,School of Manoeuvre,High,Ihemma,x
+530036,Chief of Staff,Meslar ag Amayas,1936,1964,1999,7,School of Mass Combat,Very High,KaiserreichTuareg3,x
+530037,Chief of Staff,Ag Mohammed Wau Teguidda Kaocen,1936,1964,1999,7,School of Fire Support,Very High,Kaocen,x
+530038,Chief of Staff,Intalla ag Attaher,1936,1964,1999,7,School of Defence,Very High,KaiserreichTuareg7,x
+530039,Chief of Staff,Rabnala Oult Lekal,1939,1964,1999,7,School of Psychology,High,KaiserreichRabnala,x
+530040,Chief of Army,Akhemuk ag Ihemma,1936,1964,1999,7,Elastic Defence Doctrine,High,Ihemma,x
+530041,Chief of Army,Meslar ag Amayas,1936,1964,1999,7,Decisive Battle Doctrine,Very High,KaiserreichTuareg3,x
+530042,Chief of Army,Ag Mohammed Wau Teguidda Kaocen,1936,1964,1999,7,Armoured Spearhead Doctrine,Very High,Kaocen,x
+530043,Chief of Army,Intalla ag Attaher,1936,1964,1999,7,Static Defence Doctrine,Very High,KaiserreichTuareg7,x
+530044,Chief of Army,Rabnala Oult Lekal,1939,1964,1999,7,Guns and Butter Doctrine,Very High,KaiserreichRabnala,x
+530045,Chief of Navy,`Umaru Agg-Ibrahim,1936,1964,1999,7,Indirect Approach Doctrine,Very High,unknown,x
+530046,Chief of Navy,Axamuk ag lhemma,1936,1964,1999,7,Base Control Doctrine,High,KaiserreichTuareg8,x
+530047,Chief of Air Force,Intalla ag Attaher,1936,1964,1999,7,Army Aviation Doctrine,High,KaiserreichTuareg7,x
+530048,Chief of Air Force,Mokhtar Kodogo,1936,1964,1999,7,Carpet Bombing Doctrine,Very High,unknown,x
+530049,Chief of Air Force,Axamuk ag lhemma,1936,1964,1999,7,Vertical Envelopment Doctrine,High,KaiserreichTuareg8,x

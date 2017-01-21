@@ -1,0 +1,185 @@
+MOR,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
+,Replacements,,,,,,,,,X
+531001,Head of State,H.R.M. Muhammed V,1936,1964,1999,7,Powerhungry Demagogue,Very High,M531001,X
+531002,Head of State,H.R.M. Mohammed Ben Arafa,1936,1964,1999,7,Popular Figurehead,Very High,Arafa,X
+531003,Head of State,Allal el-Fassi,1936,1964,1999,7,Insignificant Layman,Very High,M531011,X
+531004,Head of Government,Ahmed Belafrej,1936,1964,1999,7,Ambitious Union Boss,Very High,M531003,X
+531005,Head of Government,Thami El Glaoui,1936,1964,1999,7,Flamboyant Tough Guy,Very High,Glaoui,X
+531006,Head of Government,Allal el-Fassi,1936,1964,1999,7,Happy Amateur,Very High,M531011,X
+531007,Foreign Minister,Ahmed Bahnini,1936,1964,1999,7,Apologetic Clerk,Very High,Bahnini,X
+531008,Foreign Minister,Mbarek Bekkai,1936,1964,1999,7,The Cloak N Dagger Schemer,Very High,KRBekkai,X
+531009,Foreign Minister,Mohammed al-Makki al-Nasiri,1936,1964,1999,7,Ideological Crusader,Very High,unknown,X
+531010,Foreign Minister,Mohamed Hassan Ouazzani,1936,1964,1999,7,Biased Intellectual,Very High,Ouazzani,X
+531011,Foreign Minister,Mohammed Lyazidi,1936,1964,1999,7,General Staffer,Very High,unknown,X
+531012,Foreign Minister,Abu al-Fadl Abdullah bin Muhammad bin al-Siddiq al-Ghumari,1936,1964,1999,7,Great Compromiser,Very High,unknown,X
+531013,Foreign Minister,Muhammad Taqi-ud-Din al-Hilali,1936,1964,1999,7,Iron Fisted Brute,Very High,unknown,X
+531014,Minister of Armament,Abu al-Fadl Abdullah bin Muhammad bin al-Siddiq al-Ghumari,1936,1964,1999,7,Administrative Genius,Very High,unknown,X
+531015,Minister of Armament,Mohamed Hassan Ouazzani,1936,1964,1999,7,Theoretical Scientist,Very High,Ouazzani,X
+531016,Minister of Armament,Mohammed Lyazidi,1936,1964,1999,7,Military Entrepreneur,Very High,unknown,X
+531017,Minister of Armament,Moha ou Said l'Irraoui,1936,1964,1999,7,Tank Proponent,Very High,unknown,X
+531018,Minister of Armament,Mohammed Medbouh,1947,1964,1999,7,Air Superiority Proponent,Very High,KRMedbouh,X
+531019,Minister of Armament,Driss el Alami,1937,1964,1999,7,Infantry Proponent,Very High,KRalami,X
+531020,Minister of Armament,Ahmed Skirej,1936,1964,1999,7,Strategic Air Proponent,Very High,Skirej,X
+531021,Minister of Armament,Mbarek Bekkai,1936,1964,1999,7,Resource Industrialist,Very High,KRBekkai,X
+531022,Minister of Armament,Abdelkader el-Assimi,1936,1964,1999,7,Battle Fleet Proponent,Very High,unknown,X
+531023,Minister of Armament,Mohammed al-Makki al-Nasiri,1936,1964,1999,7,Corrupt Kleptocrat,Very High,unknown,X
+531024,Minister of Armament,Ahmed Belafrej,1936,1964,1999,7,Laissez-Faire Capitalist,Very High,M531003,X
+531025,Minister of Armament,Muhammad ibn al-Habib,1936,1964,1999,7,Submarine Proponent,Very High,al-Habib,X
+531026,Minister of Armament,Messaoud Chiguer,1936,1964,1999,7,Air to Ground Proponent,Very High,unknown,X
+531027,Minister of Armament,Driss N'michi,1944,1964,1999,7,Air to Sea Proponent,Very High,M531034,X
+531028,Minister of Security,Ahmed Belafrej,1936,1964,1999,7,Crime Fighter,Very High,M531003,X
+531029,Minister of Security,Mbarek Bekkai,1936,1964,1999,7,Man of the People,Very High,KRBekkai,X
+531030,Minister of Security,Mohammed Oufkir,1940,1964,1999,7,Efficient Sociopath,Very High,M531024,X
+531031,Minister of Security,Muhammad Taqi-ud-Din al-Hilali,1936,1964,1999,7,Prince of Terror,Very High,unknown,X
+531032,Minister of Security,Abu al-Fadl Abdullah bin Muhammad bin al-Siddiq al-Ghumari,1936,1964,1999,7,Silent Lawyer,Very High,unknown,X
+531033,Minister of Security,Mohammed al-Makki al-Nasiri,1936,1964,1999,7,Crooked Kleptocrat,Very High,unknown,X
+531034,Minister of Security,Messaoud Chiguer,1936,1964,1999,7,Compassionate Gentleman,Very High,unknown,X
+531035,Minister of Security,Ahmed Bahnini,1936,1964,1999,7,Back Stabber,Very High,Bahnini,X
+531036,Head of Military Intelligence,Allal el-Fassi,1936,1964,1999,7,Political Specialist,Very High,M531011,X
+531037,Head of Military Intelligence,Mohamed Hassan Ouazzani,1936,1964,1999,7,Technical Specialist,Very High,Ouazzani,X
+531038,Head of Military Intelligence,Mohammed Oufkir,1940,1964,1999,7,Dismal Enigma,Very High,M531024,X
+531039,Head of Military Intelligence,Mohammed Lyazidi,1936,1964,1999,7,Logistics Specialist,Very High,unknown,X
+531040,Head of Military Intelligence,Mbarek Bekkai,1936,1964,1999,7,Industrial Specialist,Very High,KRBekkai,X
+531041,Head of Military Intelligence,Mulai Ahmed er Raisuni,1936,1964,1999,7,Naval Intelligence Specialist,Very High,Raisuni,X
+531042,Chief of Staff,Driss el Alami,1937,1964,1999,7,School of Mass Combat,Very High,KRalami,X
+531043,Chief of Staff,Moha ou Said l'Irraoui,1936,1964,1999,7,School of Fire Support,Very High,unknown,X
+531044,Chief of Staff,Mohammed Oufkir,1940,1964,1999,7,School of Defence,Very High,M531024,X
+531045,Chief of Staff,Messaoud Chiguer,1936,1964,1999,7,School of Manoeuvre,Very High,unknown,X
+531046,Chief of Staff,Mohammed Lyazidi,1936,1964,1999,7,School of Psychology,Very High,unknown,X
+531047,Chief of Army,Driss el Alami,1937,1964,1999,7,Decisive Battle Doctrine,Very High,KRalami,X
+531048,Chief of Army,Moha ou Said l'Irraoui,1936,1964,1999,7,Armoured Spearhead Doctrine,Very High,unknown,X
+531049,Chief of Army,Mohammed Oufkir,1940,1964,1999,7,Static Defence Doctrine,Very High,M531024,X
+531050,Chief of Army,Messaoud Chiguer,1936,1964,1999,7,Elastic Defence Doctrine,Very High,unknown,X
+531051,Chief of Army,Mohammed Lyazidi,1936,1964,1999,7,Guns and Butter Doctrine,Very High,unknown,X
+531052,Chief of Navy,Muhammad ibn al-Habib,1936,1964,1999,7,Indirect Approach Doctrine,Very High,al-Habib,X
+531053,Chief of Navy,Abd al-Rahman ibn Zaydan,1936,1964,1999,7,Base Control Doctrine,Very High,unknown,X
+531054,Chief of Navy,Abdelkader el-Assimi,1936,1964,1999,7,Decisive Naval Battle Doctrine,Very High,unknown,X
+531055,Chief of Navy,Mulai Ahmed er Raisuni,1936,1964,1999,7,Open Seas Doctrine,Very High,Raisuni,X
+531056,Chief of Navy,Driss N'michi,1944,1964,1999,7,Power Projection Doctrine,Very High,M531034,X
+531057,Chief of Air Force,Driss N'michi,1944,1964,1999,7,Naval Aviation Doctrine,Very High,M531034,X
+531058,Chief of Air Force,Messaoud Chiguer,1936,1964,1999,7,Army Aviation Doctrine,Very High,unknown,X
+531059,Chief of Air Force,Mohammed Medbouh,1947,1964,1999,7,Air Superiority Doctrine,Very High,KRMedbouh,X
+531060,Chief of Air Force,Ahmed Skirej,1936,1964,1999,7,Carpet Bombing Doctrine,Very High,Skirej,X
+531061,Chief of Air Force,Abd al-Rahman ibn Zaydan,1936,1964,1999,7,Vertical Envelopment Doctrine,Very High,unknown,X
+531062,Head of State,Léon Soltane,1936,1964,1999,1,Die-hard Reformer,Very High,unknown,X
+531063,Head of State,Abdallah Ibrahim,1938,1964,1999,2,Weary Stiffneck,Very High,KRAibrahim,X
+531064,Head of Government,Léon Soltane,1936,1964,1999,1,Ambitious Union Boss,Very High,unknown,X
+531065,Head of Government,Ali Yata,1940,1964,1999,1,Naive Optimist,Very High,Yata,X
+531066,Head of Government,Abdallah Ibrahim,1938,1964,1999,2,Flamboyant Tough Guy,Very High,KRAibrahim,X
+531067,Head of Government,Mehdi ben-Barka,1940,1964,1999,2,Smiling Oilman,Very High,M531016,X
+531068,Foreign Minister,Mehdi ben-Barka,1940,1964,1999,2,Apologetic Clerk,Very High,M531016,X
+531069,Foreign Minister,Sana Madiha,1936,1964,1999,2,The Cloak N Dagger Schemer,Very High,M531018,X
+531070,Foreign Minister,Ali Yata,1940,1964,1999,1,Ideological Crusader,Very High,Yata,X
+531071,Foreign Minister,Abdallah Ibrahim,1938,1964,1999,2,Biased Intellectual,Very High,KRAibrahim,X
+531072,Foreign Minister,Mohamed Benhima,1944,1964,1999,2,General Staffer,Very High,Benhima,X
+531073,Foreign Minister,Samy Elmaghribi,1942,1964,1999,2,Great Compromiser,Very High,Elmaghribi,X
+531074,Foreign Minister,Islem Hadjira,1936,1964,1999,2,Iron Fisted Brute,Very High,M531031,X
+531075,Minister of Armament,Ali Yata,1940,1964,1999,1,Administrative Genius,Very High,Yata,X
+531076,Minister of Armament,Abdallah Ibrahim,1938,1964,1999,2,Theoretical Scientist,Very High,KRAibrahim,X
+531077,Minister of Armament,Mohamed Benhima,1944,1964,1999,2,Military Entrepreneur,Very High,Benhima,X
+531078,Minister of Armament,Mohammed al-Habib al-Fourkani,1942,1964,1999,2,Tank Proponent,Very High,unknown,X
+531079,Minister of Armament,Mehdi ben-Barka,1940,1964,1999,2,Air Superiority Proponent,Very High,M531016,X
+531080,Minister of Armament,Islem Hadjira,1936,1964,1999,2,Infantry Proponent,Very High,M531031,X
+531081,Minister of Armament,Ahmed Dlimi,1951,1964,1999,2,Strategic Air Proponent,Very High,M531028,X
+531082,Minister of Armament,Abderrahmane Youssoufi,1944,1964,1999,2,Resource Industrialist,Very High,Youssoufi,X
+531083,Minister of Armament,Mohamed Basri,1940,1964,1999,2,Battle Fleet Proponent,Very High,Basri,X
+531084,Minister of Armament,Fawzi Joumana,1945,1964,1999,2,Corrupt Kleptocrat,Very High,M531041,X
+531085,Minister of Armament,Samy Elmaghribi,1942,1964,1999,2,Laissez-Faire Capitalist,Very High,Elmaghribi,X
+531086,Minister of Armament,Haim Zafrani,1942,1964,1999,2,Submarine Proponent,Very High,Zafrani,X
+531087,Minister of Armament,Sana Madiha,1936,1964,1999,2,Air to Ground Proponent,Very High,M531018,X
+531088,Minister of Armament,Djamel Abdelmounem,1945,1964,1999,2,Air to Sea Proponent,Very High,M531037,X
+531089,Minister of Security,Ali Yata,1940,1964,1999,1,Crime Fighter,Very High,Yata,X
+531090,Minister of Security,Abderrahmane Youssoufi,1944,1964,1999,2,Man of the People,Very High,Youssoufi,X
+531091,Minister of Security,Sana Madiha,1936,1964,1999,2,Efficient Sociopath,Very High,M531018,X
+531092,Minister of Security,Islem Hadjira,1936,1964,1999,2,Prince of Terror,Very High,M531031,X
+531093,Minister of Security,Abdallah Ibrahim,1938,1964,1999,2,Silent Lawyer,Very High,KRAibrahim,X
+531094,Minister of Security,Fawzi Joumana,1945,1964,1999,2,Crooked Kleptocrat,Very High,M531041,X
+531095,Minister of Security,Samy Elmaghribi,1942,1964,1999,2,Compassionate Gentleman,Very High,Elmaghribi,X
+531096,Minister of Security,Mehdi ben-Barka,1940,1964,1999,2,Back Stabber,Very High,M531016,X
+531097,Head of Military Intelligence,Mehdi ben-Barka,1940,1964,1999,2,Political Specialist,Very High,M531016,X
+531098,Head of Military Intelligence,Abdallah Ibrahim,1938,1964,1999,2,Technical Specialist,Very High,KRAibrahim,X
+531099,Head of Military Intelligence,Sana Madiha,1936,1964,1999,2,Dismal Enigma,Very High,M531018,X
+531100,Head of Military Intelligence,Mahfoud Gharbaoui,1945,1964,1999,2,Logistics Specialist,Very High,M531030,X
+531101,Head of Military Intelligence,Abderrahmane Youssoufi,1944,1964,1999,2,Industrial Specialist,Very High,Youssoufi,X
+531102,Head of Military Intelligence,Mohamed Basri,1940,1964,1999,2,Naval Intelligence Specialist,Very High,Basri,X
+531103,Chief of Staff,Islem Hadjira,1936,1964,1999,2,School of Mass Combat,Very High,M531031,X
+531104,Chief of Staff,Mohammed al-Habib al-Fourkani,1942,1964,1999,2,School of Fire Support,Very High,unknown,X
+531105,Chief of Staff,Sana Madiha,1936,1964,1999,2,School of Defence,Very High,M531018,X
+531106,Chief of Staff,Mohamed Benhima,1944,1964,1999,2,School of Manoeuvre,Very High,Benhima,X
+531107,Chief of Staff,Mahfoud Gharbaoui,1945,1964,1999,2,School of Psychology,Very High,M531030,X
+531108,Chief of Army,Islem Hadjira,1936,1964,1999,2,Decisive Battle Doctrine,Very High,M531031,X
+531109,Chief of Army,Mohammed al-Habib al-Fourkani,1942,1964,1999,2,Armoured Spearhead Doctrine,Very High,unknown,X
+531110,Chief of Army,Sana Madiha,1936,1964,1999,2,Static Defence Doctrine,Very High,M531018,X
+531111,Chief of Army,Mohamed Benhima,1944,1964,1999,2,Elastic Defence Doctrine,Very High,Benhima,X
+531112,Chief of Army,Mahfoud Gharbaoui,1945,1964,1999,2,Guns and Butter Doctrine,Very High,M531030,X
+531113,Chief of Navy,Haim Zafrani,1942,1964,1999,2,Indirect Approach Doctrine,Very High,Zafrani,X
+531114,Chief of Navy,Fawzi Joumana,1945,1964,1999,2,Base Control Doctrine,Very High,M531041,X
+531115,Chief of Navy,Mohamed Basri,1940,1964,1999,2,Decisive Naval Battle Doctrine,Very High,Basri,X
+531116,Chief of Navy,Said Achtouk,1945,1964,1999,2,Open Seas Doctrine,Very High,Achtouk,X
+531117,Chief of Navy,Djamel Abdelmounem,1945,1964,1999,2,Power Projection Doctrine,Very High,M531037,X
+531118,Chief of Air Force,Djamel Abdelmounem,1945,1964,1999,2,Naval Aviation Doctrine,Very High,M531037,X
+531119,Chief of Air Force,Sana Madiha,1936,1964,1999,2,Army Aviation Doctrine,Very High,M531018,X
+531120,Chief of Air Force,Mehdi ben-Barka,1940,1964,1999,2,Air Superiority Doctrine,Very High,M531016,X
+531121,Chief of Air Force,Ahmed Dlimi,1951,1964,1999,2,Carpet Bombing Doctrine,Very High,M531028,X
+531122,Chief of Air Force,Fawzi Joumana,1945,1964,1999,2,Vertical Envelopment Doctrine,Very High,M531041,X
+531123,Head of State,Mohammed Daoud,1936,1964,1999,5,Benevolent Gentleman,Very High,Daoud,X
+531124,Head of Government,Mohammed al-Mokhtar Soussi,1936,1964,1999,5,Flamboyant Tough Guy,Very High,Soussi,X
+531125,Foreign Minister,Mohammed al-Mokhtar Soussi,1936,1964,1999,5,Ideological Crusader,Very High,Soussi,X
+531126,Foreign Minister,Abd Allah al-Muwaqqit al-Marrakushi,1936,1964,1999,5,General Staffer,Very High,unknown,X
+531127,Foreign Minister,Abdelwahab Benmansour,1940,1964,1999,5,Apologetic Clerk,Very High,unknown,X
+531128,Foreign Minister,Mohammed Daoud,1936,1964,1999,5,Great Compromiser,Very High,Daoud,X
+531129,Minister of Armament,Abdelmajid Benjelloun,1939,1964,1999,5,Resource Industrialist,Very High,Benjelloun,X
+531130,Minister of Armament,Abd Allah al-Muwaqqit al-Marrakushi,1936,1964,1999,5,Military Entrepreneur,Very High,unknown,X
+531131,Minister of Armament,Tuhami al-Wazzani,1936,1964,1999,5,Infantry Proponent,Very High,unknown,X
+531132,Minister of Armament,Mahjoubi Aherdane,1941,1964,1999,5,Tank Proponent,Very High,Aherdane,X
+531133,Minister of Armament,Abdelmalek Belghiti,1936,1964,1999,5,Air to Sea Proponent,Very High,unknown,X
+531134,Minister of Armament,Abdelkhalek Torres,1936,1964,1999,5,Submarine Proponent,Very High,Torres,X
+531135,Minister of Armament,Abdelkrim Ghallab,1937,1964,1999,5,Strategic Air Proponent,Very High,Ghallab,X
+531136,Minister of Armament,Mohammed al-Mokhtar Soussi,1936,1964,1999,5,Corrupt Kleptocrat,Very High,Soussi,X
+531137,Minister of Security,Abdelwahab Benmansour,1940,1964,1999,5,Back Stabber,Very High,unknown,X
+531138,Minister of Security,Mohammed Daoud,1936,1964,1999,5,Man of the People,Very High,Daoud,X
+531139,Minister of Security,Driss Debbagh,1941,1964,1999,5,Crime Fighter,Very High,Debbagh,X
+531140,Minister of Security,Mohammed al-Mokhtar Soussi,1936,1964,1999,5,Crooked Kleptocrat,Very High,Soussi,X
+531141,Head of Military Intelligence,Abdelmajid Benjelloun,1939,1964,1999,5,Industrial Specialist,Very High,Benjelloun,X
+531142,Head of Military Intelligence,Abd Allah al-Muwaqqit al-Marrakushi,1936,1964,1999,5,Logistics Specialist,Very High,unknown,X
+531143,Head of Military Intelligence,Larbi Benbarek,1936,1964,1999,5,Naval Intelligence Specialist,Very High,Benbarek,X
+531144,Chief of Staff,Abd Allah al-Muwaqqit al-Marrakushi,1936,1964,1999,5,School of Psychology,Very High,unknown,X
+531145,Chief of Staff,Tuhami al-Wazzani,1936,1964,1999,5,School of Mass Combat,Very High,unknown,X
+531146,Chief of Staff,Mahjoubi Aherdane,1941,1964,1999,5,School of Fire Support,Very High,Aherdane,X
+531147,Chief of Army,Abd Allah al-Muwaqqit al-Marrakushi,1936,1964,1999,5,Guns and Butter Doctrine,Very High,unknown,X
+531148,Chief of Army,Tuhami al-Wazzani,1936,1964,1999,5,Decisive Battle Doctrine,Very High,unknown,X
+531149,Chief of Army,Mahjoubi Aherdane,1941,1964,1999,5,Armoured Spearhead Doctrine,Very High,Aherdane,X
+531150,Chief of Navy,Abdelmalek Belghiti,1936,1964,1999,5,Power Projection Doctrine,Very High,unknown,X
+531151,Chief of Navy,Abdelkhalek Torres,1936,1964,1999,5,Indirect Approach Doctrine,Very High,Torres,X
+531152,Chief of Navy,Larbi Benbarek,1936,1964,1999,5,Open Seas Doctrine,Very High,Benbarek,X
+531153,Chief of Air Force,Abdelmalek Belghiti,1936,1964,1999,5,Naval Aviation Doctrine,Very High,unknown,X
+531154,Chief of Air Force,Abdelkrim Ghallab,1936,1964,1999,5,Carpet Bombing Doctrine,Very High,Ghallab,X
+531155,Head of State,Abdelkrim al-Khattabi,1936,1964,1999,4,Popular Figurehead,Very High,al-Khattabi,X
+531156,Head of Government,Mohammed Boujendar,1936,1964,1999,4,Naive Optimist,Very High,unknown,X
+531157,Foreign Minister,Mohammed Boujendar,1936,1964,1999,4,Biased Intellectual,Very High,unknown,X
+531158,Foreign Minister,Malika al-Fassi,1939,1964,1999,4,Iron Fisted Brute,Very High,al-Fassi,X
+531159,Foreign Minister,Abdelkrim al-Khattabi,1936,1964,1999,4,The Cloak N Dagger Schemer,Very High,al-Khattabi,X
+531160,Minister of Armament,Abdelhadi Tazi,1941,1964,1999,4,Administrative Genius,Very High,Tazi,X
+531161,Minister of Armament,Abdallah al-Jirari ,1936,1964,1999,4,Air to Ground Proponent,Very High,unknown,X
+531162,Minister of Armament,Houcine Ben Bouchaïb,1938,1964,1999,4,Air Superiority Proponent,Very High,Bouchaïb,X
+531163,Minister of Armament,Abdallah Guennoun,1936,1964,1999,4,Battle Fleet Proponent,Very High,Guennoun,X
+531164,Minister of Armament,Mohammed Boujendar,1936,1964,1999,4,Theoretical Scientist,Very High,unknown,X
+531165,Minister of Armament,Mohammed Aziz Lahbabi,1942,1964,1999,4,Laissez-Faire Capitalist,Very High,unknown,X
+531166,Minister of Security,Mohammed Aziz Lahbabi,1942,1964,1999,4,Silent Lawyer,Very High,unknown,X
+531167,Minister of Security,Abdelkrim al-Khattabi,1936,1964,1999,4,Efficient Sociopath,Very High,al-Khattabi,X
+531168,Minister of Security,Malika al-Fassi,1939,1964,1999,4,Prince of Terror,Very High,al-Fassi,X
+531169,Minister of Security,Abdelhadi Tazi,1941,1964,1999,4,Compassionate Gentleman,Very High,Tazi,X
+531170,Head of Military Intelligence,Malika al-Fassi,1939,1964,1999,4,Political Specialist,Very High,al-Fassi,X
+531171,Head of Military Intelligence,Mohammed Boujendar,1936,1964,1999,4,Technical Specialist,Very High,unknown,X
+531172,Head of Military Intelligence,Abdelkrim al-Khattabi,1936,1964,1999,4,Dismal Enigma,Very High,al-Khattabi,X
+531173,Chief of Staff,Mohammed Ben Brahim Assarraj,1936,1964,1999,4,School of Defence,Very High,unknown,X
+531174,Chief of Staff,Abdallah al-Jirari ,1936,1964,1999,4,School of Manoeuvre,Very High,unknown,X
+531175,Chief of Army,Mohammed Ben Brahim Assarraj,1936,1964,1999,4,Static Defence Doctrine,Very High,unknown,X
+531176,Chief of Army,Abdallah al-Jirari ,1936,1964,1999,4,Elastic Defence Doctrine,Very High,unknown,X
+531177,Chief of Navy,Abdallah Guennoun,1936,1964,1999,4,Decisive Naval Battle Doctrine,Very High,Guennoun,X
+531178,Chief of Navy,Said Hajji,1936,1964,1999,4,Base Control Doctrine,Very High,Hajji,X
+531179,Chief of Air Force,Abdallah al-Jirari ,1936,1964,1999,4,Army Aviation Doctrine,Very High,unknown,X
+531180,Chief of Air Force,Said Hajji,1936,1964,1999,4,Vertical Envelopment Doctrine,Very High,Hajji,X
+531181,Chief of Air Force,Houcine Ben Bouchaïb,1938,1964,1999,4,Air Superiority Doctrine,Very High,Bouchaïb,X
+531182,Head of State,Under German Administration,1963,1964,1999,7,Weary Stiffneck,Very High,kai_gercoladmi,X
+531183,Head of State,Under German Administration,1963,1964,1999,6,Weary Stiffneck,Very High,kai_gercoladmi,X

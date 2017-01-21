@@ -1,0 +1,145 @@
+CAN,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+45049,Foreign Minister,Tim Buck,0,The Cloak N Dagger Schemer,M45021
+45040,Head of Government,Tim Buck,0,Ambitious Union Boss,M45021
+45127,Chief of Air Force,Bob Mann,1,Army Aviation Doctrine,M45030
+45066,Minister of Armament,Bob Mann,1,Air Superiority Proponent,M45030
+45126,Chief of Air Force,Gino Verchiella,1,Air Superiority Doctrine,M45082
+45082,Minister of Security,Gino Verchiella,1,Efficient Sociopath,M45082
+45121,Chief of Navy,Jacques Richard,1,Power Projection Doctrine,M45096
+45096,Head of Military Intelligence,Jacques Richard,1,Naval Intelligence Specialist,M45096
+45114,Chief of Army,Jacques Robert,1,Static Defence Doctrine,M45094
+45094,Head of Military Intelligence,Jacques Robert,1,Political Specialist,M45094
+45115,Chief of Army,John Lethbridge,1,Elastic Defence Doctrine,M45028
+45051,Foreign Minister,John Lethbridge,1,Ideological Crusader,M45028
+45095,Head of Military Intelligence,John Lethbridge,1,Logistics Specialist,M45028
+45083,Minister of Security,Quentin Piggott,1,Compassionate Gentleman,M45083
+45106,Chief of Staff,Samuel Cino,1,School of Fire Support,M45027
+45080,Minister of Security,Tom McEwan,1,Crime Fighter,M45025
+45097,Head of Military Intelligence,William Dees,1,Technical Specialist,M45026
+45064,Minister of Armament,William Kashtan,1,Resource Industrialist,M45064
+45050,Foreign Minister,Armand Lavassieux,2,Biased Intellectual,M45050
+45120,Chief of Navy,John F. King,2,Indirect Approach Doctrine,M45029
+45063,Minister of Armament,Matthew Popovich,2,Tank Proponent,M45024
+45081,Minister of Security,Robert Blackhawk,2,Man of the People,M45081
+45105,Chief of Staff,Robert M. Edwards,2,School of Defence,M45065
+45065,Minister of Armament,Robert M. Edwards,2,Infantry Proponent,M45065
+45161,Minister of Security,Agnes Macphail,3,Compassionate Gentleman,CAN_Macphail
+45172,Head of Military Intelligence,Humphrey Mitchell,3,Political Specialist,CAN_Mitchell
+45170,Minister of Armament,William Charles Good,3,Resource Industrialist,CAN_Good
+45164,Minister of Armament,Alphonse Fournier,4,Industrialiser,CAN_Fournier
+45162,Head of Military Intelligence,Mitchell Hepburn,4,Political Specialist,CAN_Hepburn
+45163,Minister of Security,Stuart Garson,4,Crime Fighter,CAN_Garson
+45166,Head of Government,Thomas A. Crerar,4,Happy Amateur,M45070
+45070,Minister of Security,Thomas A. Crerar,4,Man of the People,M45070
+45153,Minister of Armament,C.B. MacPherson,5,Laissez-Faire Capitalist,KaiMacpherson
+45057,Minister of Armament,C.D. Howe,5,The Minister For Everything,M45057
+45169,Foreign Minister,Charles Vincent Massey,5,Great Compromiser,CAN_Massey
+45054,Minister of Armament,Douglas S. Abbott,5,Bank President,M45054
+45008,Chief of Army,Ernest Ashton,5,Guns and Butter Doctrine,M45007
+45007,Chief of Staff,Ernest Ashton,5,School of Fire Support,M45007
+45005,Minister of Security,Ernest Lapointe,5,Silent Lawyer,M45005
+45010,Chief of Air Force,George Croil,5,Carpet Bombing Doctrine,M45010
+45068,Minister of Security,George Eulas Foster,5,Crime Fighter,M45068
+45069,Minister of Security,George W. Stephens,5,Compassionate Gentleman,M45069
+45109,Chief of Army,Henry Crerar,5,Armoured Spearhead Doctrine,M45006
+45100,Chief of Staff,Henry Crerar,5,School of Psychology,M45006
+45006,Head of Military Intelligence,Henry Crerar,5,Logistics Specialist,M45006
+45085,Head of Military Intelligence,Herbert Brown Ames,5,Dismal Enigma,M45085
+45004,Minister of Armament,Ian A. MacKenzie,5,Bank President,M45004
+45053,Minister of Armament,James Ralston,5,Theoretical Scientist,M45053
+45110,Chief of Army,Kenneth Stuart,5,Decisive Battle Doctrine,M45086
+45101,Chief of Staff,Kenneth Stuart,5,School of Mass Combat,M45086
+45086,Head of Military Intelligence,Kenneth Stuart,5,Logistics Specialist,M45086
+45160,Foreign Minister,Lester B. Pearson,5,Great Compromiser,CAN_Pearson
+45042,Foreign Minister,Louis St. Laurent,5,Ideological Crusader,M45042
+45157,Head of Government,Louis St. Laurent,5,Flamboyant Tough Guy,M45042
+45072,Minister of Security,Louis St. Laurent,5,Silent Lawyer,M45042
+45003,Foreign Minister,Mackenzie King,5,Great Compromiser,M45002
+45002,Head of Government,Mackenzie King,5,Flamboyant Tough Guy,M45002
+45044,Foreign Minister,Newton Wesley Rowell,5,Ideological Crusader,M45044
+45182,Minister of Armament,Paul Hellyer,5,Theoretical Scientist,Kaiserreich_Hellyer
+45009,Chief of Navy,Percy Nelles,5,Open Seas Doctrine,M45009
+45087,Head of Military Intelligence,Ralph Gibson,5,Industrial Specialist,M45087
+45055,Minister of Armament,Raoul Dandurand,5,Laissez-Faire Capitalist,M45055
+45108,Chief of Army,Thomas Victor Anderson,5,Static Defence Doctrine,M45099
+45099,Chief of Staff,Thomas Victor Anderson,5,School of Defence,M45099
+45197,Chief of Staff,Archibald Montgomery-Massingberd,6,school of defence,kaiserreich_Montgomery-Massingberdy
+45196,Chief of Army,Arthur Currie,6,decisive battle doctrine,kaiserreich_Currie
+45195,Chief of Staff,Arthur Currie,6,school of fire support,kaiserreich_Currie
+45056,Minister of Armament,Arthur Meighen,6,Resource Industrialist,M45056
+45112,Chief of Army,Charles Foulkes,6,Elastic Defence Doctrine,M45103
+45103,Chief of Staff,Charles Foulkes,6,School of Manoeuvre,M45103
+45143,Chief of Staff,Claude Auchinleck,6,School of Fire Support,Auchinleck
+45148,Chief of Navy,Dudley Pound,6,Open Seas Doctrine,M1140
+45198,Chief of Army,Georges Vanier,6,elastic defence doctrine,L52072
+45071,Minister of Security,Gordon Graydon,6,Silent Lawyer,M45071
+45133,Chief of Army,Harold Alexander,6,Static Defence Doctrine,L1006
+45134,Chief of Staff,Harold Alexander,6,School of Defence,L1006
+45168,Foreign Minister,Howard Charles Green,6,Iron Fisted Brute,CAN_Green
+45046,Foreign Minister,John Bracken,6,Biased Intellectual,M45038
+45038,Minister of Armament,John Bracken,6,Military Entrepreneur,M45038
+45158,Head of Government,John Diefenbaker,6,Ambitious Union Boss,CAN_Diefenbaker
+45159,Minister of Security,John Diefenbaker,6,Man of the People,CAN_Diefenbaker
+45111,Chief of Army,John Murchie,6,Armoured Spearhead Doctrine,M45102
+45102,Chief of Staff,John Murchie,6,School of Fire Support,M45102
+45123,Chief of Air Force,Joseph Roméo Vachon,6,Air Superiority Doctrine,M45123
+45088,Head of Military Intelligence,Maurice Pope,6,Political Specialist,M45088
+45043,Foreign Minister,R.B. Bennett,6,Iron Fisted Brute,M45036
+45036,Head of Government,R.B. Bennett,6,Silent Workhorse,M45036
+45045,Foreign Minister,Robert Manion,6,Apologetic Clerk,M45037
+45037,Minister of Armament,Robert Manion,6,Industrialiser,M45037
+45079,Minister of Security,Robert Manion,6,Silent Lawyer,M45037
+45167,Foreign Minister,Sidney Earle Smith,6,Biased Intellectual,CAN_EarleSmith
+45184,Foreign Minister,Sir Donald Fleming,6,Biased Intellectual,Kaiserreich_Fleming
+45183,Head of Government,Sir Donald Fleming,6,Corporate Suit,Kaiserreich_Fleming
+45192,Minister of Armament,Sir Donald Fleming,6,Laissez-Faire Capitalist,Kaiserreich_Fleming
+45142,Chief of Staff,Sir Edmund Ironside,6,School of Manoeuvre,M1118
+45146,Chief of Navy,Sir Ernle Chatfield,6,Decisive Naval Battle Doctrine,M1009
+45190,Foreign Minister,Sir George A. Drew,6,Ideological Crusader,Kaiserreich_Drew
+45191,Head of Government,Sir George A. Drew,6,Backroom Backstabber,Kaiserreich_Drew
+45188,Foreign Minister,Sir Murdoch Alexander MacPherson,6,Iron fisted brute,Kaiserreich_Macpherson
+45187,Head of Government,Sir Murdoch Alexander MacPherson,6,Silent Workhorse,Kaiserreich_Macpherson
+45147,Chief of Navy,Sir Roger Backhouse,6,Decisive Naval Battle Doctrine,M1137
+45189,Minister of Armament,Sir Stephen Leacock,6,Resource Industrialist,Kaiserreich_Leacock
+45089,Head of Military Intelligence,William G. Adams,6,Naval Intelligence Specialist,M45079
+45118,Chief of Navy,Alasdair Murray,7,Base Control Doctrine,M45019
+45048,Foreign Minister,Andrew Greene Carnell,7,Iron Fisted Brute,M45016
+45090,Head of Military Intelligence,Andrew Greene Carnell,7,Political Specialist,M45016
+45176,Foreign Minister,Anthony Eden,7,Ideological Crusader,M1003
+45185,Minister of Armament,C.H. Douglas,7,Administrative Genius,Kaiserreich_Douglas
+45060,Minister of Armament,Charles J. Howlett,7,Infantry Proponent,M45060
+45074,Minister of Security,Chuck Crate,7,Prince of Terror,M45015
+45113,Chief of Army,Frederick M.W. Harvey,7,Guns and Butter Doctrine,M45017
+45104,Chief of Staff,Frederick M.W. Harvey,7,School of Mass Combat,M45017
+45144,Chief of Staff,Georges Vanier,7,School of Psychology,L52072
+45171,Foreign Minister,H. H. Stevens,7,Iron Fisted Brute,CAN_Stevens
+45155,Chief of Army,J.F.C Fuller,7,Armoured Spearhead Doctrine,CAN_Fuller
+45156,Chief of Staff,J.F.C Fuller,7,School of Manoeuvre,CAN_Fuller
+45119,Chief of Navy,Jean Couillard,7,Indirect Approach Doctrine,M45078
+45093,Head of Military Intelligence,Jean Couillard,7,Naval Intelligence Specialist,M45078
+45078,Minister of Security,Jean Couillard,7,Silent Lawyer,M45078
+45173,Minister of Armament,Kingsley Wood,7,Bank President,CAN_Wood
+45174,Head of Military Intelligence,Maxwell Knight,7,Logistics Specialist,M1094
+45179,Minister of Security,Maxwell Knight,7,Crime Fighter,M1094
+45124,Chief of Air Force,P.W. Oland,7,Army Aviation Doctrine,M45020
+45091,Head of Military Intelligence,Pierre Berton,7,Dismal Enigma,M45091
+45062,Minister of Armament,Pierre Gagnon,7,Resource Industrialist,M45062
+45077,Minister of Security,Pierre Gagnon,7,Crime Fighter,M45062
+45075,Minister of Security,Pierre St. Pierre,7,Man of the People,M45075
+45092,Head of Military Intelligence,René St. Pierre,7,Industrial Specialist,M45061
+45061,Minister of Armament,René St. Pierre,7,Battle Fleet Proponent,M45061
+45059,Minister of Armament,Tasker Cook,7,Industrialiser,M45059
+45076,Minister of Security,Thomas Adams,7,Compassionate Gentleman,M45076
+45145,Chief of Air Force,William Avery Bishop,7,Air Superiority Doctrine,L52099
+45047,Foreign Minister,Adrien Arcand,8,Ideological Crusader,M45011
+45039,Head of Government,Adrien Arcand,8,Happy Amateur,M45011
+45177,Minister of Armament,H. Harmsworth; Viscount Rothermere,8,Strategic Air Proponent,CAN_Rothermere
+45178,Minister of Security,H. Harmsworth; Viscount Rothermere,8,Back Stabber,CAN_Rothermere
+45186,Minister of Security,John Hargrave,8,Efficient Sociopath,Kaiserreich_Hargrave
+45058,Minister of Armament,John Ross Taylor,8,Corrupt Kleptocrat,M45014
+45175,Head of Military Intelligence,Ormonde Winter,8,O,CAN_Winter
+45181,Foreign Minister,Sir Ernest Manning,8,Ideological Crusader,Kaiserreich_Manning
+45180,Head of Government,Sir Ernest Manning,8,Political Protege,Kaiserreich_Manning
+45193,Foreign Minister,Sir William Aberhart,8,Ideological Crusader,Kaiserreich_Aberhart
+45194,Head of Government,Sir William Aberhart,8,Flamboyant Tough Guy,Kaiserreich_Aberhart

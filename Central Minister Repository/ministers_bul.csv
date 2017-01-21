@@ -1,0 +1,134 @@
+BUL,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
+,Replacements,,,,,,,,,X
+19002,Head of Government,Georgi Kioseivanov,1936,1964,1999,7,Backroom Backstabber,High,KRGeorgi,X
+19003,Foreign Minister,Georgi Kioseivanov,1936,1964,1999,7,Biased Intellectual,High,KRGeorgi,X
+19004,Minister of Armament,Kiril Gounev,1936,1964,1999,7,Administrative Genius,Medium,M19004,X
+19005,Minister of Security,Georgi Sapov,1936,1964,1999,7,Crime Fighter,Low,M19005,X
+19006,Head of Military Intelligence,Dimitar Peshev,1936,1964,1999,7,Dismal Enigma,Medium,M19006,X
+19007,Chief of Staff,Hristo Lukov,1936,1964,1999,7,School of Defence,Low,M19007,X
+19008,Chief of Army,Todor Georgiev,1936,1964,1999,7,Static Defence Doctrine,Medium,M19008,X
+19009,Chief of Navy,Sava Ivanov,1936,1964,1999,7,Open Seas Doctrine,Medium,M19009,X
+19010,Chief of Air Force,Vasil Boydev,1936,1964,1999,7,Air Superiority Doctrine,Medium,M19010,X
+19042,Head of State,Kiril de Preslav,1943,1964,1999,8,Stern Imperialist,High,M19042,X
+19043,Head of State,S.T.V. Boris III,1936,1964,1999,8,Tsar Unifier,High,KRBoris,X
+19044,Head of State,Aleksandur Tsankov,1943,1964,1999,9,Barking Buffoon,High,M19021,X
+19045,Head of State,S.T.V. Boris III,1936,1964,1999,5,Tsar Unifier,High,KRBoris,X
+19046,Head of State,Kiril de Preslav,1943,1964,1999,5,Stern Imperialist,High,M19042,X
+19047,Head of State,Nikola Petkov,1945,1964,1999,6,Die-hard Reformer,High,M19047,X
+19048,Head of State,Kiril de Preslav,1944,1964,1999,3,Stern Imperialist,High,M19042,X
+19050,Head of State,Georgi Dimitrov,1936,1964,1999,0,Powerhungry Demagogue,High,M19032,X
+19051,Head of State,Vasil Kolarov,1945,1964,1999,0,Weary Stiffneck,High,M19031,X
+19052,Head of Government,Bogdan Filov,1936,1964,1999,7,Political Protege,High,KRFilov,X
+19053,Head of Government,Dobri Bojilov,1943,1964,1999,7,Corporate Suit,High,M19053,X
+19054,Head of Government,Ivan Bagrianov,1944,1964,1999,7,Old General,High,M19054,X
+19055,Head of Government,Aleksander Tsankov,1936,1964,1999,9,Backroom Backstabber,High,M19021,X
+19056,Head of Government,Petur Gabrovski,1943,1964,1999,7,Naive Optimist,High,M19022,X
+19057,Head of Government,Konstantin Muraviev,1939,1964,1999,5,Happy Amateur,High,M19012,X
+19058,Head of Government,Nikola Petkov,1936,1964,1999,6,Flamboyant Tough Guy,High,M19047,X
+19059,Head of Government,Kimon Georgiev,1944,1964,1999,2,Naive Optimist,High,M19059,X
+19060,Head of Government,Georgi Dimitrov,1936,1964,1999,0,Political Protege,High,M19032,X
+19061,Foreign Minister,Ivan Popov,1939,1964,1999,7,Biased Intellectual,Medium,M19061,X
+19062,Foreign Minister,Aleksander Nikolaiev,1939,1964,1999,7,Ideological Crusader,Medium,M19062,X
+19063,Foreign Minister,Bogdan Filov,1936,1964,1999,7,Biased Intellectual,Medium,KRFilov,X
+19064,Foreign Minister,Dimitar Shishmanov,1943,1964,1999,7,The Cloak N Dagger Schemer,Medium,M19064,X
+19065,Foreign Minister,Ivan Bagrianov,1944,1964,1999,7,Iron Fisted Brute,Medium,M19054,X
+19066,Foreign Minister,Pyrvan Draganov,1944,1964,1999,8,General Staffer,Medium,M19066,X
+19067,Foreign Minister,Aleksandur Tsankov,1939,1964,1999,8,Ideological Crusader,Medium,M19021,X
+19068,Foreign Minister,Atanas Burov,1939,1964,1999,6,Great Compromiser,Low,M19068,X
+19069,Foreign Minister,Georgi Brasov,1943,1964,1999,6,Biased Intellectual,Low,M19069,X
+19070,Foreign Minister,Konstantin Muraviev,1944,1964,1999,6,Apologetic Clerk,Medium,M19012,X
+19071,Foreign Minister,Nikola Petkov,1945,1964,1999,6,The Cloak N Dagger Schemer,Medium,M19047,X
+19072,Foreign Minister,Petko Stainov,1944,1964,1999,2,Biased Intellectual,Medium,M19072,X
+19073,Foreign Minister,Georgi Kulichev,1945,1964,1999,2,The Cloak N Dagger Schemer,Very High,M19073,X
+19074,Foreign Minister,Vasil Kolarov,1939,1964,1999,0,Ideological Crusader,High,M19031,X
+19075,Foreign Minister,Georgi Damianov,1944,1964,1999,0,Iron Fisted Brute,Very High,M19075,X
+19076,Foreign Minister,Kimon Georgiev,1945,1964,1999,1,General Staffer,Medium,M19059,X
+19077,Minister of Armament,Dobri Bojilov,1938,1964,1999,7,Infantry Proponent,Medium,M19053,X
+19078,Minister of Armament,Georgi Sapov,1939,1964,1999,7,Corrupt Kleptocrat,Low,M19005,X
+19079,Minister of Armament,Sava Kirov,1941,1964,1999,7,Laissez-Faire Capitalist,Low,M19079,X
+19080,Minister of Armament,Stanko Nikoladorov,1944,1964,1999,7,Corrupt Kleptocrat,Low,M19080,X
+19081,Minister of Armament,Bogdan Filov,1939,1964,1999,8,Infantry Proponent,Medium,KRFilov,X
+19082,Minister of Armament,Aleksandar Gerginov,1939,1964,1999,6,Resource Industrialist,Medium,M19014,X
+19083,Minister of Armament,Atanas Burov,1943,1964,1999,6,Laissez-Faire Capitalist,Low,M19083,X
+19084,Minister of Armament,Dimitar Savov,1944,1964,1999,6,Tank Proponent,Low,M19084,X
+19085,Minister of Armament,Ivan Gaidimitriv,1945,1964,1999,6,Strategic Air Proponent,Low,M19085,X
+19086,Minister of Armament,Petko Stoyanov,1944,1964,1999,2,Theoretical Scientist,Low,M19086,X
+19087,Minister of Armament,Stancho Cholakov,1945,1964,1999,2,Administrative Genius,Medium,M19087,X
+19088,Minister of Armament,Georgi Dimitrov,1939,1964,1999,0,Military Entrepreneur,Medium,M19032,X
+19089,Minister of Armament,Ivan Stefanov,1944,1964,1999,1,Battle Fleet Proponent,Low,M19034,X
+19090,Minister of Armament,Petko Kounin,1945,1964,1999,0,Air to Ground Proponent,High,M19090,X
+19091,Minister of Security,Ivan Krasnovski,1937,1964,1999,7,Efficient Sociopath,Medium,M19091,X
+19092,Minister of Security,Nikolay Nikolaev,1938,1964,1999,7,Crime Fighter,Medium,M19092,X
+19093,Minister of Security,Nikola Nedev,1939,1964,1999,7,Silent Lawyer,Medium,M19093,X
+19094,Minister of Security,Docho Hristov,1943,1964,1999,7,Crooked Kleptocrat,Medium,M19094,X
+19095,Minister of Security,Aleksandyr Stanishev,1944,1964,1999,7,Prince of Terror,Medium,M19095,X
+19096,Minister of Security,Dimitar Peshev,1939,1964,1999,8,Compassionate Gentleman,Low,M19006,X
+19097,Minister of Security,Petur Gabrovski,1944,1964,1999,8,Back Stabber,Low,M19022,X
+19098,Minister of Security,Aleksandar Gerginov,1939,1964,1999,6,Silent Lawyer,Medium,M19014,X
+19099,Minister of Security,Rajcho Pekimov,1943,1964,1999,6,Efficient Sociopath,Medium,M19099,X
+19100,Minister of Security,Vergil Dimov,1944,1964,1999,6,Man of the People,Medium,M19100,X
+19101,Minister of Security,Nikola Mushanov,1945,1964,1999,6,Compassionate Gentleman,High,M19015,X
+19102,Minister of Security,Georgi Kulichev,1944,1964,1999,2,Crime Fighter,Very High,M19073,X
+19103,Minister of Security,Vulko Chervenkov,1939,1964,1999,0,Prince of Terror,High,M19103,X
+19104,Minister of Security,Anton Yugov,1944,1964,1999,0,Prince of Terror,High,M19035,X
+19105,Head of Military Intelligence,Kiril Gounev,1939,1964,1999,7,Naval Intelligence Specialist,Medium,M19004,X
+19106,Head of Military Intelligence,Stefan Noikov,1943,1964,1999,7,Political Specialist,Low,M19106,X
+19107,Head of Military Intelligence,Sava Kirov,1944,1964,1999,7,Industrial Specialist,Low,M19079,X
+19108,Head of Military Intelligence,Kiril Stanchev,1939,1964,1999,8,Dismal Enigma,Medium,M19026,X
+19109,Head of Military Intelligence,Ivan Rogosarski,1944,1964,1999,9,Logistics Specialist,Medium,M19109,X
+19110,Head of Military Intelligence,Boris Botan,1939,1964,1999,6,Naval Intelligence Specialist,Medium,M19110,X
+19111,Head of Military Intelligence,Atanas Burov,1938,1964,1999,6,Industrial Specialist,Medium,M19016,X
+19112,Head of Military Intelligence,Georgi Kulichev,1944,1964,1999,2,Naval Intelligence Specialist,Very High,M19073,X
+19113,Head of Military Intelligence,Traicho Kostov,1939,1964,1999,0,Logistics Specialist,Medium,M19036,X
+19114,Head of Military Intelligence,Mincho Neychev,1945,1964,1999,0,Political Specialist,Medium,M19114,X
+19115,Chief of Staff,Teodosi Daskalov,1939,1964,1999,7,School of Defence,Medium,M19115,X
+19116,Chief of Staff,Nikola Mihov,1942,1964,1999,7,School of Fire Support,Medium,M19116,X
+19117,Chief of Staff,Russi Russev,1943,1964,1999,7,School of Mass Combat,High,M19117,X
+19118,Chief of Staff,Todor Georgiev,1944,1964,1999,7,School of Manoeuvre,Medium,M19008,X
+19119,Chief of Staff,Ivan Vulkov,1939,1964,1999,8,School of Defence,High,M19027,X
+19120,Chief of Staff,Ivan Marinov,1939,1964,1999,6,School of Manoeuvre,Very Low,M19017,X
+19121,Chief of Staff,Georgi Petsov,1943,1964,1999,6,School of Defence,Medium,M19019,X
+19122,Chief of Staff,Damjan Velchev,1944,1964,1999,2,School of Psychology,Medium,M19122,X
+19123,Chief of Staff,Hristo Mikhailov,1939,1964,1999,0,School of Mass Combat,Medium,M19037,X
+19124,Chief of Staff,Assen Grekov,1945,1964,1999,0,School of Manoeuvre,Medium,M19124,X
+19125,Chief of Army,Iordan Peev,1937,1964,1999,7,Decisive Battle Doctrine,Medium,M19125,X
+19126,Chief of Army,Nikola Hadjipetkov,1939,1964,1999,7,Static Defence Doctrine,Low,M19126,X
+19127,Chief of Army,Vasil Boydev,1941,1964,1999,7,Elastic Defence Doctrine,Medium,M19127,X
+19128,Chief of Army,Konstantin Lukash,1943,1964,1999,7,Guns and Butter Doctrine,Medium,M19128,X
+19129,Chief of Army,Kiril Stanchev,1944,1964,1999,7,Armoured Spearhead Doctrine,Medium,M19026,X
+19130,Chief of Army,Hristo Lukov,1939,1964,1999,8,Static Defence Doctrine,High,M19007,X
+19131,Chief of Army,Trifon Trifonov,1944,1964,1999,8,Elastic Defence Doctrine,Medium,M19131,X
+19132,Chief of Army,Ivan Marinov,1939,1964,1999,6,Static Defence Doctrine,Low,M19017,X
+19133,Chief of Army,Rajcho Slavkov,1944,1964,1999,6,Guns and Butter Doctrine,Medium,M19018,X
+19134,Chief of Army,Mikhail Mintchev,1944,1964,1999,2,Guns and Butter Doctrine,Medium,M19134,X
+19135,Chief of Army,Tsvjatko Radojnov,1939,1964,1999,0,Decisive Battle Doctrine,High,M19038,X
+19136,Chief of Army,Ivan Kinov,1944,1964,1999,0,Armoured Spearhead Doctrine,Medium,M19136,X
+19137,Chief of Navy,Ivan Variclechkov,1938,1964,1999,7,Base Control Doctrine,High,M19137,X
+19138,Chief of Navy,Asen Toshev,1939,1964,1999,7,Open Seas Doctrine,High,M19138,X
+19139,Chief of Navy,Atanas Shalapatov,1939,1964,1999,8,Decisive Naval Battle Doctrine,Medium,M19029,X
+19141,Chief of Navy,Racho Batanov,1944,1964,1999,2,Open Seas Doctrine,Medium,M19141,X
+19142,Chief of Navy,Kiril Khalatchev,1939,1964,1999,0,Indirect Approach Doctrine,Medium,M19039,X
+19143,Chief of Navy,Stefan Tzanev,1945,1964,1999,0,Decisive Naval Battle Doctrine,Very Low,M19143,X
+19145,Chief of Air Force,Dimitar Ayrjanov,1941,1964,1999,7,Air Superiority Doctrine,Medium,M19145,X
+19146,Chief of Air Force,Chudomir Toplodolski,1939,1964,1999,8,Vertical Envelopment Doctrine,Medium,M19030,X
+19147,Chief of Air Force,Stoyan Stoyanov,1939,1964,1999,6,Air Superiority Doctrine,Medium,M19020,X
+19148,Chief of Air Force,Georgi Drenikov,1944,1964,1999,6,Carpet Bombing Doctrine,Medium,M19148,X
+19149,Chief of Air Force,Vasil Vylkov,1944,1964,1999,2,Vertical Envelopment Doctrine,Medium,M19149,X
+19150,Chief of Air Force,Zakhari Zakhariev,1939,1964,1999,0,Vertical Envelopment Doctrine,Medium,M19150,X
+19151,Head of State,Vergil Dimov,1945,1964,1999,7,Insignificant Layman,High,M19100,X
+19152,Head of State,Vergil Dimov,1947,1964,1999,6,Insignificant Layman,High,M19100,X
+19153,Head of State,Georgi Kulichev,1945,1964,1999,2,Popular Figurehead,Very High,M19073,X
+19154,Head of Government,Vergil Dimov,1945,1964,1999,7,Silent Workhorse,High,M19100,X
+19155,Head of Government,Vergil Dimov,1947,1964,1999,6,Silent Workhorse,High,M19100,X
+19156,Head of Government,Georgi Kulichev,1936,1964,1999,2,Happy Amateur,Very High,M19073,X
+19019,Chief of Navy,Georgi Petsov,1936,1964,1999,6,Base Control Doctrine,Medium,M19019,X
+19033,Foreign Minister,Vasil Kolarov,1936,1964,1999,0,Ideological Crusader,High,M19031,X
+19038,Chief of Army,Tsvjatko Radojnov,1936,1964,1999,0,Decisive Battle Doctrine,High,M19038,X
+19039,Head of State,S.T.V. Symeon II,1953,1964,1999,5,Popular Figurehead,High,M19039,X
+19157,Foreign Minister,Vladimir Stoychev,1936,1964,1999,7,General Staffer,High,KRStoy,X
+19158,Chief of Staff,Nikola Zhekov,1936,1964,1999,7,School of Psychology,High,KRZhekov,X
+19159,Head of Military Intelligence,Pencho Zlatev,1936,1964,1999,7,Logistics Specialist,High,KRZlatev,X
+19160,Chief of Army,Vladimir Vazov,1936,1964,1999,7,Elastic Defence Doctrine,High,KRVazov,X
+19161,Minister of Security,Vladimir Nikolov Avramov,1936,1964,1999,6,Man of the People,High,KRAvramov,X
+19162,Minister of Armament,Stoyan Danev,1936,1964,1999,6,Administrative Genius,High,KRDanev,X
+19163,Head of State,S.T.V. Symeon II,1953,1964,1999,7,Popular Figurehead,High,M19039,X
