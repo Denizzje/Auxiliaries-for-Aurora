@@ -1,0 +1,97 @@
+AFG,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+54100,Head of Government,Nur Muhammad Taraki,0,Silent Workhorse,AFG_nur_muhammad_taraki
+54097,Head of Government,Dada Amir Haider Khan,1,Silent Workhorse,AFG_dada_amir_haider_khan
+54091,Head of Military Intelligence,Dada Amir Haider Khan,1,Political Specialist,AFG_dada_amir_haider_khan
+54090,Minister of Security,Dada Amir Haider Khan,1,Man of the People,AFG_dada_amir_haider_khan
+54098,Head of Government,Khan Abdul Ghaffar Khan,2,Flamboyant Tough Guy,AFG_khan_abdul_ghaffar_khan
+54095,Head of Government,Mir Gul Khan Nasir,2,Happy Amateur,AFG_gul_khan_nasir
+54093,Foreign Minister,Ghulam Mohammad Farhad,3,Biased Intellectual,AFG_ghulam_mohammad_farhad
+54092,Minister of Armament,Ghulam Mohammad Farhad,3,Resource Industrialist,AFG_ghulam_mohammad_farhad
+54099,Foreign Minister,Mohammed Hashim Maiwandwal,3,Great Compromiser,M54080
+54080,Minister of Armament,Mohammed Hashim Maiwandwal,3,Industrialiser,M54080
+54088,Head of Government,Abdul Majid Zabuli,4,Corporate Suit,AFG_abdul_majid_zabuli
+54058,Head of Military Intelligence,Abdul Majid Zabuli,4,Dismal Enigma,AFG_abdul_majid_zabuli
+54004,Minister of Armament,Abdul Majid Zabuli,4,Laissez-Faire Capitalist,AFG_abdul_majid_zabuli
+54051,Minister of Security,Abdul Majid Zabuli,4,Health and Safety,AFG_abdul_majid_zabuli
+54029,Foreign Minister,Ali Muhammed Khan,6,Biased Intellectual,M54020
+54066,Chief of Army,Asadullah Seraj Khan,6,Elastic Defence Doctrine,M54031
+54035,Minister of Armament,Asadullah Seraj Khan,6,Infantry Proponent,M54031
+54053,Minister of Security,Asadullah Seraj Khan,6,Compassionate Gentleman,M54031
+54038,Minister of Armament,Feruccio Serafini,6,Air Superiority Proponent,M54038
+54068,Chief of Army,Gholam Wali,6,Guns and Butter Doctrine,M54063
+54056,Foreign Minister,Habibullah Khan Tarzi,6,Biased Intellectual,AFG_Habibullah Khan Tarzi
+54102,Minister of Armament,Haji Faiz Muhammed Zikeria,6,Laissez-Faire Capitalist,M54003
+54086,Head of Government,Mohammed Nadir Shah,6,Old General,AFGNad
+54062,Chief of Staff,Nasirullah Husain,6,School of Fire Support,M54019
+54037,Minister of Armament,Nasirullah Husain,6,Battle Fleet Proponent,M54019
+54041,Minister of Armament,Pompeo Aloisi,6,Military Entrepreneur,M54041
+54050,Minister of Security,Ricci A. Busatti,6,Silent Lawyer,M54050
+54076,Chief of Air Force,Shah Wali Khan,6,Carpet Bombing Doctrine,M54042
+54065,Chief of Army,Shah Wali Khan,6,Armoured Spearhead Doctrine,M54042
+54063,Chief of Staff,Shah Wali Khan,6,School of Manoeuvre,M54042
+54042,Minister of Armament,Shah Wali Khan,6,Infantry Proponent,M54042
+54101,Foreign Minister,Abdul Hadi Dawai,7,Great Compromiser,AFGDaw
+54106,Head of Government,Abdul Hadi Dawai,7,Flamboyant Tough Guy,AFGDaw
+54025,Head of Military Intelligence,Abdul Hadi Dawai,7,Political Specialist,AFGDaw
+54014,Minister of Armament,Abdul Hadi Dawai,7,Laissez-Faire Capitalist,AFGDaw
+54061,Chief of Staff,Ahmad Ali Khan Solaiman,7,Commando Doctrine Staff,AFG_Ahmad Ali Khan Solaiman
+54105,Minister of Armament,Ahmad Ali Khan Solaiman,7,Military Entrepreneur,AFG_Ahmad Ali Khan Solaiman
+54079,Chief of Air Force,Ali Muhammed Khan,7,Naval Aviation Doctrine,M54020
+54072,Chief of Navy,Ali Muhammed Khan,7,Power Projection Doctrine,M54020
+54057,Head of Military Intelligence,Ali Muhammed Khan,7,Naval Intelligence Specialist,M54020
+54045,Minister of Armament,Ali Muhammed Khan,7,Air to Sea Proponent,M54020
+54048,Minister of Security,Ali Muhammed Khan,7,Efficient Sociopath,M54020
+54031,Foreign Minister,Asadullah Seraj Khan,7,Iron Fisted Brute,M54031
+54067,Chief of Army,Ghulam Nabi Charkhi,7,Elastic Defence Doctrine,AFG_Ghulam Nabi Charkhi
+54028,Foreign Minister,Ghulam Nabi Charkhi,7,General Staffer,AFG_Ghulam Nabi Charkhi
+54040,Minister of Armament,Habibullah Khan Tarzi,7,Balanced Budget Economy,AFG_Habibullah Khan Tarzi
+54022,Minister of Security,Inayatullah Khan Seraj,7,Silent Lawyer,AFGIna
+54071,Chief of Navy,Mohammed Etemadi Khan,7,Indirect Approach Doctrine,M54016
+54030,Foreign Minister,Mohammed Etemadi Khan,7,The Cloak N Dagger Schemer,M54016
+54059,Head of Military Intelligence,Mohammed Etemadi Khan,7,Logistics Specialist,M54016
+54043,Minister of Armament,Mohammed Etemadi Khan,7,Mixed Economy,M54016
+54055,Foreign Minister,Mohammed Kabir Ludin,7,Apologetic Clerk,AFG_Mohammed Kabir Ludin
+54054,Head of Military Intelligence,Mohammed Kabir Ludin,7,Political Specialist,AFG_Mohammed Kabir Ludin
+54107,Chief of Army,Mohammed Nadir Shah,7,Doctrine of Autonomy,AFGNad
+54039,Minister of Armament,Mohammed Nadir Shah,7,Reformer,AFGNad
+54012,Head of Government,Muhammed Ghobar,7,Naive Optimist,M54012
+54052,Minister of Security,Muhammed Ghobar,7,Compassionate Gentleman,M54012
+54070,Chief of Navy,Muhammed Hashim,7,Base Control Doctrine,M54002
+54002,Head of Government,Muhammed Hashim,7,Happy Amateur,M54002
+54005,Minister of Security,Muhammed Hashim,7,Secret Police Chief,M54002
+54044,Minister of Armament,Muhammed Nowroz,7,Resource Industrialist,M54044
+54078,Chief of Air Force,Muhammed Zahir,7,Army Aviation Doctrine,M54001
+54009,Chief of Navy,Muhammed Zahir,7,Indirect Approach Doctrine,M54001
+54049,Minister of Security,Muhammed Zahir,7,Man of the People,M54001
+54069,Chief of Army,Nasirullah Husain,7,Decisive Battle Doctrine,M54019
+54073,Chief of Navy,Nasirullah Husain,7,Decisive Naval Battle Doctrine,M54019
+54024,Head of Government,Shah Mahmud Ghazi,7,Old General,M54006
+54103,Chief of Staff,Shah Mahmud Khan,7,School of Defence,AFG_Shah Mahmud Khan
+54023,Head of Government,Shah Mahmud Khan,7,Political Protege,AFG_Shah Mahmud Khan
+54104,Minister of Armament,Shah Mahmud Khan,7,Keynesian Economy,AFG_Shah Mahmud Khan
+54074,Head of Government,Shah Wali Khan,7,Silent Workhorse,M54042
+54026,Foreign Minister,Amanullah Khan,8,Ideological Crusader,AFGAma
+54034,Minister of Armament,Bortolo Berlotti,8,Administrative Genius,M54034
+54046,Minister of Security,Carlo Garbasso,8,Prince of Terror,M54046
+54077,Chief of Air Force,Feruccio Serafini,8,Air Superiority Doctrine,M54038
+54075,Chief of Air Force,Gholam Wali,8,Vertical Envelopment Doctrine,M54063
+54047,Minister of Security,Ghulam Faruq Usman,8,Crime Fighter,M54047
+54003,Foreign Minister,Haji Faiz Muhammed Zikeria,8,Ideological Crusader,M54003
+54082,Head of Government,Inayatullah Khan Seraj,8,Happy Amateur,AFGIna
+54033,Minister of Armament,Italo Sergente,8,Tank Proponent,M54033
+54010,Chief of Air Force,Mohammed Daoud,8,Army Aviation Doctrine,M54007
+54008,Chief of Army,Mohammed Daoud,8,Elastic Defence Doctrine,M54007
+54007,Chief of Staff,Mohammed Daoud,8,School of Psychology,M54007
+54027,Foreign Minister,Mohammed Daoud,8,Great Compromiser,M54007
+54032,Minister of Armament,Mohammed Daoud,8,Air to Ground Proponent,M54007
+54109,Foreign Minister,Muhammad Nauruz,8,Iron Fisted Brute,unknown
+54108,Minister of Armament,Muhammad Nauruz,8,Planned Economy Proponent,unknown
+54060,Chief of Staff,Shah Mahmud Ghazi,8,School of Psychology,M54006
+54006,Head of Military Intelligence,Shah Mahmud Ghazi,8,Dismal Enigma,M54006
+54110,Head of Government,Khalilullah Khalili,9,Spiritual Leader,AFG_Khalilullah Khalili
+54111,Minister of Security,Khalilullah Khalili,9,Man of the People,AFG_Khalilullah Khalili
+54021,Chief of Staff,Malik Habibullah Kalakani,9,School of Mass Combat,AFGHab
+54085,Head of Government,Malik Habibullah Kalakani,9,Local Tyrant,AFGHab
+54112,Chief of Army,Mirza Ali Khan,9,Doctrine of Autonomy,AFG_Mirza Ali Khan
+54113,Head of Military Intelligence,Mirza Ali Khan,9,Logistics Specialist,AFG_Mirza Ali Khan

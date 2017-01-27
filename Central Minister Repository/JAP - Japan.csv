@@ -1,0 +1,495 @@
+JAP,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+,Foreign Minister,Akamatsu Katsumaro,0,The Cloak N Dagger Schemer,MJAPAkamatsu
+,Head of Government,Asanuma Inejiro,0,Totalist Chairman,MJAPAsanuma2
+,Minister of Armament,Asanuma Inejiro,0,Planned Economy Proponent,MJAPAsanuma2
+,Head of Government,Aso Hisashi,0,Totalist Chairman,MJAPAso
+,Foreign Minister,Fukumoto Kazuo,0,Ideological Crusader,MJAPFukumoto
+,Minister of Security,Fukumoto Kazuo,0,Prince of Terror,MJAPFukumoto
+,Head of Military Intelligence,Hakamada Satomi,0,Dismal Enigma,MJAPHakamada
+,Minister of Security,Hayama Yoshiki,0,Man of the People,MJAPHayama
+,Head of Government,Kawakami Jotaro,0,Ambitious Union Boss,MJAPJotaro
+,Chief of Army,Kitahara Taisaku,0,Guns and Butter Doctrine,MJAPKitahara
+,Chief of Staff,Kitahara Taisaku,0,School of Mass Combat,MJAPKitahara
+,Minister of Armament,Kono Mitsu,0,Resource Industrialist,MJAPKonomi
+,Minister of Security,Miwa Juso,0,Media Magnate,MJAPMiwa
+,Minister of Armament,Mizuno Shigeo,0,Administrative Genius,MJAPMizuno2
+,Head of Military Intelligence,Ozaki Hotsumi,0,Logistics Specialist,MJAPOzaki
+,Minister of Security,Sano Manabu,0,Back Stabber,MJAPSano
+,Minister of Armament,Sugiyama Motojiro,0,Military Entrepreneur,MJAPSugiyama
+,Foreign Minister,Tokuda Kyuichi,0,Iron Fisted Brute,MJAPTokuda2
+,Chief of Air Force,Watanabe Masanosuke,0,Army Aviation Doctrine,MJAPWatanabe
+,Chief of Navy,Watanabe Masanosuke,0,Base Control Doctrine,MJAPWatanabe
+,Minister of Security,Kaji Yoshio,1,Man of the People,MJAPKaji
+,Minister of Armament,Kato Kanju,1,Resource Industrialist,MJAPKato
+,Head of Government,Nishio Suehiro,1,Flamboyant Tough Guy,MJAPNishio
+,Minister of Security,Nishio Suehiro,1,Crime Fighter,MJAPNishio
+,Foreign Minister,Nosaka Sanzo,1,Ideological Crusader,MJAPNosaka2
+,Head of Government,Nosaka Sanzo,1,Backroom Backstabber,MJAPNosaka2
+,Head of Government,Oyama Ikuo,1,Ambitious Union Boss,MJAPOyama
+,Head of Military Intelligence,Oyama Ikuo,1,Political Specialist,MJAPOyama
+,Head of Military Intelligence,Sadaichi Kenmotsu,1,Technical Specialist,MJAPSadaichi
+,Foreign Minister,Tanahashi Kotora,1,Great Compromiser,MJAPTanahashi
+,Minister of Armament,Yamada Moritaro,1,Theoretical Scientist,MJAPYamada
+,Foreign Minister,Yamamoto Kenzo,1,The Cloak N Dagger Schemer,MJAPYamamoto
+,Minister of Armament,Yamamoto Kenzo,1,Resource Industrialist,MJAPYamamoto
+,Minister of Security,Yamamoto Senji,1,Crime Fighter,MJAPYamasen
+,Minister of Armament,Arahata Kanson,2,Theoretical Scientist,MJAPArahata
+,Head of Military Intelligence,Arisawa Hiromi,2,Industrial Specialist,MJAPArisawa
+,Head of Military Intelligence,Iwai Akira,2,Industrial Specialist,MJAPIwai
+,Foreign Minister,Katsumata Seiichi,2,Ideological Crusader,MJAPKatsumata
+,Minister of Armament,Katsumata Seiichi,2,Laissez-Faire Capitalist,MJAPKatsumata
+,Head of Military Intelligence,Komaki Omi,2,Technical Specialist,MJAPKomaki
+,Minister of Security,Kuroda Hisao,2,Man of the People,MJAPKuroda
+,Foreign Minister,Minobe Ryokichi,2,Ideological Crusader,MJAPMinobe
+,Minister of Security,Minobe Ryokichi,2,Silent Lawyer,MJAPMinobe
+,Head of Government,Miyamoto Kenji,2,Ambitious Union Boss,MJAPMiyamoto2
+,Minister of Security,Miyamoto Kenji,2,Man of the People,MJAPMiyamoto2
+,Minister of Armament,Ninagawa Torazo,2,Mixed Economy,MJAPNinagawa
+,Minister of Armament,Ouchi Hyoe,2,Administrative Genius,MJAPOuchi
+,Foreign Minister,Sakisaka Itsuro,2,Biased Intellectual,MJAPSakisaka
+,Minister of Security,Sakisaka Itsuro,2,Prince of Terror,MJAPSakisaka
+,Minister of Armament,Sasaki Kozo,2,Resource Industrialist,MJAPSasaki2
+,Foreign Minister,Suzuki Mosaburo,2,Apologetic Clerk,MJAPSuzumo2
+,Head of Government,Suzuki Mosaburo,2,Ambitious Union Boss,MJAPSuzumo2
+,Minister of Armament,Tsushima Tadayuki,2,Theoretical Scientist,MJAPTsushima
+,Foreign Minister,Wada Hiroo,2,Biased Intellectual,MJAPWada
+,Head of Government,Wada Hiroo,2,Silent Workhorse,MJAPWada
+,Minister of Armament,Wada Hiroo,2,Planned Economy Proponent,MJAPWada
+,Head of Government,Yamakawa Hitoshi,2,Flamboyant Tough Guy,MJAPYamakawa
+,Minister of Armament,Yokoyama Toshiaki,2,Resource Industrialist,MJAPYokoyama
+,Head of Government,Abe Iso,3,Naive Optimist,MJAPAbe
+,Head of Government,Eda Saburo,3,Flamboyant Tough Guy,MJAPEda
+,Minister of Armament,Eda Saburo,3,Resource Industrialist,MJAPEda
+,Minister of Security,Eda Saburo,3,Crime Fighter,MJAPEda
+,Head of Government,Hirokawa Kozen,3,Backroom Backstabber,MJAPHirokawa
+,Minister of Security,Hirokawa Kozen,3,Back Stabber,MJAPHirokawa
+,Minister of Armament,Kagawa Toyohiko,3,Resource Industrialist,MJAPKagawa
+,Foreign Minister,Katayama Tetsu,3,Ideological Crusader,MJAPKatayama2
+,Head of Government,Katayama Tetsu,3,Happy Amateur,MJAPKatayama2
+,Head of Military Intelligence,Katayama Tetsu,3,Naval Intelligence Specialist,MJAPKatayama2
+,Minister of Security,Kikuchi Yonosuke,3,Silent Lawyer,MJAPKikuchi
+,Minister of Security,Matsumoto Jiichiro,3,Man of the People,MJAPMatsumoto
+,Minister of Armament,Matsuoka Komakichi,3,Laissez-Faire Capitalist,MJAPMatsuoka
+,Minister of Security,Matsuoka Komakichi,3,Compassionate Gentleman,MJAPMatsuoka
+,Minister of Armament,Mizutani Chozaburo,3,Resource Industrialist,MJAPMizutani
+,Head of Military Intelligence,Morito Tatsuo,3,Technical Specialist,MJAPMorito
+,Head of Military Intelligence,Narita Tomomi,3,Technical Specialist,MJAPNarita
+,Foreign Minister,Nishimura Eiichi,3,Apologetic Clerk,MJAPNishimura
+,Head of Military Intelligence,Nishimura Eiichi,3,Political Specialist,MJAPNishimura
+,Minister of Security,Sunaga Ko,3,Crime Fighter,MJAPSunaga
+,Foreign Minister,Suzuki Bunji,3,Great Compromiser,MJAPSuzuki
+,Head of Military Intelligence,Suzuki Bunji,3,Political Specialist,MJAPSuzuki
+,Head of Military Intelligence,Tagawa Daikichiro,3,Technical Specialist,MJAPTagawa
+,Foreign Minister,Takano Iwasaburo,3,Biased Intellectual,MJAPTakano
+,Minister of Security,Takayama Yoshizo,3,Compassionate Gentleman,MJAPTakayama
+,Minister of Armament,Wakimura Yoshitaro,3,Theoretical Scientist,MJAPWakimura
+,Minister of Armament,Yonekubo Mitsusuke,3,Battle Fleet Proponent,MJAPYonekubo
+,Minister of Security,Abe Yoshishige,4,Silent Lawyer,MJAPYoshishige
+,Chief of Air Force,Inoue Shigeyoshi,4,Naval Aviation Doctrine,MJAPInoue2
+,Chief of Navy,Inoue Shigeyoshi,4,Power Projection Doctrine,MJAPInoue2
+,Minister of Security,Minobe Tatsukichi,4,Silent Lawyer,MJAPTatsukichi
+,Head of Military Intelligence,Sasaki Soichi,4,Technical Specialist,MJAPSasaki
+,Chief of Army,Umezu Yoshijiro,4,Guns and Butter Doctrine,MJAPUmezu
+,Chief of Staff,Umezu Yoshijiro,4,School of Fire Support,MJAPUmezu
+,Minister of Armament,Fukuda Takeo,5,Laissez-Faire Capitalist,MJAPFukuda
+,Head of Government,Hamaguchi Osachi,5,Flamboyant Tough Guy,MJAPHamaguchi
+,Foreign Minister,Hirota Koki,5,Great Compromiser,MJAPHirota2
+,Chief of Navy,Hori Teikichi,5,Power Projection Doctrine,MJAPHori3
+,Head of Military Intelligence,Ikeda Masanosuke,5,Technical Specialist,MJAPIkeda
+,Chief of Army,Imai Takeo,5,Elastic Defence Doctrine,MJAPImai
+,Chief of Staff,Imai Takeo,5,School of Manoeuvre,MJAPImai
+,Minister of Armament,Inoue Junnosuke,5,Bank President,MJAPInoue
+,Foreign Minister,Ishibashi Tanzan,5,Apologetic Clerk,MJAPIshibashi2
+,Head of Government,Ishibashi Tanzan,5,Silent Workhorse,MJAPIshibashi2
+,Head of Military Intelligence,Ishibashi Tanzan,5,Industrial Specialist,MJAPIshibashi2
+,Minister of Armament,Ishibashi Tanzan,5,Keynesian Economy,MJAPIshibashi2
+,Foreign Minister,Ishii Itaro,5,Great Compromiser,MJAPIshii
+,Minister of Security,Iwata Chuzo,5,Crime Fighter,MJAPIwata
+,Minister of Security,Izawa Takio,5,Compassionate Gentleman,MJAPIzawa
+,Minister of Security,Kanamori Tokujiro,5,Silent Lawyer,MJAPKanamori
+,Foreign Minister,Kawai Tatsuo,5,The Cloak N Dagger Schemer,MJAPKawai
+,Minister of Security,Kawasaki Katsu,5,Man of the People,MJAPKawasaki
+,Minister of Security,Kawasaki Takukichi,5,Silent Lawyer,MJAPKawasaki2
+,Minister of Armament,Kimura Kozaemon,5,Construction Magnate,MJAPKimura2
+,Minister of Security,Kimura Kozaemon,5,Man of the People,MJAPKimura2
+,Minister of Armament,Kitamura Tokutaro,5,Resource Industrialist,MJAPKitamura
+,Minister of Security,Kiyose Ichiro,5,Silent Lawyer,MJAPKiyose
+,Minister of Security,Koyama Shoju,5,Media Magnate,MJAPKoyama
+,Head of Government,Machida Chuji,5,Naive Optimist,MJAPMachida2
+,Head of Military Intelligence,Machida Chuji,5,Technical Specialist,MJAPMachida2
+,Minister of Armament,Machida Chuji,5,Laissez-Faire Capitalist,MJAPMachida2
+,Head of Military Intelligence,Maeda Tamon,5,Political Specialist,MJAPTamon
+,Minister of Security,Matsuda Takechiyo,5,Man of the People,MJAPMatsutake
+,Foreign Minister,Matsudaira Tsuneo,5,The Cloak N Dagger Schemer,MJAPMatsudaira
+,Head of Government,Matsumura Kenzo,5,Silent Workhorse,MJAPMatsumura
+,Minister of Armament,Matsumura Kenzo,5,Resource Industrialist,MJAPMatsumura
+,Foreign Minister,Matsuura Shutaro,5,Great Compromiser,MJAPMatsuura
+,Minister of Armament,Matsuura Shutaro,5,Resource Industrialist,MJAPMatsuura
+,Head of Government,Miki Bukichi,5,Backroom Backstabber,MJAPMiki
+,Minister of Armament,Miki Bukichi,5,Administrative Genius,MJAPMiki
+,Foreign Minister,Miki Takeo,5,Ideological Crusader,MJAPTakeo
+,Minister of Security,Miki Takeo,5,Compassionate Gentleman,MJAPTakeo
+,Minister of Armament,Nakamura Sannojo,5,Resource Industrialist,MJAPNakasan
+,Head of Military Intelligence,Nakamura Umekichi,5,Political Specialist,M5231
+,Minister of Security,Nakamura Umekichi,5,Silent Lawyer,M5231
+,Minister of Security,Narahashi Wataru,5,Back Stabber,MJAPNarahashi
+,Head of Military Intelligence,Noda Bunichiro,5,Technical Specialist,MJAPNoda
+,Foreign Minister,Okazaki Katsuo,5,Biased Intellectual,MJAPOkazaki
+,Head of Military Intelligence,Ozawa Saeki,5,Industrial Specialist,MJAPOzawa2
+,Foreign Minister,Saito Hiroshi,5,Ideological Crusader,MJAPSaito2
+,Minister of Security,Saito Takao,5,Crime Fighter,MJAPSaito
+,Minister of Security,Sakurai Hyogoro,5,Silent Lawyer,MJAPSakurai
+,Minister of Armament,Sakurauchi Yukio,5,Resource Industrialist,MJAPSakurauchi
+,Foreign Minister,Sato Naotake,5,The Cloak N Dagger Schemer,MJAPSato2
+,Minister of Armament,Shibusawa Keizo,5,Industrialiser,MJAPShibusawa
+,Foreign Minister,Shidehara Kijuro,5,Biased Intellectual,MJAPShidehara2
+,Minister of Armament,Tanaka Kakuei,5,Corrupt Kleptocrat,M5225
+,Chief of Army,Tashiro Kanichiro,5,Decisive Battle Doctrine,MJAPKanichiro2
+,Chief of Staff,Tashiro Kanichiro,5,School of Psychology,MJAPKanichiro2
+,Minister of Armament,Tawara Magoichi,5,Laissez-Faire Capitalist,MJAPTawara
+,Foreign Minister,Tomabechi Gizo,5,Iron Fisted Brute,MJAPTomabechi
+,Head of Military Intelligence,Tsurumi Yusuke,5,Political Specialist,MJAPTsurumi
+,Head of Government,Ugaki Kazushige,5,Old General,MJAPUgaki2
+,Head of Military Intelligence,Ugaki Kazushige,5,Political Specialist,MJAPUgaki2
+,Minister of Armament,Usami Makoto,5,Theoretical Scientist,M5227
+,Foreign Minister,Utsunomiya Tokuma,5,Ideological Crusader,MJAPUtsunomiya
+,Head of Government,Wakatsuki Reijiro,5,Happy Amateur,MJAPWakatsuki
+,Chief of Air Force,Yamamoto Isoroku,5,Naval Aviation Doctrine,LJAPYamamotoIsoroku2
+,Chief of Navy,Yamamoto Isoroku,5,Power Projection Doctrine,LJAPYamamotoIsoroku2
+,Chief of Navy,Yonai Mitsumasa,5,Open Seas Doctrine,LJAPYonaiMitsumasa
+,Minister of Armament,Yonai Mitsumasa,5,Battle Fleet Proponent,LJAPYonaiMitsumasa
+,Chief of Navy,Yoshida Zengo,5,Indirect Approach Doctrine,MJAPYoshida3
+,Minister of Security,Ando Masazumi,6,Compassionate Gentleman,MJAPAndo
+,Head of Military Intelligence,Arisue Seizo,6,Political Specialist,MJAPArisue
+,Foreign Minister,Ashida Hitoshi,6,Ideological Crusader,MJAPAshida2
+,Head of Government,Ashida Hitoshi,6,Naive Optimist,MJAPAshida2
+,Chief of Air Force,Genda Minoru,6,Air Superiority Doctrine,MJAPGenda
+,Minister of Security,Hanamura Shiro,6,Prince of Terror,M5233
+,Head of Government,Hatoyama Ichiro,6,Flamboyant Tough Guy,MJAPHatoyama2
+,Head of Military Intelligence,Hatoyama Ichiro,6,Dismal Enigma,MJAPHatoyama
+,Minister of Security,Hatoyama Ichiro,6,Prince of Terror,MJAPHatoyama
+,Minister of Security,Hayashi Joji,6,Silent Lawyer,MJAPHayashi
+,Minister of Armament,Hirose Toyosaku,6,Laissez-Faire Capitalist,MJAPHirose
+,Head of Military Intelligence,Hori Eizo,6,Logistics Specialist,MJAPHori
+,Foreign Minister,Hori Shigeru,6,Iron Fisted Brute,MJAPHori2
+,Foreign Minister,Horinouchi Kensuke,6,The Cloak N Dagger Schemer,MJAPHorinouchi
+,Minister of Armament,Hoshijima Niro,6,Resource Industrialist,MJAPHoshijima2
+,Head of Military Intelligence,Hoshina Zenshiro,6,Naval Intelligence Specialist,MJAPHoshina
+,Chief of Navy,Hyakutake Gengo,6,Open Seas Doctrine,MJAPHyakutake
+,Minister of Armament,Ichimada Hisato,6,Bank President,M5222
+,Foreign Minister,Iguchi Sadao,6,Apologetic Clerk,MJAPIguchi
+,Minister of Armament,Ikeda Hayato,6,Administrative Genius,M5213
+,Minister of Armament,Ikeda Shigeaki,6,Laissez-Faire Capitalist,MJAPIkeda2
+,Chief of Army,Imamura Hitoshi,6,Guns and Butter Doctrine,MJAPImamura
+,Chief of Staff,Imamura Hitoshi,6,School of Defence,MJAPImamura
+,Head of Government,Inukai Takeru,6,Happy Amateur,MJAPInukai
+,Head of Military Intelligence,Inukai Takeru,6,Political Specialist,MJAPInukai
+,Minister of Security,Inukai Takeru,6,Back Stabber,MJAPInukai
+,Head of Government,Inukai Tsuyoshi,6,Naive Optimist,MJAPInukai2
+,Head of Military Intelligence,Izumiyama Sanroku,6,Technical Specialist,MJAPIzumiyama
+,Chief of Air Force,Kawabe Masakazu,6,Army Aviation Doctrine,MJAPKawabe
+,Chief of Army,Kawabe Masakazu,6,Elastic Defence Doctrine,MJAPKawabe
+,Chief of Staff,Kawabe Masakazu,6,School of Defence,MJAPKawabe
+,Chief of Army,Kawabe Torashiro,6,Static Defence Doctrine,MJAPKawabe2
+,Chief of Staff,Kawabe Torashiro,6,School of Fire Support,MJAPKawabe2
+,Minister of Security,Kawamura Takeji,6,Compassionate Gentleman,MJAPKawamura
+,Chief of Navy,Kobayashi Seizo,6,Decisive Naval Battle Doctrine,MJAPKobayashi2
+,Chief of Navy,Koga Mineichi,6,Open Seas Doctrine,MJAPKoga
+,Head of Government,Kono Ichiro,6,Corporate Suit,MJAPKono
+,Head of Military Intelligence,Kono Ichiro,6,Dismal Enigma,MJAPKono
+,Minister of Armament,Kono Ichiro,6,Laissez-Faire Capitalist,MJAPKono
+,Foreign Minister,Kosaka Zentaro,6,Biased Intellectual,MJAPKosaka
+,Head of Military Intelligence,Kosaka Zentaro,6,Industrial Specialist,MJAPKosaka
+,Foreign Minister,Kubota Kanichiro,6,Iron Fisted Brute,M5215
+,Chief of Army,Kuribayashi Tadamichi,6,Elastic Defence Doctrine,MJAPKuribayashi
+,Chief of Staff,Kuribayashi Tadamichi,6,School of Psychology,MJAPKuribayashi
+,Minister of Armament,Matsumoto Joji,6,Resource Industrialist,MJAPJoji
+,Minister of Armament,Matsuno Tsuruhei,6,Resource Industrialist,MJAPMatsuno
+,Minister of Security,Matsuno Tsuruhei,6,Crime Fighter,MJAPMatsuno
+,Head of Government,Mitsuchi Chuzo,6,Silent Workhorse,MJAPMitsuchi
+,Minister of Armament,Mitsuchi Chuzo,6,Resource Industrialist,MJAPMitsuchi
+,Head of Government,Mizuno Rentaro,6,Happy Amateur,MJAPMizuno
+,Minister of Armament,Mizuta Mikio,6,Laissez-Faire Capitalist,M5224
+,Minister of Armament,Mukai Tadaharu,6,Laissez-Faire Capitalist,M5221
+,Head of Military Intelligence,Nakasone Yasuhiro,6,Technical Specialist,MJAPNakasone
+,Minister of Security,Nakasone Yasuhiro,6,Man of the People,MJAPNakasone
+,Foreign Minister,Nomura Kichisaburo,6,General Staffer,MJAPNomura2
+,Minister of Security,Odachi Shigeo,6,Man of the People,MJAPOdachi2
+,Minister of Armament,Oguchi Kiroku,6,Theoretical Scientist,MJAPOguchi
+,Minister of Security,Ohara Naoshi,6,Silent Lawyer,MJAPOhara2
+,Foreign Minister,Ohira Masayoshi,6,The Cloak N Dagger Schemer,M5219
+,Head of Military Intelligence,Ohira Masayoshi,6,Political Specialist,M5219
+,Minister of Security,Omura Seiichi,6,Silent Lawyer,MJAPOmura
+,Minister of Security,Ono Banboku,6,Man of the People,MJAPOno
+,Minister of Armament,Oya Shinzo,6,Industrial Chemist,MJAPOya
+,Chief of Navy,Ozawa Jisaburo,6,Power Projection Doctrine,MJAPOzawa
+,Minister of Security,Saito Noboru,6,Crime Fighter,MJAPNoboru
+,Minister of Armament,Sakonji Seizo,6,Battle Fleet Proponent,MJAPSakonji2
+,Chief of Air Force,Sanagi Sadamu,6,Naval Aviation Doctrine,MJAPSanagi
+,Chief of Navy,Sawamoto Yorio,6,Base Control Doctrine,MJAPSawamoto
+,Foreign Minister,Shigemitsu Mamoru,6,Great Compromiser,MJAPShigemitsu
+,Chief of Navy,Shimizu Mitsumi,6,Indirect Approach Doctrine,MJAPShimizu
+,Chief of Army,Shimomura Sadamu,6,Static Defence Doctrine,MJAPShimomura2
+,Chief of Staff,Shimomura Sadamu,6,School of Defence,MJAPShimomura2
+,Chief of Air Force,Shimoyama Takuma,6,Air Superiority Doctrine,MJAPShimoyama
+,Head of Military Intelligence,Shirasu Jiro,6,Dismal Enigma,MJAPShirasu
+,Head of Military Intelligence,Sugita Ichiji,6,Political Specialist,MJAPSugita
+,Chief of Army,Sugiyama Shigeru,6,Armoured Spearhead Doctrine,MJAPShigeru
+,Chief of Staff,Sugiyama Shigeru,6,School of Manoeuvre,MJAPShigeru
+,Head of Government,Suzuki Kisaburo,6,Happy Amateur,MJAPSuzuki2
+,Minister of Security,Suzuki Kisaburo,6,Prince of Terror,MJAPSuzuki2
+,Chief of Army,Tada Hayao,6,Decisive Battle Doctrine,MJAPTada
+,Chief of Staff,Tada Hayao,6,School of Psychology,MJAPTada
+,Chief of Air Force,Takasu Shiro,6,Naval Aviation Doctrine,MJAPTakasu
+,Head of Military Intelligence,Takasu Shiro,6,Naval Intelligence Specialist,MJAPTakasu
+,Chief of Navy,Tanaka Raizo,6,Indirect Approach Doctrine,MJAPTanaka
+,Foreign Minister,Tani Masayuki,6,Apologetic Clerk,MJAPTani
+,Chief of Air Force,Tanigawa Kazuo,6,Army Aviation Doctrine,MJAPTanigawa2
+,Chief of Staff,Tanigawa Kazuo,6,School of Mass Combat,MJAPTanigawa2
+,Head of Military Intelligence,Tatsumi Eiichi,6,Logistics Specialist,MJAPTatsumi
+,Chief of Air Force,Teramoto Kumaichi,6,Army Aviation Doctrine,MJAPTeramoto
+,Foreign Minister,Togo Shigenori,6,Biased Intellectual,MJAPTogo
+,Chief of Navy,Tomioka Sadatoshi,6,Power Projection Doctrine,MJAPTomioka
+,Chief of Air Force,Tsukada Rikichi,6,Vertical Envelopment Doctrine,MJAPRikichi
+,Chief of Air Force,Tsukahara Nishizo,6,Air Superiority Doctrine,MJAPTsukahara
+,Minister of Armament,Tsushima Juichi,6,Bank President,MJAPTsushima2
+,Foreign Minister,Uehara Etsujiro,6,Biased Intellectual,MJAPUehara
+,Head of Military Intelligence,Uehara Etsujiro,6,Industrial Specialist,MJAPUehara
+,Minister of Armament,Ueki Koshiro,6,Laissez-Faire Capitalist,M5232
+,Minister of Security,Ueki Koshiro,6,Silent Lawyer,M5232
+,Chief of Air Force,Wada Misao,6,Vertical Envelopment Doctrine,M5182
+,Chief of Army,Yahara Hiromichi,6,Elastic Defence Doctrine,MJAPYahara
+,Chief of Staff,Yahara Hiromichi,6,School of Fire Support,MJAPYahara
+,Chief of Navy,Yamaguchi Tamon,6,Power Projection Doctrine,MJAPYamaguchi
+,Chief of Navy,Yamamoto Chikao,6,Power Projection Doctrine,MJAPYamachi
+,Chief of Navy,Yamanashi Katsunoshin,6,Open Seas Doctrine,LJAPYamanashiKatsunoshin
+,Minister of Security,Yamazaki Takeshi,6,Back Stabber,MJAPYamatake
+,Chief of Navy,Yokoyama Ichiro,6,Base Control Doctrine,MJAPYokoyama2
+,Foreign Minister,Yoshida Shigeru,6,Iron Fisted Brute,MJAPYoshida2
+,Foreign Minister,Yoshizawa Kenkichi,6,Great Compromiser,MJAPYoshizawa
+,Head of Government,Yoshizawa Kenkichi,6,Corporate Suit,MJAPYoshizawa
+,Minister of Armament,Yuki Toyotaro,6,Bank President,MJAPYuki
+,Chief of Staff,Abe Nobuyuki,7,School of Fire Support,MJAPAbe3
+,Foreign Minister,Abe Nobuyuki,7,Apologetic Clerk,MJAPAbe3
+,Head of Government,Adachi Kenzo,7,Flamboyant Tough Guy,MJAPAdachi
+,Minister of Security,Adachi Kenzo,7,Man of the People,MJAPAdachi
+,Minister of Security,Akita Kiyoshi,7,Media Magnate,MJAPAkita
+,Chief of Army,Aotsu Kikutaro,7,Guns and Butter Doctrine,M5164
+,Foreign Minister,Arita Hachiro,7,Ideological Crusader,MJAPArita
+,Minister of Armament,Chiba Saburo,7,Resource Industrialist,MJAPChiba
+,Chief of Army,Fujioka Takeo,7,Elastic Defence Doctrine,MJAPFujioka
+,Chief of Navy,Fujita Hisanori,7,Decisive Naval Battle Doctrine,MJAPFujita
+,Foreign Minister,Fujiyama Aiichiro,7,Apologetic Clerk,MJAPFujiyama
+,Minister of Armament,Fujiyama Aiichiro,7,Resource Industrialist,MJAPFujiyama
+,Chief of Navy,Fukudome Shigeru,7,Decisive Naval Battle Doctrine,MJAPFukudome
+,Head of Military Intelligence,Hamano Seigo,7,Technical Specialist,MJAPHamano
+,Chief of Air Force,Hata Shunroku,7,Army Aviation Doctrine,MJAPHata
+,Chief of Army,Hata Shunroku,7,Guns and Butter Doctrine,MJAPHata
+,Chief of Staff,Hata Shunroku,7,School of Fire Support,MJAPHata
+,Minister of Armament,Hatta Yoshiaki,7,Resource Industrialist,MJAPHatta2
+,Foreign Minister,Horikiri Zenbee,7,Ideological Crusader,MJAPHorikiri
+,Minister of Armament,Horikiri Zenbee,7,Military Entrepreneur,MJAPHorikiri
+,Head of Military Intelligence,Horikiri Zenjiro,7,Logistics Specialist,MJAPHorikiri2
+,Minister of Security,Horikiri Zenjiro,7,Crime Fighter,MJAPHorikiri2
+,Head of Military Intelligence,Inoue Tadashiro,7,Technical Specialist,MJAPInotada
+,Minister of Armament,Inoue Tadashiro,7,Theoretical Scientist,MJAPInotada
+,Head of Government,Ishii Mitsujiro,7,Silent Workhorse,MJAPMitsujiro
+,Minister of Armament,Ishii Mitsujiro,7,Laissez-Faire Capitalist,MJAPMitsujiro
+,Head of Military Intelligence,Ishiwara Kanji,7,Dismal Enigma,MJAPIshiwara
+,Head of Government,Kanemitsu Tsuneo,7,Happy Amateur,MJAPKanemitsu
+,Minister of Security,Kanemitsu Tsuneo,7,Health and Safety,MJAPKanemitsu
+,Minister of Security,Kato Ryogoro,7,Compassionate Gentleman,MJAPKato2
+,Foreign Minister,Kato Sotomatsu,7,The Cloak N Dagger Schemer,M5094
+,Minister of Armament,Katsu Masanori,7,laissez-faire capitalist,MJAPKatsu
+,Head of Military Intelligence,Kawashima Shojiro,7,Industrial Specialist,MJAPKawashima
+,Minister of Armament,Kawashima Shojiro,7,Construction Magnate,MJAPKawashima
+,Minister of Security,Kimura Tokutaro,7,Efficient Sociopath,MJAPKimura
+,Minister of Security,Kodama Hideo,7,Silent Lawyer,MJAPKodama2
+,Minister of Security,Koizumi Junya,7,Man of the People,MJAPKoizumi
+,Foreign Minister,Kurusu Saburo,7,Biased Intellectual,M5059
+,Head of Military Intelligence,Maeda Minoru,7,Technical Specialist,MJAPMaeda2
+,Head of Government,Maeda Yonezo,7,Silent Workhorse,MJAPMaeda
+,Minister of Armament,Maeda Yonezo,7,Resource Industrialist,MJAPMaeda
+,Chief of Navy,Matsuda Chiaki,7,Decisive Naval Battle Doctrine,MJAPMatsuda
+,Foreign Minister,Matsumoto Shunichi,7,The Cloak N Dagger Schemer,MJAPShunichi
+,Minister of Security,Matsuzaka Hiromasa,7,Secret Police Chief,MJAPMatsuzaka
+,Minister of Armament,Miyoshi Hideyuki,7,Tank Proponent,MJAPMiyoshi
+,Minister of Security,Mochizuki Keisuke,7,Efficient Sociopath,MJAPMochizuki
+,Head of Military Intelligence,Morinaga Teiichiro,7,Industrial Specialist,M5234
+,Chief of Army,Muto Akira,7,Decisive Battle Doctrine,MJAPMuto
+,Chief of Staff,Muto Akira,7,School of Defence,MJAPMuto
+,Minister of Security,Nagai Ryutaro,7,Prince of Terror,MJAPNagai
+,Chief of Navy,Nagano Osami,7,Power Projection Doctrine,MJAPNagano
+,Head of Government,Nakajima Chikuhei,7,Old Airmarshal,MJAPNakajima2
+,Minister of Armament,Nakajima Chikuhei,7,Strategic Air Proponent,MJAPNakajima2
+,Chief of Army,Ninomiya Harushige,7,Guns and Butter Doctrine,MJAPNinomiya
+,Chief of Staff,Ninomiya Harushige,7,School of Manoeuvre,MJAPNinomiya
+,Head of Military Intelligence,Noda Takeo,7,Political Specialist,MJAPNodake
+,Head of Military Intelligence,Nomura Naokuni,7,Naval Intelligence Specialist,MJAPNomura
+,Head of Government,Oasa Tadao,7,Corporate Suit,MJAPOoasa
+,Minister of Security,Oasa Tadao,7,Crime Fighter,MJAPOoasa
+,Minister of Armament,Ogasawara Sankuro,7,bank president,MJAPOgasawara
+,Head of Government,Ogata Taketora,7,Smiling Oilman,MJAPOgata
+,Head of Military Intelligence,Ogata Taketora,7,Political Specialist,MJAPOgata
+,Minister of Security,Ogata Taketora,7,Media Magnate,MJAPOgata
+,Foreign Minister,Ogawa Gotaro,7,Iron Fisted Brute,MJAPOgawa2
+,Minister of Armament,Ogawa Gotaro,7,laissez-faire capitalist,MJAPOgawa2
+,Chief of Air Force,Oikawa Koshiro,7,Naval Aviation Doctrine,MJAPOikawa
+,Chief of Navy,Oikawa Koshiro,7,Base Control Doctrine,MJAPOikawa
+,Head of Military Intelligence,Oka Takazumi,7,Logistics Specialist,MJAPOka
+,Foreign Minister,Okada Keisuke,7,Iron Fisted Brute,MJAPOkada2
+,Head of Military Intelligence,Sakomizu Hisatsune,7,Industrial Specialist,MJAPSakomizu
+,Minister of Armament,Sato Eisaku,7,Theoretical Scientist,MJAPSato3
+,Head of Military Intelligence,Shigemune Yuzo,7,Political Specialist,MJAPShigemune
+,Foreign Minister,Shimada Toshio,7,The Cloak N Dagger Schemer,MJAPShimada
+,Head of Military Intelligence,Shimomura Hiroshi,7,Dismal Enigma,MJAPShimomura
+,Chief of Air Force,Sugawara Michio,7,Air Superiority Doctrine,MJAPSugawara
+,Head of Military Intelligence,Suzuki Kantaro,7,Political Specialist,M5037
+,Minister of Security,Tago Kazutami,7,Compassionate Gentleman,MJAPTago
+,Chief of Navy,Toyoda Soemu,7,Decisive Naval Battle Doctrine,MJAPToyoda3
+,Chief of Air Force,Toyoda Teijiro,7,Naval Aviation Doctrine,MJAPToyoda2
+,Chief of Navy,Toyoda Teijiro,7,Base Control Doctrine,MJAPToyoda2
+,Foreign Minister,Toyoda Teijiro,7,General Staffer,MJAPToyoda2
+,Minister of Armament,Toyoda Teijiro,7,Steel Magnate,MJAPToyoda2
+,Minister of Armament,Tsutsumi Yasujiro,7,laissez-faire capitalist,MJAPTsutsumi
+,Minister of Armament,Uchida Nobuya,7,Battle Fleet Proponent,MJAPUchida
+,Minister of Security,Ushio Shigenosuke,7,Crime Fighter,MJAPUshio
+,Minister of Security,Yamazaki Tatsunosuke,7,Compassionate Gentleman,MJAPYamazaki
+,Minister of Security,Abe Genki,8,Secret Police Chief,MJAPAbe2
+,Minister of Armament,Akinaga Tsukizo,8,Military Entrepreneur,MJAPAkinaga
+,Chief of Air Force,Anami Korechika,8,Vertical Envelopment Doctrine,MJAPAnami
+,Chief of Army,Anami Korechika,8,Static Defence Doctrine,MJAPAnami
+,Chief of Staff,Anami Korechika,8,School of Psychology,MJAPAnami
+,Minister of Armament,Aoki Kazuo,8,Planned Economy Proponent,MJAPAoki
+,Chief of Air Force,Doihara Kenji,8,Army Aviation Doctrine,MJAPDoihara
+,Minister of Security,Fujie Keisuke,8,Prince of Terror,M5115
+,Chief of Navy,Fushimi Hiroyasu,8,Power Projection Doctrine,MJAPFushimi
+,Minister of Armament,Godo Takuo,8,Steel Magnate,MJAPGodo
+,Chief of Army,Hattori Takushiro,8,Decisive Battle Doctrine,MJAPHattori
+,Chief of Staff,Hattori Takushiro,8,School of Defence,MJAPHattori
+,Head of Government,Hayashi Senjuro,8,Old General,MJAPHayashi2
+,Chief of Air Force,Higashikuni Naruhiko,8,Carpet Bombing Doctrine,MJAPHigashikuni
+,Head of Military Intelligence,Higuchi Kiichiro,8,Logistics Specialist,MJAPHiguchi
+,Minister of Security,Hirabayashi Morito,8,Compassionate Gentleman,MJAPHirabayashi
+,Head of Government,Hiranuma Kiichiro,8,Backroom Backstabber,MJAPHiranuma2
+,Foreign Minister,Honda Kumataro,8,Iron Fisted Brute,MJAPHonda
+,Head of Military Intelligence,Honma Masaharu,8,Dismal Enigma,MJAPHonma
+,Minister of Security,Iimura Jo,8,Crime Fighter,MJAPIimura
+,Head of Military Intelligence,Iwakuro Hideo,8,Dismal Enigma,MJAPIwakuro
+,Chief of Army,Kanin Kotohito,8,Static Defence Doctrine,MJAPKanin2
+,Chief of Staff,Kanin Kotohito,8,School of Defence,MJAPKanin2
+,Minister of Security,Kato Hakujiro,8,Man of the People,M5124
+,Minister of Armament,Kobayashi Ichizo,8,Resource Industrialist,MJAPKobayashi
+,Chief of Army,Koiso Kuniaki,8,Guns and Butter Doctrine,MJAPKoiso
+,Chief of Staff,Koiso Kuniaki,8,School of Defence,MJAPKoiso
+,Head of Military Intelligence,Koiso Kuniaki,8,Industrial Specialist,MJAPKoiso
+,Minister of Armament,Koiso Kuniaki,8,Air Superiority Proponent,MJAPKoiso
+,Foreign Minister,Komai Tokuzo,8,The Cloak N Dagger Schemer,MJAPKomai
+,Chief of Air Force,Kozono Yasuna,8,Air Superiority Doctrine,MJAPKozono
+,Chief of Army,Nagata Tetsuzan,8,Decisive Battle Doctrine,MJAPNagata
+,Chief of Staff,Nagata Tetsuzan,8,School of Mass Combat,MJAPNagata
+,Head of Government,Nagata Tetsuzan,8,Old General,MJAPNagata
+,Minister of Security,Nakajima Kesago,8,Man of the People,MJAPNakajima
+,Minister of Security,Nakamura Aketo,8,Crime Fighter,MJAPNakamura
+,Head of Military Intelligence,Okamura Yasuji,8,Political Specialist,MJAPOkamura
+,Minister of Armament,Onishi Takijiro,8,Air to Sea Proponent,MJAPOnishi
+,Chief of Navy,Osumi Mineo,8,Decisive Naval Battle Doctrine,MJAPOsumi
+,Head of Military Intelligence,Ota Kozo,8,Technical Specialist,MJAPOta
+,Chief of Navy,Shimada Shigetaro,8,Indirect Approach Doctrine,MJAPShimada2
+,Head of Government,Shiono Suehiko,8,Corporate Suit,MJAPShiono
+,Minister of Security,Shiono Suehiko,8,Efficient Sociopath,MJAPShiono
+,Head of Government,Shoda Kazue,8,Naive Optimist,MJAPShoda
+,Minister of Armament,Shoda Kazue,8,Laissez-Faire Capitalist,MJAPShoda
+,Chief of Army,Sugiyama Hajime,8,Decisive Battle Doctrine,MJAPSugiyama2
+,Chief of Staff,Sugiyama Hajime,8,School of Defence,MJAPSugiyama2
+,Chief of Navy,Takahashi Sankichi,8,Power Projection Doctrine,MJAPTakahashi
+,Minister of Security,Tanabe Harumichi,8,Crooked Kleptocrat,MJAPTanabe
+,Head of Government,Tanaka Giichi,8,Old General,MJAPTanaka3
+,Head of Military Intelligence,Tanaka Ryukichi,8,Political Specialist,MJAPTanaka2
+,Foreign Minister,Tatekawa Yoshitsugu,8,General Staffer,MJAPTatekawa
+,Minister of Armament,Terauchi Hisaichi,8,Tank Proponent,MJAPTerauchi
+,Minister of Security,Teshima Fusataro,8,Prince of Terror,MJAPTeshima
+,Chief of Air Force,Tojo Hideki,8,Army Aviation Doctrine,MJAPTojo
+,Chief of Army,Tojo Hideki,8,Elastic Defence Doctrine,MJAPTojo
+,Chief of Staff,Tojo Hideki,8,School of Psychology,MJAPTojo
+,Foreign Minister,Tojo Hideki,8,General Staffer,MJAPTojo
+,Head of Government,Tojo Hideki,8,Old General,MJAPTojo
+,Minister of Armament,Tojo Hideki,8,Infantry Proponent,MJAPTojo
+,Minister of Security,Tojo Hideki,8,Prince of Terror,MJAPTojo
+,Chief of Army,Tsuchihashi Yuitsu,8,Decisive Battle Doctrine,MJAPTsuchihashi
+,Head of Military Intelligence,Tsuchihashi Yuitsu,8,Technical Specialist,MJAPTsuchihashi
+,Head of Military Intelligence,Tsuji Masanobu,8,Dismal Enigma,MJAPTsuji
+,Chief of Air Force,Ushiroku Jun,8,Army Aviation Doctrine,MJAPUshiroku2
+,Chief of Navy,Yamamoto Eisuke,8,Decisive Naval Battle Doctrine,MJAPYamasuke
+,Foreign Minister,Yamamoto Kumaichi,8,Ideological Crusader,MJAPYamamoto2
+,Head of Military Intelligence,Yamazaki Iwao,8,Industrial Specialist,MJAPYamazaki2
+,Minister of Security,Yamazaki Iwao,8,Prince of Terror,MJAPYamazaki2
+,Minister of Armament,Yoshida Shigeru,8,Military Entrepreneur,MJAPYoshida
+,Minister of Security,Yuzawa Michio,8,Man of the People,MJAPYuzawa
+,Head of Military Intelligence,Akao Bin,9,Dismal Enigma,MJAPAkao
+,Minister of Security,Akao Bin,9,Compassionate Gentleman,MJAPAkao
+,Chief of Army,Araki Sadao,9,Decisive Battle Doctrine,MJAPAraki
+,Chief of Staff,Araki Sadao,9,School of Psychology,MJAPAraki
+,Head of Government,Araki Sadao,9,Flamboyant Tough Guy,MJAPAraki
+,Head of Military Intelligence,Araki Sadao,9,Political Specialist,MJAPAraki
+,Minister of Armament,Arima Yoriyasu,9,Infantry Proponent,MJAPArima
+,Minister of Security,Goto Fumio,9,Prince of Terror,MJAPGoto2
+,Head of Military Intelligence,Hashimoto Kingoro,9,Dismal Enigma,MJAPHashimoto
+,Minister of Security,Hirano Rikizo,9,Crooked Kleptocrat,MJAPHirano
+,Minister of Armament,Hoshino Naoki,9,Resource Industrialist,MJAPHoshino
+,Foreign Minister,Ishihara Koichiro,9,The Cloak N Dagger Schemer,MJAPIshihara
+,Minister of Armament,Ishiwata Sotaro,9,Resource Industrialist,MJAPIshiwata
+,Chief of Navy,Kami Shigenori,9,Decisive Naval Battle Doctrine,MJAPKami
+,Minister of Armament,Kawanami Toyosaku,9,Military Entrepreneur,MJAPKawanami
+,Minister of Security,Kawarada Kakichi,9,Man of the People,MJAPKawarada
+,Head of Government,Kaya Okinori,9,Silent Workhorse,MJAPKaya
+,Minister of Armament,Kaya Okinori,9,Laissez-Faire Capitalist,MJAPKaya
+,Head of Military Intelligence,Kazami Akira,9,Technical Specialist,MJAPKazami
+,Head of Government,Kido Koichi,9,Political Protege,MJAPKido
+,Head of Government,Kishi Nobusuke,9,Backroom Backstabber,MJAPKishi2
+,Minister of Armament,Kishi Nobusuke,9,Planned Economy Proponent,MJAPKishi2
+,Head of Military Intelligence,Kodama Yoshio,9,Industrial Specialist,MJAPKodama
+,Minister of Security,Kodama Yoshio,9,Crooked Kleptocrat,MJAPKodama
+,Foreign Minister,Konoe Fumimaro,9,Apologetic Clerk,MJAPKonoe
+,Head of Government,Konoe Fumimaro,9,Corporate Suit,MJAPKonoe
+,Head of Government,Kuhara Fusanosuke,9,Smiling Oilman,MJAPKuhara
+,Chief of Army,Masaki Jinzaburo,9,Static Defence Doctrine,MJAPMasaki
+,Chief of Staff,Masaki Jinzaburo,9,School of Psychology,MJAPMasaki
+,Head of Government,Masaki Jinzaburo,9,Happy Amateur,MJAPMasaki
+,Foreign Minister,Matsuoka Yosuke,9,Iron Fisted Brute,MJAPMatsuoka2
+,Head of Government,Matsuoka Yosuke,9,Flamboyant Tough Guy,MJAPMatsuoka
+,Foreign Minister,Miyazaki Ryusuke,9,Apologetic Clerk,MJAPMiyazaki
+,Foreign Minister,Murata Shozo,9,Great Compromiser,MJAPMurata
+,Minister of Armament,Murata Shozo,9,Battle Fleet Proponent,MJAPMurata
+,Foreign Minister,Nakano Seigo,9,Biased Intellectual,MJAPNakano
+,Head of Government,Nakano Seigo,9,Ambitious Union Boss,MJAPNakano
+,Head of Military Intelligence,Nishida Mitsugi,9,Political Specialist,MJAPNishida
+,Chief of Air Force,Obata Hideyoshi,9,Air Superiority Doctrine,MJAPObata
+,Minister of Armament,Ogawa Heikichi,9,Corrupt Kleptocrat,MJAPOgawa
+,Minister of Security,Okada Tadahiko,9,Back Stabber,MJAPOkada
+,Foreign Minister,Okawa Shumei,9,Ideological Crusader,MJAPOkawa
+,Head of Military Intelligence,Onodera Makoto,9,Logistics Specialist,MJAPOnodera
+,Foreign Minister,Oshima Hiroshi,9,General Staffer,MJAPOshima
+,Head of Government,Sasakawa Ryoichi,9,Smiling Oilman,MJAPSasakawa
+,Minister of Armament,Sasakawa Ryoichi,9,Air Superiority Proponent,MJAPSasakawa
+,Foreign Minister,Shiina Etsusaburo,9,Great Compromiser,MJAPShiina
+,Head of Military Intelligence,Shiina Etsusaburo,9,Industrial Specialist,MJAPShiina
+,Foreign Minister,Shiratori Toshio,9,Iron Fisted Brute,MJAPShiratori
+,Chief of Navy,Suetsugu Nobumasa,9,Indirect Approach Doctrine,MJAPSuetsugu
+,Minister of Security,Suetsugu Nobumasa,9,Crime Fighter,MJAPSuetsugu
+,Foreign Minister,Suzuki Teiichi,9,General Staffer,MJAPSuzuki3
+,Minister of Armament,Suzuki Teiichi,9,Military Entrepreneur,MJAPSuzuki3
+,Minister of Security,Tachibana Kozaburo,9,Man of the People,MJAPTachibana
+,Minister of Security,Taki Masao,9,Silent Lawyer,MJAPTaki
+,Minister of Armament,Tojo Tadashi,9,Laissez-Faire Capitalist,MJAPTojo2
+,Head of Military Intelligence,Tokugawa Yoshichika,9,Dismal Enigma,MJAPTokugawa
+,Minister of Armament,Tsukumo Kunitoshi,9,Resource Industrialist,MJAPTsukumo
+,Chief of Air Force,Yamashita Tomoyuki,9,Carpet Bombing Doctrine,MJAPYamashita
+,Chief of Army,Yamashita Tomoyuki,9,Armoured Spearhead Doctrine,MJAPYamashita
+,Chief of Staff,Yamashita Tomoyuki,9,School of Manoeuvre,MJAPYamashita
+,Minister of Security,Yanagawa Heisuke,9,Prince of Terror,MJAPYanagawa
+,Chief of Air Force,Yasuda Takeo,9,Naval Aviation Doctrine,MJAPYasuda
+,Minister of Security,Yasui Eiji,9,Health and Safety,MJAPYasui
+,Minister of Armament,Yoshino Shinji,9,Administrative Genius,MJAPYoshino
+,Minister of Armament,Yotsumoto Yoshitaka,9,Resource Industrialist,MJAPYotsumoto
