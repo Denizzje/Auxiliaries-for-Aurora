@@ -1,0 +1,203 @@
+ARG;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
+;;;;;
+35255;Minister of Security;Jose Peter;0;Crooked Kleptocrat;JosePeter
+35241;Head of Military Intelligence;Angel Borlenghi;1;Industrial Specialist;AngelBorlenghi
+35248;Minister of Security;Cipriano Reyes;1;Prince of Terror;kaiserreich_nicolc
+35242;Minister of Armament;Francisco P. Leiros;1;Resource Industrialist;FranciscoLeiros
+35110;Minister of Armament;Alberto Valle;2;Theoretical Scientist;M35110
+35133;Minister of Security;Antonio Ruis Diaz;2;Crooked Kleptocrat;M35025
+35245;Minister of Security;Carlos S. Viamonte;2;Compassionate Gentleman;kaiserreich_carlossanch
+35254;Chief of Army;Domingo Mercante;2;Decisive Battle Doctrine;DomingoMercante
+35253;Chief of Staff;Domingo Mercante;2;School of Fire Support;DomingoMercante
+35250;Head of Government;Domingo Mercante;2;Old General;DomingoMercante
+35252;Head of Military Intelligence;Domingo Mercante;2;Logistics Specialist;DomingoMercante
+35251;Minister of Security;Domingo Mercante;2;Crime Fighter;DomingoMercante
+35263;Chief of Army;Eduardo Avalos;2;Guns and Butter Doctrine;Avalos
+35264;Chief of Staff;Eduardo Avalos;2;School of Mass Combat;Avalos
+35134;Minister of Security;Eva Peron;2;Man of the People;M35134
+35109;Minister of Armament;Francisco Lopez Martin;2;Air to Sea Proponent;M35109
+35155;Head of Military Intelligence;Gustavo Mendoza Curtin;2;Industrial Specialist;M35038
+35232;Foreign Minister;Hipolito Jesus Paz;2;Apologetic Clerk;M35232
+35233;Foreign Minister;Jeronimo Remorino;2;The Cloak N Dagger Schemer;M35233
+35234;Head of Military Intelligence;Jeronimo Remorino;2;Political Specialist;M35233
+35154;Head of Military Intelligence;Jorge di Pascuale;2;Dismal Enigma;M35154
+35237;Chief of Army;Jose Molina Gomez;2;Decisive Battle Doctrine;L120020
+35249;Foreign Minister;Juan A. Bramuglia;2;Biased Intellectual;AtilioBramuglia
+35081;Foreign Minister;Juan Bramuglia;2;Great Compromiser;M35081
+35082;Foreign Minister;Juan Isaac Cooke;2;Iron Fisted Brute;M35082
+35240;Head of Military Intelligence;Mario Bravo;2;Political Specialist;MarioBravo
+35171;Chief of Staff;Pablo San Martin;2;School of Defence;M35027
+35172;Chief of Staff;Paul Castex Lainford;2;School of Psychology;M35172
+35153;Head of Military Intelligence;Pedro S. Casal;2;Naval Intelligence Specialist;M35009
+35274;Head of Government;Américo Ghioldi;3;Political Protege;ARG_americo_ghioldi
+35144;Head of Military Intelligence;Baldassare Baldi Jimenez;3;Logistics Specialist;M35037
+35285;Head of Government;Carlos Sanchez Viamonte;3;Silent Workhorse;ARG_carlos_sanchez_viamonte
+35070;Foreign Minister;Eduardo Miya Bermudez;3;Apologetic Clerk;M35070
+35260;Head of Military Intelligence;Emilio Ravignani;3;Political Specialist;Ravignani
+35257;Chief of Air Force;Enrique Mosconi;3;Air Superiority Doctrine;EnriqueMosconi
+35256;Head of Government;Enrique Mosconi;3;Smiling Oilman;EnriqueMosconi
+35183;Chief of Army;Francisco M. Velez;3;Elastic Defence Doctrine;M35160
+35052;Head of Government;Gustavo Mendoza Curtin;3;Corporate Suit;M35038
+35124;Minister of Security;Gustavo Mendoza Curtin;3;Man of the People;M35038
+35182;Chief of Army;Heriberto La Galine;3;Static Defence Doctrine;M35029
+35096;Minister of Armament;Humberto de Cejas Verda;3;Theoretical Scientist;M35096
+35166;Chief of Staff;Jorge Manni;3;School of Mass Combat;M35159
+35198;Chief of Navy;Luogo Cavalieri;3;Base Control Doctrine;M35198
+35271;Head of Government;Manuel Ugarte;3;Ambitious Union Boss;ARG_manuel_ugarte
+35246;Minister of Security;Nicolas Repetto;3;Silent Lawyer;kaiserreich_nicolc
+35215;Chief of Air Force;Oscar Benavides Perez;3;Naval Aviation Doctrine;M35145
+35145;Head of Military Intelligence;Oscar Benavides Perez;3;Dismal Enigma;M35145
+35069;Foreign Minister;Raul Vicencio Guzman;3;Great Compromiser;M35069
+35123;Minister of Security;Roberto Tito Schiavezza;3;Compassionate Gentleman;M35123
+35244;Head of Military Intelligence;Torcuato Di Tella;3;Technical Specialist;kaiserreich_torcuatod
+35243;Minister of Armament;Torcuato Di Tella;3;Administrative Genius;kaiserreich_torcuatod
+35216;Chief of Air Force;Uribaldi Diaz Brittenberg;3;Army Aviation Doctrine;M35147
+35147;Head of Military Intelligence;Uribaldi Diaz Brittenberg;3;Technical Specialist;M35147
+35139;Head of Military Intelligence;Agustin Rodriguez;4;Political Specialist;M35087
+35118;Minister of Security;Agustin Rodriguez;4;Compassionate Gentleman;M35087
+35258;Minister of Armament;Arturo Frondizi;4;Administrative Genius;Frondizi
+35214;Chief of Air Force;Bartolomeo de la Colina;4;Vertical Envelopment Doctrine;M35095
+35143;Head of Military Intelligence;Bartolomeo de la Colina;4;Industrial Specialist;M35095
+35095;Minister of Armament;Bartolomeo de la Colina;4;Air to Sea Proponent;M35095
+35197;Chief of Navy;Carlos Putalla Vignolo;4;Open Seas Doctrine;M35197
+35276;Head of Government;Crisólogo Larralde;4;Ambitious Union Boss;ARG_crisologo_larralde
+35193;Chief of Navy;Elpidio Gonzalez;4;Base Control Doctrine;M35088
+35141;Head of Military Intelligence;Elpidio Gonzalez;4;Technical Specialist;M35088
+35088;Minister of Armament;Elpidio Gonzalez;4;Resource Industrialist;M35088
+35091;Minister of Armament;Enrique Martinez;4;Military Entrepreneur;M35091
+35116;Minister of Security;Enrique Martinez;4;Man of the People;M35091
+35160;Chief of Staff;Francisco M. Velez;4;School of Fire Support;M35160
+35068;Foreign Minister;Gilbert A. Paez;4;Biased Intellectual;M35068
+35212;Chief of Air Force;Hector del Riva;4;Naval Aviation Doctrine;M35030
+35195;Chief of Navy;Heriberto La Galine;4;Indirect Approach Doctrine;M35029
+35239;Head of Government;Hipólito Yrigoyen;4;Ambitious Union Boss;Kaiserreich Hipólito Yrigoyen
+35064;Foreign Minister;Horacio Hoya San Arte;4;Ideological Crusader;M35064
+35117;Minister of Security;Horacio Hoya San Arte;4;Silent Lawyer;M35064
+35140;Head of Military Intelligence;Jorge de la Torre;4;Dismal Enigma;M35006
+35092;Minister of Armament;Jorge de la Torre;4;Submarine Proponent;M35006
+35211;Chief of Air Force;Jorge Manni;4;Air Superiority Doctrine;M35159
+35210;Chief of Air Force;Jose Tamborni;4;Army Aviation Doctrine;M35089
+35119;Minister of Security;Jose Tamborni;4;Crime Fighter;M35089
+35180;Chief of Army;Juan Blanco Carrera;4;Static Defence Doctrine;M35164
+35164;Chief of Staff;Juan Blanco Carrera;4;School of Defence;M35164
+35196;Chief of Navy;Juan P. Pedemonte;4;Power Projection Doctrine;M35196
+35093;Minister of Armament;Manuel A. Rodriguez;4;Infantry Proponent;M35007
+35065;Foreign Minister;Manuel Ramon Alvarado;4;Iron Fisted Brute;M35065
+35066;Foreign Minister;Marcelo T. Alvear;4;Great Compromiser;M35035
+35049;Head of Government;Marcelo T. Alvear;4;Naive Optimist;M35035
+35259;Foreign Minister;Miguel Zavala Ortiz;4;Ideological Crusader;ZavalaOrtiz
+35178;Chief of Army;Thomas Martinez;4;Guns and Butter Doctrine;M35161
+35161;Chief of Staff;Thomas Martinez;4;School of Manoeuvre;M35161
+35281;Head of Government;Alejandro Gomez;5;Smiling Oilman;ARG_alejandro_gomez
+35268;Head of Government;Enrique Mosca;5;Naive Optimist;ARG_enrique_mosca
+35089;Head of Government;Jose Tamborni;5;Naive Optimist;M35089
+35286;Head of Government;Oscar Alende;5;Backroom Backstabber;ARG_oscar_alende
+35272;Head of Government;Ricardo Balbín;5;Flamboyant Tough Guy;ARG_ricardo_balbin
+35087;Minister of Armament;Agustin Rodriguez;6;Administrative Genius;M35087
+35061;Foreign Minister;Alberto Gilbert;6;Ideological Crusader;M35061
+35142;Head of Military Intelligence;Alberto Gilbert;6;Logistics Specialist;M35061
+35114;Minister of Security;Alberto Gilbert;6;Crooked Kleptocrat;M35061
+35060;Foreign Minister;Alberto Hueyo;6;Apologetic Clerk;M35004
+35236;Foreign Minister;Alberto Podesta Castro;6;Biased Intellectual;M35235
+35235;Head of Government;Alberto Podesta Castro;6;Corporate Suit;M35235
+35283;Head of Government;Alvaro Alsogaray;6;Old General;ARG_alvaro_alsogaray
+35226;Minister of Armament;Benito Sueyro;6;laissez-faire capitalist;M35226
+35288;Head of Government;Carlos Sylvestre Begnis;6;Naive Optimist;ARG_carlos_sylvestre_begnis
+35063;Foreign Minister;Daniel Capo Rodriguez;6;The Cloak N Dagger Schemer;M35063
+35227;Minister of Security;Diego Isidro Mason;6;Silent Lawyer;M35227
+35135;Head of Military Intelligence;Diogenes Taboada;6;Industrial Specialist;M35135
+35168;Chief of Staff;Edelmiro Farrell;6;School of Psychology;M35041
+35190;Chief of Navy;Eleazar Videla;6;Decisive Naval Battle Doctrine;M35190
+35157;Chief of Staff;Felipe Urdapilleta;6;School of Psychology;M35148
+35113;Minister of Security;Jorge Escobar Coll;6;Prince of Terror;M35113
+35156;Chief of Staff;Jose Maria Sarobe;6;School of Fire Support;M35156
+35054;Head of Government;Julio A. Roca;6;Happy Amateur;M35040
+35174;Chief of Army;Laureano Anaya;6;Armoured Spearhead Doctrine;M35174
+35207;Chief of Air Force;Leopoldo Melo;6;Naval Aviation Doctrine;M35112
+35112;Minister of Security;Leopoldo Melo;6;Compassionate Gentleman;M35112
+35084;Minister of Armament;Lisandro de la Torre;6;Resource Industrialist;M35084
+35046;Head of Government;Luis Podesta Costa;6;Backroom Backstabber;M35014
+35085;Minister of Armament;Luis Podesta Costa;6;Air To Ground Proponent;M35014
+35192;Chief of Navy;Luis Silva Carrasco;6;Power Projection Doctrine;M35192
+35048;Head of Government;Manuel Maria de Iriondo;6;Silent Workhorse;M35034
+35136;Head of Military Intelligence;Manuel Maria de Iriondo;6;Political Specialist;M35034
+35111;Minister of Security;Manuel Maria de Iriondo;6;Prince of Terror;M35034
+35208;Chief of Air Force;Oscar Muratorio;6;Vertical Envelopment Doctrine;M35208
+35062;Foreign Minister;Pedro Aramburu;6;General Staffer;M35062
+35086;Minister of Armament;Pedro Aramburu;6;Tank Proponent;M35062
+35158;Chief of Staff;Pedro Pablo Ramirez;6;School of Manoeuvre;M35055
+35137;Head of Military Intelligence;Ramon Castillo;6;Dismal Enigma;M35005
+35273;Head of Government;Reynaldo Pastor;6;Backroom Backstabber;ARG_reynaldo_pastor
+35067;Foreign Minister;Robustiano Patron Costas;6;Iron Fisted Brute;M35036
+35050;Head of Government;Robustiano Patron Costas;6;Smiling Oilman;M35036
+35230;Chief of Navy;Segundo R. Storni;6;Open Seas Doctrine;M35225
+35225;Foreign Minister;Segundo R. Storni;6;Iron Fisted Brute;M35225
+35228;Head of Military Intelligence;Vicente Huidrabra Urribe;6;Technical Specialist;M35228
+35269;Head of Government;Vicente Solá;6;Happy Amateur;ARG_vicente_sola
+35278;Head of Government;Vicente Solano Lima;6;Silent Workhorse;ARG_vicente_solano_lima
+35173;Chief of Army;Agustin P. Justo;7;Elastic Defence Doctrine;M35001
+35002;Head of Government;Agustin P. Justo;7;Old General;M35001
+35004;Minister of Armament;Alberto Hueyo;7;laissez-faire capitalist;M35004
+35262;Head of Government;Alberto Tessaire;7;Old Admiral;Tessaire
+35261;Minister of Security;Alberto Tessaire;7;Crooked Kleptocrat;Tessaire
+35217;Chief of Air Force;Alberto Verdaquer;7;Carpet Bombing Doctrine;M35213
+35075;Foreign Minister;Alfonso Ruiz Guinazu;7;The Cloak N Dagger Schemer;M35075
+35010;Chief of Air Force;Antonio Parodi;7;Air Superiority Doctrine;M35010
+35102;Minister of Armament;Antonio Parodi;7;Air Superiority Proponent;M35010
+35229;Chief of Army;Arturo Rawson;7;Decisive Battle Doctrine;ARG_arturo_rawson
+35224;Head of Government;Arturo Rawson;7;Old Admiral;ARG_arturo_rawson
+35101;Minister of Armament;Augusto Diaz Bustan;7;Military Entrepreneur;M35101
+35219;Chief of Air Force;Carlos Maurino;7;Army Aviation Doctrine;M35020
+35218;Chief of Air Force;Carlos O. Marquez;7;Vertical Envelopment Doctrine;M35017
+35185;Chief of Army;Carlos O. Marquez;7;Decisive Battle Doctrine;M35017
+35167;Chief of Staff;Carlos O. Marquez;7;School of Mass Combat;M35017
+35003;Foreign Minister;Carlos Saavedra Lamas;7;The Cloak N Dagger Schemer;M35003
+35169;Chief of Staff;Carlos von der Becke;7;School of Defence;M35169
+35078;Foreign Minister;Cesar Armeghino;7;Great Compromiser;M35042
+35056;Head of Government;Cesar Armeghino;7;Ambitious Union Boss;M35042
+35103;Minister of Armament;Edelmiro Farrell;7;Infantry Proponent;M35041
+35129;Minister of Security;Eduardo Miya Bermudez;7;Efficient Sociopath;M35070
+35187;Chief of Army;Enrique Mosconi;7;Armoured Spearhead Doctrine;M35187
+35099;Minister of Armament;Federico Pinedo;7;laissez-faire capitalist;M35099
+35148;Head of Military Intelligence;Felipe Urdapilleta;7;Logistics Specialist;M35148
+35220;Chief of Air Force;Gabriel A. Hermansson;7;Air Superiority Doctrine;M35220
+35074;Foreign Minister;Guillermo Rothe;7;Iron Fisted Brute;M35074
+35098;Minister of Armament;Guillermo Rothe;7;Corrupt Kleptocrat;M35074
+35127;Minister of Security;Guillermo Rothe;7;Crooked Kleptocrat;M35074
+35077;Foreign Minister;Hector Vernengo Lima;7;Ideological Crusader;M35023
+35151;Head of Military Intelligence;Humberto Jacinto Vasquez;7;Industrial Specialist;M35138
+35072;Foreign Minister;Jose Maria Cantilo;7;Biased Intellectual;M35072
+35104;Minister of Armament;Jose Maria Cantilo;7;Submarine Proponent;M35072
+35105;Minister of Armament;Juan Oztero Medina;7;Resource Industrialist;M35097
+35073;Foreign Minister;Julio A. Roca;7;Apologetic Clerk;M35040
+35100;Minister of Armament;Julio A. Roca;7;Battle Fleet Proponent;M35040
+35200;Chief of Navy;Leon Sanchez Scasso;7;Open Seas Doctrine;M35200
+35008;Chief of Army;Manuel A. Rodriguez;7;Decisive Battle Doctrine;M35007
+35007;Chief of Staff;Manuel A. Rodriguez;7;School of Defence;M35007
+35184;Chief of Army;Manuel Savio;7;Static Defence Doctrine;M35176
+35076;Foreign Minister;Orlando Peluffo;7;General Staffer;M35076
+35265;Head of Military Intelligence;Patricio Sorondo;7;Dismal Enigma;PatricioSorondo
+35202;Chief of Navy;Pedro Grosso Soto;7;Indirect Approach Doctrine;M35016
+35186;Chief of Army;Pedro Pablo Ramirez;7;Guns and Butter Doctrine;M35055
+35201;Chief of Navy;Pedro Pablo Ramirez;7;Base Control Doctrine;M35126
+35055;Head of Government;Pedro Pablo Ramirez;7;Old General;M35055
+35126;Minister of Security;Pedro Pablo Ramirez;7;Efficient Sociopath;M35126
+35009;Chief of Navy;Pedro S. Casal;7;Base Control Doctrine;M35009
+35047;Head of Government;Ramon Castillo;7;Old General;M35005
+35005;Minister of Security;Ramon Castillo;7;Prince of Terror;M35005
+35053;Head of Government;Roberto M. Ortiz;7;Flamboyant Tough Guy;M35039
+35149;Head of Military Intelligence;Roberto M. Ortiz;7;Industrial Specialist;M35039
+35125;Minister of Security;Tomas Alberto Le Breton;7;Man of the People;M35125
+35150;Head of Military Intelligence;Arturo Rawson;8;Naval Intelligence Specialist;ARG_arturo_rawson
+35132;Minister of Security;Augusto Diaz Bustan;8;Silent Lawyer;M35101
+35079;Foreign Minister;Carlos Alberto Pueyrredon;8;Apologetic Clerk;M35011
+35057;Head of Government;Carlos Alberto Pueyrredon;8;Flamboyant Tough Guy;M35011
+35266;Head of Government;Hortensio Quijano;8;Old General;M35015
+35090;Minister of Armament;Hortensio Quijano;8;Strategic Air Proponent;M35015
+35121;Minister of Security;Hortensio Quijano;8;Efficient Sociopath;M35015
+35179;Chief of Army;Juan Domingo Peron;8;Decisive Battle Doctrine;M35028
+35165;Chief of Staff;Juan Domingo Peron;8;School of Psychology;M35162
+35058;Head of Government;Juan Domingo Peron;8;Naive Optimist;M35021
+35094;Minister of Armament;Juan Domingo Peron;8;Tank Proponent;M35021
+35152;Head of Military Intelligence;Pedro Grosso Soto;8;Dismal Enigma;M35016
+35130;Minister of Security;Roberto M. Ortiz;8;Back Stabber;M35039
