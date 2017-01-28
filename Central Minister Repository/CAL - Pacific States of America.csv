@@ -1,66 +1,66 @@
-CAL;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
-;;;;;
-572051;Minister of Security;Upton Sinclair;2;Compassionate Gentleman;kaiserreich upton_sinclair
-572046;Foreign Minister;Culbert Levy Olson;3;Apologetic Clerk;kaiserreich culbert_olson
-572047;Head of Government;Culbert Levy Olson;3;Naive Optimist;kaiserreich culbert_olson
-572063;Foreign Minister;Edwin T. Layton;3;General Staffer;Kaiserreich_Layton
-572065;Head of Military Intelligence;Edwin T. Layton;3;Naval Intelligence Specialist;Kaiserreich_Layton
-572048;Minister of Armament;Harry Bridges;3;Administrative Genius;kaiserreich harry_bridges
-572049;Head of Military Intelligence;Norman Chandler;3;Technical Specialist;kaiserreich norman_chandler
-572071;Foreign Minister;Sheridan Downey;3;Ideological Crusader;downey
-572057;Minister of Armament;Henry J. Kaiser;4;Administrative Genius;M6082
-572067;Head of Government;Clarence D. Martin;5;Silent Workhorse;mayor_martin_lg
-572072;Foreign Minister;Homer Truett Bone;5;Biased Intellectual;homerbone
-572032;Chief of Air Force;Howard Hughes;5;Army Aviation Doctrine;kaiserreich howardhughes
-572030;Head of Government;Howard Hughes;5;Flamboyant Tough Guy;kaiserreich howardhughes
-572031;Minister of Armament;Howard Hughes;5;Air Superiority Proponent;kaiserreich howardhughes
-572054;Chief of Army;Alexander Patch;6;Decisive Battle Doctrine;L60291
-572056;Chief of Staff;Alexander Patch;6;School of Psychology;L60291
-572042;Chief of Air Force;Donald Douglas;6;Carpet Bombing Doctrine;kaiserreich donald_douglas
-572041;Minister of Armament;Donald Douglas;6;Resource Industrialist;kaiserreich donald_douglas
-572040;Foreign Minister;Frank Merriam;6;Biased Intellectual;kaiserreich frank_merriam
-572060;Head of Military Intelligence;Frank Merrill;6;Logistics Specialist;L60269
-572036;Foreign Minister;Friend W. Richardson;6;Great Compromiser;kaiserreich friend_richardson
-572037;Minister of Armament;Friend W. Richardson;6;Corrupt Kleptocrat;kaiserreich friend_richardson
-572035;Head of Military Intelligence;Harry Chandler;6;Logistics Specialist;kaiserreich harry_chandler
-572061;Head of Government;Henry Arnold;6;old airmarshal;M6167
-572034;Minister of Security;Hiram Johnson;6;Man of the People;kaiserreich hiramjohnson
-572053;Chief of Air Force;James Doolittle;6;Carpet Bombing Doctrine;L60505
-572038;Head of Government;James Rolphs;6;Backroom Backstabber;kaiserreich james_rolphs
-572039;Minister of Security;James Rolphs;6;Silent Lawyer;kaiserreich james_rolphs
-572059;Chief of Army;Joseph Stilwell;6;Elastic Defence Doctrine;L60341
-572058;Chief of Staff;Joseph Stilwell;6;School of Manoeuvre;L60341
-572006;Head of Military Intelligence;Percy Benbough;6;Naval Intelligence Specialist;M572006
-572066;Chief of Navy;Richmond K. Turner;6;Base Control Doctrine;Richmond_K
-572055;Chief of Navy;Robert B. Carney;6;Power Projection Doctrine;Kaiserreich Carney
-572064;Minister of Security;Walter Short;6;Silent Lawyer;Kaiserreich_Walter_short
-572070;Foreign Minister;William H. Standley;6;Ideological Crusader;Standley
-572069;Head of Government;William Myron Keck;6;Smiling Oilman;williamkeck
-572004;Minister of Armament;Angelo Rossi;7;Corrupt Kleptocrat;M572004
-572024;Head of Military Intelligence;Arthur C. Ferguson;7;Industrial Specialist;M572024
-572022;Head of Military Intelligence;Arthur D. Ferguson;7;Dismal Enigma;M572022
-572012;Foreign Minister;David Prescott Burrows;7;General Staffer;M572012
-572023;Head of Military Intelligence;Douglas Moore;7;Technical Specialist;M572023
-572013;Foreign Minister;Earl Warren;7;Ideological Crusader;M572013
-572014;Minister of Armament;Fletcher Bowron;7;Resource Industrialist;M572014
-572003;Foreign Minister;Frank E. Homan;7;Great Compromiser;M572003
-572011;Foreign Minister;Frank L. Shaw;7;Apologetic Clerk;M572011
-572008;Chief of Army;Gene D. James;7;Decisive Battle Doctrine;M572008
-572016;Minister of Armament;Harley Knox;7;Administrative Genius;M572016
-572015;Minister of Armament;Henry Fountain Ashurst;7;Submarine Proponent;M572015
-572007;Chief of Staff;Herbert R. Temple;7;School of Mass Combat;M572007
-572020;Minister of Security;John Dockweiler;7;Crime Fighter;M572020
-572026;Chief of Staff;John J. Hartnett;7;School of Psychology;M572026
-572009;Chief of Navy;Joseph Reeves;7;Power Projection Doctrine;L60458
-572010;Chief of Air Force;Leroy Legowik;7;Vertical Envelopment Doctrine;M572010
-572028;Chief of Navy;M.H. Dorman;7;Decisive Naval Battle Doctrine;M572028
-572017;Minister of Armament;Newell Stewart;7;Air to Sea Proponent;M572017
-572005;Minister of Security;Patrick J. Quinn;7;Crooked Kleptocrat;M572005
-572027;Chief of Army;Raymond C. Byrne;7;Elastic Defence Doctrine;M572027
-572021;Minister of Security;Roger Dearborn Lapham;7;Silent Lawyer;M572021
-572029;Chief of Air Force;Ronald E. Shoopman;7;Air Superiority Doctrine;M572029
-572025;Head of Military Intelligence;Ronald Reagan;7;Political Specialist;M572025
-572019;Minister of Security;Stewart Udall;7;Compassionate Gentleman;M572019
-572018;Minister of Security;Tom Monk;7;Prince of Terror;M572018
-572044;Head of Government;William Randolph Hearst;8;Silent Workhorse;kaiserreich w_r_hearst
-572045;Head of Military Intelligence;William Randolph Hearst;8;Industrial Specialist;kaiserreich w_r_hearst
+CAL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+572051,Minister of Security,Upton Sinclair,2,Compassionate Gentleman,kaiserreich upton_sinclair
+572046,Foreign Minister,Culbert Levy Olson,3,Apologetic Clerk,kaiserreich culbert_olson
+572047,Head of Government,Culbert Levy Olson,3,Naive Optimist,kaiserreich culbert_olson
+572063,Foreign Minister,Edwin T. Layton,3,General Staffer,Kaiserreich_Layton
+572065,Head of Military Intelligence,Edwin T. Layton,3,Naval Intelligence Specialist,Kaiserreich_Layton
+572048,Minister of Armament,Harry Bridges,3,Administrative Genius,kaiserreich harry_bridges
+572049,Head of Military Intelligence,Norman Chandler,3,Technical Specialist,kaiserreich norman_chandler
+572071,Foreign Minister,Sheridan Downey,3,Ideological Crusader,downey
+572057,Minister of Armament,Henry J. Kaiser,4,Administrative Genius,M6082
+572067,Head of Government,Clarence D. Martin,5,Silent Workhorse,mayor_martin_lg
+572072,Foreign Minister,Homer Truett Bone,5,Biased Intellectual,homerbone
+572032,Chief of Air Force,Howard Hughes,5,Army Aviation Doctrine,kaiserreich howardhughes
+572030,Head of Government,Howard Hughes,5,Flamboyant Tough Guy,kaiserreich howardhughes
+572031,Minister of Armament,Howard Hughes,5,Air Superiority Proponent,kaiserreich howardhughes
+572054,Chief of Army,Alexander Patch,6,Decisive Battle Doctrine,L60291
+572056,Chief of Staff,Alexander Patch,6,School of Psychology,L60291
+572042,Chief of Air Force,Donald Douglas,6,Carpet Bombing Doctrine,kaiserreich donald_douglas
+572041,Minister of Armament,Donald Douglas,6,Resource Industrialist,kaiserreich donald_douglas
+572040,Foreign Minister,Frank Merriam,6,Biased Intellectual,kaiserreich frank_merriam
+572060,Head of Military Intelligence,Frank Merrill,6,Logistics Specialist,L60269
+572036,Foreign Minister,Friend W. Richardson,6,Great Compromiser,kaiserreich friend_richardson
+572037,Minister of Armament,Friend W. Richardson,6,Corrupt Kleptocrat,kaiserreich friend_richardson
+572035,Head of Military Intelligence,Harry Chandler,6,Logistics Specialist,kaiserreich harry_chandler
+572061,Head of Government,Henry Arnold,6,old airmarshal,M6167
+572034,Minister of Security,Hiram Johnson,6,Man of the People,kaiserreich hiramjohnson
+572053,Chief of Air Force,James Doolittle,6,Carpet Bombing Doctrine,L60505
+572038,Head of Government,James Rolphs,6,Backroom Backstabber,kaiserreich james_rolphs
+572039,Minister of Security,James Rolphs,6,Silent Lawyer,kaiserreich james_rolphs
+572059,Chief of Army,Joseph Stilwell,6,Elastic Defence Doctrine,L60341
+572058,Chief of Staff,Joseph Stilwell,6,School of Manoeuvre,L60341
+572006,Head of Military Intelligence,Percy Benbough,6,Naval Intelligence Specialist,M572006
+572066,Chief of Navy,Richmond K. Turner,6,Base Control Doctrine,Richmond_K
+572055,Chief of Navy,Robert B. Carney,6,Power Projection Doctrine,Kaiserreich Carney
+572064,Minister of Security,Walter Short,6,Silent Lawyer,Kaiserreich_Walter_short
+572070,Foreign Minister,William H. Standley,6,Ideological Crusader,Standley
+572069,Head of Government,William Myron Keck,6,Smiling Oilman,williamkeck
+572004,Minister of Armament,Angelo Rossi,7,Corrupt Kleptocrat,M572004
+572024,Head of Military Intelligence,Arthur C. Ferguson,7,Industrial Specialist,M572024
+572022,Head of Military Intelligence,Arthur D. Ferguson,7,Dismal Enigma,M572022
+572012,Foreign Minister,David Prescott Burrows,7,General Staffer,M572012
+572023,Head of Military Intelligence,Douglas Moore,7,Technical Specialist,M572023
+572013,Foreign Minister,Earl Warren,7,Ideological Crusader,M572013
+572014,Minister of Armament,Fletcher Bowron,7,Resource Industrialist,M572014
+572003,Foreign Minister,Frank E. Homan,7,Great Compromiser,M572003
+572011,Foreign Minister,Frank L. Shaw,7,Apologetic Clerk,M572011
+572008,Chief of Army,Gene D. James,7,Decisive Battle Doctrine,M572008
+572016,Minister of Armament,Harley Knox,7,Administrative Genius,M572016
+572015,Minister of Armament,Henry Fountain Ashurst,7,Submarine Proponent,M572015
+572007,Chief of Staff,Herbert R. Temple,7,School of Mass Combat,M572007
+572020,Minister of Security,John Dockweiler,7,Crime Fighter,M572020
+572026,Chief of Staff,John J. Hartnett,7,School of Psychology,M572026
+572009,Chief of Navy,Joseph Reeves,7,Power Projection Doctrine,L60458
+572010,Chief of Air Force,Leroy Legowik,7,Vertical Envelopment Doctrine,M572010
+572028,Chief of Navy,M.H. Dorman,7,Decisive Naval Battle Doctrine,M572028
+572017,Minister of Armament,Newell Stewart,7,Air to Sea Proponent,M572017
+572005,Minister of Security,Patrick J. Quinn,7,Crooked Kleptocrat,M572005
+572027,Chief of Army,Raymond C. Byrne,7,Elastic Defence Doctrine,M572027
+572021,Minister of Security,Roger Dearborn Lapham,7,Silent Lawyer,M572021
+572029,Chief of Air Force,Ronald E. Shoopman,7,Air Superiority Doctrine,M572029
+572025,Head of Military Intelligence,Ronald Reagan,7,Political Specialist,M572025
+572019,Minister of Security,Stewart Udall,7,Compassionate Gentleman,M572019
+572018,Minister of Security,Tom Monk,7,Prince of Terror,M572018
+572044,Head of Government,William Randolph Hearst,8,Silent Workhorse,kaiserreich w_r_hearst
+572045,Head of Military Intelligence,William Randolph Hearst,8,Industrial Specialist,kaiserreich w_r_hearst

@@ -1,56 +1,56 @@
-U10;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
-;;;;;
-18541;Head of Government;David Dellinger;1;Happy Amateur;David_Dellinger
-18524;Minister of Security;Carl E. Milliken;2;Compassionate Gentleman;Carl_E_Milliken
-18517;Head of Government;Daniel J. Tobin;2;Corporate Suit;Daniel_J_Tobin
-18506;Chief of Staff;Dean Acheson;2;school of defence;Dean_Acheson
-18502;Foreign Minister;Dean Acheson;2;Iron Fisted Brute;Dean_Acheson
-18533;Head of Government;Edith Nourse Rogers;2;Naive Optimist;Edith_Nourse_Rogers
-18531;Head of Government;Frances Perkins;2;Political Protege;Frances_Perkins
-18504;Minister of Security;Jasper McLevy;2;Man of the People;Jasper_McLevy
-18555;Chief of Air Force;Donald L. Harlow;3;Air Superiority Doctrine;Donald_L_Harlow
-18522;Foreign Minister;Frederick Hale;3;Iron Fisted Brute;Frederick_Hale
-18508;Chief of Navy;Harry G. Hamlet;3;Open Seas Doctrine;Harry_G_Hamlet
-18523;Minister of Armament;Horace A. Hildreth;3;Resource Industrialist;Horace_A_Hildreth
-18548;Chief of Army;Hugh Joseph Gaffey;3;Armoured Spearhead Doctrine;Hugh_Joseph_Gaffey
-18516;Chief of Staff;Hugh Joseph Gaffey;3;School of Mass Combat;Hugh_Joseph_Gaffey
-18561;Head of Government;James Shanley;3;Political Protege;kai_jmsshnl
-18551;Chief of Air Force;Joe Kennedy Jr.;3;Naval Aviation Doctrine;Joe_Kennedy_Jr
-18542;Foreign Minister;John Barrett;3;Great Compromiser;John_Barrett
-18554;Chief of Army;Laurence C. Craigie;3;Armoured Spearhead Doctrine;Laurence_C_Craigie
-18505;Head of Military Intelligence;Leslie Groves;3;Logistics Specialist;Leslie_Groves
-18518;Chief of Navy;Mary Sears;3;Open Seas Doctrine;Mary_Sears
-18553;Chief of Air Force;Paul W. Airey;3;Air Superiority Doctrine;Paul_W_Airey
-18509;Chief of Air Force;Peter H. Dominick;3;Army Aviation Doctrine;Peter_H_Dominick
-18550;Minister of Security;Ralph Nader;3;Silent Lawyer;Ralph_Nader
-18507;Chief of Army;Robert H. Thayer;3;static defence doctrine;Robert_H_Thayer
-18527;Foreign Minister;Robert H. Thayer;3;the cloak n dagger schemer;Robert_H_Thayer
-18526;Head of Military Intelligence;Robert H. Thayer;3;Naval Intelligence Specialist;Robert_H_Thayer
-18530;Foreign Minister;Scott Nearing;3;Undistinguished Suit;Scott_Nearing
-18538;Chief of Navy;Wallace H. White;3;Base Control Doctrine;Wallace_H_White
-18501;Head of Government;Wilbur Lucius Cross;3;Corporate Suit;Wilbur_Lucius_Cross
-18563;Head of Government;William Benton;3;Happy Amateur;kai_wllmbntn
-18528;Chief of Navy;William Veazie Pratt;3;Decisive Naval Battle Doctrine;William_Veazie_Pratt
-18525;Head of Military Intelligence;Edward C. Moran Jr;4;Technical Specialist;unknown
-18534;Minister of Security;Frederick G. Payne;4;Silent Lawyer;Frederick_G_Payne
-18521;Head of Government;George H. Moses;4;Political Protege;George_H_Moses
-18537;Foreign Minister;John Hay Whitney;4;General Staffer;John_Hay_Whitney
-18556;Minister of Security;Robert F. Kennedy;4;Crime Fighter;Robert_F_Kennedy
-18568;Head of Government;Henry C. Lodge Jr.;5;Happy Amateur;kai_hnrcbbtldgj
-18557;Foreign Minister;Joseph Kennedy Sr.;5;Great Compromiser;Joe_Kennedy_Sr
-18558;Head of Government;Joseph Kennedy Sr.;5;Political Protege;Joe_Kennedy_Sr
-18536;Chief of Staff;Margaret Chase Smith;5;School of Manoeuvre;Margaret_Chase_Smith
-18559;Minister of Armament;Warren Draper;5;Resource Industrialist;kai_warrndrp
-18515;Head of Military Intelligence;Arthur Robinson Gould;6;Political Specialist;Arthur_Robinson_Gould
-18514;Minister of Security;Burton M. Cross;6;Silent Lawyer;Burton_M_Cross
-18513;Minister of Armament;Charles R. Clason;6;Resource Industrialist;Charles_R_Clason
-18564;Head of Government;John M. Butler;6;Happy Amateur;kai_jhnmbttlr
-18552;Chief of Air Force;John W. Vogt;6;Naval Aviation Doctrine;John_W_Vogt
-18567;Foreign Minister;Owen Brewster;6;Great Compromiser;Owen_Brewster
-18503;Minister of Armament;Owen Brewster;6;Resource Industrialist;Owen_Brewster
-18543;Minister of Armament;Ralph Flanders;6;Resource Industrialist;Ralph_Flanders
-18512;Foreign Minister;Ralph H. Cameron;6;General Staffer;Ralph_H_Cameron
-18539;Chief of Staff;Sherman Adams;6;Undistinguished Suit;Sherman_Adams
-18519;Chief of Air Force;Stuart Symington;6;Undistinguished Suit;Stuart_Symington
-18511;Head of Government;Styles Bridges;6;Corporate Suit;Styles_Bridges
-18535;Foreign Minister;Frank Sandford;8;Apologetic Clerk;Frank_Sandford
+U10,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+18541,Head of Government,David Dellinger,1,Happy Amateur,David_Dellinger
+18524,Minister of Security,Carl E. Milliken,2,Compassionate Gentleman,Carl_E_Milliken
+18517,Head of Government,Daniel J. Tobin,2,Corporate Suit,Daniel_J_Tobin
+18506,Chief of Staff,Dean Acheson,2,school of defence,Dean_Acheson
+18502,Foreign Minister,Dean Acheson,2,Iron Fisted Brute,Dean_Acheson
+18533,Head of Government,Edith Nourse Rogers,2,Naive Optimist,Edith_Nourse_Rogers
+18531,Head of Government,Frances Perkins,2,Political Protege,Frances_Perkins
+18504,Minister of Security,Jasper McLevy,2,Man of the People,Jasper_McLevy
+18555,Chief of Air Force,Donald L. Harlow,3,Air Superiority Doctrine,Donald_L_Harlow
+18522,Foreign Minister,Frederick Hale,3,Iron Fisted Brute,Frederick_Hale
+18508,Chief of Navy,Harry G. Hamlet,3,Open Seas Doctrine,Harry_G_Hamlet
+18523,Minister of Armament,Horace A. Hildreth,3,Resource Industrialist,Horace_A_Hildreth
+18548,Chief of Army,Hugh Joseph Gaffey,3,Armoured Spearhead Doctrine,Hugh_Joseph_Gaffey
+18516,Chief of Staff,Hugh Joseph Gaffey,3,School of Mass Combat,Hugh_Joseph_Gaffey
+18561,Head of Government,James Shanley,3,Political Protege,kai_jmsshnl
+18551,Chief of Air Force,Joe Kennedy Jr.,3,Naval Aviation Doctrine,Joe_Kennedy_Jr
+18542,Foreign Minister,John Barrett,3,Great Compromiser,John_Barrett
+18554,Chief of Army,Laurence C. Craigie,3,Armoured Spearhead Doctrine,Laurence_C_Craigie
+18505,Head of Military Intelligence,Leslie Groves,3,Logistics Specialist,Leslie_Groves
+18518,Chief of Navy,Mary Sears,3,Open Seas Doctrine,Mary_Sears
+18553,Chief of Air Force,Paul W. Airey,3,Air Superiority Doctrine,Paul_W_Airey
+18509,Chief of Air Force,Peter H. Dominick,3,Army Aviation Doctrine,Peter_H_Dominick
+18550,Minister of Security,Ralph Nader,3,Silent Lawyer,Ralph_Nader
+18507,Chief of Army,Robert H. Thayer,3,static defence doctrine,Robert_H_Thayer
+18527,Foreign Minister,Robert H. Thayer,3,the cloak n dagger schemer,Robert_H_Thayer
+18526,Head of Military Intelligence,Robert H. Thayer,3,Naval Intelligence Specialist,Robert_H_Thayer
+18530,Foreign Minister,Scott Nearing,3,Undistinguished Suit,Scott_Nearing
+18538,Chief of Navy,Wallace H. White,3,Base Control Doctrine,Wallace_H_White
+18501,Head of Government,Wilbur Lucius Cross,3,Corporate Suit,Wilbur_Lucius_Cross
+18563,Head of Government,William Benton,3,Happy Amateur,kai_wllmbntn
+18528,Chief of Navy,William Veazie Pratt,3,Decisive Naval Battle Doctrine,William_Veazie_Pratt
+18525,Head of Military Intelligence,Edward C. Moran Jr,4,Technical Specialist,unknown
+18534,Minister of Security,Frederick G. Payne,4,Silent Lawyer,Frederick_G_Payne
+18521,Head of Government,George H. Moses,4,Political Protege,George_H_Moses
+18537,Foreign Minister,John Hay Whitney,4,General Staffer,John_Hay_Whitney
+18556,Minister of Security,Robert F. Kennedy,4,Crime Fighter,Robert_F_Kennedy
+18568,Head of Government,Henry C. Lodge Jr.,5,Happy Amateur,kai_hnrcbbtldgj
+18557,Foreign Minister,Joseph Kennedy Sr.,5,Great Compromiser,Joe_Kennedy_Sr
+18558,Head of Government,Joseph Kennedy Sr.,5,Political Protege,Joe_Kennedy_Sr
+18536,Chief of Staff,Margaret Chase Smith,5,School of Manoeuvre,Margaret_Chase_Smith
+18559,Minister of Armament,Warren Draper,5,Resource Industrialist,kai_warrndrp
+18515,Head of Military Intelligence,Arthur Robinson Gould,6,Political Specialist,Arthur_Robinson_Gould
+18514,Minister of Security,Burton M. Cross,6,Silent Lawyer,Burton_M_Cross
+18513,Minister of Armament,Charles R. Clason,6,Resource Industrialist,Charles_R_Clason
+18564,Head of Government,John M. Butler,6,Happy Amateur,kai_jhnmbttlr
+18552,Chief of Air Force,John W. Vogt,6,Naval Aviation Doctrine,John_W_Vogt
+18567,Foreign Minister,Owen Brewster,6,Great Compromiser,Owen_Brewster
+18503,Minister of Armament,Owen Brewster,6,Resource Industrialist,Owen_Brewster
+18543,Minister of Armament,Ralph Flanders,6,Resource Industrialist,Ralph_Flanders
+18512,Foreign Minister,Ralph H. Cameron,6,General Staffer,Ralph_H_Cameron
+18539,Chief of Staff,Sherman Adams,6,Undistinguished Suit,Sherman_Adams
+18519,Chief of Air Force,Stuart Symington,6,Undistinguished Suit,Stuart_Symington
+18511,Head of Government,Styles Bridges,6,Corporate Suit,Styles_Bridges
+18535,Foreign Minister,Frank Sandford,8,Apologetic Clerk,Frank_Sandford

@@ -1,67 +1,67 @@
-CSA;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
-;;;;;
-573011;Minister of Armament;Elizabeth Gurley Flynn;0;Battle Fleet Proponent;M6099
-573041;Chief of Staff;Hans Amlie;0;School of Defence;M6027
-573170;Head of Government;Jay Lovestone;0;Totalist Chairman;kaijaylovestone
-573047;Chief of Navy;Joseph Curran;0;Open Seas Doctrine;Kaiserreich Curran
-573055;Head of Military Intelligence;Otto Braun;0;Technical Specialist;L76300
-573054;Minister of Security;Otto Braun;0;Efficient Sociopath;L76300
-573172;Head of Government;Robert M. La Follette;0;Totalist Chairman;kailafolete
-573024;Chief of Army;Robert Merriman;0;Armoured Spearhead Doctrine;M6028
-573008;Foreign Minister;Robert Minor;0;General Staffer;M6075
-573006;Foreign Minister;Sam Darcy;0;Ideological Crusader;M6073
-573052;Minister of Armament;Sidney Hillman;0;Administrative Genius;Kaiserreich Sidney Hillman
-573051;Minister of Security;Sidney Hillman;0;Crime Fighter;Kaiserreich Sidney Hillman
-573002;Head of Government;William Z. Foster;0;Totalist Chairman;M6055
-573040;Minister of Security;William Z. Foster;0;Silent Lawyer;M6055
-573025;Chief of Air Force;John Abt;1;Army Aviation Doctrine;M6029
-573049;Foreign Minister;Asa P. Randolph;1;Great Compromiser;Kaiserreich Asa Philip Randolph
-573050;Minister of Security;Asa P. Randolph;1;Man of the People;Kaiserreich Asa Philip Randolph
-573169;Head of Government;Bayard Rustin;1;Naive Optimist;kaibayardrus
-573053;Head of Military Intelligence;David Dubinsky;1;Industrial Specialist;Kaiserreich Dubinsky
-573009;Foreign Minister;Eugene Dennis;1;Biased Intellectual;M6076
-573167;Head of Government;Eugene Dennis;1;Silent Workhorse;M6076
-573062;Foreign Minister;Flora Blackford;1;Ideological Crusader;Kaiserreich Flora
-573021;Head of Military Intelligence;Harry Haywood;1;Dismal Enigma;M6026
-573046;Chief of Navy;Hugh Mulzac;1;Indirect Approach Doctrine;Kaiserreich Mulzac officer
-573175;Foreign Minister;Jack Reed;1;Ideological Crusader;kaiserreich JackReed
-573173;Head of Government;James P. Cannon;1;Ambitious Union Boss;kaijamescan
-573007;Foreign Minister;James Paul Warburg;1;Ideological Crusader;M6023
-573020;Minister of Security;Jessica Smith;1;Compassionate Gentleman;M6119
-573042;Chief of Navy;John Abt;1;Base Control Doctrine;M6029
-573018;Minister of Security;John Abt;1;Efficient Sociopath;M6029
-573022;Chief of Army;Oliver Law;1;Decisive Battle Doctrine;M6149
-573034;Head of Government;Paul Mattick;1;Ambitious Union Boss;kaiserreich paulmattick
-573039;Minister of Armament;Paul Mattick;1;Administrative Genius;kaiserreich paulmattick
-573044;Chief of Air Force;Raoul Lufbery;1;Army Aviation Doctrine;Kaiserreich Lufbery officer
-573017;Minister of Security;Raymond Charles Moley;1;Prince of Terror;M6116
-573048;Foreign Minister;Rudolf Rocker;1;Biased Intellectual;KMrrocker
-573043;Chief of Air Force;William C. Lambert;1;Air Superiority Doctrine;Kaiserreich Lambert officer
-573028;Foreign Minister;Archibald MacLeish;2;Biased Intellectual;M6200
-573027;Minister of Security;Archibald MacLeish;2;Man of the People;M6200
-573171;Head of Government;Carlo Tresca;2;Ambitious Union Boss;kaicartres
-573016;Minister of Security;Charles Chaplin;2;Man of the People;M6115
-573060;Minister of Armament;Covington Hall;2;Resource Industrialist;unknown
-573019;Minister of Security;Daniel Hoan;2;Silent Lawyer;M6025
-573061;Minister of Security;Hellen Keller;2;Compassionate Gentleman;Hellen_Keller
-573058;Chief of Navy;Hyman G. Rickover;2;Power Projection Doctrine;Kaiserreich Rickover
-573003;Head of Government;James Cannon;2;Smiling Oilman;M6056
-573168;Head of Government;James W. Ford;2;Ambitious Union Boss;kaijamewfor
-573004;Head of Government;Joseph P. Lash;2;Naive Optimist;M6024
-573026;Minister of Armament;Joseph P. Lash;2;Resource Industrialist;M6024
-573013;Minister of Armament;Lemart Harris;2;Resource Industrialist;M6101
-573059;Chief of Army;Maurice Rose;2;Armoured Spearhead Doctrine;L60316
-573038;Foreign Minister;Max Shachtman;2;Great Compromiser;kaiserreich maxschachtman
-573033;Head of Government;Max Shachtman;2;Silent Workhorse;kaiserreich maxschachtman
-573057;Chief of Army;Smedley Butler;2;Decisive Battle Doctrine;CSA_Butler
-573056;Chief of Staff;Smedley Butler;2;School of Fire Support;CSA_Butler
-573176;Minister of Security;Smedley Butler;2;Crime Fighter;CSA_Butler
-573023;Chief of Army;Steve Nelson;2;Static Defence Doctrine;M6150
-573014;Minister of Armament;Walther Reuther;2;Resource Industrialist;M6102
-573015;Minister of Security;William Aalto;2;Back Stabber;M6114
-573010;Minister of Armament;Wyndham Mortimer;2;Resource Industrialist;M6098
-573164;Chief of Air Force;Bruce K. Holloway;3;Carpet Bombing Doctrine;Holloway
-573045;Minister of Armament;Clark Millikan;3;Air Superiority Proponent;Kaiserreich Milikan pic
-573032;Head of Government;Norman Thomas;3;Happy Amateur;M6021
-573037;Head of Military Intelligence;Norman Thomas;3;Logistics Specialist;M6021
-573063;Head of Military Intelligence;Luther Duncan;4;Technical Specialist;Luther_Duncan
+CSA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+573011,Minister of Armament,Elizabeth Gurley Flynn,0,Battle Fleet Proponent,M6099
+573041,Chief of Staff,Hans Amlie,0,School of Defence,M6027
+573170,Head of Government,Jay Lovestone,0,Totalist Chairman,kaijaylovestone
+573047,Chief of Navy,Joseph Curran,0,Open Seas Doctrine,Kaiserreich Curran
+573055,Head of Military Intelligence,Otto Braun,0,Technical Specialist,L76300
+573054,Minister of Security,Otto Braun,0,Efficient Sociopath,L76300
+573172,Head of Government,Robert M. La Follette,0,Totalist Chairman,kailafolete
+573024,Chief of Army,Robert Merriman,0,Armoured Spearhead Doctrine,M6028
+573008,Foreign Minister,Robert Minor,0,General Staffer,M6075
+573006,Foreign Minister,Sam Darcy,0,Ideological Crusader,M6073
+573052,Minister of Armament,Sidney Hillman,0,Administrative Genius,Kaiserreich Sidney Hillman
+573051,Minister of Security,Sidney Hillman,0,Crime Fighter,Kaiserreich Sidney Hillman
+573002,Head of Government,William Z. Foster,0,Totalist Chairman,M6055
+573040,Minister of Security,William Z. Foster,0,Silent Lawyer,M6055
+573025,Chief of Air Force,John Abt,1,Army Aviation Doctrine,M6029
+573049,Foreign Minister,Asa P. Randolph,1,Great Compromiser,Kaiserreich Asa Philip Randolph
+573050,Minister of Security,Asa P. Randolph,1,Man of the People,Kaiserreich Asa Philip Randolph
+573169,Head of Government,Bayard Rustin,1,Naive Optimist,kaibayardrus
+573053,Head of Military Intelligence,David Dubinsky,1,Industrial Specialist,Kaiserreich Dubinsky
+573009,Foreign Minister,Eugene Dennis,1,Biased Intellectual,M6076
+573167,Head of Government,Eugene Dennis,1,Silent Workhorse,M6076
+573062,Foreign Minister,Flora Blackford,1,Ideological Crusader,Kaiserreich Flora
+573021,Head of Military Intelligence,Harry Haywood,1,Dismal Enigma,M6026
+573046,Chief of Navy,Hugh Mulzac,1,Indirect Approach Doctrine,Kaiserreich Mulzac officer
+573175,Foreign Minister,Jack Reed,1,Ideological Crusader,kaiserreich JackReed
+573173,Head of Government,James P. Cannon,1,Ambitious Union Boss,kaijamescan
+573007,Foreign Minister,James Paul Warburg,1,Ideological Crusader,M6023
+573020,Minister of Security,Jessica Smith,1,Compassionate Gentleman,M6119
+573042,Chief of Navy,John Abt,1,Base Control Doctrine,M6029
+573018,Minister of Security,John Abt,1,Efficient Sociopath,M6029
+573022,Chief of Army,Oliver Law,1,Decisive Battle Doctrine,M6149
+573034,Head of Government,Paul Mattick,1,Ambitious Union Boss,kaiserreich paulmattick
+573039,Minister of Armament,Paul Mattick,1,Administrative Genius,kaiserreich paulmattick
+573044,Chief of Air Force,Raoul Lufbery,1,Army Aviation Doctrine,Kaiserreich Lufbery officer
+573017,Minister of Security,Raymond Charles Moley,1,Prince of Terror,M6116
+573048,Foreign Minister,Rudolf Rocker,1,Biased Intellectual,KMrrocker
+573043,Chief of Air Force,William C. Lambert,1,Air Superiority Doctrine,Kaiserreich Lambert officer
+573028,Foreign Minister,Archibald MacLeish,2,Biased Intellectual,M6200
+573027,Minister of Security,Archibald MacLeish,2,Man of the People,M6200
+573171,Head of Government,Carlo Tresca,2,Ambitious Union Boss,kaicartres
+573016,Minister of Security,Charles Chaplin,2,Man of the People,M6115
+573060,Minister of Armament,Covington Hall,2,Resource Industrialist,unknown
+573019,Minister of Security,Daniel Hoan,2,Silent Lawyer,M6025
+573061,Minister of Security,Hellen Keller,2,Compassionate Gentleman,Hellen_Keller
+573058,Chief of Navy,Hyman G. Rickover,2,Power Projection Doctrine,Kaiserreich Rickover
+573003,Head of Government,James Cannon,2,Smiling Oilman,M6056
+573168,Head of Government,James W. Ford,2,Ambitious Union Boss,kaijamewfor
+573004,Head of Government,Joseph P. Lash,2,Naive Optimist,M6024
+573026,Minister of Armament,Joseph P. Lash,2,Resource Industrialist,M6024
+573013,Minister of Armament,Lemart Harris,2,Resource Industrialist,M6101
+573059,Chief of Army,Maurice Rose,2,Armoured Spearhead Doctrine,L60316
+573038,Foreign Minister,Max Shachtman,2,Great Compromiser,kaiserreich maxschachtman
+573033,Head of Government,Max Shachtman,2,Silent Workhorse,kaiserreich maxschachtman
+573057,Chief of Army,Smedley Butler,2,Decisive Battle Doctrine,CSA_Butler
+573056,Chief of Staff,Smedley Butler,2,School of Fire Support,CSA_Butler
+573176,Minister of Security,Smedley Butler,2,Crime Fighter,CSA_Butler
+573023,Chief of Army,Steve Nelson,2,Static Defence Doctrine,M6150
+573014,Minister of Armament,Walther Reuther,2,Resource Industrialist,M6102
+573015,Minister of Security,William Aalto,2,Back Stabber,M6114
+573010,Minister of Armament,Wyndham Mortimer,2,Resource Industrialist,M6098
+573164,Chief of Air Force,Bruce K. Holloway,3,Carpet Bombing Doctrine,Holloway
+573045,Minister of Armament,Clark Millikan,3,Air Superiority Proponent,Kaiserreich Milikan pic
+573032,Head of Government,Norman Thomas,3,Happy Amateur,M6021
+573037,Head of Military Intelligence,Norman Thomas,3,Logistics Specialist,M6021
+573063,Head of Military Intelligence,Luther Duncan,4,Technical Specialist,Luther_Duncan

@@ -1,67 +1,67 @@
-U15;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
-;;;;;
-83026;Foreign Minister;Aiko Tokimasa;1;Biased Intellectual;Aiko_Tokimasa
-83037;Minister of Armament;Ernest K. Kai;2;Battle Fleet Proponent;Ernest_K_Kai
-83027;Foreign Minister;Fred Kinzaburo Makino;2;Ideological Crusader;Fred_Kinzaburo_Makino
-83028;Foreign Minister;Harriet Bouslog;2;Ideological Crusader;Harriet_Bouslog
-83023;Foreign Minister;John Reinecke;2;Biased Intellectual;John_Reinecke
-83013;Head of Government;Nolle Smith;2;Happy Amateur;Nolle_Smith
-83030;Minister of Armament;Charles F. Washburn;3;Administrative Genius;Charles_F_Washburn
-83063;Chief of Army;Frank R. McCoy;3;Decisive Battle Doctrine;Frank_R_McCoy
-83055;Head of Military Intelligence;Frank R. McCoy;3;Naval Intelligence Specialist;Frank_R_McCoy
-83056;Head of Military Intelligence;George Ariyoshi;3;Technical Specialist;George_Ariyoshi
-83039;Minister of Security;Herbert Choy;3;Silent Lawyer;Herbert_Choy
-83054;Head of Military Intelligence;Ingram Stainback;3;Political Specialist;Ingram_Stainback
-83067;Chief of Navy;Isaac C. Kidd;3;Decisive Naval Battle Doctrine;Isaac_C_Kidd
-83071;Chief of Navy;James Richardson;3;Decisive Naval Battle Doctrine;James_Richardson
-83058;Chief of Staff;John A. Burns;3;School of Psychology;John_Anthony_Burns
-83012;Head of Government;John A. Burns;3;Old Admiral;John_Anthony_Burns
-83042;Minister of Security;Joseph Poindexter;3;Crime Fighter;Joseph_Poindexter
-83035;Minister of Armament;Joseph Rider Farrington;3;Resource Industrialist;Joseph_Rider_Farrington
-83029;Foreign Minister;Koji Ariyoshi;3;Great Compromiser;Koji_Ariyoshi
-83038;Minister of Armament;Koji Ariyoshi;3;Military Entrepreneur;Koji_Ariyoshi
-83050;Minister of Security;Koji Ariyoshi;3;Compassionate Gentleman;Koji_Ariyoshi
-83066;Chief of Army;Mark Clark;3;Armoured Spearhead Doctrine;Mark_Clark
-83021;Foreign Minister;Mollie Hong Min;3;Great Compromiser;Mollie_Hong_Min
-83019;Foreign Minister;Riley Allen;3;Biased Intellectual;Riley_Allen
-83049;Minister of Security;William S. Richardson;3;Silent Lawyer;William_S_Richardson
-83048;Minister of Security;Ah Quon McElrath;4;Man of the People;Ah_Quon_McElrath
-83057;Chief of Staff;Daniel Inouye;4;school of defence;Daniel_Inouye
-83041;Minister of Security;Duke Kahanamoku;4;Man of the People;Duke_Kahanamoku
-83032;Minister of Armament;Harold A. Seering;4;Administrative Genius;Harold_A_Seering
-83018;Head of Government;James J. Sweeney;4;Silent Workhorse;James_J_Sweeney
-83075;Chief of Air Force;Samuel W. King;4;Naval Aviation Doctrine;Samuel_Wilder_King
-83069;Chief of Navy;Samuel W. King;4;Base Control Doctrine;Samuel_Wilder_King
-83051;Head of Military Intelligence;Samuel W. King;4;Naval Intelligence Specialist;Samuel_Wilder_King
-83059;Chief of Staff;Charles N. Stevens;5;school of defence;Charles_N_Stevens
-83046;Minister of Security;Delbert Metzger;5;Crime Fighter;Delbert_Metzger
-83062;Chief of Army;Delos Carleton Emmons;5;Guns and Butter Doctrine;Delos C. Emmons
-83061;Chief of Staff;Delos Carleton Emmons;5;School of Psychology;Delos C. Emmons
-83011;Head of Government;Henry Alexander Baldwin;5;Political Protege;kaiserreich Henry A. Baldwin
-83024;Foreign Minister;John A. Burns;5;Great Compromiser;John_Anthony_Burns
-83016;Head of Government;Lester Petrie;5;Flamboyant Tough Guy;Lester_Petrie
-83036;Minister of Armament;Lincoln Loy McCandless;5;Resource Industrialist;Lincoln_Loy_McCandless
-83045;Minister of Security;W. A. Gabrielson;5;Crime Fighter;WA_Gabrielson
-83031;Minister of Armament;Arthur Rutledge;6;Administrative Genius;Arthur_Rutledge
-83020;Foreign Minister;Hiram Fong;6;Great Compromiser;Hiram_Fong
-83009;Head of Government;Hiram Fong;6;Corporate Suit;Hiram_Fong
-83043;Minister of Security;Ingram Stainback;6;crime fighter;Stainback
-83017;Head of Government;James Dole;6;Corporate Suit;kaiserreich James Dole
-83034;Minister of Armament;James Dole;6;laissez-faire capitalist;kaiserreich James Dole
-83010;Head of Government;James Kealoha;6;Backroom Backstabber;kaiserreich James Kealoha
-83044;Minister of Security;John Henry Wilson;6;Efficient Sociopath;John_Henry_Wilson
-83073;Chief of Navy;Joseph N. Reeves;6;Decisive Naval Battle Doctrine;Joseph_N_Reeves
-83064;Chief of Army;Joseph T. McNarney;6;Decisive Battle Doctrine;Joseph_T_McNarney
-83047;Minister of Security;Masaji Marumoto;6;Efficient Sociopath;Masaji_Marumoto
-83015;Head of Government;Oren E. Long;6;Silent Workhorse;Oren_E_Long
-83052;Head of Military Intelligence;Owen D. Roberts;6;Naval Intelligence Specialist;Owen_D_Roberts
-83060;Chief of Staff;T. C. S. Walker;6;School of Manoeuvre;TCS_Walker
-83068;Chief of Navy;Victor Stewart Kaleoaloha Houston;6;Base Control Doctrine;unknown
-83074;Chief of Air Force;William A Patterson;6;Air Superiority Doctrine;William_A_Patterson
-83072;Chief of Navy;William H. Standley;6;Power Projection Doctrine;William_H_Standley
-83025;Foreign Minister;Curtis Laukea;7;the cloak n dagger schemer;Curtis_Laukea
-83033;Minister of Armament;Henry Alexander Baldwin;7;Resource Industrialist;kaiserreich Henry A. Baldwin
-83022;Foreign Minister;Princess Theresa Laanui;7;Biased Intellectual;Theresa_Laanui
-83040;Minister of Security;Princess Theresa Laanui;7;Man of the People;Theresa_Laanui
-83065;Chief of Army;Ralph Yempuku;7;Decisive Battle Doctrine;Ralph_Yempuku
-83053;Head of Military Intelligence;Theresa Laanui;7;Political Specialist;unknown
+U15,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+83026,Foreign Minister,Aiko Tokimasa,1,Biased Intellectual,Aiko_Tokimasa
+83037,Minister of Armament,Ernest K. Kai,2,Battle Fleet Proponent,Ernest_K_Kai
+83027,Foreign Minister,Fred Kinzaburo Makino,2,Ideological Crusader,Fred_Kinzaburo_Makino
+83028,Foreign Minister,Harriet Bouslog,2,Ideological Crusader,Harriet_Bouslog
+83023,Foreign Minister,John Reinecke,2,Biased Intellectual,John_Reinecke
+83013,Head of Government,Nolle Smith,2,Happy Amateur,Nolle_Smith
+83030,Minister of Armament,Charles F. Washburn,3,Administrative Genius,Charles_F_Washburn
+83063,Chief of Army,Frank R. McCoy,3,Decisive Battle Doctrine,Frank_R_McCoy
+83055,Head of Military Intelligence,Frank R. McCoy,3,Naval Intelligence Specialist,Frank_R_McCoy
+83056,Head of Military Intelligence,George Ariyoshi,3,Technical Specialist,George_Ariyoshi
+83039,Minister of Security,Herbert Choy,3,Silent Lawyer,Herbert_Choy
+83054,Head of Military Intelligence,Ingram Stainback,3,Political Specialist,Ingram_Stainback
+83067,Chief of Navy,Isaac C. Kidd,3,Decisive Naval Battle Doctrine,Isaac_C_Kidd
+83071,Chief of Navy,James Richardson,3,Decisive Naval Battle Doctrine,James_Richardson
+83058,Chief of Staff,John A. Burns,3,School of Psychology,John_Anthony_Burns
+83012,Head of Government,John A. Burns,3,Old Admiral,John_Anthony_Burns
+83042,Minister of Security,Joseph Poindexter,3,Crime Fighter,Joseph_Poindexter
+83035,Minister of Armament,Joseph Rider Farrington,3,Resource Industrialist,Joseph_Rider_Farrington
+83029,Foreign Minister,Koji Ariyoshi,3,Great Compromiser,Koji_Ariyoshi
+83038,Minister of Armament,Koji Ariyoshi,3,Military Entrepreneur,Koji_Ariyoshi
+83050,Minister of Security,Koji Ariyoshi,3,Compassionate Gentleman,Koji_Ariyoshi
+83066,Chief of Army,Mark Clark,3,Armoured Spearhead Doctrine,Mark_Clark
+83021,Foreign Minister,Mollie Hong Min,3,Great Compromiser,Mollie_Hong_Min
+83019,Foreign Minister,Riley Allen,3,Biased Intellectual,Riley_Allen
+83049,Minister of Security,William S. Richardson,3,Silent Lawyer,William_S_Richardson
+83048,Minister of Security,Ah Quon McElrath,4,Man of the People,Ah_Quon_McElrath
+83057,Chief of Staff,Daniel Inouye,4,school of defence,Daniel_Inouye
+83041,Minister of Security,Duke Kahanamoku,4,Man of the People,Duke_Kahanamoku
+83032,Minister of Armament,Harold A. Seering,4,Administrative Genius,Harold_A_Seering
+83018,Head of Government,James J. Sweeney,4,Silent Workhorse,James_J_Sweeney
+83075,Chief of Air Force,Samuel W. King,4,Naval Aviation Doctrine,Samuel_Wilder_King
+83069,Chief of Navy,Samuel W. King,4,Base Control Doctrine,Samuel_Wilder_King
+83051,Head of Military Intelligence,Samuel W. King,4,Naval Intelligence Specialist,Samuel_Wilder_King
+83059,Chief of Staff,Charles N. Stevens,5,school of defence,Charles_N_Stevens
+83046,Minister of Security,Delbert Metzger,5,Crime Fighter,Delbert_Metzger
+83062,Chief of Army,Delos Carleton Emmons,5,Guns and Butter Doctrine,Delos C. Emmons
+83061,Chief of Staff,Delos Carleton Emmons,5,School of Psychology,Delos C. Emmons
+83011,Head of Government,Henry Alexander Baldwin,5,Political Protege,kaiserreich Henry A. Baldwin
+83024,Foreign Minister,John A. Burns,5,Great Compromiser,John_Anthony_Burns
+83016,Head of Government,Lester Petrie,5,Flamboyant Tough Guy,Lester_Petrie
+83036,Minister of Armament,Lincoln Loy McCandless,5,Resource Industrialist,Lincoln_Loy_McCandless
+83045,Minister of Security,W. A. Gabrielson,5,Crime Fighter,WA_Gabrielson
+83031,Minister of Armament,Arthur Rutledge,6,Administrative Genius,Arthur_Rutledge
+83020,Foreign Minister,Hiram Fong,6,Great Compromiser,Hiram_Fong
+83009,Head of Government,Hiram Fong,6,Corporate Suit,Hiram_Fong
+83043,Minister of Security,Ingram Stainback,6,crime fighter,Stainback
+83017,Head of Government,James Dole,6,Corporate Suit,kaiserreich James Dole
+83034,Minister of Armament,James Dole,6,laissez-faire capitalist,kaiserreich James Dole
+83010,Head of Government,James Kealoha,6,Backroom Backstabber,kaiserreich James Kealoha
+83044,Minister of Security,John Henry Wilson,6,Efficient Sociopath,John_Henry_Wilson
+83073,Chief of Navy,Joseph N. Reeves,6,Decisive Naval Battle Doctrine,Joseph_N_Reeves
+83064,Chief of Army,Joseph T. McNarney,6,Decisive Battle Doctrine,Joseph_T_McNarney
+83047,Minister of Security,Masaji Marumoto,6,Efficient Sociopath,Masaji_Marumoto
+83015,Head of Government,Oren E. Long,6,Silent Workhorse,Oren_E_Long
+83052,Head of Military Intelligence,Owen D. Roberts,6,Naval Intelligence Specialist,Owen_D_Roberts
+83060,Chief of Staff,T. C. S. Walker,6,School of Manoeuvre,TCS_Walker
+83068,Chief of Navy,Victor Stewart Kaleoaloha Houston,6,Base Control Doctrine,unknown
+83074,Chief of Air Force,William A Patterson,6,Air Superiority Doctrine,William_A_Patterson
+83072,Chief of Navy,William H. Standley,6,Power Projection Doctrine,William_H_Standley
+83025,Foreign Minister,Curtis Laukea,7,the cloak n dagger schemer,Curtis_Laukea
+83033,Minister of Armament,Henry Alexander Baldwin,7,Resource Industrialist,kaiserreich Henry A. Baldwin
+83022,Foreign Minister,Princess Theresa Laanui,7,Biased Intellectual,Theresa_Laanui
+83040,Minister of Security,Princess Theresa Laanui,7,Man of the People,Theresa_Laanui
+83065,Chief of Army,Ralph Yempuku,7,Decisive Battle Doctrine,Ralph_Yempuku
+83053,Head of Military Intelligence,Theresa Laanui,7,Political Specialist,unknown
