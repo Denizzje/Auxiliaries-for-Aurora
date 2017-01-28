@@ -1,0 +1,120 @@
+EUS;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
+;;;;;
+580037;Chief of Navy;Rafael Menchaca;0;Indirect Approach Doctrine;kaiserreich menchaca
+580035;Chief of Army;Felix Likiniano;1;Decisive Battle Doctrine;kaiserreich likiniano
+580036;Chief of Army;Kepa Ordoki;1;Guns and Butter Doctrine;kaiserreich ordoki
+580025;Foreign Minister;Telesforo Monzón;1;Iron Fisted Brute;kaiserreich monzon
+580024;Head of Government;Telesforo Monzón;1;Flamboyant Tough Guy;kaiserreich monzon
+580116;Minister of Armament;Alejandro Otero Fernandez;2;Resource Industrialist;M3503
+580033;Chief of Staff;Anacleto Ortueta;2;School of Fire Support;kaiserreich ortueta
+580023;Head of Government;Anacleto Ortueta;2;Backroom Backstabber;kaiserreich ortueta
+580030;Minister of Security;Anacleto Ortueta;2;Man of the People;kaiserreich ortueta
+580028;Minister of Armament;Gonzalo Nardiz;2;laissez-faire capitalist;kaiserreich nardiz
+580039;Chief of Air Force;Ignacio Hidalgo de Cisneros;2;Carpet Bombing Doctrine;M11030
+580031;Head of Military Intelligence;Jesús Larrañaga;2;Industrial Specialist;M580031
+580034;Chief of Staff;Justo Gárate;2;School of Psychology;kaiserreich garate
+580029;Minister of Security;Justo Gárate;2;Efficient Sociopath;kaiserreich garate
+580038;Chief of Navy;Manuel Galdós;2;Open Seas Doctrine;kaiserreich galdos
+580040;Chief of Air Force;Pablo Rada;2;Naval Aviation Doctrine;kaiserreich rada
+580115;Foreign Minister;Salvador De Madariaga;2;Biased Intellectual;M3502
+580027;Minister of Armament;Santiago Aznar;2;Corrupt Kleptocrat;kaiserreich aznar
+580026;Foreign Minister;Tomás Bilbao;2;Apologetic Clerk;kaiserreich bilbao
+580090;Foreign Minister;Antón Alonso Ríos;3;Great Compromiser;EUS_anton_alonso_rios
+580089;Foreign Minister;Ánxel Casal;3;Apologetic Clerk;EUS_anxel_casal
+580088;Minister of Armament;Ánxel Casal;3;Laissez-Faire Capitalist;EUS_anxel_casal
+580126;Foreign Minister;Bieito Cupeiro;3;Ideological Crusader;M3528
+580032;Head of Military Intelligence;Francisco Ciutat de Miguel;3;Logistics Specialist;kaiserreich ciutat
+580094;Minister of Security;Ramón Suárez Picallo;3;Crime Fighter;EUS_ramon_suarez_picallo
+580125;Minister of Security;Víctor Casas;3;Crime Fighter;M3522
+580103;Foreign Minister;Alfonso Castelao;4;General Staffer;EUS_alfonso_castelao
+580102;Head of Government;Alfonso Castelao;4;Flamboyant Tough Guy;EUS_alfonso_castelao
+580097;Foreign Minister;Antón Vilar Ponte;4;Ideological Crusader;EUS_anton_villar_ponte
+580096;Head of Government;Antón Vilar Ponte;4;Flamboyant Tough Guy;EUS_anton_villar_ponte
+580132;Chief of Air Force;Elixio Rodriguez;4;Air Superiority Doctrine;M3539
+580128;Minister of Security;Francisco Perez Carvallo;4;Efficient Sociopath;M3530
+580127;Minister of Armament;Juan Tizón Herrero;4;Administrative Genius;M3529
+580131;Head of Government;Manuel Portela;4;Corporate Suit;M3537
+580123;Foreign Minister;Roberto Blanco Torres;4;the cloak n dagger schemer;M3520
+580111;Foreign Minister;Álvaro Cunqueiro Mora;5;iron fisted brute;EUS_alvaro_cunqueiro
+580020;Chief of Air Force;Juan Antonio Ibarreche;5;Carpet Bombing Doctrine;M580020
+580129;Foreign Minister;Manuel Fraga Iribarne;5;Apologetic Clerk;M3526
+580093;Foreign Minister;Ramón Otero Pedrayo;5;Apologetic Clerk;EUS_ramon_otero_pedrayo
+580092;Head of Government;Ramón Otero Pedrayo;5;Naive Optimist;EUS_ramon_otero_pedrayo
+580109;Foreign Minister;Alexandre Bóveda Iglesias;6;Great Compromiser;EUS_alexandre_boveda
+580108;Head of Government;Alexandre Bóveda Iglesias;6;Corporate Suit;EUS_alexandre_boveda
+580110;Minister of Armament;Alexandre Bóveda Iglesias;6;Laissez-Faire Capitalist;EUS_alexandre_boveda
+580018;Chief of Army;Antonio Ortega;6;Elastic Defence Doctrine;kaiserreich ortega
+580130;Minister of Security;Antonio Roson;6;Silent Lawyer;M3536
+580014;Minister of Armament;Fermín Zarza;6;Resource Industrialist;unknown
+580013;Foreign Minister;Francisco Javier de Landaburu;6;Great Compromiser;kaiserreich Landaburu
+580058;Minister of Armament;Heliodoro de la Torre;6;laissez-faire capitalist;kaiserreich delatorre
+580017;Chief of Staff;Jesús María de Leizaola;6;School of Psychology;kaiserreich Leizaola
+580012;Head of Government;Jesús María de Leizaola;6;Naive Optimist;kaiserreich Leizaola
+580059;Minister of Security;Jesús María de Leizaola;6;Silent Lawyer;kaiserreich Leizaola
+580063;Chief of Navy;Joaquín de Egía;6;Base Control Doctrine;kaiserreich egia
+580061;Chief of Staff;José Antonio Aguirre;6;School of Defence;kaiserreich aguirre
+580019;Chief of Navy;José María Burgaña;6;Open Seas Doctrine;kaiserreich burgana
+580057;Foreign Minister;José María Lasarte;6;Ideological Crusader;kaiserreich lasarte
+580060;Head of Military Intelligence;Juan Ajuriaguerra;6;Logistics Specialist;kaiserreich Ajuriaguerra
+580016;Head of Military Intelligence;Manuel de Irujo;6;Dismal Enigma;kaiserreich irujo
+580015;Minister of Security;Manuel de Irujo;6;Efficient Sociopath;kaiserreich irujo
+580106;Foreign Minister;Santiago Casares Quiroga;6;Ideological Crusader;EUS_santiago_casares_quiroga
+580105;Head of Government;Santiago Casares Quiroga;6;Political Protege;EUS_santiago_casares_quiroga
+580062;Chief of Army;Saturnino Bengoa;6;Static Defence Doctrine;unknown
+580099;Head of Government;Valentín Paz-Andrade;6;Silent Workhorse;EUS_valentin_paz-andrade
+580100;Minister of Armament;Valentín Paz-Andrade;6;Resource Industrialist;EUS_valentin_paz-andrade
+580051;Chief of Army;Alejandro Goicoechea;7;Static Defence Doctrine;kaiserreich goicoechea
+580050;Head of Military Intelligence;Alejandro Goicoechea;7;Logistics Specialist;kaiserreich goicoechea
+580046;Minister of Armament;Alejandro Goicoechea;7;Administrative Genius;kaiserreich goicoechea
+580055;Chief of Air Force;Ángel Salas;7;vertical envelopment doctrine;kaiserreich salas
+580120;Head of Government;Arzobispo Muñiz de Pablos;7;Smiling Oilman;M3516
+580056;Chief of Air Force;Esteban Ibarreche;7;Carpet Bombing Doctrine;unknown
+580053;Chief of Navy;Felipe Abárzuza;7;Power Projection Doctrine;unknown
+580054;Chief of Navy;Francisco Nuñez de Olañeta;7;Indirect Approach Doctrine;kaiserreich nunez
+580044;Foreign Minister;José Felix Lequerica;7;Biased Intellectual;kaiserreich lequica
+580042;Head of Government;José Felix Lequerica;7;Silent Workhorse;kaiserreich lequica
+580043;Foreign Minister;José María de Areilza;7;Great Compromiser;kaiserreich areilza
+580049;Head of Military Intelligence;Manuel Aznar;7;Political Specialist;kaiserreich aznar2
+580124;Minister of Armament;Pedro Barrié de la Maza;7;Resource Industrialist;M3521
+580087;Chief of Air Force;Ramón Franco;7;Naval Aviation Doctrine;EUS_ramon_franco
+580133;Minister of Security;Severiano Martinez Anido;7;Prince of Terror;M3544
+580114;Foreign Minister;Vicente Risco;7;Biased Intellectual;EUS_vicente_risco
+580113;Head of Government;Vicente Risco;7;Naive Optimist;EUS_vicente_risco
+580079;Head of Military Intelligence;Angel Herrera Oria;8;Industrial Specialist;Kaiserreich_EUS_Oria
+580118;Chief of Army;Camilo Alonso Vega;8;Decisive Battle Doctrine;M3512
+580119;Chief of Staff;Camilo Alonso Vega;8;School of Mass Combat;M3512
+580008;Chief of Army;Emilio Mola Vidal;8;Decisive Battle Doctrine;M10008
+580077;Chief of Staff;Emilio Mola Vidal;8;School of Manoeuvre;M10008
+580078;Minister of Security;Emilio Mola Vidal;8;Prince of Terror;M10008
+580052;Chief of Army;Enrique Sotomayor;8;Decisive Battle Doctrine;kaiserreich sotomayor
+580081;Minister of Security;Esteban Bilbao;8;Crime Fighter;M580081
+580066;Chief of Army;Gonzalo Queipo de Llano;8;Guns and Butter Doctrine;M10055
+580007;Chief of Staff;Gonzalo Queipo de Llano;8;School of Mass Combat;M10055
+580065;Minister of Security;Gonzalo Queipo de Llano;8;Man of the People;M10055
+580085;Head of Military Intelligence;Javier Cid Toubes;8;Political Specialist;M580085
+580086;Chief of Air Force;Joaquín García Morato y Castaño;8;Air Superiority Doctrine;M580086
+580080;Chief of Staff;José Enrique Varela;8;School of Mass Combat;M580080
+580076;Chief of Air Force;José Luis Arrese Magra;8;Army Aviation Doctrine;M10072
+580074;Foreign Minister;José Luis Arrese Magra;8;Iron Fisted Brute;M10072
+580075;Head of Military Intelligence;José Luis Arrese Magra;8;Dismal Enigma;M10072
+580005;Minister of Security;José Luis Arrese Magra;8;Crime Fighter;M10072
+580045;Minister of Armament;José Luís Arrese Magra;8;Resource Industrialist;M10072
+580068;Chief of Air Force;Juan Vigón Suerodíaz;8;Army Aviation Doctrine;M10118
+580006;Head of Military Intelligence;Juan Vigón Suerodíaz;8;Technical Specialist;M10118
+580067;Minister of Armament;Juan Vigón Suerodíaz;8;Theoretical Scientist;M10118
+580003;Foreign Minister;Manuel Fal Conde;8;Ideological Crusader;kaiserreich falconde
+580002;Head of Government;Manuel Fal Conde;8;Flamboyant Tough Guy;kaiserreich falconde
+580073;Minister of Security;Manuel Fal Conde;8;Man of the People;kaiserreich falconde
+580072;Chief of Army;Onésimo Redondo Ortega;8;Static Defence Doctrine;M10107
+580071;Chief of Staff;Onésimo Redondo Ortega;8;School of Mass Combat;M10107
+580070;Head of Military Intelligence;Onésimo Redondo Ortega;8;Logistics Specialist;M10107
+580004;Minister of Armament;Onésimo Redondo Ortega;8;Tank Proponent;M10107
+580041;Head of Government;Pedro Mourlane Michelena;8;Flamboyant Tough Guy;kaiserreich mourlane
+580048;Minister of Security;Pedro Mourlane Michelena;8;Man of the People;kaiserreich mourlane
+580084;Chief of Army;Rafael García Valiño y Marcén;8;Armoured Spearhead Doctrine;M580083
+580083;Minister of Armament;Rafael García Valiño y Marcén;8;laissez-faire capitalist;M580083
+580047;Minister of Security;Rafael Sánchez Mazas;8;Compassionate Gentleman;kaiserreich sanchez
+580082;Chief of Army;Ricardo de Rada del Peral;8;Decisive Battle Doctrine;M580082
+580121;Chief of Navy;Salvador Moreno;8;Open Seas Doctrine;M3517
+580069;Chief of Air Force;Tomás Domínguez Arévalo;8;Air Superiority Doctrine;M10049
+580009;Chief of Navy;Tomás Domínguez Arévalo;8;Base Control Doctrine;M10048

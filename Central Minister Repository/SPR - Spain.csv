@@ -1,0 +1,171 @@
+SPA;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
+;;;;;
+10203;Minister of Armament;Enrique Castro Delgado;0;Infantry Proponent;M10024
+10202;Foreign Minister;Julio Álvarez del Vayo;0;Ideological Crusader;M10023
+10207;Chief of Army;Enrique Líster Forján;1;Decisive Battle Doctrine;M10028
+10208;Chief of Navy;Francisco Galán Rodríguez;1;Open Seas Doctrine;M10029
+10209;Chief of Air Force;Ignacio Hidalgo de Cisneros;1;Air Superiority Doctrine;M10030
+10201;Head of Government;José Díaz Ramos;1;Backroom Backstabber;M10021
+10205;Head of Military Intelligence;José Díaz Ramos;1;Technical Specialist;M10021
+10206;Chief of Staff;Miguel Tagüeña Lacorte;1;School of Manoeuvre;M10027
+10204;Minister of Security;Santiago Carrillo Solares;1;Prince of Terror;M10025
+10215;Head of Government;Indalencio Prieto Tuero;3;Political Protege;M11065
+10217;Head of Government;José Giral Pereira;3;Naive Optimist;M11067
+10214;Head of Government;Manuel Azaña Díaz;3;Silent Workhorse;M11033
+10216;Head of Government;Santiago Casares Quiroga;3;Corporate Suit;M11066
+10218;Head of Government;Manuel Portela Valladares;4;Naive Optimist;M11002
+10184;Chief of Air Force;Andrés Saliquet Zumeta;5;Naval Aviation Doctrine;M10266
+10172;Chief of Navy;Antonio Azarola Gresillón;5;Open Seas Doctrine;M11009
+10188;Chief of Air Force;Camilo Alonso Vega;5;Vertical Envelopment Doctrine;M10270
+10071;Foreign Minister;Claudio Sánchez Albornoz;5;Ideological Crusader;M11072
+10186;Chief of Air Force;Diego Hidalgo Dúran;5;Air Superiority Doctrine;M11101
+10137;Head of Military Intelligence;Diego Hidalgo Dúran;5;Logistics Specialist;M11101
+10099;Minister of Armament;Diego Hidalgo Dúran;5;Military Entrepreneur;M11101
+10185;Chief of Air Force;Emilio Herrera;5;Army Aviation Doctrine;M11145
+10100;Minister of Armament;Emilio Herrera;5;Air Superiority Proponent;M11145
+10139;Head of Military Intelligence;Joaquín Chapaprieta Torregosa;5;Industrial Specialist;M11155
+10101;Minister of Armament;Joaquín Chapaprieta Torregosa;5;Resource Industrialist;M11155
+10076;Foreign Minister;José de Areilza y Martínez-Rodas;5;The Cloak N Dagger Schemer;M10071
+10102;Minister of Armament;José María Gil-Robles Quiñones;5;Resource Industrialist;M10012
+10072;Foreign Minister;José Martínez de Velasco;5;Iron Fisted Brute;M11110
+10136;Head of Military Intelligence;Juan March Ordinas;5;Dismal Enigma;M10113
+10073;Foreign Minister;Luis Luciá Luciá;5;Biased Intellectual;M11113
+10138;Head of Military Intelligence;Luis Luciá Luciá;5;Technical Specialist;M11113
+10103;Minister of Armament;Luis Luciá Luciá;5;Theoretical Scientist;M11113
+10161;Chief of Army;Miguel Cabanellas Ferrer;5;Static Defence Doctrine;M10001
+10150;Chief of Staff;Miguel Cabanellas Ferrer;5;School of Psychology;M10001
+10173;Chief of Navy;Miguel Maura Gamazo;5;Decisive Naval Battle Doctrine;M11073
+10123;Minister of Security;Miguel Maura Gamazo;5;Compassionate Gentleman;M11073
+10075;Foreign Minister;Niceto Alcalá-Zamora;5;Great Compromiser;M11001
+10135;Head of Military Intelligence;Ricardo Samper Ibáñez;5;Political Specialist;M11104
+10187;Chief of Air Force;Rudolf von Moreau;5;Carpet Bombing Doctrine;M10269
+10121;Minister of Security;Andrés Saliquet Zumeta;6;Man of the People;M10015
+10160;Chief of Army;Antonio Aranda Mata;6;static defence doctrine;M10018
+10189;Minister of Armament;Diego Hidalgo Durán;6;Military Entrepreneur;M11101
+10133;Head of Military Intelligence;Enrique Plá y Deniel;6;Political Specialist;M10063
+10068;Foreign Minister;Francisco de Borbón de la Torre;6;General Staffer;M10077
+10098;Minister of Armament;Francisco de Borbón de la Torre;6;Tank Proponent;M10077
+10069;Foreign Minister;Jacobo Fitz-James Stuart;6;Biased Intellectual;M10080
+10118;Minister of Security;Jacobo Fitz-James Stuart;6;Compassionate Gentleman;M10080
+10149;Chief of Staff;Joaquin Fanjul Goñi;6;School of Fire Support;M10202
+10094;Minister of Armament;José Enrique Varela Iglesias;6;Military Entrepreneur;M10014
+10120;Minister of Security;José Martínez de Velasco;6;Crime Fighter;M11110
+10169;Chief of Navy;José Millán Astray;6;Base Control Doctrine;M10131
+10070;Foreign Minister;José Yanguas Messía;6;Great Compromiser;M11150
+10119;Minister of Security;José Yanguas Messía;6;Efficient Sociopath;M11150
+10183;Chief of Air Force;Juan Ansaldo Vejarano;6;Air Superiority Doctrine;M10263
+10182;Chief of Air Force;Juan I.L. de Tena García;6;Vertical Envelopment Doctrine;M10262
+10096;Minister of Armament;Juan Ignacio Luca de Tena;6;laissez-faire capitalist;M10115
+10095;Minister of Armament;Juan March Ordinas;6;Administrative Genius;M10113
+10097;Minister of Armament;Juan Vigón Suerodíaz;6;Theoretical Scientist;M10118
+10134;Head of Military Intelligence;Luis Orgaz Yoldi;6;Logistics Specialist;M10016
+10122;Minister of Security;Miguel Cabanellas Ferrer;6;Crime Fighter;M10001
+10067;Foreign Minister;Ramiro de Maeztu;6;Ideological Crusader;M10075
+10059;Foreign Minister;Alberto M. Artejo-Álvarez;7;Apologetic Clerk;M10061
+10124;Head of Military Intelligence;Antonio Barroso Sánchez-Guerra;7;Logistics Specialist;M10159
+10107;Minister of Security;Blas Pérez González;7;Silent Lawyer;M10130
+10153;Chief of Army;Carlos Asensio Cabanillas;7;Armoured Spearhead Doctrine;M10208
+10143;Chief of Staff;Carlos Asensio Cabanillas;7;School of Mass Combat;M10187
+10162;Chief of Navy;Carlos Bareda Terry;7;Indirect Approach Doctrine;M10229
+10106;Minister of Security;Dionisio Ridruejo;7;Back Stabber;M10129
+10176;Chief of Air Force;Eduardo González Gallarza;7;Vertical Envelopment Doctrine;M10250
+10151;Chief of Army;Fidel Dávila Arrondo;7;Static Defence Doctrine;M10002
+10190;Chief of Army;Francisco Franco Bahamonde;7;Decisive Battle Doctrine;L3426
+10140;Chief of Staff;Francisco Franco Bahamonde;7;School of Psychology;L3426
+10046;Head of Government;Francisco Franco Bahamonde;7;Silent Workhorse;L3426
+10055;Foreign Minister;Francisco Gómez-Jordana y Souza;7;Biased Intellectual;M10057
+10199;Chief of Navy;Francisco Nunez de Olaneta;7;Indirect Approach Doctrine;M10019
+10171;Chief of Navy;Francisco Núñez de Olaneta;7;Base Control Doctrine;M10019
+10166;Chief of Navy;Francisco Reglado Rodríguez;7;Open Seas Doctrine;M10233
+10054;Head of Government;J.M. Gil-Robles Quiñones;7;Silent Workhorse;M10012
+10093;Minister of Armament;José Calvo-Sotelo;7;laissez-faire capitalist;M11014
+10077;Minister of Armament;José de Areilza y Martínez-Rodas;7;laissez-faire capitalist;M10071
+10155;Chief of Army;José Enrique Varela Iglesias;7;Guns and Butter Doctrine;M10014
+10142;Chief of Staff;José Enrique Varela Iglesias;7;School of Fire Support;M10014
+10058;Foreign Minister;José Lequerica y Erquiza;7;The Cloak N Dagger Schemer;M10060
+10108;Minister of Security;José Millán Astray;7;Efficient Sociopath;M10131
+10194;Head of Government;José Sanjurjo Sacanell;7;Old General;M10040
+10126;Head of Military Intelligence;José Ungría Jiménez;7;Industrial Specialist;M10085
+10197;Foreign Minister;Juan Beigbéder Atienza;7;Apologetic Clerk;M10013
+10056;Foreign Minister;Juan Luís Beigbeder Atienza;7;General Staffer;M10013
+10177;Chief of Air Force;Juan Vigón Suerodíaz;7;Army Aviation Doctrine;M10118
+10125;Head of Military Intelligence;Juan Vigón Suerodíaz;7;Technical Specialist;M10118
+10175;Chief of Air Force;Juan Yagüe Blanco;7;Air Superiority Doctrine;M10184
+10154;Chief of Army;Juan Yagüe Blanco;7;Elastic Defence Doctrine;M10184
+10141;Chief of Staff;Juan Yagüe Blanco;7;School of Manoeuvre;M10184
+10165;Chief of Navy;Luis Carrero Blanco;7;Base Control Doctrine;M10232
+10198;Chief of Staff;Luís Orgaz Yoldi;7;school of defence;M10016
+10110;Minister of Security;Luis Valdés Cavanillas;7;Prince of Terror;M10134
+10083;Minister of Armament;Mariano Ansó;7;Air to Ground Proponent;M10096
+10005;Minister of Security;Miguel Ponte Mansó de Zúñiga;7;Crime Fighter;M10005
+10164;Chief of Navy;Nicolás Franco Bahamonde;7;Power Projection Doctrine;M10092
+10080;Minister of Armament;Nicolás Franco Bahamonde;7;Battle Fleet Proponent;M10092
+10152;Chief of Army;Rafael García Valiño;7;Decisive Battle Doctrine;M10207
+10010;Chief of Air Force;Ramón Franco Bahamonde;7;Naval Aviation Doctrine;M10089
+10078;Minister of Armament;Ramón Franco Bahamonde;7;Air Superiority Proponent;M10089
+10057;Foreign Minister;Ramón Serrano Súñer;7;Ideological Crusader;M10059
+10163;Chief of Navy;Salvador Moreno Fernández;7;Decisive Naval Battle Doctrine;M10230
+10105;Minister of Security;Severiano Martínez Anido;7;Prince of Terror;M10128
+10111;Minister of Security;Tomás Garciano Goñi;7;Compassionate Gentleman;M10135
+10109;Minister of Security;Valentín Galarza Morante;7;Man of the People;M10132
+10157;Chief of Army;Agustín Aznar Guerner;8;Guns and Butter Doctrine;M10070
+10146;Chief of Staff;Agustín Aznar Guerner;8;School of Psychology;M10070
+10092;Minister of Armament;Agustín Aznar Guerner;8;Air to Ground Proponent;M10110
+10114;Minister of Security;Agustín Aznar Guerner;8;Back Stabber;M10110
+10158;Chief of Army;Agustín Muñoz Grandes;8;Armoured Spearhead Doctrine;M10194
+10147;Chief of Staff;Agustín Muñoz Grandes;8;School of Fire Support;M10194
+10006;Head of Military Intelligence;Angel Salas Larrázabal;8;Political Specialist;M10006
+10132;Head of Military Intelligence;Dionisio Ridruejo;8;Technical Specialist;M10129
+10061;Foreign Minister;Enrique Plá y Deniel;8;Ideological Crusader;M10063
+10007;Chief of Staff;Fidel Dávila Arrondo;8;School of Psychology;M10002
+10002;Head of Government;Fidel Dávila Arrondo;8;Political Protege;M10002
+10079;Minister of Armament;Fidel Dávila Arrondo;8;Military Entrepreneur;M10002
+10003;Foreign Minister;Francisco de Asís Serrat y Bonastre;8;Ideological Crusader;M10003
+10009;Chief of Navy;Francisco Moreno Fernández;8;Open Seas Doctrine;M10009
+10181;Chief of Air Force;Francisco Reglado Rodríguez;8;Naval Aviation Doctrine;M10233
+10004;Minister of Armament;Gérman Gil y Yuste;8;Infantry Proponent;M10004
+10127;Head of Military Intelligence;Isidro Gomá y Tomás;8;Dismal Enigma;M10065
+10179;Chief of Air Force;J. de Areilza y Martínez-Rodas;8;Carpet Bombing Doctrine;M10071
+10168;Chief of Navy;J. de Areilza y Martínez-Rodas;8;Decisive Naval Battle Doctrine;M10071
+10064;Foreign Minister;J. de Areilza y Martínez-Rodas;8;Great Compromiser;M10071
+10178;Chief of Air Force;J. de Clairac de la Colina;8;Vertical Envelopment Doctrine;M10252
+10191;Chief of Navy;J. de Clairac de la Colina;8;Indirect Approach Doctrine;M10252
+10088;Minister of Armament;J.A. Primo de Rivera de Heredia;8;Resource Industrialist;M10036
+10128;Head of Military Intelligence;Joaquín Bau Nolla;8;Political Specialist;M10095
+10084;Minister of Armament;Joaquín Bau Nolla;8;Administrative Genius;M10095
+10081;Minister of Armament;Joaquin Benjumea Búrin;8;Resource Industrialist;M10093
+10195;Head of Government;José Antonio Primo de Rivera;8;Silent Workhorse;M10036
+10196;Minister of Security;José Antonio Primo de Rivera;8;Man of the People;M10036
+10082;Minister of Armament;José Larraz Lopez;8;laissez-faire capitalist;M11139
+10167;Chief of Navy;José María Lammamié;8;Indirect Approach Doctrine;M10102
+10086;Minister of Armament;José María Lammamié;8;laissez-faire capitalist;M10102
+10113;Minister of Security;José María Lammamié;8;Efficient Sociopath;M10102
+10008;Chief of Army;José Sanjurjo Sacanell;8;Armoured Spearhead Doctrine;M10040
+10144;Chief of Staff;José Sanjurjo Sacanell;8;School of Psychology;M10040
+10074;Foreign Minister;José Ungría Jiménez;8;General Staffer;M10085
+10063;Foreign Minister;Luís Hernando de Larramendi;8;Biased Intellectual;M10067
+10129;Head of Military Intelligence;Luís Hernando de Larramendi;8;Technical Specialist;M10067
+10085;Minister of Armament;Luís Hernando de Larramendi;8;Resource Industrialist;M10067
+10049;Head of Government;Manuel Fal Conde;8;Political Protege;M10049
+10065;Foreign Minister;Manuel Hedilla Larrey;8;Biased Intellectual;M10050
+10050;Head of Government;Manuel Hedilla Larrey;8;Smiling Oilman;M10050
+10131;Head of Military Intelligence;Manuel Hedilla Larrey;8;Political Specialist;M10050
+10090;Minister of Armament;Manuel Hedilla Larrey;8;Military Entrepreneur;M10050
+10104;Minister of Security;Pedro Sáinz Rodríguez;8;Man of the People;M10127
+10116;Minister of Security;Pilar Primo de Rivera;8;Prince of Terror;M10037
+10066;Foreign Minister;Raimundo Fernández Cuesta;8;The Cloak N Dagger Schemer;M10074
+10089;Minister of Armament;Raimundo Fernández Cuesta;8;laissez-faire capitalist;M10105
+10117;Minister of Security;Raimundo Fernández Cuesta;8;Man of the People;M10074
+10180;Chief of Air Force;Ramiro Ledesma Ramos;8;Air Superiority Doctrine;M10069
+10170;Chief of Navy;Ramiro Ledesma Ramos;8;Open Seas Doctrine;M10069
+10115;Minister of Security;Ramiro Ledesma Ramos;8;Silent Lawyer;M10069
+10156;Chief of Army;Ricardo de Rada;8;Static Defence Doctrine;M10166
+10145;Chief of Staff;Ricardo de Rada;8;School of Mass Combat;M10166
+10130;Head of Military Intelligence;Ricardo de Rada;8;Logistics Specialist;M10166
+10159;Chief of Army;Sancho Dávila;8;Decisive Battle Doctrine;M10109
+10148;Chief of Staff;Sancho Dávila;8;School of Defence;M10109
+10091;Minister of Armament;Sancho Dávila;8;Infantry Proponent;M10109
+10112;Minister of Security;Tomás  Conde de Redezno;8;Prince of Terror;M10099
+10060;Foreign Minister;Tomás Conde de Redezno;8;Iron Fisted Brute;M10048
+10062;Foreign Minister;Victor Pradera;8;Ideological Crusader;M10066
+10087;Minister of Armament;Victor Pradera;8;Theoretical Scientist;M10066
