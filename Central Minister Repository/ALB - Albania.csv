@@ -1,163 +1,163 @@
-ALB;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
-;;;;;
-32140;Head of Military Intelligence;Abaz Kupi;0;Industrial Specialist;M32129
-32197;Chief of Air Force;Aziz Sulejmani;0;Vertical Envelopment Doctrine;M32040
-32172;Chief of Army;Aziz Sulejmani;0;Armoured Spearhead Doctrine;M32040
-32122;Minister of Security;Aziz Sulejmani;0;Crooked Kleptocrat;M32040
-32198;Chief of Air Force;Enver Hoxha;0;Carpet Bombing Doctrine;M32034
-32184;Chief of Navy;Enver Hoxha;0;Open Seas Doctrine;M32034
-32062;Head of Government;Enver Hoxha;0;Backroom Backstabber;M32051
-32097;Minister of Armament;Enver Hoxha;0;Infantry Proponent;M32097
-32078;Foreign Minister;Essad Pacha;0;Apologetic Clerk;M32036
-32138;Head of Military Intelligence;Essad Pacha;0;Dismal Enigma;M32036
-32096;Minister of Armament;Essad Pacha;0;Corrupt Kleptocrat;M32036
-32199;Chief of Air Force;Hajrë Fetahu;0;Air Superiority Doctrine;M32039
-32183;Chief of Navy;Hajrë Fetahu;0;Decisive Naval Battle Doctrine;M32039
-32123;Minister of Security;Hajrë Fetahu;0;Man of the People;M32039
-32185;Chief of Navy;Halil Nergutti;0;Power Projection Doctrine;M32109
-32170;Chief of Army;Hassan Shqabi;0;Decisive Battle Doctrine;M32077
-32077;Foreign Minister;Hassan Shqabi;0;Iron Fisted Brute;M32077
-32119;Minister of Security;Hassan Shqabi;0;Compassionate Gentleman;M32077
-32120;Minister of Security;Haxhi Lleshi;0;Efficient Sociopath;M32014
-32221;Chief of Air Force;Hysni Kapo;0;Army Aviation Doctrine;Hysni Kapo
-32141;Head of Military Intelligence;Jup Kazazi;0;Naval Intelligence Specialist;M32015
-32218;Chief of Army;Mehmet Shehu;0;Static Defence Doctrine;Mehmet Shehu
-32154;Chief of Staff;Mehmet Shehu;0;School of Mass Combat;M32017
-32142;Head of Military Intelligence;Nano Xhana;0;Logistics Specialist;M32098
-32098;Minister of Armament;Nano Xhana;0;Air to Sea Proponent;M32098
-32076;Foreign Minister;Omer Nishani;0;Ideological Crusader;M32032
-32060;Head of Government;Omer Nishani;0;Silent Workhorse;M32032
-32118;Minister of Security;Pandi Kristo;0;Prince of Terror;M32035
-32200;Chief of Air Force;Prenk Pervizi;0;Naval Aviation Doctrine;M32156
-32171;Chief of Army;Prenk Pervizi;0;Elastic Defence Doctrine;M32156
-32156;Chief of Staff;Prenk Pervizi;0;School of Fire Support;M32156
-32061;Head of Government;Sejfulla Malëshova;0;Naive Optimist;M32050
-32099;Minister of Armament;Sejfulla Malëshova;0;Submarine Proponent;M32050
-32201;Chief of Air Force;Zuhdi Shabani;0;Army Aviation Doctrine;M32121
-32155;Chief of Staff;Zuhdi Shabani;0;School of Manoeuvre;M32121
-32139;Head of Military Intelligence;Zuhdi Shabani;0;Political Specialist;M32121
-32121;Minister of Security;Zuhdi Shabani;0;Crime Fighter;M32121
-32214;Head of Military Intelligence;Mustafa Gjinishi;1;Political Specialist;Mustafa Gjinishi
-32216;Chief of Staff;Sadik Djepi;1;School of Mass Combat;Sadik Djepi
-32220;Head of Government;Beqir Balluku;2;Happy Amateur;Beqir Balluku
-32213;Minister of Security;Koçi Xoxe;2;Prince of Terror;Koci Xoxe
-32219;Chief of Navy;Nako Spiru;2;Base Control Doctrine;Nako Spiru
-32222;Chief of Army;Petrit Dume;2;Decisive Battle Doctrine;Petrit Dume
-32223;Minister of Security;Josif Pashko;3;Back Stabber;Josif Pashko
-32215;Chief of Staff;Gjergj Kokoshi;4;School of Manoeuvre;Gjergj Kokoshi
-32109;Minister of Security;Halil Nergutti;4;Crime Fighter;M32109
-32166;Chief of Army;Mustafa Mërlika;4;Static Defence Doctrine;M32057
-32057;Head of Government;Mustafa Mërlika;4;Happy Amateur;M32057
-32112;Minister of Security;Mustafa Mërlika;4;Back Stabber;M32057
-32071;Foreign Minister;Shefqet Shkupi;4;Biased Intellectual;M32071
-32086;Minister of Armament;Shefqet Shkupi;4;Battle Fleet Proponent;M32071
-32111;Minister of Security;Shefqet Shkupi;4;Man of the People;M32071
-32217;Chief of Staff;Bahri Omari;5;School of Psychology;Bahri Omari
-32069;Foreign Minister;Ali Kelmendi;6;Iron Fisted Brute;M32031
-32164;Chief of Army;Hajrë Dizdari;6;Decisive Battle Doctrine;M32090
-32180;Chief of Navy;Hajrë Dizdari;6;Decisive Naval Battle Doctrine;M32090
-32147;Chief of Staff;Hajrë Dizdari;6;School of Defence;M32090
-32132;Head of Military Intelligence;Hajrë Dizdari;6;Technical Specialist;M32090
-32090;Minister of Armament;Hajrë Dizdari;6;Military Entrepreneur;M32090
-32085;Minister of Armament;Haxhi Lleshi;6;laissez-faire capitalist;M32014
-32212;Minister of Armament;Jonuz Kaceli;6;Air to Sea Proponent;Jonuz Kaceli
-32108;Minister of Security;Jup Kazazi;6;Crooked Kleptocrat;M32015
-32088;Minister of Armament;Kostaq Kota;6;Strategic Air Proponent;M32052
-32067;Foreign Minister;Llazar Fundua;6;Great Compromiser;M32013
-32070;Foreign Minister;Rexhep Mitrovica;6;Apologetic Clerk;M32046
-32131;Head of Military Intelligence;Rexhep Mitrovica;6;Political Specialist;M32046
-32087;Minister of Armament;Rexhep Mitrovica;6;Air to Sea Proponent;M32046
-32192;Chief of Air Force;Sokrat Agolli;6;Army Aviation Doctrine;M32149
-32149;Chief of Staff;Sokrat Agolli;6;School of Psychology;M32149
-32055;Head of Government;Theofan Noli;6;Naive Optimist;M32011
-32068;Foreign Minister;Theofan S. Noli;6;Ideological Crusader;M32068
-32056;Head of Government;Xhafer Ypi;6;Political Protege;M32056
-32130;Head of Military Intelligence;Xhafer Ypi;6;Logistics Specialist;M32056
-32089;Minister of Armament;Xhafer Ypi;6;Tank Proponent;M32056
-32191;Chief of Air Force;Xhelal Mitrovica;6;Air Superiority Doctrine;M32091
-32165;Chief of Army;Xhelal Mitrovica;6;Guns and Butter Doctrine;M32091
-32179;Chief of Navy;Xhelal Mitrovica;6;Base Control Doctrine;M32091
-32148;Chief of Staff;Xhelal Mitrovica;6;School of Manoeuvre;M32091
-32133;Head of Military Intelligence;Xhelal Mitrovica;6;Dismal Enigma;M32091
-32091;Minister of Armament;Xhelal Mitrovica;6;Infantry Proponent;M32091
-32113;Minister of Security;Xhelal Mitrovica;6;Crooked Kleptocrat;M32091
-32189;Chief of Air Force;Ahmad Zhahir;7;Air Superiority Doctrine;M32127
-32127;Head of Military Intelligence;Ahmad Zhahir;7;Technical Specialist;M32127
-32202;Head of Government;Ahmed bey Zogu;7;Backroom Backstabber;Kaiserreich_ALB_Zogu
-32161;Chief of Army;Alexander Mori;7;Decisive Battle Doctrine;M32161
-32210;Chief of Navy;August Ritter von Kral;7;Base Control Doctrine;August Ritter von Kral
-32205;Minister of Armament;Faik Bey;7;Resource Industrialist;Faik Bey
-32187;Chief of Air Force;Fiqri Dine;7;Army Aviation Doctrine;M32043
-32065;Foreign Minister;Fiqri Dine;7;Great Compromiser;M32043
-32083;Minister of Armament;Fiqri Dine;7;Corrupt Kleptocrat;M32043
-32003;Foreign Minister;Fuat Aslam;7;Apologetic Clerk;M32003
-32126;Head of Military Intelligence;Fuat Aslam;7;Logistics Specialist;M32003
-32206;Minister of Security;Hamit Grëblleshi;7;Crime Fighter;Hamit Greblleshi
-32104;Minister of Security;Ibrahim Bicaku;7;Prince of Terror;M32042
-32082;Minister of Armament;Ismael Ghaxa;7;Battle Fleet Proponent;M32029
-32010;Chief of Air Force;Jocelyn Percy;7;Army Aviation Doctrine;M32005
-32079;Minister of Armament;Jocelyn Percy;7;Air to Ground Proponent;M32005
-32005;Minister of Security;Jocelyn Percy;7;Prince of Terror;M32005
-32053;Head of Government;Jup Kazazi;7;Happy Amateur;M32015
-32052;Head of Government;Kostaq Kota;7;Smiling Oilman;M32052
-32106;Minister of Security;Kostaq Kota;7;Crime Fighter;M32052
-32158;Chief of Army;Kristo Cajupi;7;Static Defence Doctrine;M32145
-32006;Head of Military Intelligence;M.J. Zog I;7;Logistics Specialist;M32006
-32207;Head of Military Intelligence;Mehdi Bey;7;Dismal Enigma;Mehdi Bey
-32063;Foreign Minister;Mehdi Frashëri;7;Apologetic Clerk;M32054
-32054;Head of Government;Mehdi Frashëri;7;Corporate Suit;M32054
-32102;Minister of Security;Midhat Bej Frashëri;7;Compassionate Gentleman;M32002
-32002;Head of Government;Midhat Frashëri;7;Corporate Suit;M32002
-32209;Chief of Army;Muharem Liku;7;Static Defence Doctrine;Muharem Liku
-32204;Foreign Minister;Münir Bey;7;Biased Intellectual;Munir Bey
-32176;Chief of Navy;Nazim Dedolli;7;Decisive Naval Battle Doctrine;M32066
-32144;Chief of Staff;Nazim Dedolli;7;School of Fire Support;M32066
-32066;Foreign Minister;Nazim Dedolli;7;Iron Fisted Brute;M32066
-32105;Minister of Security;Nazim Dedolli;7;Efficient Sociopath;M32066
-32188;Chief of Air Force;Nexhip Deva;7;Carpet Bombing Doctrine;M32107
-32177;Chief of Navy;Nexhip Deva;7;Power Projection Doctrine;M32107
-32107;Minister of Security;Nexhip Deva;7;Silent Lawyer;M32107
-32103;Minister of Security;Omer Nishani;7;Back Stabber;M32032
-32211;Chief of Air Force;Otto Witte;7;Naval Aviation Doctrine;Otto Witte
-32007;Chief of Staff;Qemal Komani;7;School of Defence;M32007
-32009;Chief of Navy;Quamar Pakazi;7;Indirect Approach Doctrine;M32009
-32125;Head of Military Intelligence;Quamar Pakazi;7;Naval Intelligence Specialist;M32009
-32080;Minister of Armament;Quamar Pakazi;7;Submarine Proponent;M32009
-32174;Chief of Navy;Rexhep Mitrovica;7;Indirect Approach Doctrine;M32046
-32143;Chief of Staff;Rexhep Mitrovica;7;School of Mass Combat;M32046
-32004;Minister of Armament;Ruok Geraj;7;Corrupt Kleptocrat;M32004
-32157;Chief of Army;Selim Moishiou;7;Elastic Defence Doctrine;M32018
-32208;Chief of Staff;Shefqet Bey;7;School of Defence;Shefqet Bey
-32160;Chief of Army;Sokrat Agolli;7;Guns and Butter Doctrine;M32149
-32008;Chief of Army;Stefkhi Shatun;7;Static Defence Doctrine;M32008
-32175;Chief of Navy;Sthfphen Delvinë;7;Base Control Doctrine;M32020
-32081;Minister of Armament;Sthfphen Delvinë;7;Air to Sea Proponent;M32020
-32194;Chief of Air Force;Eqrem Libohova;8;Carpet Bombing Doctrine;M32048
-32059;Head of Government;Eqrem Libohova;8;Corporate Suit;M32048
-32095;Minister of Armament;Eqrem Libohova;8;Tank Proponent;M32048
-32115;Minister of Security;Eqrem Libohova;8;Man of the People;M32048
-32196;Chief of Air Force;Hasan Begolli;8;Vertical Envelopment Doctrine;M32073
-32182;Chief of Navy;Hasan Begolli;8;Power Projection Doctrine;M32073
-32073;Foreign Minister;Hasan Begolli;8;Biased Intellectual;M32073
-32136;Head of Military Intelligence;Hasan Begolli;8;Political Specialist;M32073
-32181;Chief of Navy;Ismael Ghaxa;8;Open Seas Doctrine;M32029
-32168;Chief of Army;Kol Bibë Mirakaj;8;Elastic Defence Doctrine;M32074
-32152;Chief of Staff;Kol Bibë Mirakaj;8;School of Manoeuvre;M32074
-32074;Foreign Minister;Kol Bibë Mirakaj;8;General Staffer;M32074
-32116;Minister of Security;Kol Bibë Mirakaj;8;Crooked Kleptocrat;M32074
-32153;Chief of Staff;Kristo Cajupi;8;School of Mass Combat;M32145
-32135;Head of Military Intelligence;Maliq Bushati;8;Logistics Specialist;M32024
-32092;Minister of Armament;Maliq Bushati;8;Corrupt Kleptocrat;M32024
-32114;Minister of Security;Maliq Bushati;8;Crooked Kleptocrat;M32024
-32195;Chief of Air Force;Nuhi Berisha;8;Army Aviation Doctrine;M32075
-32075;Foreign Minister;Nuhi Berisha;8;Iron Fisted Brute;M32075
-32137;Head of Military Intelligence;Nuhi Berisha;8;Industrial Specialist;M32075
-32117;Minister of Security;Nuhi Berisha;8;Compassionate Gentleman;M32075
-32094;Minister of Armament;Omer Bikacu;8;Resource Industrialist;M32084
-32167;Chief of Army;Qemal Komani;8;Armoured Spearhead Doctrine;M32007
-32134;Head of Military Intelligence;Qemal Komani;8;Dismal Enigma;M32007
-32151;Chief of Staff;Shefqet Vërlaci;8;School of Psychology;M32047
-32058;Head of Government;Shefqet Vërlaci;8;Flamboyant Tough Guy;M32047
-32093;Minister of Armament;Shefqet Vërlaci;8;laissez-faire capitalist;M32047
-32193;Chief of Air Force;Sthfphen Delvinë;8;Naval Aviation Doctrine;M32020
-32072;Foreign Minister;Tefik Mborja;8;The Cloak N Dagger Schemer;M32021
+ALB,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+32140,Head of Military Intelligence,Abaz Kupi,0,Industrial Specialist,M32129
+32197,Chief of Air Force,Aziz Sulejmani,0,Vertical Envelopment Doctrine,M32040
+32172,Chief of Army,Aziz Sulejmani,0,Armoured Spearhead Doctrine,M32040
+32122,Minister of Security,Aziz Sulejmani,0,Crooked Kleptocrat,M32040
+32198,Chief of Air Force,Enver Hoxha,0,Carpet Bombing Doctrine,M32034
+32184,Chief of Navy,Enver Hoxha,0,Open Seas Doctrine,M32034
+32062,Head of Government,Enver Hoxha,0,Backroom Backstabber,M32051
+32097,Minister of Armament,Enver Hoxha,0,Infantry Proponent,M32097
+32078,Foreign Minister,Essad Pacha,0,Apologetic Clerk,M32036
+32138,Head of Military Intelligence,Essad Pacha,0,Dismal Enigma,M32036
+32096,Minister of Armament,Essad Pacha,0,Corrupt Kleptocrat,M32036
+32199,Chief of Air Force,Hajrë Fetahu,0,Air Superiority Doctrine,M32039
+32183,Chief of Navy,Hajrë Fetahu,0,Decisive Naval Battle Doctrine,M32039
+32123,Minister of Security,Hajrë Fetahu,0,Man of the People,M32039
+32185,Chief of Navy,Halil Nergutti,0,Power Projection Doctrine,M32109
+32170,Chief of Army,Hassan Shqabi,0,Decisive Battle Doctrine,M32077
+32077,Foreign Minister,Hassan Shqabi,0,Iron Fisted Brute,M32077
+32119,Minister of Security,Hassan Shqabi,0,Compassionate Gentleman,M32077
+32120,Minister of Security,Haxhi Lleshi,0,Efficient Sociopath,M32014
+32221,Chief of Air Force,Hysni Kapo,0,Army Aviation Doctrine,Hysni Kapo
+32141,Head of Military Intelligence,Jup Kazazi,0,Naval Intelligence Specialist,M32015
+32218,Chief of Army,Mehmet Shehu,0,Static Defence Doctrine,Mehmet Shehu
+32154,Chief of Staff,Mehmet Shehu,0,School of Mass Combat,M32017
+32142,Head of Military Intelligence,Nano Xhana,0,Logistics Specialist,M32098
+32098,Minister of Armament,Nano Xhana,0,Air to Sea Proponent,M32098
+32076,Foreign Minister,Omer Nishani,0,Ideological Crusader,M32032
+32060,Head of Government,Omer Nishani,0,Silent Workhorse,M32032
+32118,Minister of Security,Pandi Kristo,0,Prince of Terror,M32035
+32200,Chief of Air Force,Prenk Pervizi,0,Naval Aviation Doctrine,M32156
+32171,Chief of Army,Prenk Pervizi,0,Elastic Defence Doctrine,M32156
+32156,Chief of Staff,Prenk Pervizi,0,School of Fire Support,M32156
+32061,Head of Government,Sejfulla Malëshova,0,Naive Optimist,M32050
+32099,Minister of Armament,Sejfulla Malëshova,0,Submarine Proponent,M32050
+32201,Chief of Air Force,Zuhdi Shabani,0,Army Aviation Doctrine,M32121
+32155,Chief of Staff,Zuhdi Shabani,0,School of Manoeuvre,M32121
+32139,Head of Military Intelligence,Zuhdi Shabani,0,Political Specialist,M32121
+32121,Minister of Security,Zuhdi Shabani,0,Crime Fighter,M32121
+32214,Head of Military Intelligence,Mustafa Gjinishi,1,Political Specialist,Mustafa Gjinishi
+32216,Chief of Staff,Sadik Djepi,1,School of Mass Combat,Sadik Djepi
+32220,Head of Government,Beqir Balluku,2,Happy Amateur,Beqir Balluku
+32213,Minister of Security,Koçi Xoxe,2,Prince of Terror,Koci Xoxe
+32219,Chief of Navy,Nako Spiru,2,Base Control Doctrine,Nako Spiru
+32222,Chief of Army,Petrit Dume,2,Decisive Battle Doctrine,Petrit Dume
+32223,Minister of Security,Josif Pashko,3,Back Stabber,Josif Pashko
+32215,Chief of Staff,Gjergj Kokoshi,4,School of Manoeuvre,Gjergj Kokoshi
+32109,Minister of Security,Halil Nergutti,4,Crime Fighter,M32109
+32166,Chief of Army,Mustafa Mërlika,4,Static Defence Doctrine,M32057
+32057,Head of Government,Mustafa Mërlika,4,Happy Amateur,M32057
+32112,Minister of Security,Mustafa Mërlika,4,Back Stabber,M32057
+32071,Foreign Minister,Shefqet Shkupi,4,Biased Intellectual,M32071
+32086,Minister of Armament,Shefqet Shkupi,4,Battle Fleet Proponent,M32071
+32111,Minister of Security,Shefqet Shkupi,4,Man of the People,M32071
+32217,Chief of Staff,Bahri Omari,5,School of Psychology,Bahri Omari
+32069,Foreign Minister,Ali Kelmendi,6,Iron Fisted Brute,M32031
+32164,Chief of Army,Hajrë Dizdari,6,Decisive Battle Doctrine,M32090
+32180,Chief of Navy,Hajrë Dizdari,6,Decisive Naval Battle Doctrine,M32090
+32147,Chief of Staff,Hajrë Dizdari,6,School of Defence,M32090
+32132,Head of Military Intelligence,Hajrë Dizdari,6,Technical Specialist,M32090
+32090,Minister of Armament,Hajrë Dizdari,6,Military Entrepreneur,M32090
+32085,Minister of Armament,Haxhi Lleshi,6,laissez-faire capitalist,M32014
+32212,Minister of Armament,Jonuz Kaceli,6,Air to Sea Proponent,Jonuz Kaceli
+32108,Minister of Security,Jup Kazazi,6,Crooked Kleptocrat,M32015
+32088,Minister of Armament,Kostaq Kota,6,Strategic Air Proponent,M32052
+32067,Foreign Minister,Llazar Fundua,6,Great Compromiser,M32013
+32070,Foreign Minister,Rexhep Mitrovica,6,Apologetic Clerk,M32046
+32131,Head of Military Intelligence,Rexhep Mitrovica,6,Political Specialist,M32046
+32087,Minister of Armament,Rexhep Mitrovica,6,Air to Sea Proponent,M32046
+32192,Chief of Air Force,Sokrat Agolli,6,Army Aviation Doctrine,M32149
+32149,Chief of Staff,Sokrat Agolli,6,School of Psychology,M32149
+32055,Head of Government,Theofan Noli,6,Naive Optimist,M32011
+32068,Foreign Minister,Theofan S. Noli,6,Ideological Crusader,M32068
+32056,Head of Government,Xhafer Ypi,6,Political Protege,M32056
+32130,Head of Military Intelligence,Xhafer Ypi,6,Logistics Specialist,M32056
+32089,Minister of Armament,Xhafer Ypi,6,Tank Proponent,M32056
+32191,Chief of Air Force,Xhelal Mitrovica,6,Air Superiority Doctrine,M32091
+32165,Chief of Army,Xhelal Mitrovica,6,Guns and Butter Doctrine,M32091
+32179,Chief of Navy,Xhelal Mitrovica,6,Base Control Doctrine,M32091
+32148,Chief of Staff,Xhelal Mitrovica,6,School of Manoeuvre,M32091
+32133,Head of Military Intelligence,Xhelal Mitrovica,6,Dismal Enigma,M32091
+32091,Minister of Armament,Xhelal Mitrovica,6,Infantry Proponent,M32091
+32113,Minister of Security,Xhelal Mitrovica,6,Crooked Kleptocrat,M32091
+32189,Chief of Air Force,Ahmad Zhahir,7,Air Superiority Doctrine,M32127
+32127,Head of Military Intelligence,Ahmad Zhahir,7,Technical Specialist,M32127
+32202,Head of Government,Ahmed bey Zogu,7,Backroom Backstabber,Kaiserreich_ALB_Zogu
+32161,Chief of Army,Alexander Mori,7,Decisive Battle Doctrine,M32161
+32210,Chief of Navy,August Ritter von Kral,7,Base Control Doctrine,August Ritter von Kral
+32205,Minister of Armament,Faik Bey,7,Resource Industrialist,Faik Bey
+32187,Chief of Air Force,Fiqri Dine,7,Army Aviation Doctrine,M32043
+32065,Foreign Minister,Fiqri Dine,7,Great Compromiser,M32043
+32083,Minister of Armament,Fiqri Dine,7,Corrupt Kleptocrat,M32043
+32003,Foreign Minister,Fuat Aslam,7,Apologetic Clerk,M32003
+32126,Head of Military Intelligence,Fuat Aslam,7,Logistics Specialist,M32003
+32206,Minister of Security,Hamit Grëblleshi,7,Crime Fighter,Hamit Greblleshi
+32104,Minister of Security,Ibrahim Bicaku,7,Prince of Terror,M32042
+32082,Minister of Armament,Ismael Ghaxa,7,Battle Fleet Proponent,M32029
+32010,Chief of Air Force,Jocelyn Percy,7,Army Aviation Doctrine,M32005
+32079,Minister of Armament,Jocelyn Percy,7,Air to Ground Proponent,M32005
+32005,Minister of Security,Jocelyn Percy,7,Prince of Terror,M32005
+32053,Head of Government,Jup Kazazi,7,Happy Amateur,M32015
+32052,Head of Government,Kostaq Kota,7,Smiling Oilman,M32052
+32106,Minister of Security,Kostaq Kota,7,Crime Fighter,M32052
+32158,Chief of Army,Kristo Cajupi,7,Static Defence Doctrine,M32145
+32006,Head of Military Intelligence,M.J. Zog I,7,Logistics Specialist,M32006
+32207,Head of Military Intelligence,Mehdi Bey,7,Dismal Enigma,Mehdi Bey
+32063,Foreign Minister,Mehdi Frashëri,7,Apologetic Clerk,M32054
+32054,Head of Government,Mehdi Frashëri,7,Corporate Suit,M32054
+32102,Minister of Security,Midhat Bej Frashëri,7,Compassionate Gentleman,M32002
+32002,Head of Government,Midhat Frashëri,7,Corporate Suit,M32002
+32209,Chief of Army,Muharem Liku,7,Static Defence Doctrine,Muharem Liku
+32204,Foreign Minister,Münir Bey,7,Biased Intellectual,Munir Bey
+32176,Chief of Navy,Nazim Dedolli,7,Decisive Naval Battle Doctrine,M32066
+32144,Chief of Staff,Nazim Dedolli,7,School of Fire Support,M32066
+32066,Foreign Minister,Nazim Dedolli,7,Iron Fisted Brute,M32066
+32105,Minister of Security,Nazim Dedolli,7,Efficient Sociopath,M32066
+32188,Chief of Air Force,Nexhip Deva,7,Carpet Bombing Doctrine,M32107
+32177,Chief of Navy,Nexhip Deva,7,Power Projection Doctrine,M32107
+32107,Minister of Security,Nexhip Deva,7,Silent Lawyer,M32107
+32103,Minister of Security,Omer Nishani,7,Back Stabber,M32032
+32211,Chief of Air Force,Otto Witte,7,Naval Aviation Doctrine,Otto Witte
+32007,Chief of Staff,Qemal Komani,7,School of Defence,M32007
+32009,Chief of Navy,Quamar Pakazi,7,Indirect Approach Doctrine,M32009
+32125,Head of Military Intelligence,Quamar Pakazi,7,Naval Intelligence Specialist,M32009
+32080,Minister of Armament,Quamar Pakazi,7,Submarine Proponent,M32009
+32174,Chief of Navy,Rexhep Mitrovica,7,Indirect Approach Doctrine,M32046
+32143,Chief of Staff,Rexhep Mitrovica,7,School of Mass Combat,M32046
+32004,Minister of Armament,Ruok Geraj,7,Corrupt Kleptocrat,M32004
+32157,Chief of Army,Selim Moishiou,7,Elastic Defence Doctrine,M32018
+32208,Chief of Staff,Shefqet Bey,7,School of Defence,Shefqet Bey
+32160,Chief of Army,Sokrat Agolli,7,Guns and Butter Doctrine,M32149
+32008,Chief of Army,Stefkhi Shatun,7,Static Defence Doctrine,M32008
+32175,Chief of Navy,Sthfphen Delvinë,7,Base Control Doctrine,M32020
+32081,Minister of Armament,Sthfphen Delvinë,7,Air to Sea Proponent,M32020
+32194,Chief of Air Force,Eqrem Libohova,8,Carpet Bombing Doctrine,M32048
+32059,Head of Government,Eqrem Libohova,8,Corporate Suit,M32048
+32095,Minister of Armament,Eqrem Libohova,8,Tank Proponent,M32048
+32115,Minister of Security,Eqrem Libohova,8,Man of the People,M32048
+32196,Chief of Air Force,Hasan Begolli,8,Vertical Envelopment Doctrine,M32073
+32182,Chief of Navy,Hasan Begolli,8,Power Projection Doctrine,M32073
+32073,Foreign Minister,Hasan Begolli,8,Biased Intellectual,M32073
+32136,Head of Military Intelligence,Hasan Begolli,8,Political Specialist,M32073
+32181,Chief of Navy,Ismael Ghaxa,8,Open Seas Doctrine,M32029
+32168,Chief of Army,Kol Bibë Mirakaj,8,Elastic Defence Doctrine,M32074
+32152,Chief of Staff,Kol Bibë Mirakaj,8,School of Manoeuvre,M32074
+32074,Foreign Minister,Kol Bibë Mirakaj,8,General Staffer,M32074
+32116,Minister of Security,Kol Bibë Mirakaj,8,Crooked Kleptocrat,M32074
+32153,Chief of Staff,Kristo Cajupi,8,School of Mass Combat,M32145
+32135,Head of Military Intelligence,Maliq Bushati,8,Logistics Specialist,M32024
+32092,Minister of Armament,Maliq Bushati,8,Corrupt Kleptocrat,M32024
+32114,Minister of Security,Maliq Bushati,8,Crooked Kleptocrat,M32024
+32195,Chief of Air Force,Nuhi Berisha,8,Army Aviation Doctrine,M32075
+32075,Foreign Minister,Nuhi Berisha,8,Iron Fisted Brute,M32075
+32137,Head of Military Intelligence,Nuhi Berisha,8,Industrial Specialist,M32075
+32117,Minister of Security,Nuhi Berisha,8,Compassionate Gentleman,M32075
+32094,Minister of Armament,Omer Bikacu,8,Resource Industrialist,M32084
+32167,Chief of Army,Qemal Komani,8,Armoured Spearhead Doctrine,M32007
+32134,Head of Military Intelligence,Qemal Komani,8,Dismal Enigma,M32007
+32151,Chief of Staff,Shefqet Vërlaci,8,School of Psychology,M32047
+32058,Head of Government,Shefqet Vërlaci,8,Flamboyant Tough Guy,M32047
+32093,Minister of Armament,Shefqet Vërlaci,8,laissez-faire capitalist,M32047
+32193,Chief of Air Force,Sthfphen Delvinë,8,Naval Aviation Doctrine,M32020
+32072,Foreign Minister,Tefik Mborja,8,The Cloak N Dagger Schemer,M32021
