@@ -1,0 +1,188 @@
+MEX;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
+;;;;;
+36052;Head of Government;Abelardo L. Rodriguez;0;pragmatic statesman;MEX_Abelardo
+36165;Chief of Staff;Antonio I. Villareal;0;School of Psychology;MEX_Villareal
+36146;Head of Military Intelligence;David Alfaro Siqueiros;0;Dismal Enigma;MEX_Siqueiros
+36145;Head of Military Intelligence;Enrique Estrada Reynoso;0;Dismal Enigma;M36004
+36100;Minister of Armament;Enrique Estrada Reynoso;0;Infantry Proponent;M36004
+36186;Chief of Army;Joaquin Amaro Dominguez;0;Decisive Battle Doctrine;M3605
+36121;Minister of Security;Joaquin Amaro Dominguez;0;Back Stabber;M36075
+36102;Minister of Armament;Luis L. Leon;0;military entrepreneur;MEX_Leon
+36207;Head of Government;Luis Napoleón Morones;0;Ambitious Union Boss;MEX_Morones
+36203;Minister of Armament;Luis Napoleón Morones;0;Corrupt Kleptocrat;MEX_Morones
+36101;Minister of Armament;Marte R. Gomez;0;Bank President;MEX_Marte
+36147;Head of Military Intelligence;Narciso Bassols Garcia;0;Logistics Specialist;MEX_Bassols
+36051;Head of Government;Pascual Ortiz Rubio;0;Silent Workhorse;MEX_Rubio
+36007;Chief of Army;Plutarco Elias Calles;0;Static Defence Doctrine;Calles
+36050;Head of Government;Plutarco Elias Calles;0;totalist chairman;Calles
+36005;Head of Military Intelligence;Plutarco Elias Calles;0;Political Specialist;Calles
+36099;Minister of Armament;Saturnino Cedillo Martinez;0;Military Entrepreneur;MEX_Saturnino
+36129;Minister of Security;Tomas Garrido Canabal;0;Prince of Terror;MEX_Canabal
+36049;Head of Government;Agustín Olachea Avilé;1;old airmarshal;Aviles
+36197;Chief of Navy;Alfredo Serratos Amador;1;Power Projection Doctrine;unknown
+36073;Foreign Minister;Alfredo Serratos Amador;1;Apologetic Clerk;unknown
+36128;Minister of Security;Alfredo Serratos Amador;1;Crime Fighter;unknown
+36209;Head of Government;Amalia González Caballero;1;Naive Optimist;MEX_Amalia
+36163;Chief of Staff;Andres Figueroa;1;School of Fire Support;M36073
+36098;Minister of Armament;Dolores Santapiavo;1;Air to Ground Proponent;M36071
+36001;Head of Government;Emiliano Zapata;1;reformist soldierHoG;Zapata
+36126;Minister of Security;Francisco Gonzalez Vega;1;Silent Lawyer;MEX_GonzalesVega
+36097;Minister of Armament;Francisco I. Casian;1;Administrative Genius;M36024
+36184;Chief of Army;Genovevo de la O;1;static defence doctrine;6073
+36183;Chief of Army;Gildardo Magaña Cerda;1;Guns and Butter Doctrine;MEX_Gildardo
+36072;Foreign Minister;Gildardo Magaña Cerda;1;Great Compromiser;MEX_Gildardo
+36008;Chief of Navy;Heriberto Jara Corona;1;Base Control Doctrine;Corona
+36164;Chief of Staff;Ignacio L. Pesqueira;1;School of Manoeuvre;MEX_Pesqueira
+36003;Minister of Armament;Luis Cabrera;1;Industrialiser;MEX_CabreraLobato
+36071;Foreign Minister;Manuel C. Tellez;1;Apologetic Clerk;M36060
+36006;Chief of Staff;Manuel Palafox;1;School of Fire Support;M36026
+36143;Head of Military Intelligence;Manuel Palafox;1;Dismal Enigma;M36026
+36125;Minister of Security;Manuel Palafox;1;Back Stabber;M36026
+36070;Foreign Minister;Mariano Ponton;1;The Cloak N Dagger Schemer;M36023
+36127;Minister of Security;Mariano Ponton;1;Back Stabber;M36023
+36185;Chief of Army;Matias Santos Ramos;1;Guns and Butter Doctrine;M36028
+36182;Chief of Army;Miguel Collazzo;1;Armoured Spearhead Doctrine;M36094
+36144;Head of Military Intelligence;Miguel Collazzo;1;Political Specialist;M36094
+36048;Head of Government;Procopio Herrera;1;Naive Optimist;M36025
+36124;Minister of Security;Procopio Herrera;1;Efficient Sociopath;M36025
+36196;Chief of Navy;Raul Lopez Sanchez;1;Decisive Naval Battle Doctrine;MEX_Raul
+36074;Foreign Minister;Vicente Lombardo Toledano;1;Ideological Crusader;Toledano
+36047;Head of Government;Vicente Lombardo Toledano;1;Silent Workhorse;Toledano
+36094;Minister of Armament;Adolfo Ruiz Cortines;2;Administrative Genius;M36065
+36122;Minister of Security;Adolfo Ruiz Cortines;2;Silent Lawyer;M36065
+36202;Chief of Air Force;Alberto Salinas Carranza;2;Army Aviation Doctrine;M36119
+36120;Minister of Security;Andres F. Figueroa;2;Crime Fighter;M36073
+36092;Minister of Armament;Antonio Castro Leal;2;Tank Proponent;M36064
+36160;Chief of Staff;Augustin Mendoza Cais;2;School of Defence;M36102
+36181;Chief of Army;Elidoro Charis;2;Armoured Spearhead Doctrine;MEX_Charis
+36002;Foreign Minister;Francisco Castillo Najera;2;General Staffer;M36051
+36093;Minister of Armament;Francisco J. Mujica;2;Infantry Proponent;MEX_Mujica
+36180;Chief of Army;Francisco U. Benavides;2;Armoured Spearhead Doctrine;M36005
+36119;Minister of Security;Francisco U. Benavides;2;Man of the People;M36005
+36009;Chief of Air Force;Gustavo Salinas Camiña;2;Naval Aviation Doctrine;M36010
+36193;Chief of Navy;Hector Meixueiro;2;Open Seas Doctrine;M36009
+36142;Head of Military Intelligence;José Aguilar y Maya;2;Political Specialist;MEX_Maya
+36091;Minister of Armament;Jose Manuel Puig Casauranc;2;Theoretical Scientist;M36063
+36161;Chief of Staff;Julian Medina Castillo;2;School of Fire Support;7258
+36069;Foreign Minister;Manuel Tello Baurraud;2;Great Compromiser;MEX_Barraud
+36123;Minister of Security;Manuel Tello Baurraud;2;Compassionate Gentleman;M36078
+36194;Chief of Navy;Miguel S. Gonzalez;2;Decisive Naval Battle Doctrine;8308
+36179;Chief of Army;Pablo M. Valenzuela;2;Elastic Defence Doctrine;M36104
+36178;Chief of Army;Pablo Quiroga Escamillo;2;Static Defence Doctrine;M36008
+36162;Chief of Staff;Pancho Villa;2;School of Psychology;Arambula
+36046;Head of Government;Pancho Villa;2;Old General;Arambula
+36004;Minister of Security;Pancho Villa;2;Man of the People;Arambula
+36195;Chief of Navy;Pedro Caloca Larios;2;Open Seas Doctrine;MEX_Caloca
+36096;Minister of Armament;Primo Villa Michel;2;Resource Industrialist;MEX_Primo
+36095;Minister of Armament;Rafael Buelna;2;military entrepreneur;8332
+36090;Minister of Armament;Roberto G. Maqueo;2;Battle Fleet Proponent;M36062
+36177;Chief of Army;Adrián Castrejon;3;Guns and Butter Doctrine;MEX_Castrejon
+36089;Minister of Armament;Alberto J. Pani;3;Bank President;903
+36117;Minister of Security;Alberto J. Pani;3;Crooked Kleptocrat;903
+36191;Chief of Navy;Alberto J. Pawling;3;Indirect Approach Doctrine;unknown
+36067;Foreign Minister;Amelio Robles Avila;3;Ideological Crusader;909
+36087;Minister of Armament;Emilio Portes Gil;3;Submarine Proponent;M36061
+36140;Head of Military Intelligence;Gonzalo Vazquez Vela;3;Logistics Specialist;MEX_Vela
+36159;Chief of Staff;Gustavo Salinas Camina;3;School of Defence;M36010
+36043;Head of Government;Ignacio Garcia Tellez;3;Smiling Oilman;MEX_Ignacio
+36066;Foreign Minister;Isidro Fabela;3;Apologetic Clerk;7225
+36158;Chief of Staff;Lazaro Cardenas;3;school of defence;M36001
+36068;Foreign Minister;Lazaro Cardenas;3;Ideological Crusader;M36001
+36042;Head of Government;Lazaro Cardenas;3;Flamboyant Tough Guy;M36001
+36141;Head of Military Intelligence;Lazaro Cardenas;3;Naval Intelligence Specialist;M36001
+36201;Chief of Air Force;Lester Pence Barlow;3;Carpet Bombing Doctrine;MEX_Barlow
+36044;Head of Government;Manuel Avila Camacho;3;Corporate Suit;M36032
+36139;Head of Military Intelligence;Manuel Avila Camacho;3;Political Specialist;M36087
+36045;Head of Government;Miguel Aleman Valdes;3;Smiling Oilman;M36033
+36116;Minister of Security;Miguel Aleman Valdes;3;Man of the People;M36033
+36157;Chief of Staff;Pablo Quiroga Escamillo;3;School of Mass Combat;M36008
+36118;Minister of Security;Roque Estrada Reynoso;3;Compassionate Gentleman;MEX_RoqueReynoso
+36175;Chief of Army;Salvador Alvarado;3;Static Defence Doctrine;MEX_Alvarado
+36192;Chief of Navy;Serafín M. Robles Morales;3;Base Control Doctrine;MEX_Serafin
+36088;Minister of Armament;Serafín M. Robles Morales;3;military entrepreneur;MEX_Serafin
+36176;Chief of Army;Timoteo Sanchez;3;Decisive Battle Doctrine;8350
+36041;Head of Government;Antonio Díaz Soto y Gama;4;Silent Workhorse;MEX_Gama
+36138;Head of Military Intelligence;Antonio Díaz Soto y Gama;4;Political Specialist;MEX_Gama
+36083;Minister of Armament;Efrain Buenrostro Ochoa;4;Industrialiser;MEX_Ochoa
+36082;Minister of Armament;Ernesto Madero Farías;4;laissez-faire capitalist;MEX_MaderoFarias
+36114;Minister of Security;Genaro Estrada;4;Compassionate Gentleman;M36074
+36115;Minister of Security;Genaro G. Vazquez;4;Crime Fighter;MEX_Genaro
+36174;Chief of Army;Jesus Agustín Castro;4;elastic defence doctrine;7231
+36063;Foreign Minister;Candido Aguilar Vargas;5;General Staffer;923
+36190;Chief of Navy;Eduardo Hay;5;Open Seas Doctrine;MEX_Hay
+36155;Chief of Staff;Eduardo Hay;5;school of defence;MEX_Hay
+36137;Head of Military Intelligence;Eduardo Hay;5;Naval Intelligence Specialist;MEX_Hay
+36062;Foreign Minister;Ezequiel Padilla Penaloza;5;Iron Fisted Brute;M36050
+36200;Chief of Air Force;Francisco L. Urquizo;5;Air Superiority Doctrine;MEX_Urquizo
+36173;Chief of Army;Francisco L. Urquizo;5;Armoured Spearhead Doctrine;MEX_Urquizo
+36154;Chief of Staff;Francisco L. Urquizo;5;school of defence;MEX_Urquizo
+36064;Foreign Minister;Hilario Medina;5;Apologetic Clerk;6657
+36065;Foreign Minister;Jaime Torres Bodet;5;Biased Intellectual;M36052
+36156;Chief of Staff;Marcelino García Barragan;5;School of Psychology;MEX_Barragan
+36038;Head of Government;Aaron Saenz;6;Happy Amateur;MEX_Aaron
+36113;Minister of Security;Alberto Vázquez del Mercado;6;Silent Lawyer;MEX_Mercado
+36060;Foreign Minister;Alesso Melecio;6;Biased Intellectual;M36053
+36040;Head of Government;Daniel Cosio Villegas;6;Corporate Suit;MEX_Villegas
+36085;Minister of Armament;Daniel Cosio Villegas;6;Resource Industrialist;MEX_Villegas
+36199;Chief of Air Force;Eduardo Aldasoro Suárez;6;Air Superiority Doctrine;MEX_Aldosoro
+36111;Minister of Security;Enrique C. del Rio;6;Compassionate Gentleman;M36017
+36189;Chief of Navy;Enrique Panizio Vargas;6;Open Seas Doctrine;M36115
+36086;Minister of Armament;Florentino Santana;6;laissez-faire capitalist;M36067
+36172;Chief of Army;Gilberto Limon Marquez;6;Static Defence Doctrine;M36106
+36059;Foreign Minister;Juan G. Lascaran;6;Apologetic Clerk;M36055
+36039;Head of Government;Luis Bustamante Benitez;6;Silent Workhorse;M36035
+36136;Head of Military Intelligence;Luis Bustamante Benitez;6;Naval Intelligence Specialist;M36035
+36112;Minister of Security;Manuel Gomez Morin;6;Man of the People;M36080
+36037;Head of Government;Manuel M. Marquez;6;Old General;M36034
+36084;Minister of Armament;Manuel M. Marquez;6;laissez-faire capitalist;M36034
+36061;Foreign Minister;Pedro Lascurain;6;Biased Intellectual;MEX_Lascuarain
+36132;Head of Military Intelligence;Alberto B. Gutierrez;7;Technical Specialist;MEX_Alberto
+36171;Chief of Army;Cesar Parada Henriques;7;Elastic Defence Doctrine;M36110
+36034;Head of Government;Efrain Gonzalez Luna;7;pragmatic statesman;MEX_Luna
+36110;Minister of Security;Efrain Gonzalez Luna;7;Man of the People;MEX_Luna
+36152;Chief of Staff;Enrique C. del Rio;7;School of Psychology;M36017
+36058;Foreign Minister;Francisco R. Serrano;7;General Staffer;M36057
+36080;Minister of Armament;Francisco R. Serrano;7;Resource Industrialist;M36057
+36170;Chief of Army;Jacinto Blas Treviño González;7;static defence doctrine;MEX_Trevino
+36036;Head of Government;Jacinto Blas Treviño González;7;Old General;MEX_Trevino
+36135;Head of Military Intelligence;Jacinto Blas Treviño González;7;Logistics Specialist;MEX_Trevino
+36131;Head of Military Intelligence;Jesus Garza Siller;7;Logistics Specialist;M36016
+36033;Head of Government;Juan Andreu Almazan;7;Happy Amateur;M36014
+36035;Head of Government;Luis Calderon Vega;7;pragmatic statesman;MEX_Vega
+36188;Chief of Navy;Luis Hiram Toledo;7;Open Seas Doctrine;M36019
+36133;Head of Military Intelligence;Manuel Herrera y Lasso;7;Technical Specialist;MEX_Lasso
+36153;Chief of Staff;Nicolas Rodriguez Carrasco;7;school of defence;unknown
+36109;Minister of Security;Pedro Pena Cavazos;7;Man of the People;M36083
+36057;Foreign Minister;Pino G. Calles;7;Biased Intellectual;M36011
+36134;Head of Military Intelligence;Victor Munoz Cardenas;7;Industrial Specialist;M36091
+36187;Chief of Navy;Victor Tapia Briones;7;Open Seas Doctrine;M36116
+36103;Minister of Security;Anacleto Gonzalez Flores;8;Compassionate Gentleman;MEX_Anacleto
+36168;Chief of Army;Aristeo Pedroza;8;Decisive Battle Doctrine;MEX_Aristeo
+36198;Chief of Air Force;Enrique Goroztieta Velarde;8;Army Aviation Doctrine;MEX_Gorostiera
+36169;Chief of Army;Enrique Goroztieta Velarde;8;elastic defence doctrine;MEX_Gorostiera
+36148;Chief of Staff;Enrique Goroztieta Velarde;8;School of Manoeuvre;MEX_Gorostiera
+36031;Head of Government;Enrique Goroztieta Velarde;8;Respected War Hero;MEX_Gorostiera
+36107;Minister of Security;Felix Maragano Flores;8;Back Stabber;M36082
+36151;Chief of Staff;Jesus Ballestreros Miranda;8;School of Manoeuvre;M36100
+36167;Chief of Army;Jesús Degollado Guízar;8;static defence doctrine;MEX_Guizar
+36104;Minister of Security;José Reyes Vega;8;Efficient Sociopath;MEX_ReyesVega
+36081;Minister of Armament;Juan Andreu Almazan;8;Corrupt Kleptocrat;M36014
+36106;Minister of Security;Juan Andrew Almazan;8;Crooked Kleptocrat;M36014
+36030;Head of Government;Luis G. Quintana;8;Political Protege;M36012
+36076;Minister of Armament;Luis G. Quintana;8;Military Entrepreneur;M36012
+36056;Foreign Minister;Luis María Martinez y Rodriguez;8;Apologetic Clerk;MEX_LuisMaria
+36079;Minister of Armament;Manuel C. Michel;8;Administrative Genius;MEX_ManuelMichel
+36150;Chief of Staff;Maximino Avila Camacho;8;School of Mass Combat;MEX_Maximino
+36108;Minister of Security;Maximino Avila Camacho;8;Crooked Kleptocrat;MEX_Maximino
+36077;Minister of Armament;Miguel Palomar y Vizcarra;8;Resource Industrialist;MEX_Palomar
+36078;Minister of Armament;Pastor Castro Tinoco;8;Industrialiser;MEX_Pastor
+36055;Foreign Minister;Pazcual Díaz Barreto;8;Great Compromiser;MEX_DiazBarreto
+36149;Chief of Staff;Rene Capistrán Garza;8;School of Mass Combat;MEX_Rene
+36032;Head of Government;Rene Capistrán Garza;8;Naive Optimist;MEX_Rene
+36105;Minister of Security;Salvador Abascal;8;Back Stabber;MEX_Salvador
+36130;Head of Military Intelligence;Alfonso Junco;9;Industrial Specialist;MEX_Junco
+36054;Foreign Minister;Gustavo Molina Font;9;The Cloak N Dagger Schemer;unknown
+36029;Head of Government;Jesus Guisa y Acevedo;9;Flamboyant Tough Guy;MEX_Guisa
+36053;Foreign Minister;Jose Antonio Urquiza;9;Ideological Crusader;MEX_Urquiza
+36075;Minister of Armament;Pedro Zuloaga Irigoiti;9;Resource Industrialist;MEX_Zuluaga
+36166;Chief of Army;Victoriano Ramirez;9;static defence doctrine;MEX_Catorce
