@@ -69,9 +69,9 @@ MEX,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 36194,Chief of Navy,Miguel S. Gonzalez,2,Decisive Naval Battle Doctrine,8308
 36179,Chief of Army,Pablo M. Valenzuela,2,Elastic Defence Doctrine,M36104
 36178,Chief of Army,Pablo Quiroga Escamillo,2,Static Defence Doctrine,M36008
-36162,Chief of Staff,Pancho Villa,2,School of Psychology,Arambula
-36046,Head of Government,Pancho Villa,2,Old General,Arambula
-36004,Minister of Security,Pancho Villa,2,Man of the People,Arambula
+36162,Chief of Staff,Pancho Villa,1,School of Psychology,Arambula
+36046,Head of Government,Pancho Villa,1,Old General,Arambula
+36004,Minister of Security,Pancho Villa,1,Man of the People,Arambula
 36195,Chief of Navy,Pedro Caloca Larios,2,Open Seas Doctrine,MEX_Caloca
 36096,Minister of Armament,Primo Villa Michel,2,Resource Industrialist,MEX_Primo
 36095,Minister of Armament,Rafael Buelna,2,military entrepreneur,8332
