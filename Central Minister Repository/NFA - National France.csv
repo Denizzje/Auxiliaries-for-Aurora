@@ -1,132 +1,132 @@
-VIC;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
-;;;;;
-57145;Minister of Armament;André Philip;3;Resource Industrialist;vic_andrphlp
-57146;Minister of Security;Édouard Depreux;3;Crime Fighter;vic_edurdpr
-57124;Minister of Armament;Emile Borel;3;Administrative Genius;kai_vicembr
-57126;Minister of Security;Jean Hennessy;3;Crime Fighter;kai_vicjnhns
-57144;Foreign Minister;Louis Jacquinot;3;Apologetic Clerk;vic_lusjcqn
-57128;Minister of Security;Louis Nogueres;3;Compassionate Gentleman;kai_viclsngr
-57154;Chief of Army;Maurice Gamelin;3;Static Defence Doctrine;M2007
-57153;Chief of Staff;Maurice Gamelin;3;School of Fire Support;M2007
-57129;Foreign Minister;Maurice Viollette;3;Ideological Crusader;kai_vicmrcvlt
-57123;Foreign Minister;Paul Faure;3;Biased Intellectual;kai_vicplfr
-57122;Head of Government;Pierre Appell;3;Flamboyant Tough Guy;kai_vicprapl
-57143;Head of Government;Pierre Mendes France;3;Silent Workhorse;vic_prrmndsfr
-57127;Head of Military Intelligence;Vincent de Moro-Giafferi;3;Political Specialist;kai_vicvcdmrg
-57100;Foreign Minister;Albert Sarraut;4;Great Compromiser;VICSar
-57112;Minister of Security;André Salvat;4;Crime Fighter;M528036
-57141;Head of Government;Antoine Pinay;4;Happy Amateur;vic_antpnnya
-57107;Head of Government;Damien Comte de Martel;4;Ambitious Union Boss;M528002
-57102;Head of Military Intelligence;Damien Comte de Martel;4;Logistics Specialist;M528002
-57092;Head of Government;Édouard Herriot;4;Silent Workhorse;VICEdo
-57026;Minister of Security;Édouard Herriot;4;Silent Lawyer;VICEdo
-57105;Chief of Navy;François Carré de Lusançay;4;Base Control Doctrine;M528009
-57140;Minister of Armament;Francois de Menthon;4;Laissez-Faire Capitalist;vic_frcsdmth
-57104;Chief of Army;Gabriel Puaux;4;Armoured Spearhead Doctrine;M528008
-57109;Head of Government;Gabriel Puaux;4;Silent Workhorse;M528008
-57113;Head of Military Intelligence;Gabriel Puaux;4;Industrial Specialist;M528008
-57110;Head of Government;Georges Catroux;4;Old General;L24029
-57114;Head of Military Intelligence;Georges Catroux;4;Dismal Enigma;L24029
-57103;Chief of Staff;Henri Amiel;4;School of Manoeuvre;M528007
-57150;Minister of Security;Henri Roy;4;Man of the People;M2107
-57119;Chief of Air Force;Henri Soulat;4;Naval Aviation Doctrine;M529010
-57101;Head of Military Intelligence;Laurent Eynac;4;Industrial Specialist;VICEyn
-57117;Chief of Navy;Louis Finet;4;Indirect Approach Doctrine;M529058
-57081;Minister of Armament;Maurice Palmade;4;Resource Industrialist;VICPal
-57082;Minister of Security;René Besse;4;Crime Fighter;VICBes
-57142;Foreign Minister;René Pleven;4;Ideological Crusader;M2090
-57089;Minister of Armament;René Renoult;4;Laissez-Faire Capitalist;VICRen
-57111;Head of Government;Yves Chataigneau;4;Corporate Suit;M528020
-57106;Minister of Security;Yves Morandat;4;Crooked Kleptocrat;M528005
-57087;Chief of Air Force;Antonin Brocard;5;Air Superiority Doctrine;VICBro
-57149;Minister of Security;Camille Chautemps;5;Compassionate Gentleman;M2036
-57121;Head of Government;Laurent Bonnevay;5;Silent Workhorse;kai_viclrt
-57070;Minister of Security;Louis-Georges Mandel;5;Crime Fighter;M2108
-57071;Head of Government;Robert Schumann;5;Naive Optimist;M2088
-57069;Minister of Armament;Robert Schumann;5;Resource Industrialist;M2088
-57091;Chief of Army;Alphonse Juin;6;Decisive Battle Doctrine;VICJui
-57079;Chief of Staff;Antoine Béthouart;6;School of Psychology;VICAnt
-57090;Chief of Navy;François Piétri;6;Indirect Approach Doctrine;VICPie
-57068;Foreign Minister;George Bidault;6;General Staffer;M2039
-57115;Chief of Air Force;Henri Amiel;6;Vertical Envelopment Doctrine;M528007
-57118;Foreign Minister;Jacques Baumel;6;Iron Fisted Brute;M529032
-57083;Chief of Army;Jean Touzet du Vigier;6;Armoured Spearhead Doctrine;VICTou
-57096;Head of Government;Joachim Prince de Murat;6;Political Protege;VICMur
-57097;Minister of Security;Joachim Prince de Murat;6;Man of the People;VICMur
-57076;Chief of Army;Joseph de Goislard de Monsabert;6;Elastic Defence Doctrine;VICMon
-57086;Chief of Air Force;Marie Charles Duval;6;Carpet Bombing Doctrine;VICDuv
-57139;Minister of Security;Paul Coste-Floret;6;Silent Lawyer;vic_pllcstflr
-57148;Minister of Armament;Paul Marchandeau;6;Administrative Genius;M2083
-57061;Head of Government;Paul Reynaud;6;Silent Workhorse;M2038
-57152;Foreign Minister;Pierre Etienne Flandin;6;Ideological Crusader;M2003
-57137;Foreign Minister;Pierre Pflimlin;6;The Cloak N Dagger Schemer;vic_prrflmr
-57136;Head of Government;Pierre Pflimlin;6;Flamboyant Tough Guy;vic_prrflmr
-57138;Minister of Armament;Pierre-Henri Teitgen;6;Resource Industrialist;vic_prrhnrttg
-57080;Minister of Security;Théodore Steeg;6;Compassionate Gentleman;VICSte
-57014;Foreign Minister;Albert Thomas;7;The Cloak N Dagger Schemer;M57014
-57018;Foreign Minister;Arne Leroy;7;Great Compromiser;M57018
-57085;Chief of Staff;Bernard Serrigny;7;School of Defence;VICSer
-57013;Foreign Minister;Charles André Weiss;7;Iron Fisted Brute;M57013
-57056;Chief of Staff;Charles de Gaulle;7;School of Manoeuvre;M2027
-57054;Head of Government;Charles de Gaulle;7;Old General;M2027
-57055;Minister of Armament;Charles de Gaulle;7;Tank Proponent;M2027
-57007;Chief of Staff;Charles Huntzinger;7;School of Defence;M57007
-57067;Head of Government;Charles Huntzinger;7;Political Protege;M57007
-57035;Chief of Army;Eugene Bridoux;7;Decisive Battle Doctrine;M57034
-57034;Chief of Staff;Eugene Bridoux;7;School of Mass Combat;M57034
-57066;Head of Government;François de la Rocque;7;Old General;kaiserreich francoisdelarocque
-57016;Foreign Minister;Gabriel Hanoteaux;7;Ideological Crusader;M57016
-57064;Chief of Navy;Georges Thierry d'Argenlieu;7;Power Projection Doctrine;L24173
-57040;Head of Military Intelligence;Gouffre de Lapradelle;7;Industrial Specialist;M57031
-57031;Minister of Security;Gouffre de Lapradelle;7;Efficient Sociopath;M57031
-57084;Chief of Staff;Henri Albert Niessel;7;School of Mass Combat;VICNie
-57116;Chief of Staff;Henri Dentz;7;School of Defence;L380013
-57108;Head of Government;Henri Dentz;7;Reformist Soldierhog;L380013
-57063;Chief of Army;Jean de Lattre de Tassigny;7;Armoured Spearhead Doctrine;M2047
-57017;Chief of Staff;Jean de Lattre de Tassigny;7;School of Manoeuvre;M2047
-57039;Head of Government;Jean de Lattre de Tassigny;7;Respected War Hero;M2047
-57036;Chief of Navy;Jean Esteva;7;Indirect Approach Doctrine;M57036
-57037;Chief of Navy;Jean Marie Abrial;7;Open Seas Doctrine;M57037
-57009;Chief of Navy;Jean-Francois Darlan;7;Decisive Naval Battle Doctrine;M57002
-57033;Chief of Staff;Jean-Francois Darlan;7;School of Psychology;M57002
-57012;Foreign Minister;Jean-Francois Darlan;7;General Staffer;M57002
-57002;Head of Government;Jean-Francois Darlan;7;Old Admiral;M57002
-57025;Minister of Security;Jean-Francois Darlan;7;Back Stabber;M57002
-57010;Chief of Air Force;Jean Marie Bergeret;7;Army Aviation Doctrine;M57010
-57005;Minister of Security;Joseph Barthélemy;7;Silent Lawyer;M57005
-57093;Chief of Navy;Marie-Jean-Lucien Lacaze;7;Indirect Approach Doctrine;VICLac
-57020;Minister of Armament;Marie-Jean-Lucien Lacaze;7;Battle Fleet Proponent;VICLac
-57004;Minister of Armament;Marius Berliet;7;Industrialiser;M57004
-57028;Minister of Security;Marius Viple;7;Man of the People;M57028
-57095;Chief of Army;Maurice Janin;7;Decisive Battle Doctrine;VICJan
-57094;Head of Government;Maurice Janin;7;Old General;VICJan
-57038;Chief of Air Force;Maurice Jannekeyn;7;Carpet Bombing Doctrine;M57038
-57008;Chief of Army;Maxime Weygand;7;Elastic Defence Doctrine;M57008
-57003;Foreign Minister;Paul Baudouin;7;Iron Fisted Brute;M57003
-57151;Minister of Armament;Paul Baudouin;7;Bank President;M57003
-57024;Minister of Armament;Paul Mantoux;7;Theoretical Scientist;M57024
-57023;Minister of Armament;Paul Painleve;7;Administrative Genius;M57023
-57062;Chief of Staff;Philippe de Hauteclocque;7;School of Manoeuvre;L24116
-57131;Head of Government;Pierre Pujo;7;Silent Workhorse;kai_vicprpj
-57030;Minister of Security;Raphael Alibert;7;Crime Fighter;M57030
-57006;Head of Military Intelligence;René Bousquet;7;Technical Specialist;M57006
-57029;Minister of Security;René Bousquet;7;Compassionate Gentleman;M57006
-57088;Chief of Air Force;René Paul Fonck;7;Air Superiority Doctrine;VICFon
-57021;Minister of Armament;Robert Haas;7;Laissez-Faire Capitalist;M57021
-57022;Minister of Armament;Stephane Auphan;7;Air to Sea Proponent;M57022
-57019;Minister of Armament;Tulio Franco Franco;7;Resource Industrialist;M57019
-57046;Head of Military Intelligence;André Dewavrin;8;Political Specialist;kaiserreich AndreDewavrin
-57060;Head of Government;Charles Maurras;8;Flamboyant Tough Guy;kaiserreich_maurras
-57047;Minister of Armament;Édouard Branly;8;Theoretical Scientist;kaiserreich eduoardbranly
-57147;Foreign Minister;Édouard de Castelnau;8;General Staffer;Kaiserreich Castelnau
-57045;Minister of Security;Eugène Deloncle;8;Efficient Sociopath;kaiserreich deloncle2
-57044;Minister of Armament;Eugène Schueller;8;Resource Industrialist;kaiserreich eugeneschueller
-57048;Chief of Army;François de la Rocque;8;Guns and Butter Doctrine;kaiserreich francoisdelarocque
-57077;Head of Military Intelligence;Henri d'Astier de La Vigerie;8;Logistics Specialist;VICVig
-57050;Chief of Air Force;Jean Mermoz;8;Army Aviation Doctrine;kaiserreich JeanMermoz
-57049;Chief of Staff;Louis Franchet d'Esperey;8;School of Psychology;Kaiserreich d'Esperey
-57051;Minister of Armament;Louis Franchet d'Esperey;8;Military Entrepreneur;Kaiserreich d'Esperey
-57078;Foreign Minister;Maurice Pujo;8;Biased Intellectual;VICPuj
-57043;Foreign Minister;Philippe Henriot;8;Ideological Crusader;kaiserreich PhilippeHenriot
-57098;Head of Government;Pierre Costantini;8;Flamboyant Tough Guy;VICCos
-57099;Minister of Security;Pierre Costantini;8;Prince of Terror;VICCos
+VIC,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+57145,Minister of Armament,André Philip,3,Resource Industrialist,vic_andrphlp
+57146,Minister of Security,Édouard Depreux,3,Crime Fighter,vic_edurdpr
+57124,Minister of Armament,Emile Borel,3,Administrative Genius,kai_vicembr
+57126,Minister of Security,Jean Hennessy,3,Crime Fighter,kai_vicjnhns
+57144,Foreign Minister,Louis Jacquinot,3,Apologetic Clerk,vic_lusjcqn
+57128,Minister of Security,Louis Nogueres,3,Compassionate Gentleman,kai_viclsngr
+57154,Chief of Army,Maurice Gamelin,3,Static Defence Doctrine,M2007
+57153,Chief of Staff,Maurice Gamelin,3,School of Fire Support,M2007
+57129,Foreign Minister,Maurice Viollette,3,Ideological Crusader,kai_vicmrcvlt
+57123,Foreign Minister,Paul Faure,3,Biased Intellectual,kai_vicplfr
+57122,Head of Government,Pierre Appell,3,Flamboyant Tough Guy,kai_vicprapl
+57143,Head of Government,Pierre Mendes France,3,Silent Workhorse,vic_prrmndsfr
+57127,Head of Military Intelligence,Vincent de Moro-Giafferi,3,Political Specialist,kai_vicvcdmrg
+57100,Foreign Minister,Albert Sarraut,4,Great Compromiser,VICSar
+57112,Minister of Security,André Salvat,4,Crime Fighter,M528036
+57141,Head of Government,Antoine Pinay,4,Happy Amateur,vic_antpnnya
+57107,Head of Government,Damien Comte de Martel,4,Ambitious Union Boss,M528002
+57102,Head of Military Intelligence,Damien Comte de Martel,4,Logistics Specialist,M528002
+57092,Head of Government,Édouard Herriot,4,Silent Workhorse,VICEdo
+57026,Minister of Security,Édouard Herriot,4,Silent Lawyer,VICEdo
+57105,Chief of Navy,François Carré de Lusançay,4,Base Control Doctrine,M528009
+57140,Minister of Armament,Francois de Menthon,4,Laissez-Faire Capitalist,vic_frcsdmth
+57104,Chief of Army,Gabriel Puaux,4,Armoured Spearhead Doctrine,M528008
+57109,Head of Government,Gabriel Puaux,4,Silent Workhorse,M528008
+57113,Head of Military Intelligence,Gabriel Puaux,4,Industrial Specialist,M528008
+57110,Head of Government,Georges Catroux,4,Old General,L24029
+57114,Head of Military Intelligence,Georges Catroux,4,Dismal Enigma,L24029
+57103,Chief of Staff,Henri Amiel,4,School of Manoeuvre,M528007
+57150,Minister of Security,Henri Roy,4,Man of the People,M2107
+57119,Chief of Air Force,Henri Soulat,4,Naval Aviation Doctrine,M529010
+57101,Head of Military Intelligence,Laurent Eynac,4,Industrial Specialist,VICEyn
+57117,Chief of Navy,Louis Finet,4,Indirect Approach Doctrine,M529058
+57081,Minister of Armament,Maurice Palmade,4,Resource Industrialist,VICPal
+57082,Minister of Security,René Besse,4,Crime Fighter,VICBes
+57142,Foreign Minister,René Pleven,4,Ideological Crusader,M2090
+57089,Minister of Armament,René Renoult,4,Laissez-Faire Capitalist,VICRen
+57111,Head of Government,Yves Chataigneau,4,Corporate Suit,M528020
+57106,Minister of Security,Yves Morandat,4,Crooked Kleptocrat,M528005
+57087,Chief of Air Force,Antonin Brocard,5,Air Superiority Doctrine,VICBro
+57149,Minister of Security,Camille Chautemps,5,Compassionate Gentleman,M2036
+57121,Head of Government,Laurent Bonnevay,5,Silent Workhorse,kai_viclrt
+57070,Minister of Security,Louis-Georges Mandel,5,Crime Fighter,M2108
+57071,Head of Government,Robert Schumann,5,Naive Optimist,M2088
+57069,Minister of Armament,Robert Schumann,5,Resource Industrialist,M2088
+57091,Chief of Army,Alphonse Juin,6,Decisive Battle Doctrine,VICJui
+57079,Chief of Staff,Antoine Béthouart,6,School of Psychology,VICAnt
+57090,Chief of Navy,François Piétri,6,Indirect Approach Doctrine,VICPie
+57068,Foreign Minister,George Bidault,6,General Staffer,M2039
+57115,Chief of Air Force,Henri Amiel,6,Vertical Envelopment Doctrine,M528007
+57118,Foreign Minister,Jacques Baumel,6,Iron Fisted Brute,M529032
+57083,Chief of Army,Jean Touzet du Vigier,6,Armoured Spearhead Doctrine,VICTou
+57096,Head of Government,Joachim Prince de Murat,6,Political Protege,VICMur
+57097,Minister of Security,Joachim Prince de Murat,6,Man of the People,VICMur
+57076,Chief of Army,Joseph de Goislard de Monsabert,6,Elastic Defence Doctrine,VICMon
+57086,Chief of Air Force,Marie Charles Duval,6,Carpet Bombing Doctrine,VICDuv
+57139,Minister of Security,Paul Coste-Floret,6,Silent Lawyer,vic_pllcstflr
+57148,Minister of Armament,Paul Marchandeau,6,Administrative Genius,M2083
+57061,Head of Government,Paul Reynaud,6,Silent Workhorse,M2038
+57152,Foreign Minister,Pierre Etienne Flandin,6,Ideological Crusader,M2003
+57137,Foreign Minister,Pierre Pflimlin,6,The Cloak N Dagger Schemer,vic_prrflmr
+57136,Head of Government,Pierre Pflimlin,6,Flamboyant Tough Guy,vic_prrflmr
+57138,Minister of Armament,Pierre-Henri Teitgen,6,Resource Industrialist,vic_prrhnrttg
+57080,Minister of Security,Théodore Steeg,6,Compassionate Gentleman,VICSte
+57014,Foreign Minister,Albert Thomas,7,The Cloak N Dagger Schemer,M57014
+57018,Foreign Minister,Arne Leroy,7,Great Compromiser,M57018
+57085,Chief of Staff,Bernard Serrigny,7,School of Defence,VICSer
+57013,Foreign Minister,Charles André Weiss,7,Iron Fisted Brute,M57013
+57056,Chief of Staff,Charles de Gaulle,7,School of Manoeuvre,M2027
+57054,Head of Government,Charles de Gaulle,7,Old General,M2027
+57055,Minister of Armament,Charles de Gaulle,7,Tank Proponent,M2027
+57007,Chief of Staff,Charles Huntzinger,7,School of Defence,M57007
+57067,Head of Government,Charles Huntzinger,7,Political Protege,M57007
+57035,Chief of Army,Eugene Bridoux,7,Decisive Battle Doctrine,M57034
+57034,Chief of Staff,Eugene Bridoux,7,School of Mass Combat,M57034
+57066,Head of Government,François de la Rocque,7,Old General,kaiserreich francoisdelarocque
+57016,Foreign Minister,Gabriel Hanoteaux,7,Ideological Crusader,M57016
+57064,Chief of Navy,Georges Thierry d'Argenlieu,7,Power Projection Doctrine,L24173
+57040,Head of Military Intelligence,Gouffre de Lapradelle,7,Industrial Specialist,M57031
+57031,Minister of Security,Gouffre de Lapradelle,7,Efficient Sociopath,M57031
+57084,Chief of Staff,Henri Albert Niessel,7,School of Mass Combat,VICNie
+57116,Chief of Staff,Henri Dentz,7,School of Defence,L380013
+57108,Head of Government,Henri Dentz,7,Reformist Soldierhog,L380013
+57063,Chief of Army,Jean de Lattre de Tassigny,7,Armoured Spearhead Doctrine,M2047
+57017,Chief of Staff,Jean de Lattre de Tassigny,7,School of Manoeuvre,M2047
+57039,Head of Government,Jean de Lattre de Tassigny,7,Respected War Hero,M2047
+57036,Chief of Navy,Jean Esteva,7,Indirect Approach Doctrine,M57036
+57037,Chief of Navy,Jean Marie Abrial,7,Open Seas Doctrine,M57037
+57009,Chief of Navy,Jean-Francois Darlan,7,Decisive Naval Battle Doctrine,M57002
+57033,Chief of Staff,Jean-Francois Darlan,7,School of Psychology,M57002
+57012,Foreign Minister,Jean-Francois Darlan,7,General Staffer,M57002
+57002,Head of Government,Jean-Francois Darlan,7,Old Admiral,M57002
+57025,Minister of Security,Jean-Francois Darlan,7,Back Stabber,M57002
+57010,Chief of Air Force,Jean Marie Bergeret,7,Army Aviation Doctrine,M57010
+57005,Minister of Security,Joseph Barthélemy,7,Silent Lawyer,M57005
+57093,Chief of Navy,Marie-Jean-Lucien Lacaze,7,Indirect Approach Doctrine,VICLac
+57020,Minister of Armament,Marie-Jean-Lucien Lacaze,7,Battle Fleet Proponent,VICLac
+57004,Minister of Armament,Marius Berliet,7,Industrialiser,M57004
+57028,Minister of Security,Marius Viple,7,Man of the People,M57028
+57095,Chief of Army,Maurice Janin,7,Decisive Battle Doctrine,VICJan
+57094,Head of Government,Maurice Janin,7,Old General,VICJan
+57038,Chief of Air Force,Maurice Jannekeyn,7,Carpet Bombing Doctrine,M57038
+57008,Chief of Army,Maxime Weygand,7,Elastic Defence Doctrine,M57008
+57003,Foreign Minister,Paul Baudouin,7,Iron Fisted Brute,M57003
+57151,Minister of Armament,Paul Baudouin,7,Bank President,M57003
+57024,Minister of Armament,Paul Mantoux,7,Theoretical Scientist,M57024
+57023,Minister of Armament,Paul Painleve,7,Administrative Genius,M57023
+57062,Chief of Staff,Philippe de Hauteclocque,7,School of Manoeuvre,L24116
+57131,Head of Government,Pierre Pujo,7,Silent Workhorse,kai_vicprpj
+57030,Minister of Security,Raphael Alibert,7,Crime Fighter,M57030
+57006,Head of Military Intelligence,René Bousquet,7,Technical Specialist,M57006
+57029,Minister of Security,René Bousquet,7,Compassionate Gentleman,M57006
+57088,Chief of Air Force,René Paul Fonck,7,Air Superiority Doctrine,VICFon
+57021,Minister of Armament,Robert Haas,7,Laissez-Faire Capitalist,M57021
+57022,Minister of Armament,Stephane Auphan,7,Air to Sea Proponent,M57022
+57019,Minister of Armament,Tulio Franco Franco,7,Resource Industrialist,M57019
+57046,Head of Military Intelligence,André Dewavrin,8,Political Specialist,kaiserreich AndreDewavrin
+57060,Head of Government,Charles Maurras,8,Flamboyant Tough Guy,kaiserreich_maurras
+57047,Minister of Armament,Édouard Branly,8,Theoretical Scientist,kaiserreich eduoardbranly
+57147,Foreign Minister,Édouard de Castelnau,8,General Staffer,Kaiserreich Castelnau
+57045,Minister of Security,Eugène Deloncle,8,Efficient Sociopath,kaiserreich deloncle2
+57044,Minister of Armament,Eugène Schueller,8,Resource Industrialist,kaiserreich eugeneschueller
+57048,Chief of Army,François de la Rocque,8,Guns and Butter Doctrine,kaiserreich francoisdelarocque
+57077,Head of Military Intelligence,Henri d'Astier de La Vigerie,8,Logistics Specialist,VICVig
+57050,Chief of Air Force,Jean Mermoz,8,Army Aviation Doctrine,kaiserreich JeanMermoz
+57049,Chief of Staff,Louis Franchet d'Esperey,8,School of Psychology,Kaiserreich d'Esperey
+57051,Minister of Armament,Louis Franchet d'Esperey,8,Military Entrepreneur,Kaiserreich d'Esperey
+57078,Foreign Minister,Maurice Pujo,8,Biased Intellectual,VICPuj
+57043,Foreign Minister,Philippe Henriot,8,Ideological Crusader,kaiserreich PhilippeHenriot
+57098,Head of Government,Pierre Costantini,8,Flamboyant Tough Guy,VICCos
+57099,Minister of Security,Pierre Costantini,8,Prince of Terror,VICCos

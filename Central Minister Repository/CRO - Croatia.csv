@@ -1,0 +1,65 @@
+CRO,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+30010,Chief of Air Force,Vladimir Kren,9,Air Superiority Doctrine,M30010
+30006,Head of Military Intelligence,Adalbert Rogulja,9,Dismal Enigma,M30006
+30082,Chief of Army,Aleksa Dundic,0,Armoured Spearhead Doctrine,CRO_aleksa_dundic
+30085,Foreign Minister,Aleksa Dundic,0,General Staffer,CRO_aleksa_dundic
+30084,Minister of Armament,Aleksa Dundic,0,Tank Proponent,CRO_aleksa_dundic
+30039,Minister of Security,Andrija Artukovic,9,Efficient Sociopath,M30038
+30092,Head of Government,Andrija Hebrang,0,Ambitious Union Boss,CRO_andrija_hebrang
+30093,Head of Military Intelligence,Andrija Hebrang,0,Dismal Enigma,CRO_andrija_hebrang
+30077,Head of Government,Ante Ciliga,1,Silent Workhorse,CRO_ante_ciliga
+30078,Minister of Security,Ante Ciliga,1,Silent Lawyer,CRO_ante_ciliga
+30002,Head of Government,Ante Pavelic,9,Backroom Backstabber,M30002
+30029,Foreign Minister,Antun pl. Mihalovic,7,Apologetic Clerk,M30022
+30024,Head of Government,Antun pl. Mihalovic,7,Naive Optimist,M30022
+30074,Head of Government,August Cesarec,1,Silent Workhorse,CRO_august_cesarec
+30075,Minister of Armament,August Cesarec,1,Military Entrepreneur,CRO_august_cesarec
+30102,Minister of Armament,August Kosutic,6,Military Entrepreneur,CRO-KR_August_Kosutic
+30071,Foreign Minister,Avlor Landic de Hazelrof,1,Ideological Crusader,CRO_avlor_landic_de_hazelrof
+30095,Chief of Navy,Bogdan Pecotic,1,Indirect Approach Doctrine,CRO-KR_Bogdan_Pecotic
+30004,Minister of Armament,Dido Kvaternik,9,Infantry Proponent,M30033
+30037,Minister of Security,Djuro Basaricek,6,Compassionate Gentleman,CRO-KR_Djuro_Basaricek
+30009,Chief of Navy,Djuro Jakcin,9,Indirect Approach Doctrine,CRO_KR_Djuro_Jakcin
+30066,Chief of Air Force,Emil Uzelac,7,Army Aviation Doctrine,CRO-KR_Emil-Uzelac2
+30055,Chief of Army,Fedor Dragojlov,7,Static Defence Doctrine,M30048
+30048,Chief of Staff,Fedor Dragojlov,7,School of Mass Combat,M30048
+30033,Minister of Armament,Ivan Andres,6,Resource Industrialist,CRO-KR_Ivan_Andres
+30036,Minister of Armament,Ivan Krajac,6,Laissez-Faire Capitalist,CRO-KR_Ivan_Krajac
+30049,Chief of Staff,Ivan Percevic,9,School of Psychology,CRO-KR_Ivan_Percevic
+30101,Minister of Security,Ivan Pernar,6,Silent Lawyer,CRO-KR_Ivan_Pernar
+30088,Foreign Minister,Ivan Ribar,1,Great Compromiser,CRO_ivan_ribar
+30087,Head of Government,Ivan Ribar,1,Flamboyant Tough Guy,CRO_ivan_ribar
+30089,Minister of Armament,Ivan Ribar,1,Resource Industrialist,CRO_ivan_ribar
+30026,Head of Government,Ivan Subasic,6,Naive Optimist,M20014
+30038,Minister of Security,Ivo Krbek,6,Silent Lawyer,CRO-KR_Ivo_Krbek
+30030,Foreign Minister,Juraj Krnjevic,6,Ideological Crusader,CRO-KR_Juraj_Krnjevic
+30061,Chief of Navy,Marijan Polic,7,Base Control Doctrine,CRO-KR_Marijan_Polic
+30098,Chief of Staff,Marko Mesic,8,School of Fire Support,CRO-KR_Marko_Mesic
+30099,Chief of Staff,Mihajlo Lukic,7,School of Defence,CRO-KR_Mihajlo_Lukic
+30003,Foreign Minister,Milan Budak,9,Iron Fisted Brute,M30003
+30073,Foreign Minister,Miroslav Krleza,2,Biased Intellectual,CRO_miroslav_krleza
+30068,Chief of Air Force,Miroslav Navratil,7,Air Superiority Doctrine,CRO-KR_Miroslav_Navratil
+30100,Chief of Army,Miroslav Navratil,7,Guns and Butter Doctrine,CRO-KR_Miroslav_Navratil
+30028,Foreign Minister,Mladen Lorkovic,9,General Staffer,L44610
+30044,Head of Military Intelligence,Mladen Lorkovic,9,Political Specialist,L44610
+30005,Minister of Security,Mladen Lorkovic,9,Crooked Kleptocrat,L44610
+30062,Chief of Navy,Nikola Steinfel,7,Decisive Naval Battle Doctrine,CRO-KR_Nikola_Steinfel
+30008,Chief of Army,Slavko Kvaternik,9,Static Defence Doctrine,L44608
+30007,Chief of Staff,Slavko Kvaternik,9,School of Mass Combat,L44608
+30053,Chief of Army,Slavko Stancer,8,Static Defence Doctrine,CRO-KR_Slavko_Stancer
+30103,Minister of Security,Srdjan Budisavljevic,5,Compassionate Gentleman,CRO-KR_Srdjan_Budisavljevic
+30035,Minister of Armament,Stanko Sverljuga,7,Bank President,CRO-KR_Stanko_Sverljuga
+30094,Foreign Minister,Svetozar Delic,1,Great Compromiser,CRO_svetozar_delic
+30096,Chief of Air Force,Viktor Bubanj,1,Army Aviation Doctrine,CRO-KR_Viktor_Bubanj
+30097,Chief of Staff,Viktor Pavicic,8,School of Mass Combat,CRO-KR_Viktor_Pavicic
+30054,Chief of Army,Vilko Begic,8,Decisive Battle Doctrine,M30004
+30045,Head of Military Intelligence,Vilko Begic,8,Logistics Specialist,M30004
+30040,Minister of Security,Vilko Begic,8,Crime Fighter,M30004
+30083,Chief of Army,Vladimir Copic,2,Guns and Butter Doctrine,CRO_vladimir_copic
+30081,Chief of Staff,Vladimir Copic,2,School of Mass Combat,CRO_vladimir_copic
+30080,Head of Military Intelligence,Vladimir Copic,2,Political Specialist,CRO_vladimir_copic
+30079,Minister of Security,Vladimir Copic,2,Man of the People,CRO_vladimir_copic
+30090,Foreign Minister,Vladimir Nazor,2,Apologetic Clerk,CRO_vladimir_nazor
+30031,Foreign Minister,Vladko Macek,6,The Cloak N Dagger Schemer,M30011
+30025,Head of Government,Vladko Macek,6,Flamboyant Tough Guy,M30011

@@ -1,0 +1,44 @@
+BOS,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+546021,Minister of Armament,Avdo Humo,1,Infantry Proponent,BOS-KR_Avdo_Humo
+546014,Head of Government,Djuro Pucar,1,Ambitious Union Boss,BOS-KR_Pucar_Djuro_Stari
+546049,Minister of Security,Dzemal Bijedic,1,Silent Lawyer,BOS-KR_Dzemal_Bijedic
+546051,Chief of Navy,Josip Mazar,1,Indirect Approach Doctrine,BOS-KR_Josip_Mazar
+546029,Head of Military Intelligence,Rodoljub Colakovic,1,Political Specialist,BOS-KR_Rodoljub_Colakovic
+546052,Chief of Air Force,Rudi Cajavec,1,Army Aviation Doctrine,BOS-KR_Rudi_Cajavec
+546017,Foreign Minister,Veselin Maslesa,1,Ideological Crusader,BOS-KR_VMaslesa
+546050,Chief of Army,Vlado Segrt,1,Decisive Battle Doctrine,BOS-KR_Vlado_Segrt
+546031,Chief of Staff,Sulejman Filipovic,2,School of Mass Combat,BOS-KR_Sulejman_Filipovic
+546048,Minister of Security,Nurija Pozderac,3,Man of the People,BOS-KR_Nurija_Pozderac
+546046,Foreign Minister,Ivo Andric,4,Biased Intellectual,kai_ivadr
+546045,Minister of Security,Ivo Andric,4,Crime Fighter,kai_ivadr
+546047,Minister of Armament,Dimitrije Mitrinovic,5,Administrative Genius,kai_dmtrmtrm
+546020,Minister of Armament,Barisa Smoljan,6,Resource Industrialist,BOS-KR_Barisa_Smoljan
+546024,Minister of Security,Danilo Dimovic,6,Silent Lawyer,BOS-KR_Danilo_Dimovic
+546016,Foreign Minister,Dzemaludin ef. Causevic,6,Great Compromiser,M546016
+546025,Minister of Security,Fehim ef. Spaho,6,Compassionate Gentleman,M546025
+546023,Minister of Security,Halid-beg Hrasnica,6,Silent Lawyer,BOS-KR_Halid-Beg_Hrasnica
+546026,Minister of Security,Ibrahim ef. Fejic,6,Man of the People,M546006
+546041,Foreign Minister,Jovan Ducic,6,Ideological Crusader,kai_jvndc
+546013,Head of Government,Mehmed Spaho,6,Silent Workhorse,BOS-KR_Mehmed_Spaho
+546019,Minister of Armament,Mehmed Spaho,6,Industrialiser,BOS-KR_Mehmed_Spaho
+546018,Minister of Armament,Osman Vilovic,6,Resource Industrialist,BOS-KR_Osman_Vilovic
+546042,Head of Government,Vladimir Corovic,6,Silent Workhorse,kai_vdmcr
+546032,Chief of Army,Georg Dragicevic,7,Decisive Battle Doctrine,kaiserreich GeorgDragicevic
+546034,Chief of Navy,Georg Dragicevic,7,Base Control Doctrine,kaiserreich GeorgDragicevic
+546043,Head of Government,Vladimir Laxa,7,Naive Optimist,M30017
+546015,Foreign Minister,Dzafer-beg Kulenovic,8,Ideological Crusader,BOS-KR_Dzafer_Kulenovic
+546002,Head of Government,Dzafer-beg Kulenovic,8,Naive Optimist,BOS-KR_Dzafer_Kulenovic
+546036,Chief of Air Force,Franjo Dzal,8,Air Superiority Doctrine,BOS-KR_Franjo_Dzal
+546007,Chief of Staff,Ibrahim Pjanic,8,School of Mass Combat,BOS-KR_Ibrahim_Pjanic
+546027,Head of Military Intelligence,Ibrahim Pjanic,8,Logistics Specialist,BOS-KR_Ibrahim_Pjanic
+546030,Chief of Staff,Ivan Markulj,8,School of Psychology,BOS-KR_Ivan_Markulj
+546008,Chief of Army,Muhamed Hadziefendic,8,Static Defence Doctrine,BOS-KR_Muhamed_Hadziefendic
+546009,Chief of Navy,Muhamed Hadziefendic,8,Indirect Approach Doctrine,BOS-KR_Muhamed_Hadziefendic
+546028,Head of Military Intelligence,Muhamed Hadziefendic,8,Political Specialist,BOS-KR_Muhamed_Hadziefendic
+546022,Minister of Armament,Nikola Mandic,8,Bank President,BOS-KR_Nikola_Mandic
+546010,Chief of Air Force,Cvitan Galic,9,Army Aviation Doctrine,BOS-KR_Cvitan_Galic
+546006,Head of Military Intelligence,Hakija Hadzic,9,Political Specialist,M546007
+546005,Minister of Security,Hakija Hadzic,9,Prince of Terror,M546007
+546003,Foreign Minister,Mehmed Alajbegovic,9,Ideological Crusader,BOS-KR_Alajbegovic
+546004,Minister of Armament,Nesad Topcic,9,Military Entrepreneur,M546004
