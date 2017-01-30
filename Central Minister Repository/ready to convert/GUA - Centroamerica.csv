@@ -1,0 +1,92 @@
+GUA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+46041,Minister of Armament,Teophilo S. Grálles,0,Strategic Air Proponent,M48024
+46007,Chief of Staff,Augustín Farabundo Martí,1,School of Fire Support,kaiserreich farabundo
+46005,Minister of Security,Augustín Farabundo Martí,1,Man of the People,kaiserreich farabundo
+46004,Minister of Armament,Franco Hernandez Ávila,1,Resource Industrialist,M77025
+46050,Minister of Security,Franco Hernandez Ávila,1,Compassionate Gentleman,M77025
+46076,Chief of Army,Hugo Montés Ramirez,1,Decisive Battle Doctrine,M47100
+46069,Chief of Staff,Hugo Montés Ramirez,1,School of Psychology,M47100
+46061,Head of Military Intelligence,Hugo Montés Ramirez,1,Logistics Specialist,M47100
+46022,Head of Government,Jose Maria Cuellar,1,Naive Optimist,M77022
+46028,Head of Government,Juan Arevalo Bermejo,1,Backroom Backstabber,M46022
+46031,Foreign Minister,Luis Cardenal,1,Ideological Crusader,M48021
+46021,Head of Government,Luis Cardenal,1,Flamboyant Tough Guy,M48021
+46042,Minister of Armament,Luís Fernandéz Rodríguez,1,Air to Ground Proponent,M47024
+46090,Chief of Air Force,Manuel Mora Valverde,1,Army Aviation Doctrine,M47021
+46085,Chief of Navy,Manuel Mora Valverde,1,Base Control Doctrine,M47021
+46033,Foreign Minister,Manuel Mora Valverde,1,The Cloak N Dagger Schemer,M47021
+46026,Head of Government,Manuel Mora Valverde,1,Happy Amateur,M47021
+46083,Chief of Navy,Raul Rodolfí Sanchez,1,Open Seas Doctrine,M77009
+46008,Chief of Army,Salvador Cayetano Carpio,1,Guns and Butter Doctrine,kaiserreich cayetano
+46002,Head of Government,Víctor Manuel Gutiérrez,1,Ambitious Union Boss,kaiserreich gutierrez
+46006,Head of Military Intelligence,Adrian Recinos,2,Technical Specialist,M46016
+46034,Foreign Minister,Carlos Argumedo Salazar,2,The Cloak N Dagger Schemer,M46035
+46057,Minister of Security,Carmen Lyra,2,Prince of Terror,M47025
+46039,Foreign Minister,Enrique Díaz Toledo,2,Apologetic Clerk,M47066
+46010,Chief of Air Force,Francisco Javier Arana,2,Vertical Envelopment Doctrine,M46027
+46023,Head of Government,Francisco Javier Arana,2,Naive Optimist,M46027
+46080,Chief of Army,Francisco Rosendo Arguello,2,Guns and Butter Doctrine,M47028
+46087,Chief of Navy,Hugo Siedler Mendoza,2,Indirect Approach Doctrine,M47029
+46047,Minister of Armament,Ignacio Mendéz Alino,2,Corrupt Kleptocrat,M47014
+46030,Head of Government,Isalino de Silva Londres,2,Political Protege,M47040
+46053,Minister of Security,Isalino de Silva Londres,2,Crime Fighter,M47040
+46078,Chief of Army,Jacopo Arbenz Guzman,2,Decisive Battle Doctrine,M46021
+46089,Chief of Air Force,Joel Garcia Zaldana,2,Army Aviation Doctrine,M48020
+46009,Chief of Navy,Jorge Torriello Garrido,2,Power Projection Doctrine,M46011
+46043,Minister of Armament,Juan Arevalo Bermejo,2,Resource Industrialist,M46022
+46067,Chief of Staff,Juan Pablo Esquerra,2,School of Psychology,M48026
+46060,Head of Military Intelligence,Juan Pablo Esquerra,2,Dismal Enigma,M48026
+46052,Minister of Security,Juan Y. Masquez,2,Efficient Sociopath,M48025
+46045,Minister of Armament,Julio Herrera,2,Resource Industrialist,M46045
+46003,Foreign Minister,Laura H. de Salazar,2,Iron Fisted Brute,M77023
+46074,Chief of Army,Manuel Corovél Kirsch,2,Static Defence Doctrine,M48018
+46070,Chief of Staff,Manuel Orellana,2,School of Defence,M46012
+46055,Minister of Security,Manuel Orellana,2,Crime Fighter,M46012
+46072,Chief of Staff,Miguel Ramirez Alcantara,2,School of Fire Support,M47026
+46065,Head of Military Intelligence,Miguel Ramirez Alcantara,2,Dismal Enigma,M47026
+46082,Chief of Navy,Noel Esto Niño Miranda,2,Open Seas Doctrine,M48019
+46088,Chief of Air Force,Oscar Padilla Sellean,2,Naval Aviation Doctrine,M47030
+46027,Head of Government,Andrés Ignacio Menéndez,3,Naive Optimist,M77011
+46049,Minister of Armament,Calufa Fallas Sinaja,3,Submarine Proponent,M47068
+46054,Minister of Security,Calufa Fallas Sinaja,3,Silent Lawyer,M47068
+46079,Chief of Army,Carlos Diaz de Leon,3,Armoured Spearhead Doctrine,M46063
+46071,Chief of Staff,Carlos Diaz de Leon,3,School of Manoeuvre,M46063
+46046,Minister of Armament,Diego A. Castro Arigon,3,Administrative Genius,M46044
+46037,Foreign Minister,Enrique Muñoz Meany,3,Biased Intellectual,M46037
+46068,Chief of Staff,Felipe Abreu Castro,3,School of Fire Support,M47102
+46025,Head of Government,Guillermo Cuadra,3,Ambitious Union Boss,M48012
+46051,Minister of Security,Guillermo Cuadra,3,Crime Fighter,M48012
+46091,Chief of Air Force,Guillermo Macho Nuñez,3,Air Superiority Doctrine,M47127
+46064,Head of Military Intelligence,Jacopo Arbenz Guzman,3,Political Specialist,M46021
+46044,Minister of Armament,Jacopo Arbenz Guzman,3,Infantry Proponent,M46021
+46036,Foreign Minister,Jorge Torriello Garrido,3,General Staffer,M46011
+46077,Chief of Army,José Angél Castillo,3,Guns and Butter Doctrine,M77028
+46081,Chief of Army,Jose Figueres Ferrer,3,Decisive Battle Doctrine,M47103
+46073,Chief of Staff,Jose Figueres Ferrer,3,School of Mass Combat,M47103
+46024,Head of Government,Jose Figueres Ferrer,3,Political Protege,M47041
+46059,Head of Military Intelligence,Jose Figueres Ferrer,3,Political Specialist,M47041
+46048,Minister of Armament,Jose Figueres Ferrer,3,Administrative Genius,M47041
+46058,Minister of Security,Jose Figueres Ferrer,3,Man of the People,M47041
+46032,Foreign Minister,Julio Enrique Ávila,3,Iron Fisted Brute,M77038
+46038,Foreign Minister,Luís Fernandéz Rodríguez,3,Ideological Crusader,M47024
+46075,Chief of Army,Manuel Orellana,3,Static Defence Doctrine,M46012
+46029,Head of Government,Manuel Orellana,3,Smiling Oilman,M46012
+46056,Minister of Security,Manuel Valladares,3,Silent Lawyer,M46015
+46092,Chief of Air Force,Milton Andrade Cabrera,3,Army Aviation Doctrine,M77030
+46035,Foreign Minister,Otilio Ulate,3,The Cloak N Dagger Schemer,M47031
+46062,Head of Military Intelligence,Salvador Peña Trejo,3,Logistics Specialist,M77026
+46084,Chief of Navy,Tomas Mendoza Urribe,3,Indirect Approach Doctrine,M46009
+46063,Head of Military Intelligence,Tomas Mendoza Urribe,3,Naval Intelligence Specialist,M46009
+46093,Chief of Air Force,W. Tesch Orlando,3,Air Superiority Doctrine,M46077
+46108,Head of Government,Eduardo Villagran Ariza,6,Political Protege,M46006
+46109,Foreign Minister,Francisco Javier Arana,6,Iron Fisted Brute,M46027
+46097,Foreign Minister,Alfredo Skinner Klee,7,The Cloak N Dagger Schemer,M46003
+46100,Head of Military Intelligence,Eduardo Villagran Ariza,7,Logistics Specialist,M46006
+46101,Chief of Staff,Federico Ponce Vaides,7,School of Manoeuvre,M46007
+46040,Foreign Minister,Franco Amerigo Paz,7,Iron Fisted Brute,M77067
+46098,Minister of Armament,Guillermo Flores Arendano,7,Infantry Proponent,M46004
+46102,Chief of Army,Jorge Ubico Castaneda,7,Static Defence Doctrine,M46001
+46096,Head of Government,Jorge Ubico Castaneda,7,Silent Workhorse,M46001
+46104,Chief of Air Force,R. Buenaventure Pineda,7,Army Aviation Doctrine,M46010
+46099,Minister of Security,T. Castro Dominguez,7,Crooked Kleptocrat,M46005

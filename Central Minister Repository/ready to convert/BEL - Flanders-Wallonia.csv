@@ -1,0 +1,135 @@
+BEL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+15053,Foreign Minister,Edgar Lalmand,0,Biased Intellectual,M15022
+15054,Foreign Minister,Julien Lahaut,0,Ideological Crusader,M15024
+15043,Head of Government,Julien Lahaut,0,Backroom Backstabber,M15024
+15085,Minister of Security,Julien Lahaut,0,Prince of Terror,M15024
+15023,Minister of Armament,Abraham Leon,1,Resource Industrialist,M15119
+15024,Minister of Security,Adhemar Henneaut,1,Crime Fighter,M15120
+15065,Minister of Armament,Edgar Lalmand,1,Resource Industrialist,M15022
+15029,Chief of Air Force,Georges Vereecken,1,Undistinguished Suit,M15121
+15027,Chief of Army,Georges Vereecken,1,Elastic Defence Doctrine,M15121
+15028,Chief of Navy,Georges Vereecken,1,Undistinguished Suit,M15121
+15026,Chief of Staff,Georges Vereecken,1,School of Mass Combat,M15121
+15040,Head of Government,Joseph Jacquemotte,1,Political Protege,M15020
+15025,Head of Military Intelligence,Julien Lahaut,1,Political Specialist,M15024
+15022,Foreign Minister,War van Overstraeten,1,Biased Intellectual,M15118
+15041,Head of Government,Achille Van Acker,3,Corporate Suit,M15041
+15125,Minister of Armament,Albert Wauters,3,Military Entrepreneur,M15125
+15169,Minister of Armament,Auguste Piccard,3,Theoretical Scientist,Kaiserreich Tournesol
+15038,Head of Government,Camille Huysmans,3,Happy Amateur,M15038
+15112,Chief of Army,Charles Bastin,3,Static Defence Doctrine,M15112
+15122,Minister of Armament,Charles Pomaret,3,Infantry Proponent,M15122
+15119,Minister of Armament,Guy Bouthillier,3,Theoretical Scientist,M15119
+15099,Head of Military Intelligence,Herman Vos,3,Political Specialist,M15099
+15061,Minister of Armament,Jules Merlot,3,Resource Industrialist,M15061
+15113,Chief of Army,Jules Pire,3,Armoured Spearhead Doctrine,M15051
+15051,Foreign Minister,Jules Pire,3,General Staffer,M15051
+15096,Head of Military Intelligence,Jules Pire,3,Logistics Specialist,M15051
+15083,Minister of Security,Jules Pire,3,Prince of Terror,M15051
+15047,Foreign Minister,Louis de Brouckère,3,Ideological Crusader,M15047
+15034,Head of Government,Paul-Henri Spaak,3,Ambitious Union Boss,M15034
+15063,Minister of Armament,Paul-Henri Spaak,3,Resource Industrialist,M15034
+15092,Head of Military Intelligence,Victor de Laveleye,3,Logistics Specialist,M15084
+15048,Foreign Minister,Eugène Soudan,4,Ideological Crusader,M15005
+15005,Minister of Security,Eugène Soudan,4,Silent Lawyer,M15005
+15056,Minister of Armament,Hendrik de Man,4,Administrative Genius,M15056
+15073,Minister of Security,Paul Hymans,4,Compassionate Gentleman,M15073
+15044,Foreign Minister,Paul-Henri Spaak,4,Great Compromiser,M15034
+15164,Head of Government,Victor de Laveleye,4,Corporate Suit,M15084
+15084,Minister of Security,Victor de Laveleye,4,Crime Fighter,M15084
+15006,Head of Military Intelligence,Albert Devèze,5,Political Specialist,M15004
+15004,Minister of Armament,Albert Devèze,5,Laissez-Faire Capitalist,M15004
+15089,Minister of Security,Albert Lilar,5,Compassionate Gentleman,M15089
+15121,Minister of Armament,Albert-Edouard Janssen,5,Resource Industrialist,M15121
+15156,Minister of Armament,Alexandre Galopin,5,Administrative Genius,M15156
+15126,Minister of Security,Antoine Delfosse,5,Compassionate Gentleman,M15126
+15059,Minister of Armament,Camille Gutt,5,Administrative Genius,M15059
+15120,Minister of Armament,Emile Francqui,5,Laissez-Faire Capitalist,M15120
+15062,Minister of Armament,Emmanuel Michez,5,Tank Proponent,M15062
+15067,Minister of Armament,Franz de Voghel,5,Laissez-Faire Capitalist,M15067
+15066,Minister of Armament,Gaston Eyskens,5,Administrative Genius,M15042
+15081,Minister of Security,Henri Comte Carton de Wiart,5,Crime Fighter,M15081
+15097,Head of Military Intelligence,Léon Delsinne,5,Industrial Specialist,M15097
+15100,Head of Military Intelligence,Léon Mundeleer,5,Dismal Enigma,M15100
+15068,Minister of Armament,Marcel Vauthier,5,Laissez-Faire Capitalist,M15068
+15130,Minister of Armament,Maurice Lippens,5,Resource Industrialist,M15130
+15003,Foreign Minister,Paul Van Zeeland,5,Biased Intellectual,M15002
+15036,Head of Government,Paul-Emile Janson,5,Silent Workhorse,M15036
+15076,Minister of Security,Paul-Emile Janson,5,Crime Fighter,M15036
+15168,Head of Government,Roger Motz,5,Flamboyant Tough Guy,kai_belrgrmtz
+15127,Minister of Security,Victor Maistriau,5,Silent Lawyer,M15127
+15111,Chief of Army,Yvan Gérard,5,Elastic Defence Doctrine,M15111
+15086,Minister of Security,Adolphe Van Glabbeke,6,Man of the People,M15086
+15069,Minister of Armament,Albert de Vleeschauwer,6,Resource Industrialist,M15069
+15071,Minister of Security,Albert Janssen,6,Compassionate Gentleman,M15071
+15162,Head of Government,Aloys Van de Vyvere,6,Silent Workhorse,kai_alsvdvr
+15098,Head of Military Intelligence,Auguste Buisseret,6,Technical Specialist,M15087
+15087,Minister of Security,Auguste Buisseret,6,Silent Lawyer,M15087
+15117,Minister of Security,Auguste De Schrijver,6,Compassionate Gentleman,M15117
+15101,Head of Military Intelligence,B.E.M. de Fraiteur,6,Dismal Enigma,M15101
+15088,Minister of Security,Charles du Bus de Warnaffe,6,Crime Fighter,M15088
+15123,Minister of Armament,Charles Régnier,6,Air Superiority Proponent,M15123
+15137,Minister of Armament,Cyriel Van Overbergh,6,Theoretical Scientist,M15137
+15124,Minister of Armament,Edmond Rubbens,6,Resource Industrialist,M15124
+15072,Minister of Security,François Bovesse,6,Silent Lawyer,M15072
+15133,Foreign Minister,Frans Van Cauwelaert,6,Ideological Crusader,M15132
+15132,Head of Government,Frans Van Cauwelaert,6,Naive Optimist,M15132
+15009,Chief of Navy,G. Timmermans,6,Indirect Approach Doctrine,M15009
+15055,Foreign Minister,Gaston Eyskens,6,Great Compromiser,M15042
+15042,Head of Government,Gaston Eyskens,6,Corporate Suit,M15042
+15105,Chief of Staff,Georges Deffontaine,6,School of Fire Support,M15105
+15138,Head of Government,Georges Theunis,6,Naive Optimist,M15138
+15139,Minister of Armament,Georges Theunis,6,Laissez-Faire Capitalist,M15138
+15140,Minister of Armament,Gustaaf Sap,6,Military Entrepreneur,M15140
+15129,Minister of Armament,Hendrik Heyman,6,Air to Ground Proponent,M15129
+15093,Head of Military Intelligence,Henri Denis,6,Logistics Specialist,M15064
+15064,Minister of Armament,Henri Denis,6,Infantry Proponent,M15064
+15049,Foreign Minister,Hubert Pierlot,6,Great Compromiser,M15037
+15037,Head of Government,Hubert Pierlot,6,Naive Optimist,M15037
+15070,Minister of Armament,Jean Duvieusart,6,Administrative Genius,M15070
+15091,Minister of Security,Jean Rey,6,Silent Lawyer,M15091
+15079,Minister of Security,Joseph Pholien,6,Silent Lawyer,M15079
+15116,Chief of Air Force,Jules Iserentant,6,Air Superiority Doctrine,M15116
+15010,Chief of Air Force,L.F.E. Wouters,6,Vertical Envelopment Doctrine,M15010
+15128,Minister of Armament,Louis Franck,6,Resource Industrialist,M15128
+15007,Chief of Staff,Oscar Cumont,6,School of Defence,M15007
+15107,Chief of Staff,Oscar Michiels,6,School of Mass Combat,M15107
+15090,Minister of Security,Paul Struye,6,Man of the People,M15090
+15002,Head of Government,Paul Van Zeeland,6,Silent Workhorse,M15002
+15131,Minister of Security,Philippe Van Isacker,6,Crime Fighter,M15131
+15102,Head of Military Intelligence,Pierre Vermeylen,6,Technical Specialist,M15102
+15110,Chief of Army,Raoul van Overstraeten,6,Guns and Butter Doctrine,M15110
+15008,Chief of Army,Victor van Strydonck de Burkel,6,Static Defence Doctrine,M15008
+15106,Chief of Staff,Victor van Strydonck de Burkel,6,School of Mass Combat,M15008
+15159,Head of Government,Dr. August Borms,7,Backroom Backstabber,kaiserreich augustborms
+15167,Head of Government,Hendrik Elias,7,Backroom Backstabber,kai_belhndrkels
+15142,Head of Government,Charles Somville,8,Flamboyant Tough Guy,M15142
+15148,Minister of Armament,Charles Somville,8,Resource Industrialist,M15142
+15160,Foreign Minister,Dr. August Borms,8,Biased Intellectual,kaiserreich augustborms
+15143,Foreign Minister,Emiel Thiers,8,Great Compromiser,M15143
+15150,Minister of Security,Emiel Thiers,8,Compassionate Gentleman,M15143
+15154,Head of Military Intelligence,Jan Rijckoort,8,Political Specialist,M15151
+15151,Minister of Security,Jan Rijckoort,8,Man of the People,M15151
+15155,Chief of Staff,Joris Van Severen,8,School of Psychology,M15141
+15141,Head of Government,Joris Van Severen,8,Flamboyant Tough Guy,M15141
+15153,Head of Military Intelligence,Joris Van Severen,8,Logistics Specialist,M15141
+15147,Minister of Armament,Joris Van Severen,8,Military Entrepreneur,M15141
+15035,Head of Government,Leon Degrelle,8,Naive Optimist,M15013
+15145,Foreign Minister,Pol Le Roy,8,Ideological Crusader,M15145
+15146,Minister of Armament,René Lambrichts,8,Administrative Genius,M15146
+15149,Minister of Security,René Lambrichts,8,Efficient Sociopath,M15146
+15163,Head of Government,Staf De Clercq,8,Naive Optimist,kai_stfdclr
+15144,Foreign Minister,Ward Hermans,8,Biased Intellectual,M15144
+15152,Minister of Security,Ward Hermans,8,Silent Lawyer,M15144
+15114,Chief of Navy,Fritz Conrad,9,Indirect Approach Doctrine,M15018
+15115,Chief of Air Force,Fritz Löb,9,Army Aviation Doctrine,M15019
+15052,Foreign Minister,Jef van de Wiele,9,Iron Fisted Brute,M15011
+15109,Chief of Army,Leon Degrelle,9,Guns and Butter Doctrine,M15013
+15104,Chief of Staff,Leon Degrelle,9,School of Mass Combat,M15013
+15046,Foreign Minister,Leon Degrelle,9,Iron Fisted Brute,M15013
+15060,Minister of Armament,Leon Degrelle,9,Infantry Proponent,M15013
+15077,Minister of Security,Leon Degrelle,9,Prince of Terror,M15013
+15095,Head of Military Intelligence,Paul Ouwerx,9,Industrial Specialist,M15075
+15075,Minister of Security,Paul Ouwerx,9,Crime Fighter,M15075
+15108,Chief of Army,Réné Lagrou,9,Decisive Battle Doctrine,M15017
