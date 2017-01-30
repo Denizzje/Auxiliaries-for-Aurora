@@ -1,0 +1,297 @@
+GUI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+537010,Foreign Minister,Albert Liurette,1,Biased Intellectual,AFR_albert_liurette
+537004,Head of Government,Albert Liurette,1,happy amateur,AFR_albert_liurette
+537037,Head of Military Intelligence,Albert Liurette,1,Technical Specialist,AFR_albert_liurette
+537015,Minister of Armament,Albert Liurette,1,Theoretical Scientist,AFR_albert_liurette
+537032,Minister of Security,Albert Liurette,1,Silent Lawyer,AFR_albert_liurette
+537054,Chief of Navy,Étienne Djaument,1,Decisive Naval Battle Doctrine,Djaument
+537022,Minister of Armament,Étienne Djaument,1,Battle fleet Proponent,Djaument
+537058,Chief of Air Force,Isaac Theophilus Akunna Wallace-Johnson,1,Naval Aviation Doctrine,Wallace-Johnson
+537056,Chief of Navy,Isaac Theophilus Akunna Wallace-Johnson,1,Power Projection Doctrine,Wallace-Johnson
+537027,Minister of Armament,Isaac Theophilus Akunna Wallace-Johnson,1,air to sea proponent,Wallace-Johnson
+537024,Minister of Armament,Ahmad Sekou Toure,2,Laissez-Faire Capitalist,M537020
+537028,Minister of Security,Ahmad Sekou Toure,2,Crime Fighter,M537020
+537008,Foreign Minister,Albert Margai,2,The Cloak N Dagger Schemer,M554012
+537006,Head of Government,Albert Margai,2,Political Protege,M554012
+537038,Head of Military Intelligence,Albert Margai,2,Dismal Enigma,M554012
+537023,Minister of Armament,Albert Margai,2,Corrupt Kleptocrat,M554012
+537033,Minister of Security,Albert Margai,2,Crooked Kleptocrat,M554012
+537314,Foreign Minister,Albert Porte,2,Great Compromiser,M69033
+537313,Head of Government,Albert Porte,2,Ambitious Union Boss,M69033
+537007,Foreign Minister,Amílcar Lopes da Costa Cabral,2,Apologetic Clerk,Costa Cabral
+537035,Minister of Security,Amílcar Lopes da Costa Cabral,2,Back Stabber,Costa Cabral
+537059,Chief of Air Force,Auguste Denise,2,Air Superiority Doctrine,M533064
+537018,Minister of Armament,Auguste Denise,2,Air Superiority Proponent,M533064
+537055,Chief of Navy,Boubacar Diallo Telli,2,Open Seas Doctrine,Telli
+537041,Head of Military Intelligence,Boubacar Diallo Telli,2,Naval Intelligence Specialist,Telli
+537060,Chief of Air Force,Diawadou Barry,2,Carpet Bombing Doctrine,Barry1
+537020,Minister of Armament,Diawadou Barry,2,Strategic Air Proponent,Barry1
+537050,Chief of Army,Emmanuel Cummings,2,Elastic Defence Doctrine,unknown
+537045,Chief of Staff,Emmanuel Cummings,2,School of Manoeuvre,unknown
+537009,Foreign Minister,Eustace Taylor Cummings,2,Ideological Crusader,M554013
+537036,Head of Military Intelligence,Eustace Taylor Cummings,2,Political Specialist,M554013
+537030,Minister of Security,Eustace Taylor Cummings,2,Efficient Sociopath,M554013
+537012,Foreign Minister,Felix Houphouet-Boigny,2,Great Compromiser,M533018
+537005,Head of Government,Felix Houphouet-Boigny,2,corporate suit,M533018
+537040,Head of Military Intelligence,Felix Houphouet-Boigny,2,Industrial Specialist,M533018
+537021,Minister of Armament,Felix Houphouet-Boigny,2,Resource Industrialist,M533018
+537014,Minister of Armament,Fode Mamadou Toure,2,Administrative Genius,Toure
+537034,Minister of Security,Fode Mamadou Toure,2,Compassionate Gentleman,Toure
+537047,Chief of Army,Kande Bureh,2,Decisive Battle Doctrine,M554017
+537042,Chief of Staff,Kande Bureh,2,School of Mass Combat,M554017
+537039,Head of Military Intelligence,Kande Bureh,2,Logistics Specialist,M554017
+537019,Minister of Armament,Kande Bureh,2,Infantry Proponent,M554017
+537049,Chief of Army,Lamina Sankoh,2,Static Defence Doctrine,M554015
+537044,Chief of Staff,Lamina Sankoh,2,School of Defence,M554015
+537011,Foreign Minister,Lamina Sankoh,2,General Staffer,M554015
+537016,Minister of Armament,Lamina Sankoh,2,Military Entrepreneur,M554015
+537048,Chief of Army,Loffo Camara,2,Armoured Spearhead Doctrine,Camara
+537043,Chief of Staff,Loffo Camara,2,School of Fire Support,Camara
+537017,Minister of Armament,Loffo Camara,2,Tank Proponent,Camara
+537013,Foreign Minister,Milton Margai,2,iron fisted brute,M554011
+537031,Minister of Security,Milton Margai,2,Prince of Terror,M554011
+537029,Minister of Security,Philippe Grégoire Yacé,2,Man of the People,Yacé
+537061,Chief of Air Force,Raymond Sarif Easmon,2,Vertical Envelopment Doctrine,unknown
+537053,Chief of Navy,Raymond Sarif Easmon,2,Base Control Doctrine,unknown
+537057,Chief of Air Force,Sanak Stephens,2,Army Aviation Doctrine,M554020
+537051,Chief of Army,Sanak Stephens,2,Guns and Butter Doctrine,M554020
+537046,Chief of Staff,Sanak Stephens,2,School of Psychology,M554020
+537026,Minister of Armament,Sanak Stephens,2,air to ground proponent,M554020
+537052,Chief of Navy,Victor Biaka Boda,2,Indirect Approach Doctrine,Boda
+537025,Minister of Armament,Victor Biaka Boda,2,Submarine Proponent,Boda
+537274,Head of Government,Anthony Dash Wilson,4,Happy Amateur,LIB_anthony_dash_wilson
+537292,Minister of Security,Anthony Dash Wilson,4,Back Stabber,LIB_anthony_dash_wilson
+537299,Chief of Army,Benjamin O. Davis,4,Decisive Battle Doctrine,M69007
+537296,Chief of Staff,Benjamin O. Davis,4,School of Mass Combat,M69007
+537281,Minister of Armament,Benjamin O. Davis,4,Infantry Proponent,M69007
+537309,Chief of Air Force,Benjamin O. Davis Jr.,4,Air Superiority Doctrine,L60503
+537280,Minister of Armament,Benjamin O. Davis Jr.,4,Air Superiority Proponent,L60503
+537097,Foreign Minister,Bernard Binlin Dadié,4,iron fisted brute,Dadié
+537109,Head of Military Intelligence,Bernard Binlin Dadié,4,Political Specialist,Dadié
+537107,Minister of Security,Bernard Binlin Dadié,4,Prince of Terror,Dadié
+537277,Foreign Minister,Charles Dunbar Burgess King,4,Great Compromiser,CharlesDunbarBurgessKing
+537290,Minister of Security,Charles Dunbar Burgess King,4,Silent Lawyer,CharlesDunbarBurgessKing
+537275,Foreign Minister,Cornelius Bosman van Oudkarspel,4,Apologetic Clerk,unknown
+537294,Head of Military Intelligence,Cornelius Bosman van Oudkarspel,4,Dismal Enigma,unknown
+537291,Minister of Security,Cornelius Bosman van Oudkarspel,4,Compassionate Gentleman,unknown
+537307,Chief of Air Force,Daniel B. Warner,4,Army Aviation Doctrine,DanielBWarner
+537301,Chief of Army,Daniel B. Warner,4,Guns and Butter Doctrine,DanielBWarner
+537298,Chief of Staff,Daniel B. Warner,4,School of Psychology,DanielBWarner
+537286,Minister of Armament,Daniel B. Warner,4,air to ground proponent,DanielBWarner
+537118,Chief of Air Force,Ella Koblo Gulama,4,Army Aviation Doctrine,M554022
+537115,Chief of Army,Ella Koblo Gulama,4,Elastic Defence Doctrine,M554022
+537113,Chief of Staff,Ella Koblo Gulama,4,School of Manoeuvre,M554022
+537100,Minister of Armament,Ella Koblo Gulama,4,air to ground proponent,M554022
+537302,Chief of Navy,Francis M. Dean,4,Indirect Approach Doctrine,unknown
+537285,Minister of Armament,Francis M. Dean,4,Submarine Proponent,unknown
+537276,Foreign Minister,Fretus Africanus Russell,4,The Cloak N Dagger Schemer,unknown
+537293,Head of Military Intelligence,Fretus Africanus Russell,4,Technical Specialist,unknown
+537288,Minister of Security,Fretus Africanus Russell,4,Efficient Sociopath,unknown
+537300,Chief of Army,George Toe Washington,4,Armoured Spearhead Doctrine,GeorgeTWashington
+537297,Chief of Staff,George Toe Washington,4,School of Fire Support,GeorgeTWashington
+537279,Minister of Armament,George Toe Washington,4,Tank Proponent,GeorgeTWashington
+537308,Chief of Air Force,Harry A. Greaves Sr,4,Naval Aviation Doctrine,HarryAGreavesSr
+537306,Chief of Navy,Harry A. Greaves Sr,4,Power Projection Doctrine,HarryAGreavesSr
+537287,Minister of Armament,Harry A. Greaves Sr,4,air to sea proponent,HarryAGreavesSr
+537096,Foreign Minister,Henry Josiah Lightfoot Boston,4,Biased Intellectual,Boston
+537110,Head of Military Intelligence,Henry Josiah Lightfoot Boston,4,Technical Specialist,Boston
+537103,Minister of Armament,Henry Josiah Lightfoot Boston,4,Theoretical Scientist,Boston
+537105,Minister of Security,Henry Josiah Lightfoot Boston,4,Silent Lawyer,Boston
+537098,Foreign Minister,Herbert Christian Bankole-Bright,4,The Cloak N Dagger Schemer,unknown
+537095,Head of Government,Herbert Christian Bankole-Bright,4,Ambitious Union Boss,unknown
+537111,Head of Military Intelligence,Herbert Christian Bankole-Bright,4,Dismal Enigma,unknown
+537099,Minister of Armament,Herbert Christian Bankole-Bright,4,Administrative Genius,unknown
+537106,Minister of Security,Herbert Christian Bankole-Bright,4,Efficient Sociopath,unknown
+537114,Chief of Army,Jean-Baptiste Mockey,4,Static Defence Doctrine,Mockey
+537112,Chief of Staff,Jean-Baptiste Mockey,4,School of Defence,Mockey
+537120,Chief of Air Force,John William Campbell,4,Air Superiority Doctrine,unknown
+537101,Minister of Armament,John William Campbell,4,Air Superiority Proponent,unknown
+537304,Chief of Navy,Joseph Nargba Cooper,4,Decisive Naval Battle Doctrine,unknown
+537283,Minister of Armament,Joseph Nargba Cooper,4,Battle fleet Proponent,unknown
+537311,Chief of Air Force,Leroy Gibson; Sr.,4,Vertical Envelopment Doctrine,LeroyGibsonSr
+537303,Chief of Navy,Leroy Gibson; Sr.,4,Base Control Doctrine,LeroyGibsonSr
+537119,Chief of Air Force,Loubo Augustin Djessou,4,Vertical Envelopment Doctrine,Djessou
+537117,Chief of Navy,Loubo Augustin Djessou,4,Base Control Doctrine,Djessou
+537278,Foreign Minister,McKinley Alfred DeShield,4,Iron Fisted Brute,M69042
+537284,Minister of Armament,McKinley Alfred DeShield,4,Corrupt Kleptocrat,M69042
+537289,Minister of Security,McKinley Alfred DeShield,4,Prince of Terror,M69042
+537104,Minister of Armament,Noah Arthur William Cox-George,4,Laissez-Faire Capitalist,Cox-George
+537108,Minister of Security,Noah Arthur William Cox-George,4,Compassionate Gentleman,Cox-George
+537305,Chief of Navy,Sam Johnson,4,Open Seas Doctrine,SamJohnson
+537295,Head of Military Intelligence,Sam Johnson,4,Naval Intelligence Specialist,SamJohnson
+537310,Chief of Air Force,Thomas Nimene Botoe,4,Carpet Bombing Doctrine,ThomasNimeneBotoe
+537282,Minister of Armament,Thomas Nimene Botoe,4,Strategic Air Proponent,ThomasNimeneBotoe
+537116,Chief of Navy,William John Campbell,4,Decisive Naval Battle Doctrine,unknown
+537102,Minister of Armament,William John Campbell,4,Battle fleet Proponent,unknown
+537090,Chief of Navy,Christian Lattier,5,Indirect Approach Doctrine,Lattier
+537073,Minister of Armament,Christian Lattier,5,Submarine Proponent,Lattier
+537255,Foreign Minister,Clarence Lorenzo Simpson,5,Ideological Crusader,M69003
+537253,Head of Government,Clarence Lorenzo Simpson,5,Corporate Suit,M69003
+537261,Minister of Armament,Clarence Lorenzo Simpson,5,Administrative Genius,M69003
+537086,Chief of Army,Comigna Sano,5,Guns and Butter Doctrine,unknown
+537083,Chief of Staff,Comigna Sano,5,School of Psychology,unknown
+537065,Foreign Minister,Comigna Sano,5,General Staffer,unknown
+537081,Head of Military Intelligence,Comigna Sano,5,Logistics Specialist,unknown
+537069,Minister of Armament,Comigna Sano,5,Military Entrepreneur,unknown
+537076,Minister of Security,Comigna Sano,5,Back Stabber,unknown
+537066,Foreign Minister,Ernest Samuel Beoku-Betts,5,Apologetic Clerk,Beoku-Betts
+537063,Head of Government,Ernest Samuel Beoku-Betts,5,Flamboyant Tough Guy,Beoku-Betts
+537077,Minister of Security,Ernest Samuel Beoku-Betts,5,Man of the People,Beoku-Betts
+537087,Chief of Army,François-Joseph Amon d'Aby,5,Decisive Battle Doctrine,d'Aby
+537084,Chief of Staff,François-Joseph Amon d'Aby,5,School of Mass Combat,d'Aby
+537070,Minister of Armament,François-Joseph Amon d'Aby,5,Infantry Proponent,d'Aby
+537091,Chief of Navy,Frédéric Bruly Bouabré,5,Open Seas Doctrine,Bouabré
+537082,Head of Military Intelligence,Frédéric Bruly Bouabré,5,Naval Intelligence Specialist,Bouabré
+537064,Foreign Minister,Humonya,5,Ideological Crusader,Madam_Humonya
+537075,Minister of Armament,Humonya,5,Corrupt Kleptocrat,Madam_Humonya
+537079,Minister of Security,Humonya,5,Crooked Kleptocrat,Madam_Humonya
+537271,Chief of Army,Isaac Moart,5,Static Defence Doctrine,unknown
+537269,Chief of Staff,Isaac Moart,5,School of Defence,unknown
+537257,Foreign Minister,Isaac Moart,5,General Staffer,unknown
+537267,Head of Military Intelligence,Isaac Moart,5,Logistics Specialist,unknown
+537258,Minister of Armament,Isaac Moart,5,Military Entrepreneur,unknown
+537256,Foreign Minister,J. Max Bond; Sr.,5,Biased Intellectual,unknown
+537260,Minister of Armament,J. Max Bond; Sr.,5,Theoretical Scientist,unknown
+537067,Foreign Minister,John Karefa Smart,5,Great Compromiser,M554016
+537080,Head of Military Intelligence,John Karefa Smart,5,Industrial Specialist,M554016
+537068,Minister of Armament,John Karefa Smart,5,Resource Industrialist,M554016
+537078,Minister of Security,John Karefa Smart,5,Crime Fighter,M554016
+537272,Chief of Army,Joseph Dennis,5,Elastic Defence Doctrine,unknown
+537270,Chief of Staff,Joseph Dennis,5,School of Manoeuvre,unknown
+537264,Minister of Security,Joseph Dennis,5,Crooked Kleptocrat,unknown
+537092,Chief of Air Force,Keita Fodiba,5,Naval Aviation Doctrine,M537019
+537089,Chief of Navy,Keita Fodiba,5,Power Projection Doctrine,M537019
+537072,Minister of Armament,Keita Fodiba,5,air to sea proponent,M537019
+537093,Chief of Air Force,Louis Lansana Beavogui,5,Carpet Bombing Doctrine,Beavogui
+537074,Minister of Armament,Louis Lansana Beavogui,5,Strategic Air Proponent,Beavogui
+537088,Chief of Army,Mamba Sano,5,Armoured Spearhead Doctrine,Sano
+537085,Chief of Staff,Mamba Sano,5,School of Fire Support,Sano
+537071,Minister of Armament,Mamba Sano,5,Tank Proponent,Sano
+537259,Minister of Armament,Nete Sie Brownell,5,laissez-faire capitalist,unknown
+537265,Minister of Security,Nete Sie Brownell,5,Crime Fighter,unknown
+537266,Head of Military Intelligence,Samuel David Coleman,5,Political Specialist,unknown
+537263,Minister of Security,Samuel David Coleman,5,Man of the People,unknown
+537254,Head of Government,William Oliver Davies-Bright,5,Corporate Suit,unknown
+537268,Head of Military Intelligence,William Oliver Davies-Bright,5,Industrial Specialist,unknown
+537262,Minister of Armament,William Oliver Davies-Bright,5,Resource Industrialist,unknown
+537212,Chief of Army,Alford Russ,6,Decisive Battle Doctrine,LIB_alford_russ
+537209,Chief of Staff,Alford Russ,6,School of Mass Combat,LIB_alford_russ
+537187,Head of Government,Alford Russ,6,Old General,LIB_alford_russ
+537194,Minister of Armament,Alford Russ,6,Infantry Proponent,LIB_alford_russ
+537220,Chief of Air Force,Ashford Sims,6,Army Aviation Doctrine,AshfordSims
+537214,Chief of Army,Ashford Sims,6,Guns and Butter Doctrine,AshfordSims
+537211,Chief of Staff,Ashford Sims,6,School of Psychology,AshfordSims
+537199,Minister of Armament,Ashford Sims,6,air to ground proponent,AshfordSims
+537185,Head of Government,Edwin James Barclay,6,Happy Amateur,M69001
+537205,Minister of Security,Edwin James Barclay,6,Back Stabber,M69001
+537222,Chief of Air Force,F. E. R. Johnson,6,Air Superiority Doctrine,FERJohnson
+537193,Minister of Armament,F. E. R. Johnson,6,Air Superiority Proponent,FERJohnson
+537218,Chief of Navy,Frank Emmanuel Tolbert,6,Open Seas Doctrine,unknown
+537188,Foreign Minister,Frank Emmanuel Tolbert,6,Apologetic Clerk,unknown
+537208,Head of Military Intelligence,Frank Emmanuel Tolbert,6,Naval Intelligence Specialist,unknown
+537201,Minister of Security,Frank Emmanuel Tolbert,6,Efficient Sociopath,unknown
+537191,Foreign Minister,Gabriel Lafayette Dennis,6,Iron Fisted Brute,M69040
+537202,Minister of Security,Gabriel Lafayette Dennis,6,Prince of Terror,M69040
+537213,Chief of Army,George S. Padmore,6,Armoured Spearhead Doctrine,GeorgeSPadmore
+537210,Chief of Staff,George S. Padmore,6,School of Fire Support,GeorgeSPadmore
+537192,Minister of Armament,George S. Padmore,6,Tank Proponent,GeorgeSPadmore
+537223,Chief of Air Force,J. A. Railey,6,Carpet Bombing Doctrine,JARailey
+537195,Minister of Armament,J. A. Railey,6,Strategic Air Proponent,JARailey
+537221,Chief of Air Force,James D. Jones,6,Naval Aviation Doctrine,JamesDJones
+537219,Chief of Navy,James D. Jones,6,Power Projection Doctrine,JamesDJones
+537200,Minister of Armament,James D. Jones,6,air to sea proponent,JamesDJones
+537215,Chief of Navy,James F. Cooper,6,Indirect Approach Doctrine,JamesFCooper
+537198,Minister of Armament,James F. Cooper,6,Submarine Proponent,JamesFCooper
+537190,Foreign Minister,Lawrence Mitchell,6,Great Compromiser,unknown
+537204,Minister of Security,Lawrence Mitchell,6,Compassionate Gentleman,unknown
+537217,Chief of Navy,Van Gibson,6,Decisive Naval Battle Doctrine,VanGibson
+537196,Minister of Armament,Van Gibson,6,Battle fleet Proponent,VanGibson
+537224,Chief of Air Force,William H. Carter,6,Vertical Envelopment Doctrine,WilliamHCarter
+537216,Chief of Navy,William H. Carter,6,Base Control Doctrine,WilliamHCarter
+537206,Head of Military Intelligence,William Richard Tolbert; Jr.,6,Technical Specialist,M69064
+537189,Foreign Minister,William Vacanarat Shadrach Tubman,6,The Cloak N Dagger Schemer,M69032
+537186,Head of Government,William Vacanarat Shadrach Tubman,6,Silent Workhorse,M69032
+537207,Head of Military Intelligence,William Vacanarat Shadrach Tubman,6,Dismal Enigma,M69032
+537197,Minister of Armament,William Vacanarat Shadrach Tubman,6,Corrupt Kleptocrat,M69032
+537203,Minister of Security,William Vacanarat Shadrach Tubman,6,Silent Lawyer,M69032
+537179,Chief of Air Force,Abdoulaye Touré,7,Air Superiority Doctrine,Touré
+537138,Minister of Armament,Abdoulaye Touré,7,Air Superiority Proponent,Touré
+537167,Chief of Army,Abdul Injai,7,Guns and Butter Doctrine,Injai
+537162,Chief of Staff,Abdul Injai,7,School of Psychology,Injai
+537131,Foreign Minister,Abdul Injai,7,General Staffer,Injai
+537159,Head of Military Intelligence,Abdul Injai,7,Logistics Specialist,Injai
+537136,Minister of Armament,Abdul Injai,7,Military Entrepreneur,Injai
+537231,Head of Government,Al-Haj Massaquoi,7,Political Protege,LIB_alhaj_massaquoi
+537243,Minister of Security,Al-Haj Massaquoi,7,Crime Fighter,LIB_alhaj_massaquoi
+537158,Head of Military Intelligence,Ali Dausy Wurie,7,Dismal Enigma,Wurie
+537143,Minister of Armament,Ali Dausy Wurie,7,Corrupt Kleptocrat,Wurie
+537153,Minister of Security,Ali Dausy Wurie,7,Crooked Kleptocrat,Wurie
+537180,Chief of Air Force,Alioune Dramé,7,Carpet Bombing Doctrine,unknown
+537140,Minister of Armament,Alioune Dramé,7,Strategic Air Proponent,unknown
+537174,Chief of Navy,Alpha Oumar Barry,7,Decisive Naval Battle Doctrine,Barry
+537142,Minister of Armament,Alpha Oumar Barry,7,Battle fleet Proponent,Barry
+537181,Chief of Air Force,Amadu Wurie,7,Vertical Envelopment Doctrine,M554021
+537173,Chief of Navy,Amadu Wurie,7,Base Control Doctrine,M554021
+537132,Foreign Minister,Banja Tejan-sie,7,Great Compromiser,M554014
+537160,Head of Military Intelligence,Banja Tejan-sie,7,Industrial Specialist,M554014
+537141,Minister of Armament,Banja Tejan-sie,7,Resource Industrialist,M554014
+537148,Minister of Security,Banja Tejan-sie,7,Crime Fighter,M554014
+537133,Foreign Minister,Christian Alusine Kamara-Taylor,7,iron fisted brute,Kamara-Taylor
+537151,Minister of Security,Christian Alusine Kamara-Taylor,7,Prince of Terror,Kamara-Taylor
+537170,Chief of Army,David Lansana,7,Static Defence Doctrine,Lansana
+537165,Chief of Staff,David Lansana,7,School of Defence,Lansana
+537144,Minister of Armament,Edward Wilmot Blyden III,7,Laissez-Faire Capitalist,Blyden
+537150,Minister of Security,Edward Wilmot Blyden III,7,Efficient Sociopath,Blyden
+537130,Foreign Minister,Haidara Kontorfilli,7,Biased Intellectual,Kontorfilli
+537124,Head of Government,Haidara Kontorfilli,7,spiritual leader,Kontorfilli
+537157,Head of Military Intelligence,Haidara Kontorfilli,7,Technical Specialist,Kontorfilli
+537135,Minister of Armament,Haidara Kontorfilli,7,Theoretical Scientist,Kontorfilli
+537152,Minister of Security,Haidara Kontorfilli,7,Silent Lawyer,Kontorfilli
+537246,Head of Military Intelligence,Henry W. Grimes,7,Industrial Specialist,unknown
+537240,Minister of Armament,Henry W. Grimes,7,Resource Industrialist,unknown
+537172,Chief of Navy,Ibrahima Barry,7,Indirect Approach Doctrine,Barry2
+537145,Minister of Armament,Ibrahima Barry,7,Submarine Proponent,Barry2
+537232,Head of Government,James Alexander Adolphus Pierre,7,Backroom Backstabber,LIB_james_pierre
+537234,Foreign Minister,Joseph Rudolph Grimes,7,Biased Intellectual,M69005
+537238,Minister of Armament,Joseph Rudolph Grimes,7,Theoretical Scientist,M69005
+537242,Minister of Security,Joseph Rudolph Grimes,7,Crooked Kleptocrat,M69005
+537230,Head of Government,Louis Arthur Grimes,7,Silent Workhorse,LIB_louis_arthur_grimes
+537239,Minister of Armament,Louis Arthur Grimes,7,Administrative Genius,LIB_louis_arthur_grimes
+537128,Foreign Minister,McCormack Charles Farrell Easmon,7,The Cloak N Dagger Schemer,unknown
+537126,Head of Government,McCormack Charles Farrell Easmon,7,backroom backstabber,unknown
+537156,Head of Military Intelligence,McCormack Charles Farrell Easmon,7,Political Specialist,unknown
+537155,Minister of Security,McCormack Charles Farrell Easmon,7,Back Stabber,unknown
+537127,Foreign Minister,Mohammed Sanusi Mustapha,7,Apologetic Clerk,M554018
+537134,Minister of Armament,Mohammed Sanusi Mustapha,7,Administrative Genius,M554018
+537154,Minister of Security,Mohammed Sanusi Mustapha,7,Compassionate Gentleman,M554018
+537249,Chief of Army,Momolu Dukuly,7,Static Defence Doctrine,LIB_momolu_dukuly
+537247,Chief of Staff,Momolu Dukuly,7,School of Defence,LIB_momolu_dukuly
+537235,Foreign Minister,Momolu Dukuly,7,General Staffer,LIB_momolu_dukuly
+537245,Head of Military Intelligence,Momolu Dukuly,7,Logistics Specialist,LIB_momolu_dukuly
+537237,Minister of Armament,Momolu Dukuly,7,laissez-faire capitalist,LIB_momolu_dukuly
+537233,Foreign Minister,Momolu Massaquoi,7,Ideological Crusader,LIB_momolu_massaquoi
+537229,Head of Government,Momolu Massaquoi,7,Flamboyant Tough Guy,LIB_momolu_massaquoi
+537177,Chief of Air Force,N'Famara Keïta,7,Army Aviation Doctrine,unknown
+537171,Chief of Army,N'Famara Keïta,7,Elastic Defence Doctrine,unknown
+537166,Chief of Staff,N'Famara Keïta,7,School of Manoeuvre,unknown
+537146,Minister of Armament,N'Famara Keïta,7,air to ground proponent,unknown
+537169,Chief of Army,Rafiji Manareh,7,Armoured Spearhead Doctrine,M554019
+537164,Chief of Staff,Rafiji Manareh,7,School of Fire Support,M554019
+537137,Minister of Armament,Rafiji Manareh,7,Tank Proponent,M554019
+537178,Chief of Air Force,Saifoulaye Diallo,7,Naval Aviation Doctrine,Diallo1
+537176,Chief of Navy,Saifoulaye Diallo,7,Power Projection Doctrine,Diallo1
+537147,Minister of Armament,Saifoulaye Diallo,7,air to sea proponent,Diallo1
+537168,Chief of Army,Sékou Sanogo,7,Decisive Battle Doctrine,Sanogo
+537163,Chief of Staff,Sékou Sanogo,7,School of Mass Combat,Sanogo
+537139,Minister of Armament,Sékou Sanogo,7,Infantry Proponent,Sanogo
+537250,Chief of Army,Solomon Carter Fuller,7,Elastic Defence Doctrine,LIB_solomon_carter_fuller
+537248,Chief of Staff,Solomon Carter Fuller,7,School of Manoeuvre,LIB_solomon_carter_fuller
+537236,Minister of Armament,Solomon Carter Fuller,7,Military Entrepreneur,LIB_solomon_carter_fuller
+537129,Foreign Minister,Soulemayne Kante,7,Ideological Crusader,Kante
+537149,Minister of Security,Soulemayne Kante,7,Man of the People,Kante
+537125,Head of Government,Tamba Songu M'briwa,7,corporate suit,M'briwa
+537244,Head of Military Intelligence,William Wadé Harris,7,Political Specialist,LIB_william_wade_harris
+537241,Minister of Security,William Wadé Harris,7,Man of the People,LIB_william_wade_harris
+537175,Chief of Navy,Yacine Diallo,7,Open Seas Doctrine,Diallo2
+537161,Head of Military Intelligence,Yacine Diallo,7,Naval Intelligence Specialist,Diallo2

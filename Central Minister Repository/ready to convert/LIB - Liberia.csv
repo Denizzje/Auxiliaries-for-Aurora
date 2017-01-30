@@ -1,0 +1,124 @@
+LIB,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+69133,Foreign Minister,Albert Porte,2,Great Compromiser,M69033
+69132,Head of Government,Albert Porte,2,Ambitious Union Boss,M69033
+69093,Head of Government,Anthony Dash Wilson,4,Happy Amateur,LIB_anthony_dash_wilson
+69111,Minister of Security,Anthony Dash Wilson,4,Back Stabber,LIB_anthony_dash_wilson
+69128,Chief of Air Force,Benjamin Oliver Davis Jr.,4,Air Superiority Doctrine,L60503
+69099,Minister of Armament,Benjamin Oliver Davis Jr.,4,Air Superiority Proponent,L60503
+69118,Chief of Army,Benjamin Oliver Davis Sr.,4,Decisive Battle Doctrine,M69007
+69115,Chief of Staff,Benjamin Oliver Davis Sr.,4,School of Mass Combat,M69007
+69100,Minister of Armament,Benjamin Oliver Davis Sr.,4,Infantry Proponent,M69007
+69096,Foreign Minister,Charles Dunbar Burgess King,4,Great Compromiser,CharlesDunbarBurgessKing
+69109,Minister of Security,Charles Dunbar Burgess King,4,Silent Lawyer,CharlesDunbarBurgessKing
+69094,Foreign Minister,Cornelius Bosman van Oudkarspel,4,Apologetic Clerk,unknown
+69113,Head of Military Intelligence,Cornelius Bosman van Oudkarspel,4,Dismal Enigma,unknown
+69110,Minister of Security,Cornelius Bosman van Oudkarspel,4,Compassionate Gentleman,unknown
+69126,Chief of Air Force,Daniel B. Warner,4,Army Aviation Doctrine,DanielBWarner
+69120,Chief of Army,Daniel B. Warner,4,Guns and Butter Doctrine,DanielBWarner
+69117,Chief of Staff,Daniel B. Warner,4,School of Psychology,DanielBWarner
+69105,Minister of Armament,Daniel B. Warner,4,air to ground proponent,DanielBWarner
+69121,Chief of Navy,Francis M. Dean,4,Indirect Approach Doctrine,unknown
+69104,Minister of Armament,Francis M. Dean,4,Submarine Proponent,unknown
+69095,Foreign Minister,Fretus Africanus Russell,4,The Cloak N Dagger Schemer,unknown
+69112,Head of Military Intelligence,Fretus Africanus Russell,4,Technical Specialist,unknown
+69107,Minister of Security,Fretus Africanus Russell,4,Efficient Sociopath,unknown
+69119,Chief of Army,George Toe Washington,4,Armoured Spearhead Doctrine,GeorgeTWashington
+69116,Chief of Staff,George Toe Washington,4,School of Fire Support,GeorgeTWashington
+69098,Minister of Armament,George Toe Washington,4,Tank Proponent,GeorgeTWashington
+69127,Chief of Air Force,Harry A. Greaves Sr,4,Naval Aviation Doctrine,HarryAGreavesSr
+69125,Chief of Navy,Harry A. Greaves Sr,4,Power Projection Doctrine,HarryAGreavesSr
+69106,Minister of Armament,Harry A. Greaves Sr,4,air to sea proponent,HarryAGreavesSr
+69123,Chief of Navy,Joseph Nargba Cooper,4,Decisive Naval Battle Doctrine,unknown
+69102,Minister of Armament,Joseph Nargba Cooper,4,Battle fleet Proponent,unknown
+69130,Chief of Air Force,Leroy Gibson; Sr.,4,Vertical Envelopment Doctrine,LeroyGibsonSr
+69122,Chief of Navy,Leroy Gibson; Sr.,4,Base Control Doctrine,LeroyGibsonSr
+69097,Foreign Minister,McKinley Alfred DeShield,4,Iron Fisted Brute,M69042
+69103,Minister of Armament,McKinley Alfred DeShield,4,Corrupt Kleptocrat,M69042
+69108,Minister of Security,McKinley Alfred DeShield,4,Prince of Terror,M69042
+69124,Chief of Navy,Sam Johnson,4,Open Seas Doctrine,SamJohnson
+69114,Head of Military Intelligence,Sam Johnson,4,Naval Intelligence Specialist,SamJohnson
+69129,Chief of Air Force,Thomas Nimene Botoe,4,Carpet Bombing Doctrine,ThomasNimeneBotoe
+69101,Minister of Armament,Thomas Nimene Botoe,4,Strategic Air Proponent,ThomasNimeneBotoe
+69074,Foreign Minister,Clarence Lorenzo Simpson,5,Ideological Crusader,M69003
+69072,Head of Government,Clarence Lorenzo Simpson,5,Corporate Suit,M69003
+69080,Minister of Armament,Clarence Lorenzo Simpson,5,Administrative Genius,M69003
+69090,Chief of Army,Isaac Moart,5,Static Defence Doctrine,unknown
+69088,Chief of Staff,Isaac Moart,5,School of Defence,unknown
+69076,Foreign Minister,Isaac Moart,5,General Staffer,unknown
+69086,Head of Military Intelligence,Isaac Moart,5,Logistics Specialist,unknown
+69077,Minister of Armament,Isaac Moart,5,Military Entrepreneur,unknown
+69075,Foreign Minister,J. Max Bond; Sr.,5,Biased Intellectual,unknown
+69079,Minister of Armament,J. Max Bond; Sr.,5,Theoretical Scientist,unknown
+69091,Chief of Army,Joseph Dennis,5,Elastic Defence Doctrine,unknown
+69089,Chief of Staff,Joseph Dennis,5,School of Manoeuvre,unknown
+69083,Minister of Security,Joseph Dennis,5,Crooked Kleptocrat,unknown
+69078,Minister of Armament,Nete Sie Brownell,5,laissez-faire capitalist,unknown
+69084,Minister of Security,Nete Sie Brownell,5,Crime Fighter,unknown
+69085,Head of Military Intelligence,Samuel David Coleman,5,Political Specialist,unknown
+69082,Minister of Security,Samuel David Coleman,5,Man of the People,unknown
+69073,Head of Government,William Oliver Davies-Bright,5,Corporate Suit,unknown
+69087,Head of Military Intelligence,William Oliver Davies-Bright,5,Industrial Specialist,unknown
+69081,Minister of Armament,William Oliver Davies-Bright,5,Resource Industrialist,unknown
+69031,Chief of Army,Alford Russ,6,Decisive Battle Doctrine,LIB_alford_russ
+69028,Chief of Staff,Alford Russ,6,School of Mass Combat,LIB_alford_russ
+69006,Head of Government,Alford Russ,6,Old General,LIB_alford_russ
+69013,Minister of Armament,Alford Russ,6,Infantry Proponent,LIB_alford_russ
+69039,Chief of Air Force,Ashford Sims,6,Army Aviation Doctrine,AshfordSims
+69033,Chief of Army,Ashford Sims,6,Guns and Butter Doctrine,AshfordSims
+69030,Chief of Staff,Ashford Sims,6,School of Psychology,AshfordSims
+69018,Minister of Armament,Ashford Sims,6,air to ground proponent,AshfordSims
+69004,Head of Government,Edwin James Barclay,6,Happy Amateur,M69001
+69024,Minister of Security,Edwin James Barclay,6,Back Stabber,M69001
+69041,Chief of Air Force,F. E. R. Johnson,6,Air Superiority Doctrine,FERJohnson
+69012,Minister of Armament,F. E. R. Johnson,6,Air Superiority Proponent,FERJohnson
+69037,Chief of Navy,Frank Emmanuel Tolbert,6,Open Seas Doctrine,unknown
+69007,Foreign Minister,Frank Emmanuel Tolbert,6,Apologetic Clerk,unknown
+69027,Head of Military Intelligence,Frank Emmanuel Tolbert,6,Naval Intelligence Specialist,unknown
+69020,Minister of Security,Frank Emmanuel Tolbert,6,Efficient Sociopath,unknown
+69010,Foreign Minister,Gabriel Lafayette Dennis,6,Iron Fisted Brute,M69040
+69021,Minister of Security,Gabriel Lafayette Dennis,6,Prince of Terror,M69040
+69032,Chief of Army,George S. Padmore,6,Armoured Spearhead Doctrine,GeorgeSPadmore
+69029,Chief of Staff,George S. Padmore,6,School of Fire Support,GeorgeSPadmore
+69011,Minister of Armament,George S. Padmore,6,Tank Proponent,GeorgeSPadmore
+69042,Chief of Air Force,J. A. Railey,6,Carpet Bombing Doctrine,JARailey
+69014,Minister of Armament,J. A. Railey,6,Strategic Air Proponent,JARailey
+69040,Chief of Air Force,James D. Jones,6,Naval Aviation Doctrine,JamesDJones
+69038,Chief of Navy,James D. Jones,6,Power Projection Doctrine,JamesDJones
+69019,Minister of Armament,James D. Jones,6,air to sea proponent,JamesDJones
+69034,Chief of Navy,James F. Cooper,6,Indirect Approach Doctrine,JamesFCooper
+69017,Minister of Armament,James F. Cooper,6,Submarine Proponent,JamesFCooper
+69009,Foreign Minister,Lawrence Mitchell,6,Great Compromiser,unknown
+69023,Minister of Security,Lawrence Mitchell,6,Compassionate Gentleman,unknown
+69036,Chief of Navy,Van Gibson,6,Decisive Naval Battle Doctrine,VanGibson
+69015,Minister of Armament,Van Gibson,6,Battle fleet Proponent,VanGibson
+69043,Chief of Air Force,William H. Carter,6,Vertical Envelopment Doctrine,WilliamHCarter
+69035,Chief of Navy,William H. Carter,6,Base Control Doctrine,WilliamHCarter
+69025,Head of Military Intelligence,William Richard Tolbert; Jr.,6,Technical Specialist,M69064
+69008,Foreign Minister,William Vacanarat Shadrach Tubman,6,The Cloak N Dagger Schemer,M69032
+69005,Head of Government,William Vacanarat Shadrach Tubman,6,Silent Workhorse,M69032
+69026,Head of Military Intelligence,William Vacanarat Shadrach Tubman,6,Dismal Enigma,M69032
+69016,Minister of Armament,William Vacanarat Shadrach Tubman,6,Corrupt Kleptocrat,M69032
+69022,Minister of Security,William Vacanarat Shadrach Tubman,6,Silent Lawyer,M69032
+69050,Head of Government,Al-Haj Massaquoi,7,Political Protege,LIB_alhaj_massaquoi
+69062,Minister of Security,Al-Haj Massaquoi,7,Crime Fighter,LIB_alhaj_massaquoi
+69065,Head of Military Intelligence,Henry W. Grimes,7,Industrial Specialist,unknown
+69059,Minister of Armament,Henry W. Grimes,7,Resource Industrialist,unknown
+69051,Head of Government,James Alexander Adolphus Pierre,7,Backroom Backstabber,LIB_james_pierre
+69053,Foreign Minister,Joseph Rudolph Grimes,7,Biased Intellectual,M69005
+69057,Minister of Armament,Joseph Rudolph Grimes,7,Theoretical Scientist,M69005
+69061,Minister of Security,Joseph Rudolph Grimes,7,Crooked Kleptocrat,M69005
+69049,Head of Government,Louis Arthur Grimes,7,Silent Workhorse,LIB_louis_arthur_grimes
+69058,Minister of Armament,Louis Arthur Grimes,7,Administrative Genius,LIB_louis_arthur_grimes
+69068,Chief of Army,Momolu Dukuly,7,Static Defence Doctrine,LIB_momolu_dukuly
+69066,Chief of Staff,Momolu Dukuly,7,School of Defence,LIB_momolu_dukuly
+69054,Foreign Minister,Momolu Dukuly,7,General Staffer,LIB_momolu_dukuly
+69064,Head of Military Intelligence,Momolu Dukuly,7,Logistics Specialist,LIB_momolu_dukuly
+69056,Minister of Armament,Momolu Dukuly,7,laissez-faire capitalist,LIB_momolu_dukuly
+69052,Foreign Minister,Momolu Massaquoi,7,Ideological Crusader,LIB_momolu_massaquoi
+69048,Head of Government,Momolu Massaquoi,7,Flamboyant Tough Guy,LIB_momolu_massaquoi
+69069,Chief of Army,Solomon Carter Fuller,7,Elastic Defence Doctrine,LIB_solomon_carter_fuller
+69067,Chief of Staff,Solomon Carter Fuller,7,School of Manoeuvre,LIB_solomon_carter_fuller
+69055,Minister of Armament,Solomon Carter Fuller,7,Military Entrepreneur,LIB_solomon_carter_fuller
+69063,Head of Military Intelligence,William Wadé Harris,7,Political Specialist,LIB_william_wade_harris
+69060,Minister of Security,William Wadé Harris,7,Man of the People,LIB_william_wade_harris
