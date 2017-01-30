@@ -1,0 +1,110 @@
+FIN;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
+;;;;;
+29157;Chief of Air Force;Akseli Anttila;0;Army Aviation Doctrine;M29027
+29147;Chief of Army;Akseli Anttila;0;Guns and Butter Doctrine;M29027
+29139;Chief of Staff;Akseli Anttila;0;School of Mass Combat;M29027
+29081;Foreign Minister;Hella Wuolijoki;0;Great Compromiser;M29081
+29101;Minister of Armament;Mauritz Rosenberg;0;Resource Industrialist;M29024
+29080;Foreign Minister;Otto Ville Kuusinen;0;Apologetic Clerk;M29021
+29066;Head of Government;Otto Ville Kuusinen;0;Flamboyant Tough Guy;M29021
+29131;Head of Military Intelligence;Tuure Lehen;0;Political Specialist;M29026
+29119;Minister of Security;Yrjö Leino;0;Man of the People;M29025
+29067;Foreign Minister;Anselmi Pitkäsilta;3;Apologetic Clerk;M29067
+29121;Head of Military Intelligence;Bruno Suviranta;3;Dismal Enigma;M29121
+29148;Chief of Navy;Claes Horola;3;Open Seas Doctrine;M29148
+29120;Head of Military Intelligence;Edvard Kajala;3;Naval Intelligence Specialist;M29120
+29103;Minister of Security;Hugo Emil Aattela;3;Prince of Terror;M29103
+29083;Minister of Armament;K.A. Fagerholm;3;laissez-faire capitalist;M29083
+29140;Chief of Army;Kaarle Voinonmaa;3;Guns and Butter Doctrine;M29140
+29132;Chief of Staff;Leonard Grandell;3;School of Fire Support;M29093
+29052;Head of Government;Mauno Pekkala;3;Political Protege;M29052
+29084;Minister of Armament;Mauno Pekkala;3;Theoretical Scientist;M29052
+29105;Minister of Security;Olavi I. Kojala;3;Crime Fighter;M29105
+29085;Minister of Armament;Otto Toivonen;3;Military Entrepreneur;M29085
+29102;Minister of Security;Urho K. Kekkonen;3;Compassionate Gentleman;M29051
+29069;Foreign Minister;Väinö Kivisalo;3;Iron Fisted Brute;M29050
+29050;Head of Government;Väinö Kivisalo;3;Naive Optimist;M29050
+29031;Head of Government;Väinö Tanner;3;Silent Workhorse;kai_vaitan
+29104;Minister of Security;Valfrid Eskola;3;Back Stabber;M29104
+29153;Chief of Air Force;Valio Porvari;3;Army Aviation Doctrine;M29153
+29082;Minister of Armament;Viljam Sinisalo;3;Strategic Air Proponent;M29082
+29054;Head of Government;Aimo Cajander;5;Happy Amateur;M29054
+29087;Minister of Armament;Aimo Cajander;5;Resource Industrialist;M29054
+29124;Head of Military Intelligence;Berndt R. von Fieandt;5;Technical Specialist;M29124
+29075;Foreign Minister;Carl J. Enckell;5;Great Compromiser;M29070
+29071;Foreign Minister;Eino R. Holsti;5;Great Compromiser;M29071
+29107;Minister of Security;Ernst V.L. von Born;5;Silent Lawyer;M29107
+29123;Head of Military Intelligence;Hjalmar F. Procope;5;Political Specialist;M29123
+29055;Head of Government;Jarl Lundqvist;5;Smiling Oilman;M29010
+29090;Minister of Armament;Jarl Lundqvist;5;Air to Sea Proponent;M29010
+29073;Foreign Minister;Juho E. Erkko;5;Biased Intellectual;M29073
+29086;Minister of Armament;Juho Niukkanen;5;Administrative Genius;M29014
+29072;Foreign Minister;Kaarle V. Voionmaa;5;Apologetic Clerk;M29072
+29111;Minister of Security;Kaarlo H. Hillilä;5;Prince of Terror;M29111
+29053;Head of Government;Kyösti Kallio;5;Corporate Suit;M29032
+29088;Minister of Armament;Kyösti Kallio;5;laissez-faire capitalist;M29032
+29109;Minister of Security;Leo R. Ehrnrooth;5;Man of the People;M29109
+29106;Minister of Security;Richard Lorentz;5;Crime Fighter;M29106
+29051;Head of Government;Urho K. Kekkonen;5;Backroom Backstabber;M29051
+29089;Minister of Armament;Väinö L. Valve;5;Military Entrepreneur;M29009
+29108;Minister of Security;Väinö L. Valve;5;Compassionate Gentleman;M29009
+29056;Head of Government;Yrjö K. Leino;5;Naive Optimist;M29025
+29110;Minister of Security;Yrjö K. Leino;5;Efficient Sociopath;M29025
+29003;Foreign Minister;Antti V. Hackzell;6;Biased Intellectual;M29003
+29060;Head of Government;Antti V. Hackzell;6;Silent Workhorse;M29003
+29091;Minister of Armament;Antti V. Hackzell;6;Battle Fleet Proponent;M29003
+29076;Foreign Minister;Arvi A. Oksala;6;General Staffer;M29004
+29004;Minister of Armament;Arvi A. Oksala;6;Resource Industrialist;M29004
+29145;Chief of Army;Carl G. Mannerheim;6;Elastic Defence Doctrine;M29034
+29137;Chief of Staff;Carl G. Mannerheim;6;School of Defence;M29034
+29034;Head of Government;Carl G. Mannerheim;6;Flamboyant Tough Guy;M29034
+29077;Foreign Minister;Carl Ramsay;6;Iron Fisted Brute;M29077
+29063;Head of Government;Edwin H. Linkomies;6;Naive Optimist;M29063
+29096;Minister of Armament;Edwin H. Linkomies;6;Administrative Genius;M29063
+29150;Chief of Navy;Eero Rahola;6;Power Projection Doctrine;M29150
+29006;Head of Military Intelligence;Esko Riekki;6;Dismal Enigma;M29006
+29113;Minister of Security;Esko Riekki;6;Crime Fighter;M29006
+29128;Head of Military Intelligence;Georg A. de Gripenberg;6;Industrial Specialist;M29097
+29097;Minister of Armament;Georg A. de Gripenberg;6;Strategic Air Proponent;M29097
+29008;Chief of Army;Hugo Österman;6;Elastic Defence Doctrine;M29008
+29136;Chief of Staff;Hugo Österman;6;School of Mass Combat;M29008
+29010;Chief of Air Force;Jarl Lundqvist;6;Naval Aviation Doctrine;M29010
+29078;Foreign Minister;Johan W. Rangell;6;Biased Intellectual;M29059
+29059;Head of Government;Johan W. Rangell;6;Flamboyant Tough Guy;M29059
+29114;Minister of Security;Johan W. Rangell;6;Man of the People;M29059
+29061;Head of Government;Juho K. Paasikivi;6;Flamboyant Tough Guy;M29035
+29094;Minister of Armament;Juho K. Paasikivi;6;Resource Industrialist;M29035
+29144;Chief of Army;K.L. Oesch;6;Armoured Spearhead Doctrine;M29007
+29007;Chief of Staff;K.L. Oesch;6;School of Manoeuvre;M29007
+29032;Head of Government;Kaarlo Juhlo Stahlberg;6;Flamboyant Tough Guy;kai_kaarljuh
+29160;Head of Government;Karl R. Waldén;6;Happy Amateur;M29098
+29062;Head of Government;Kyosti Järvinen;6;Silent Workhorse;M29062
+29115;Minister of Security;Kyosti Järvinen;6;Silent Lawyer;M29062
+29093;Minister of Armament;Leonard Grandell;6;laissez-faire capitalist;M29093
+29092;Minister of Armament;Pehr E. Svinhufvud;6;Tank Proponent;M29001
+29058;Head of Government;Risto Ryti;6;Backroom Backstabber;M29033
+29116;Minister of Security;Risto Ryti;6;Back Stabber;M29033
+29074;Foreign Minister;Rolf J. Witting;6;The Cloak N Dagger Schemer;M29074
+29112;Minister of Security;Toivo J. Horelli;6;Compassionate Gentleman;M29112
+29002;Head of Government;Toivo M. Kivimäki;6;Smiling Oilman;M29002
+29127;Head of Military Intelligence;Toivo M. Kivimäki;6;Logistics Specialist;M29002
+29155;Chief of Air Force;Toivo Somerto;6;Air Superiority Doctrine;M29155
+29064;Head of Government;Urho J. Castrén;6;Corporate Suit;M29064
+29095;Minister of Armament;Urho J. Castrén;6;Infantry Proponent;M29064
+29068;Foreign Minister;Väinö A. Tanner;6;Ideological Crusader;M29068
+29009;Chief of Navy;Väinö Valve;6;Base Control Doctrine;M29009
+29126;Head of Military Intelligence;Väinö Valve;6;Naval Intelligence Specialist;M29009
+29125;Head of Military Intelligence;Yrjö W. Puhakka;6;Dismal Enigma;M29005
+29005;Minister of Security;Yrjö W. Puhakka;6;Silent Lawyer;M29005
+29098;Minister of Armament;Karl R. Waldén;7;Resource Industrialist;M29098
+29118;Minister of Security;Bruno Salmiala;8;Back Stabber;M29011
+29079;Foreign Minister;Hilja Riipinen;8;Ideological Crusader;M29013
+29117;Minister of Security;Jouko Itälä;8;Prince of Terror;M29015
+29138;Chief of Staff;Kurt Wallenius;8;School of Psychology;M29017
+29151;Chief of Navy;Lauri Tiainen;8;Decisive Naval Battle Doctrine;M29019
+29156;Chief of Air Force;Tauno Viljanen;8;Army Aviation Doctrine;M29020
+29065;Head of Government;Vihtori Kosola;8;Silent Workhorse;kaiserreich VihtoriKosola
+29130;Head of Military Intelligence;Vihtori Kosola;8;Industrial Specialist;kaiserreich VihtoriKosola
+29100;Minister of Armament;Vihtori Kosola;8;Infantry Proponent;kaiserreich VihtoriKosola
+29129;Head of Military Intelligence;Vilho Annala;8;Dismal Enigma;M29016
+29146;Chief of Army;Vilho Helanen;8;Static Defence Doctrine;M29018

@@ -1,0 +1,59 @@
+U23;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
+;;;;;
+7602;Foreign Minister;Albert Camus;1;Biased Intellectual;Albert_Camus
+7604;Minister of Security;Jacques Soustelle;1;Crime Fighter;Jacques_Soustelle
+7652;Foreign Minister;Abbé Pierre;2;Great Compromiser;Abbe_Pierre
+7641;Head of Government;Abbé Pierre;2;Happy Amateur;Abbe_Pierre
+7662;Foreign Minister;Berty Albrecht;2;the cloak n dagger schemer;Berty_Albrecht
+7624;Minister of Security;Berty Albrecht;2;Efficient Sociopath;Berty_Albrecht
+7657;Chief of Army;Georges Buis;2;elastic defence doctrine;Georges_Buis
+7645;Head of Military Intelligence;Gilbert Bugeac;2;Technical Specialist;Gilbert_Bugeac
+7633;Minister of Armament;Gilbert Bugeac;2;Infantry Proponent;Gilbert_Bugeac
+7642;Foreign Minister;Odette Pilpoul;2;Ideological Crusader;Odette_Pilpoul
+7603;Minister of Armament;Raymond Abellio;2;Administrative Genius;Raymond_Abellio
+7646;Chief of Staff;Edgard de Larminat;3;School of Mass Combat;Edgard_de_Larminat
+7632;Foreign Minister;Edgard de Larminat;3;General Staffer;Edgard_de_Larminat
+7625;Head of Military Intelligence;Edgard de Larminat;3;Technical Specialist;Edgard_de_Larminat
+7667;Chief of Army;Emile Coulaudon;3;Armoured Spearhead Doctrine;Coulaudon
+7653;Minister of Armament;Emile Coulaudon;3;Resource Industrialist;Coulaudon
+7643;Minister of Armament;Eugène Chavant;3;Undistinguished Suit;Eugene_Chavant
+7629;Chief of Air Force;Georges Bergé;3;Army Aviation Doctrine;Georges_Berge
+7628;Chief of Navy;Georges Cabanier;3;Undistinguished Suit;Georges_Cabanier
+7617;Chief of Army;Georges Catroux;3;static defence doctrine;Georges_Catroux
+7664;Minister of Security;Jacques Brunschwig-Bordier;3;Compassionate Gentleman;Jacques_Brunschwig-Bordier
+7616;Chief of Staff;Jacques Chaban-Delmas;3;School of Manoeuvre;Jacques_Chaban-Delmas
+7611;Head of Government;Jacques Chaban-Delmas;3;Corporate Suit;Jacques_Chaban-Delmas
+7649;Chief of Air Force;Joseph Trigeaud;3;Army Aviation Doctrine;Trigeaud
+7635;Head of Military Intelligence;Louis Bonvin;3;Logistics Specialist;Louis_Bonvin
+7613;Minister of Armament;Paul Augier;3;laissez-faire capitalist;Paul_Augier
+7644;Minister of Security;Pierre Bertaux;3;Crime Fighter;Pierre_Bertaux
+7621;Head of Government;Alexandre Varenne;4;Political Protege;Alexandre_Varenne
+7639;Chief of Air Force;Edouard Corniglion-Molinier;4;Air Superiority Doctrine;Corniglion-Molinier
+7676;Chief of Staff;Edourad Corniglion-Molinier;4;School of Fire Support;Corniglion-Molinier
+7672;Foreign Minister;Francis-Louis Closon;4;the cloak n dagger schemer;Francis-Louis_Closon
+7655;Head of Military Intelligence;Francis-Louis Closon;4;Political Specialist;Francis-Louis_Closon
+7623;Minister of Armament;Louis Armand;4;Administrative Genius;Louis_Armand_M
+7666;Chief of Staff;Louis Bonvin;4;School of Manoeuvre;Louis_Bonvin
+7654;Minister of Security;Louis Bonvin;4;Compassionate Gentleman;Louis_Bonvin
+7609;Chief of Air Force;Maryse Bastié;4;Air Superiority Doctrine;Maryse_Bastie
+7637;Chief of Army;Pierre Dejussieu-Pontcarral;4;static defence doctrine;Pierre_Dejussieu-Pontcarral
+7615;Head of Military Intelligence;Pierre Dejussieu-Pontcarral;4;Logistics Specialist;Pierre_Dejussieu-Pontcarral
+7614;Minister of Security;Pierre Dejussieu-Pontcarral;4;Compassionate Gentleman;Pierre_Dejussieu-Pontcarral
+7622;Foreign Minister;Rene Cassin;4;Great Compromiser;Rene_Cassin
+7612;Foreign Minister;Charlotte Grimaldi;5;Undistinguished Suit;Charlotte_Grimaldi
+7636;Chief of Staff;Oliver Guichard;5;School of Psychology;Oliver_Guichard
+7647;Chief of Army;Edgard de Larminat;6;Decisive Battle Doctrine;Edgard_de_Larminat
+7663;Minister of Armament;Irénée Cros;6;Administrative Genius;Irenee_Cros
+7665;Head of Military Intelligence;Jacques Baumel;6;Political Specialist;Jacques_Baumel
+7634;Minister of Security;Jacques Baumel;6;Silent Lawyer;Jacques_Baumel
+7627;Chief of Army;Jea-Marie Lattre de Tassigny;6;Armoured Spearhead Doctrine;Jea-Marie_Lattre_de_Tassigny
+7626;Chief of Staff;Jea-Marie Lattre de Tassigny;6;School of Mass Combat;Jea-Marie_Lattre_de_Tassigny
+7631;Head of Government;Jea-Marie Lattre de Tassigny;6;Old General;Jea-Marie_Lattre_de_Tassigny
+7619;Chief of Air Force;Martial Valín;6;Air Superiority Doctrine;Valin
+7656;Chief of Staff;Martial Valín;6;School of Fire Support;Valin
+7618;Chief of Navy;Maurice Hankey;6;Power Projection Doctrine;Maurice_Hankey
+7606;Chief of Staff;Maurice Hankey;6;school of defence;Maurice_Hankey
+7605;Head of Military Intelligence;Maurice Hankey;6;Naval Intelligence Specialist;Maurice_Hankey
+7681;Head of Government;Jean de Lattre de Tassigny;7;Old general;M2047
+7607;Chief of Army;Louis de Grimaldi;7;static defence doctrine;Louis_de_Grimaldi
+7601;Head of Government;Pierre de Polignac;7;Happy Amateur;Pierre_de_Polignac
