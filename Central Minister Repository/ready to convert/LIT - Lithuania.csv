@@ -1,0 +1,123 @@
+LIT,Ruling Cabinet - start,Name,Ideology,Personality,Picturename
+,,,,,
+28144,Chief of Air Force,Aleksandras Guzevicius,0,Vertical Envelopment Doctrine,M28030
+28121,Chief of staff,Aleksandras Guzevicius,0,School of Defence,M28030
+28081,Minister of Armament,Antanas Sanirka,0,Air to Sea Proponent,M28081
+28130,Chief of Army,Antanas Snieckus,0,Armoured Spearhead Doctrine,M28027
+28120,Chief of staff,Antanas Snieckus,0,School of Fire Support,M28027
+28054,Head of Government,Antanas Snieckus,0,Old Admiral,M28040
+28096,Minister of Security,Antanas Snieckus,0,Crime Fighter,M28040
+28100,Head of Military Intelligence,Chaimas Aizenas,0,Dismal Enigma,M28100
+28094,Minister of Security,Domas Rocius,0,Efficient Sociopath,M28094
+28081,Minister of Armament,Icikas Meskupas-Adomas,0,Corrupt Kleptocrat,M28081
+28145,Chief of Air Force,Juozas Baukarskas,0,Army Aviation Doctrine,M28145
+28097,Minister of Security,Juozas Kupcinkas,0,Compassionate Gentleman,M28097
+28131,Chief of Army,Jurgis Terleckas,0,Guns and Butter Doctrine,M28098
+28098,Minister of Security,Jurgis Terleckas,0,Prince of Terror,M28098
+28065,Foreign Minister,Justas Paleckis,0,Ideological Crusader,M28021
+28067,Foreign Minister,Karolis Didziulis,0,The Cloak N Dagger Schemer,M28067
+28138,Chief of Navy,Mecislovas Gedvilas,0,Base Control Doctrine,M28024
+28068,Foreign Minister,Mecislovas Gedvilas,0,Apologetic Clerk,M28024
+28080,Minister of Armament,Mecislovas Gedvilas,0,Theoretical Scientist,M28024
+28109,Head of Military Intelligence,Petras Vrublevskis 'Daumantas',0,Industrial Specialist,M28109
+28095,Minister of Security,Povilas Pakarklis,0,Silent Lawyer,M28025
+28101,Head of Military Intelligence,Pranas Zibertas,0,Technical Specialist,M28026
+28066,Foreign Minister,Vincas Kapsukas,0,Biased Intellectual,M28053
+28053,Head of Government,Vincas Kapsukas,0,Political Protege,M28053
+28137,Chief of Navy,Vladas Karvelis,0,Indirect Approach Doctrine,M28029
+28079,Minister of Armament,Vladas Vadluga,0,Submarine Proponent,M28079
+28110,Head of Military Intelligence,Vytautas Ambrazas,0,Political Specialist,M28110
+28165,Minister of Armament,Jackus Sondeckis,3,laissez-faire capitalist,kai_litjcksson
+28160,Minister of Armament,Jeronimas Pleckaitis,3,Resource Industrialist,kai_litjrnmplct
+28164,Head of Government,Jonas Pakalka,3,Political Protege,kai_litjnspklk
+28160,Minister of Security,Juozas Paplauskas,3,Man of the People,kai_litjzspp
+28166,Foreign Minister,Kipras Bielinis,3,Biased Intellectual,kai_litkprsbilns
+28159,Foreign Minister,Vladas Pozela,3,Ideological Crusader,kai_litvldspzl
+28162,Head of Military Intelligence,Vladas Sirutavicius,3,Industrial Specialist,kai_litvldssr
+28157,Head of Government,Mykolas Birziska,5,backroom backstabber,kai_litmklsbrz
+28129,Chief of Army,Adolfas Ramanauskas-Vanagas,6,Elastic Defence Doctrine,M28018
+28128,Chief of Army,Anatolijus Kairys,6,Static Defence Doctrine,M28019
+28136,Chief of Navy,Anatolijus Kairys,6,Base Control Doctrine,M28019
+28119,Chief of staff,Azuolas Jakus,6,School of Mass Combat,M28119
+28108,Head of Military Intelligence,Frederick Hesselstein,6,Dismal Enigma,M28108
+28062,Foreign Minister,Giedrius Grigas,6,Biased Intellectual,M28062
+28063,Foreign Minister,Jonas Vailokaitis,6,Great Compromiser,M28063
+28118,Chief of staff,Juoza Barzda-Bradauskas,6,School of Psychology,M28017
+28142,Chief of Air Force,Juozas Ambrazevicius,6,Carpet Bombing Doctrine,M28020
+28050,Head of Government,Juozas Ambrazevicius,6,Corporate Suit,M28020
+28078,Minister of Armament,Juozas Balciunas-Svaistas,6,Corrupt Kleptocrat,M28078
+28106,Head of Military Intelligence,Juozas Maciunas,6,Political Specialist,M28011
+28076,Minister of Armament,Juozas Purickis,6,Administrative Genius,M28076
+28135,Chief of Navy,Jurgis Saulys,6,Indirect Approach Doctrine,M28107
+28107,Head of Military Intelligence,Jurgis Saulys,6,Technical Specialist,M28107
+28156,Foreign Minister,Kazys Bizauskas,6,Biased Intellectual,kai_litkaszbz
+28127,Chief of Army,Kazys Musteikis,6,Guns and Butter Doctrine,M28125
+28077,Minister of Armament,Leonas Bistras,6,laissez-faire capitalist,M28077
+28143,Chief of Air Force,Mykolas Filipavicius,6,Air Superiority Doctrine,M28093
+28093,Minister of Security,Mykolas Filipavicius,6,Compassionate Gentleman,M28093
+28148,Foreign Minister,Oskaras Milasius,6,Biased Intellectual,kaiserreich oscarmilosz
+28147,Head of Government,Oskaras Milasius,6,Silent Workhorse,kaiserreich oscarmilosz
+28090,Minister of Security,Pranas Dovydaitis,6,Silent Lawyer,M28090
+28091,Minister of Security,Pranas Tiskevicius,6,Efficient Sociopath,M28015
+28064,Foreign Minister,Stasys Lozoraitis,6,Apologetic Clerk,M28003
+28050,Head of Government,Stasys Lozoraitis,6,Happy Amateur,M28003
+28155,Head of Government,Vincas Mickevecius,6,backroom backstabber,LitMickevicius
+28060,Foreign Minister,Antanas Merkys,7,Ideological Crusader,M28035
+28047,Head of Government,Dovas Zaunius,7,Happy Amateur,M28006
+28048,Head of Government,Emerikas Gailevicius,7,Flamboyant Tough Guy,M28048
+28104,Head of Military Intelligence,Emerikas Gailevicius,7,Industrial Specialist,M28048
+28059,Foreign Minister,Ernestas Galvanauskas,7,Apologetic Clerk,M28059
+28103,Head of Military Intelligence,Franciskus Ivinskis,7,Logistics Specialist,M28103
+28060,Foreign Minister,Friedrich von Scheide,7,Iron Fisted Brute,M28060
+28126,Chief of Army,Gedrivius Palionis,7,Decisive Battle Doctrine,M28126
+28074,Minister of Armament,Jonas Cernius,7,Battle Fleet Proponent,M28014
+28117,Chief of staff,Jonas Zemaitis,7,School of Psychology,M28036
+28105,Head of Military Intelligence,Juozas Alsauskas,7,Naval Intelligence Specialist,M28105
+28058,Foreign Minister,Juozas Urbsys,7,Ideological Crusader,M28058
+28090,Minister of Security,Mecislovas Reinys,7,Efficient Sociopath,M28090
+28089,Minister of Security,Moses Rothstein,7,Back stabber,M28089
+28088,Minister of Security,Svajunas Sabaliauskas,7,Crooked Kleptocrat,M28088
+28087,Minister of Security,Valdemaras Vytautas-Carneckis,7,Crime Fighter,M28004
+28154,Head of Government,Vincas Mickevecius,7,backroom backstabber,LitMickevicius
+28158,Minister of Armament,Vytautas Petrulis,7,laissez-faire capitalist,kai_litvtspr
+28075,Minister of Armament,Wolfgang Augustin Wadalag,7,Administrative Genius,M28075
+28010,Chief of Air Force,Antanas Gustaitis,8,Army Aviation Doctrine,M28010
+28046,Head of Government,Antanas Merkys,8,Smiling Oilman,M28035
+28073,Minister of Armament,Antanas Smetona,8,Air to Ground Proponent,M28001
+28005,Minister of Security,Antanas Smetona,8,Compassionate Gentleman,M28001
+28006,Head of Military Intelligence,Dovas Zaunius,8,Political Specialist,M28006
+28009,Chief of Navy,Garnis Dirmantas,8,Open Seas Doctrine,M28009
+28051,Head of Government,J.K.D. Kazimieras II Tiskevicius,8,Corporate Suit,M28021
+28049,Head of Government,J.K.D. Mindaugas III,8,Backroom Backstabber,kaiserreich mindaugasiii
+28114,Chief of staff,Jonas Cernius,8,School of Manoeuvre,M28014
+28045,Head of Government,Jonas Cernius,8,Ambitious Union Boss,M28014
+28124,Chief of Army,Jonas Galvydis-Bykauskas,8,Static Defence Doctrine,M28007
+28007,Chief of staff,Jonas Galvydis-Bykauskas,8,School of Defence,M28007
+28102,Head of Military Intelligence,Juozas Baltakis,8,Political Specialist,M28102
+28002,Head of Government,Juozas Tubelis,8,Political Protege,M28002
+28101,Head of Military Intelligence,Juozas Tubelis,8,Logistics Specialist,M28002
+28085,Minister of Security,Mykolas Slezevicius,8,Prince of Terror,M28085
+28003,Foreign Minister,Stasys Lozoraitis,8,Ideological Crusader,M28003
+28008,Chief of Army,Stasys Rastikis,8,Elastic Defence Doctrine,M28008
+28115,Chief of staff,Stasys Rastikis,8,School of Fire Support,M28008
+28004,Minister of Armament,Valdemaras Vytautas-Carneckis,8,Military Entrepreneur,M28004
+28071,Minister of Armament,Vladas Jurgutis,8,Resource Industrialist,M28071
+28044,Head of Government,Vladas Mironas,8,Naive Optimist,M28044
+28086,Minister of Security,Vladas Mironas,8,Efficient Sociopath,M28044
+28121,Chief of Army,Albinas Cepas-Cepauskas,9,Armoured Spearhead Doctrine,M28121
+28069,Minister of Armament,Augustinas Voldemaras,9,Resource Industrialist,M28031
+28131,Chief of Navy,Ignas Seinius,9,Power Projection Doctrine,M28056
+28056,Foreign Minister,Ignas Seinius,9,Apologetic Clerk,M28056
+28070,Minister of Armament,Kazimieras Viktoras Tiskevicius,9,Strategic Air Proponent,M28070
+28139,Chief of Air Force,Kazys Skirpa,9,Army Aviation Doctrine,M28031
+28083,Minister of Security,Kazys Skirpa,9,Prince of Terror,M28031
+28055,Foreign Minister,Petras Domarkas,9,Biased Intellectual,M28055
+28113,Chief of staff,Petras Kubiliunas,9,School of Mass Combat,M28043
+28057,Foreign Minister,Petras Kubiliunas,9,Ideological Crusader,M28043
+28043,Head of Government,Petras Kubiliunas,9,Silent Workhorse,M28043
+28123,Chief of Army,Petras Plechavicius,9,Elastic Defence Doctrine,M28070
+28070,Minister of Armament,Petras Plechavicius,9,Military Entrepreneur,M28070
+28099,Head of Military Intelligence,Pranciskis Misiunas,9,Logistics Specialist,M28042
+28042,Head of Government,Pranciskus Misiunas,9,Happy Amateur,M28042
+28100,Head of Military Intelligence,Theodor von Renteln,9,Dismal Enigma,M28033
+28084,Minister of Security,Wilhelm Kube,9,Man of the People,M28084
