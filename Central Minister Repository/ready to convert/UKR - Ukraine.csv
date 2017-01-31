@@ -1,75 +1,75 @@
-UKR;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
-;;;;;
-518006;Head of Military Intelligence;Alexander Shumsky;0;Logistics Specialist;KR_Shumsky
-518037;Minister of Security;Emanoil Kviring;0;Efficient Sociopath;M518037
-518010;Chief of Air Force;Grigori Shtern;0;Army Aviation Doctrine;KR_Shtern
-518009;Chief of Navy;Ivan Isakov;0;Base Control Doctrine;M518009
-518047;Head of Military Intelligence;Leonid Korniyets;0;Industrial Specialist;M518046
-518038;Minister of Security;Leonid Melnikov;0;Silent Lawyer;M518038
-518062;Chief of Army;Nikita Kruschev;0;Static Defence Doctrine;M518062
-518082;Head of Government;Nikita Kruschev;0;Ambitious Union Boss;M518001
-518070;Chief of Navy;Sergei Gorshkov;0;Decisive Naval Battle Doctrine;M518068
-518019;Foreign Minister;Stanislav Kosior;0;The Cloak N Dagger Schemer;M518019
-518003;Foreign Minister;Vlas Chubar;0;Apologetic Clerk;M518003
-518022;Foreign Minister;Grigori Sokolnikov;1;Great Compromiser;KR_Sokolnikov
-518034;Minister of Armament;Grigorij Petrovsky;1;Tank Proponent;M518034
-518005;Minister of Security;Khrystian G. Rakovsky;1;Back Stabber;M518005
-518028;Minister of Armament;Panas P. Lyubchenko;1;Resource Industrialist;M518028
-518059;Chief of Staff;Vitaly Primakov;1;School of Manoeuvre;KR_Primakov
-518093;Minister of Security;Vladimir Antonov-Ovseyenko;1;Efficient Sociopath;KR_Ovseyenko
-518004;Minister of Armament;Yuri Kotsiubinsky;1;Air Superiority Proponent;KR_Kotsiubinsky
-518056;Chief of Staff;Emelian Volokh;2;School of Mass Combat;KR_Volokh
-518008;Chief of Army;Yan Gamarnik;2;Elastic Defence Doctrine;KR_Gamarnik
-518020;Foreign Minister;Nikolai Skrypnik;3;Ideological Crusader;M518020
-518092;Chief of Staff;Sydor Kovpak;3;School of Mass Combat;KR_Kovpak
-518049;Head of Military Intelligence;Sydor Kovpak;3;Logistics Specialist;KR_Kovpak
-518064;Chief of Army;Veniamin Ruvinski;3;Decisive Battle Doctrine;M518064
-518071;Chief of Navy;Vladimir Pilipenko;3;Base Control Doctrine;M518071
-518046;Minister of Security;Ivan Feshenko-Chopovsky;4;Silent Lawyer;KR_Feshenko
-518090;Foreign Minister;Alexander Shulgin;6;Ideological Crusader;KR_UKRShul
-518054;Head of Military Intelligence;Mikhail Chubinski;6;Dismal Enigma;KR_Chubinski
-518030;Minister of Armament;Nikolai Shrag;6;Resource Industrialist;KR_Shrag
-518052;Head of Military Intelligence;Oleg Olzhych;6;Technical Specialist;M518052
-518053;Head of Military Intelligence;Svyatoslav Shramchenko;6;Naval Intelligence Specialist;KR_Shramchenko
-518069;Chief of Army;Vladimir Salski;6;Guns and Butter Doctrine;KR_Salski
-518041;Minister of Armament;Vladimir Tarnovsky;6;Resource Industrialist;KR_Tarnovsky
-518017;Head of Government;Vladimir Vynnychenko;6;Naive Optimist;KR_Vynnychenko
-518067;Chief of Army;Vladislav Dashkevich-Gorbatsky;6;Armoured Spearhead Doctrine;KR_Dashkevich
-518066;Chief of Army;Alexander Dolgorukov;7;Decisive Battle Doctrine;KR_Dolgorukov
-518016;Head of Government;Andrey Livytskyi;7;Corporate Suit;KR_Livytskyi
-518035;Minister of Armament;Andrey Livytskyi;7;Infantry Proponent;KR_Livytskyi
-518072;Chief of Navy;Andrey Pokrovsky;7;Power Projection Doctrine;KR_UKRPokrovsky
-518018;Head of Government;Boris Martos;7;Political Protege;KR_Martos
-518040;Minister of Security;Daniil Skoropadsky;7;Compassionate Gentleman;KR_Dskorop
-518045;Minister of Security;Igor Kistyakovsky;7;Efficient Sociopath;KR_Kistyakovsky
-518050;Head of Military Intelligence;Isaak Mazepa;7;Logistics Specialist;KR_Mazepa
-518036;Minister of Armament;Kirill Osmak;7;Military Entrepreneur;KR_Osmak
-518012;Head of Government;Mikhail Bulgakov;7;Flamboyant Tough Guy;KR_Bulgakov
-518058;Chief of Staff;Mikhail Omelianovych-Pavlenko;7;School of Mass Combat;KR_Pavlenko
-518088;Head of Government;Nikolai Boretsky;7;Flamboyant Tough Guy;UkrNikolai_Boretsky
-518074;Chief of Navy;Nikolai Maximov;7;Indirect Approach Doctrine;KR_Maximov
-518079;Head of Government;Patriarch Mstyslav;7;Political Protege;MstyslavI
-518065;Chief of Army;Pavlo Shandruk;7;Elastic Defence Doctrine;KR_Shandruk
-518027;Minister of Armament;Sergei Ostapenko;7;Laissez-Faire Capitalist;KR_Ostapenko
-518043;Minister of Security;Vladimir Chekhovsky;7;Compassionate Gentleman;KR_Chekhovsky
-518095;Minister of Security;Vladimir Khitrovo;7;Silent Lawyer;KR_Khitrovo
-518073;Chief of Navy;Vladimir Savchenko-Belski;7;Base Control Doctrine;KR_Savchenko
-518068;Chief of Army;Vladimir Sinkler;7;Elastic Defence Doctrine;KR_Vsinkler
-518057;Chief of Staff;Vsevolod Petrov;7;School of Manoeuvre;KR_Vpetrov
-518014;Head of Government;Vyacheslav Prokopovich;7;Political Protege;KR_Prokopovich
-518021;Foreign Minister;Konstantin Prisovsky;8;Iron Fisted Brute;KR_Prisovsky
-518029;Minister of Armament;Mikola Stsiborsky;8;Military Entrepreneur;KR_Sciborsky
-518007;Chief of Staff;Pavlo Skoropadsky;8;School of Manoeuvre;kaiserreich Skoropadsky
-518002;Head of Government;Pavlo Skoropadsky;8;Flamboyant Tough Guy;kaiserreich Skoropadsky
-518042;Minister of Security;Sergei Kubiyovich;8;Prince of Terror;M518042
-518060;Chief of Army;Taras Bulba-Borovets;8;Armoured Spearhead Doctrine;KR_Borovets
-518061;Chief of Army;Vladimir Sikevich;8;Decisive Battle Doctrine;KR_Sikevich
-518076;Chief of Air Force;Vyacheslav Tkachev;8;Air Superiority Doctrine;KR_UKRTkachev
-518024;Foreign Minister;Yuri Lipa;8;General Staffer;KR_Lipa
-518094;Head of Government;Dmitri Dontsov;9;Backroom Backstabber;KR_Dontsov
-518044;Minister of Security;Dmitri Dontsov;9;Prince of Terror;KR_Dontsov
-518026;Foreign Minister;Dmitri Doroshenko;9;Iron Fisted Brute;KR_Doroshenko
-518048;Head of Military Intelligence;Ivan Poltavets-Ostryanitsa;9;Dismal Enigma;KR_Poltavets
-518039;Minister of Security;Mikhaylo Kolodzinsky;9;Crooked Kleptocrat;M518039
-518023;Foreign Minister;Mikola Lebed;9;The Cloak N Dagger Schemer;M518023
-518063;Chief of Army;Roman Shukhevich;9;Guns and Butter Doctrine;M518063
+UKR,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+518006,Head of Military Intelligence,Alexander Shumsky,0,Logistics Specialist,KR_Shumsky
+518037,Minister of Security,Emanoil Kviring,0,Efficient Sociopath,M518037
+518010,Chief of Air Force,Grigori Shtern,0,Army Aviation Doctrine,KR_Shtern
+518009,Chief of Navy,Ivan Isakov,0,Base Control Doctrine,M518009
+518047,Head of Military Intelligence,Leonid Korniyets,0,Industrial Specialist,M518046
+518038,Minister of Security,Leonid Melnikov,0,Silent Lawyer,M518038
+518062,Chief of Army,Nikita Kruschev,0,Static Defence Doctrine,M518062
+518082,Head of Government,Nikita Kruschev,0,Ambitious Union Boss,M518001
+518070,Chief of Navy,Sergei Gorshkov,0,Decisive Naval Battle Doctrine,M518068
+518019,Foreign Minister,Stanislav Kosior,0,The Cloak N Dagger Schemer,M518019
+518003,Foreign Minister,Vlas Chubar,0,Apologetic Clerk,M518003
+518022,Foreign Minister,Grigori Sokolnikov,1,Great Compromiser,KR_Sokolnikov
+518034,Minister of Armament,Grigorij Petrovsky,1,Tank Proponent,M518034
+518005,Minister of Security,Khrystian G. Rakovsky,1,Back Stabber,M518005
+518028,Minister of Armament,Panas P. Lyubchenko,1,Resource Industrialist,M518028
+518059,Chief of Staff,Vitaly Primakov,1,School of Manoeuvre,KR_Primakov
+518093,Minister of Security,Vladimir Antonov-Ovseyenko,1,Efficient Sociopath,KR_Ovseyenko
+518004,Minister of Armament,Yuri Kotsiubinsky,1,Air Superiority Proponent,KR_Kotsiubinsky
+518056,Chief of Staff,Emelian Volokh,2,School of Mass Combat,KR_Volokh
+518008,Chief of Army,Yan Gamarnik,2,Elastic Defence Doctrine,KR_Gamarnik
+518020,Foreign Minister,Nikolai Skrypnik,3,Ideological Crusader,M518020
+518092,Chief of Staff,Sydor Kovpak,3,School of Mass Combat,KR_Kovpak
+518049,Head of Military Intelligence,Sydor Kovpak,3,Logistics Specialist,KR_Kovpak
+518064,Chief of Army,Veniamin Ruvinski,3,Decisive Battle Doctrine,M518064
+518071,Chief of Navy,Vladimir Pilipenko,3,Base Control Doctrine,M518071
+518046,Minister of Security,Ivan Feshenko-Chopovsky,4,Silent Lawyer,KR_Feshenko
+518090,Foreign Minister,Alexander Shulgin,6,Ideological Crusader,KR_UKRShul
+518054,Head of Military Intelligence,Mikhail Chubinski,6,Dismal Enigma,KR_Chubinski
+518030,Minister of Armament,Nikolai Shrag,6,Resource Industrialist,KR_Shrag
+518052,Head of Military Intelligence,Oleg Olzhych,6,Technical Specialist,M518052
+518053,Head of Military Intelligence,Svyatoslav Shramchenko,6,Naval Intelligence Specialist,KR_Shramchenko
+518069,Chief of Army,Vladimir Salski,6,Guns and Butter Doctrine,KR_Salski
+518041,Minister of Armament,Vladimir Tarnovsky,6,Resource Industrialist,KR_Tarnovsky
+518017,Head of Government,Vladimir Vynnychenko,6,Naive Optimist,KR_Vynnychenko
+518067,Chief of Army,Vladislav Dashkevich-Gorbatsky,6,Armoured Spearhead Doctrine,KR_Dashkevich
+518066,Chief of Army,Alexander Dolgorukov,7,Decisive Battle Doctrine,KR_Dolgorukov
+518016,Head of Government,Andrey Livytskyi,7,Corporate Suit,KR_Livytskyi
+518035,Minister of Armament,Andrey Livytskyi,7,Infantry Proponent,KR_Livytskyi
+518072,Chief of Navy,Andrey Pokrovsky,7,Power Projection Doctrine,KR_UKRPokrovsky
+518018,Head of Government,Boris Martos,7,Political Protege,KR_Martos
+518040,Minister of Security,Daniil Skoropadsky,7,Compassionate Gentleman,KR_Dskorop
+518045,Minister of Security,Igor Kistyakovsky,7,Efficient Sociopath,KR_Kistyakovsky
+518050,Head of Military Intelligence,Isaak Mazepa,7,Logistics Specialist,KR_Mazepa
+518036,Minister of Armament,Kirill Osmak,7,Military Entrepreneur,KR_Osmak
+518012,Head of Government,Mikhail Bulgakov,7,Flamboyant Tough Guy,KR_Bulgakov
+518058,Chief of Staff,Mikhail Omelianovych-Pavlenko,7,School of Mass Combat,KR_Pavlenko
+518088,Head of Government,Nikolai Boretsky,7,Flamboyant Tough Guy,UkrNikolai_Boretsky
+518074,Chief of Navy,Nikolai Maximov,7,Indirect Approach Doctrine,KR_Maximov
+518079,Head of Government,Patriarch Mstyslav,7,Political Protege,MstyslavI
+518065,Chief of Army,Pavlo Shandruk,7,Elastic Defence Doctrine,KR_Shandruk
+518027,Minister of Armament,Sergei Ostapenko,7,Laissez-Faire Capitalist,KR_Ostapenko
+518043,Minister of Security,Vladimir Chekhovsky,7,Compassionate Gentleman,KR_Chekhovsky
+518095,Minister of Security,Vladimir Khitrovo,7,Silent Lawyer,KR_Khitrovo
+518073,Chief of Navy,Vladimir Savchenko-Belski,7,Base Control Doctrine,KR_Savchenko
+518068,Chief of Army,Vladimir Sinkler,7,Elastic Defence Doctrine,KR_Vsinkler
+518057,Chief of Staff,Vsevolod Petrov,7,School of Manoeuvre,KR_Vpetrov
+518014,Head of Government,Vyacheslav Prokopovich,7,Political Protege,KR_Prokopovich
+518021,Foreign Minister,Konstantin Prisovsky,8,Iron Fisted Brute,KR_Prisovsky
+518029,Minister of Armament,Mikola Stsiborsky,8,Military Entrepreneur,KR_Sciborsky
+518007,Chief of Staff,Pavlo Skoropadsky,8,School of Manoeuvre,kaiserreich Skoropadsky
+518002,Head of Government,Pavlo Skoropadsky,8,Flamboyant Tough Guy,kaiserreich Skoropadsky
+518042,Minister of Security,Sergei Kubiyovich,8,Prince of Terror,M518042
+518060,Chief of Army,Taras Bulba-Borovets,8,Armoured Spearhead Doctrine,KR_Borovets
+518061,Chief of Army,Vladimir Sikevich,8,Decisive Battle Doctrine,KR_Sikevich
+518076,Chief of Air Force,Vyacheslav Tkachev,8,Air Superiority Doctrine,KR_UKRTkachev
+518024,Foreign Minister,Yuri Lipa,8,General Staffer,KR_Lipa
+518094,Head of Government,Dmitri Dontsov,9,Backroom Backstabber,KR_Dontsov
+518044,Minister of Security,Dmitri Dontsov,9,Prince of Terror,KR_Dontsov
+518026,Foreign Minister,Dmitri Doroshenko,9,Iron Fisted Brute,KR_Doroshenko
+518048,Head of Military Intelligence,Ivan Poltavets-Ostryanitsa,9,Dismal Enigma,KR_Poltavets
+518039,Minister of Security,Mikhaylo Kolodzinsky,9,Crooked Kleptocrat,M518039
+518023,Foreign Minister,Mikola Lebed,9,The Cloak N Dagger Schemer,M518023
+518063,Chief of Army,Roman Shukhevich,9,Guns and Butter Doctrine,M518063
