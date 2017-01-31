@@ -1,0 +1,158 @@
+POL;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
+;;;;;
+13031;Head of Government;Alfred Lampe;0;Naive Optimist;kaiserreich alampe
+13132;Head of Military Intelligence;Boleslaw Bierut;0;Political Specialist;M13033
+13133;Minister of Security;Boleslaw Bierut;0;Back Stabber;M13033
+13122;Head of Government;Edward Osobka-Morawski;0;Political Protege;M13022
+13046;Foreign Minister;Henryk Walecki;0;Biased Intellectual;kaiserreich hwalecki
+13059;Minister of Armament;Hilary Minc;0;Resource Industrialist;M13079
+13128;Foreign Minister;Julian Lenski-Leszczynski;0;Great Compromiser;kaiserreich jlenskileszczynski
+13030;Head of Government;Karol Radek;0;Silent Workhorse;kaiserreich kradek
+13115;Chief of Army;Karol Swierczewski;0;Decisive Battle doctrine;M13028
+13100;Chief of Staff;Karol Swierczewski;0;School of Fire Support;M13028
+13129;Minister of Security;Marceli Nowotko;0;Prince of Terror;M13053
+13123;Foreign Minister;Pawel Finder;0;The Cloak N Dagger Schemer;M13023
+13045;Foreign Minister;Roza Luksemburg;0;Ideological Crusader;kaiserreich rluksemburg
+13073;Minister of Security;Stanislaw Radkiewicz;0;Prince of Terror;M13025
+13097;Head of Military Intelligence;Waclaw Komar;0;Logistics Specialist;kaiserreich wkomar
+13116;Chief of Army;Zygmunt Berling;0;elastic defence doctrine;M13024
+13171;Chief of Staff;Zygmunt Berling;0;School of Psychology;M13024
+13170;Minister of Armament;Zygmunt Berling;0;Infantry Proponent;M13024
+13125;Chief of Navy;Adam Mohuczy;1;Base Control Doctrine;kaiserreich amohuczy
+13072;Minister of Security;Adolf Warski;1;Man of the People;kaiserreich awarski
+13119;Chief of Army;Michal Rola-Zymierski;1;Armoured Spearhead Doctrine;M13122
+13103;Chief of Staff;Michal Rola-Zymierski;1;School of Mass Combat;M13122
+13158;Minister of Armament;Michal Rola-Zymierski;1;Tank Proponent;M13122
+13060;Minister of Armament;Wanda Wasilewska;1;Military Entrepreneur;M13038
+13140;Minister of Security;Wladyslaw Gomulka;1;Man of the People;M13039
+13163;Head of Military Intelligence;Boleslaw Drobner;2;Industrial Specialist;kaiserreich drobner
+13138;Foreign Minister;Eliezer Herszauge;2;Ideological Crusader;kaiserreich eherszuage
+13130;Chief of Air Force;Ludwik Grosfeld;2;Carpet Bombing Doctrine;M13030
+13137;Chief of Army;Pawel Lew Marek;2;Guns and Butter Doctrine;kaiserreich plmarek
+13136;Chief of Staff;Pawel Lew Marek;2;School of Psychology;kaiserreich plmarek
+13124;Head of Government;Stanislaw Lancucki;2;Silent Workhorse;kaiserreich slancucki
+13139;Minister of Security;Szymon Radowicki;2;Man of the People;kaiserreich szradowicki
+13135;Minister of Armament;Tomasz Pilarski;2;Military Entrepreneur;kaiserreich tpilarski
+13177;Foreign Minister;Adam Ciolkosz;3;Apologetic Clerk;kaiserreich aciolkosz
+13052;Foreign Minister;Adam Prochnik;3;iron fisted brute;M13070
+13175;Minister of Armament;Aleksander Prystor;3;Infantry Proponent;kaiserreich aprystor
+13180;Head of Government;Artur Sliwinski;3;Silent Workhorse;kaiserreich asliwinski
+13066;Minister of Armament;Bronislaw Ziemiecki;3;Resource Industrialist;kaiserreich bziemiecki
+13106;Chief of Staff;Herman Lieberman;3;School of Psychology;M13027
+13069;Minister of Armament;Herman Liebermann;3;Infantry Proponent;M13027
+13160;Minister of Security;Jedrzej Moraczewski;3;Compassionate Gentleman;kaiserreich moraczewski
+13085;Minister of Security;Mieczyslaw Niedzialkowski;3;Crime Fighter;M13095
+13053;Foreign Minister;Norbert Barlicki;3;The Cloak N Dagger Schemer;M13021
+13067;Minister of Security;Norbert Barlicki;3;Efficient Sociopath;M13021
+13091;Head of Military Intelligence;Stanislaw Dubois;3;Technical Specialist;M13026
+13057;Foreign Minister;Stanislaw Patek;3;Great Compromiser;kaiserreich spatek
+13039;Head of Government;Stanislaw Wojciechowski;3;Silent Workhorse;kaiserreich swojciechowski
+13126;Chief of Navy;Tadeusz Morgenstern-Podjazd;3;Open Seas Doctrine;unknown
+13068;Minister of Armament;Tomasz Arciszewski;3;Military Entrepreneur;M13047
+13176;Head of Military Intelligence;Walery Slawek;3;Dismal Enigma;kaiserreich wslawek
+13087;Minister of Security;Zygmunt Zaremba;3;Prince of Terror;kaiserreich zzaremba
+13162;Minister of Security;Zygmunt Zulawski;3;Efficient Sociopath;kaiserreich zzulawski
+13054;Foreign Minister;Gabriel Narutowicz;4;Biased Intellectual;kaiserreich gnarutowicz
+13064;Minister of Armament;Jan Piekalkiewicz;4;Administrative Genius;M13065
+13182;Minister of Armament;Juliusz Poniatowski;4;Resource Industrialist;kaiserreich jponiatowski
+13096;Head of Military Intelligence;Kazimierz Bartel;4;Political Specialist;M13105
+13104;Chief of Staff;Leopold Okulicki;4;School of Fire Support;M13121
+13037;Head of Government;Maciej Rataj;4;Naive Optimist;rataj
+13080;Minister of Security;Maciej Rataj;4;Silent Lawyer;rataj
+13263;Minister of Armament;Marian Zyndram-Koscialkowski;4;Infantry Proponent;M13002
+13166;Head of Government;Stanislaw Mikolajczyk;4;Ambitious Union Boss;M13046
+13082;Minister of Security;Stanislaw Mikolajczyk;4;Man of the People;M13046
+13040;Head of Government;Stanislaw Osiecki;4;Naive Optimist;M13055
+13089;Minister of Security;Stanislaw Thugutt;4;Man of the People;kaiserreich sthugutt
+13086;Minister of Security;Stanislaw Wojciechowski;4;Silent Lawyer;kaiserreich swojciechowski
+13156;Head of Government;Wincenty Witos;4;Ambitious Union Boss;Witos
+13084;Minister of Security;Wincenty Witos;4;Man of the People;Witos
+13048;Foreign Minister;Wladyslaw Kiernik;4;Apologetic Clerk;kaiserreich kiernik
+13151;Minister of Armament;Adam Krzyzanowski;5;laissez-faire capitalist;kaiserreich akrzyzankowski
+13036;Foreign Minister;Aleksander Lednicki;5;Great Compromiser;kaiserreich alednicki
+13074;Minister of Armament;Eugeniusz Czarnowski;5;laissez-faire capitalist;kaiserreich eczarnowski
+13183;Minister of Security;Leon Supinski;5;Crime Fighter;kaiserreich lsupinski
+13076;Minister of Security;Mieczyslaw Bilek;5;Crime Fighter;kaiserreich mbilek
+13027;Head of Government;Mikolaj Kwasniewski;5;Silent Workhorse;kaiserreich mkwasniewski
+13102;Chief of Staff;Tadeusz Kutrzeba;5;School of Manoeuvre;L8070
+13050;Foreign Minister;Wincenty Rzymowski;5;Apologetic Clerk;M13063
+13173;Chief of Air Force;Witold Urbanowicz;5;Air Superiority Doctrine;kaiserriech wurbanowicz
+13118;Chief of Army;Wladyslaw Anders;5;Decisive Battle Doctrine;M13125
+13094;Head of Military Intelligence;Adam Tarnowski;6;Dismal Enigma;M13061
+13144;Chief of Army;Antoni Szylling;6;Elastic Defence Doctrine;L8140
+13142;Chief of Staff;Antoni Szylling;6;School of Defence;L8140
+13127;Foreign Minister;August Zaleski;6;Ideological Crusader;M13012
+13051;Foreign Minister;Edward Raczynski;6;Great Compromiser;M13059
+13164;Foreign Minister;Fryderyk Zoll;6;Biased Intellectual;kaiserreich fzoll
+13093;Head of Military Intelligence;Henryk Sucharski;6;Dismal Enigma;kaiserreich Sucharski
+13041;Head of Government;Jan Stanislaw Jankowski;6;Silent Workhorse;kaiserreich jsjankowski
+13155;Head of Government;Julian Ignacy Nowak;6;Silent Workhorse;Kaiserreich julian nowak
+13083;Minister of Security;Karol Popiel;6;Silent Lawyer;M13098
+13058;Foreign Minister;Konstanty Skirmunt;6;Great Compromiser;kaiserreich kskirmunt
+13145;Chief of Army;Stanislaw Maczek;6;Armoured Spearhead Doctrine;L8075
+13131;Chief of Air Force;Stanislaw Pawluc;6;Vertical Envelopment Doctrine;M13135
+13143;Chief of Army;Wladyslaw Bortnowski;6;Static Defence Doctrine;L8008
+13141;Chief of Staff;Wladyslaw Bortnowski;6;School of Fire Support;L8008
+13029;Head of Government;Adolf hr. Bninski;7;Political Protege;kaiserreich abninski
+13148;Foreign Minister;Alfred Wysocki;7;Biased Intellectual;kaiserreich awysocki
+13004;Minister of Armament;Andrzej Wierzbicki;7;laissez-faire capitalist;kaiserreich AndrzejWierzbicki
+13169;Minister of Armament;Antoni Olszewski;7;Theoretical Scientist;kaiserreich aolszewski
+13078;Minister of Security;Antoni Ponikowski;7;Compassionate Gentleman;kaiserreich AntoniPonikowski
+13049;Foreign Minister;Boleslaw Wieniawa-Dlugoszewski;7;General Staffer;M13035
+13071;Minister of Armament;Eugeniusz Kwiatkowski;7;Administrative Genius;M13052
+13056;Foreign Minister;Eustachy Sapieha;7;Biased Intellectual;kaiserreich esapieha
+13152;Minister of Security;Franciszek Salezy Potocki;7;Man of the People;kaiserreich fpotocki
+13065;Minister of Armament;Henryk Leon Strasburger;7;laissez-faire capitalist;M13066
+13024;Head of Government;Hieronim Tarnowski;7;Happy Amateur;kaiserreich htarnowski
+13003;Foreign Minister;Jan hr. Szembek;7;Great Compromiser;M13013
+13095;Head of Military Intelligence;Jan Kowalewski;7;Logistics Specialist;kaiserreich jkowalewski
+13181;Head of Government;Jan Kucharzewski;7;Silent Workhorse;kaiserreich jkucharzewski
+13012;Minister of Armament;Jan Stecki;7;Resource Industrialist;kaiserreich jstecki
+13090;Minister of Security;Jan Stecki;7;Efficient Sociopath;kaiserreich jstecki
+13035;Head of Government;Janusz Radziwill;7;Political Protege;M13104
+13150;Minister of Security;Janusz Radziwill;7;Efficient Sociopath;M13104
+13157;Foreign Minister;Jerzy Potocki;7;Biased Intellectual;kaiserreich jpotocki
+13009;Chief of Navy;Jerzy Swirski;7;Open Seas Doctrine;M13009
+13121;Foreign Minister;Jozef Targowski;7;Apologetic Clerk;kaiserreich jtargowski
+13010;Chief of Air Force;Józef Zajac;7;Air Superiority Doctrine;M13010
+13055;Foreign Minister;Leopold Skulski;7;iron fisted brute;kaiserreich lskulski
+13034;Head of Government;Leopold Skulski;7;Happy Amateur;kaiserreich lskulski
+13172;Chief of Air Force;Ludomil Rayski;7;Army Aviation Doctrine;M13134
+13088;Minister of Security;Marian Kukiel;7;Crime Fighter;kaiserreich mkukiel
+13006;Head of Military Intelligence;Marian Rejewski;7;Technical Specialist;kaiserreich MarianRejewski
+13005;Minister of Security;Stanislaw Bukowiecki;7;Crime Fighter;kaiserreich StanislawBukowiecki
+13044;Head of Government;Stanislaw Cat-Mackiewicz;7;Flamboyant Tough Guy;kaiserreich smackiewicz
+13070;Minister of Armament;Stanislaw Szeptycki;7;Military Entrepreneur;kaiserreich sszeptycki
+13108;Chief of Staff;Tadeusz Rozwadowski;7;School of Mass Combat;kaiserreich trozwadowski
+13105;Chief of Staff;Wac³aw Stachiewicz;7;School of Fire Support;M13115
+13062;Minister of Armament;Waclaw Paszkowski;7;Military Entrepreneur;kaiserreich WaclawPaszkowski
+13165;Chief of Air Force;Wladyslaw Kalkus;7;Air Superiority Doctrine;M13136
+13008;Chief of Army;Wladyslaw Sikorski;7;Guns and Butter Doctrine;M13043
+13007;Chief of Staff;Wladyslaw Sikorski;7;School of Manoeuvre;M13043
+13043;Head of Government;Wladyslaw Sikorski;7;Old General;M13043
+13042;Head of Government;Wladyslaw Studnicki;7;Backroom Backstabber;kaiserreich wstudnicki
+13002;Head of Government;Zdzislaw Lubomirski;7;Naive Optimist;kaiserreich zlubomirski
+13081;Minister of Security;Zdzislaw Lubomirski;7;Compassionate Gentleman;kaiserreich zlubomirski
+13017;Head of Government;Archbishop A. Hlond;8;Corporate Suit;kaiserreich ahlond
+13013;Head of Government;Archbishop A. Kakowski;8;Flamboyant Tough Guy;kaiserreich akakowski
+13147;Foreign Minister;Archbishop A. Sapieha;8;Ideological Crusader;kaiserreich asapieha
+13016;Minister of Security;Bishop S. Adamski;8;Silent Lawyer;kaiserreich sadamski
+13120;Chief of Army;Józef Haller von Hallenburg;8;Guns and Butter Doctrine;hallenburg
+13107;Chief of Staff;Józef Haller von Hallenburg;8;School of Fire Support;hallenburg
+13153;Head of Military Intelligence;Ottokar Brzoza-Brzezina;8;Logistics Specialist;kaiserreich ottokar brzoza-brzezina
+13032;Head of Government;Adam Doboszyñski;9;Flamboyant Tough Guy;kaiserreich adoboszynski
+13092;Head of Military Intelligence;Feliks Koneczny;9;Technical Specialist;M13108
+13047;Foreign Minister;Jedrzej Giertych;9;Ideological Crusader;M13067
+13109;Minister of Armament;Jerzy Zdziechowski;9;Resource Industrialist;kaiserreich jzdziechowski
+13117;Chief of Army;Marian Januszajtis-¯egota;9;elastic defence doctrine;kaiserreich mjanuszajtiszegota
+13110;Chief of Staff;Marian Januszajtis-¯egota;9;School of Psychology;kaiserreich mjanuszajtiszegota
+13167;Head of Government;Marian Januszajtis-¯egota;9;Old General;kaiserreich mjanuszajtiszegota
+13077;Minister of Security;Mieczyslaw Trajdos;9;Silent Lawyer;M13101
+13111;Minister of Armament;Roman Rybarski;9;Administrative Genius;kaiserreich rrybarski
+13113;Minister of Security;Seweryn Czetwertynski;9;Crooked Kleptocrat;kaiserreich sczetwertyñski
+13061;Minister of Armament;Stanislaw Grabski;9;laissez-faire capitalist;kaiserreich sgrabski
+13033;Head of Government;Tadeusz Bielecki;9;Backroom Backstabber;M13051
+13075;Minister of Security;Tadeusz Bielecki;9;Prince of Terror;M13051
+13099;Foreign Minister;Wojciech Korfanty;9;Biased Intellectual;M13042
+13114;Foreign Minister;Zygmunt Berezowski;9;iron fisted brute;kaiserreich zberezowski
+13112;Minister of Security;Zygmunt Berezowski;9;Efficient Sociopath;kaiserreich zberezowski

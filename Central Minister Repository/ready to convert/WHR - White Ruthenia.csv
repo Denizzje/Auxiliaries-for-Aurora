@@ -1,0 +1,55 @@
+BLR;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
+;;;;;
+971274;Foreign Minister;Alaksandr Carviakov;0;General Staffer;kai_charvyakow
+971271;Head of Government;Alaksandr Carviakov;0;Silent Workhorse;kai_charvyakow
+971279;Head of Military Intelligence;Anatol Kacnelson;0;Logistics Specialist;kai_antkacn
+971284;Chief of Air Force;Barys Kouzan;0;Air Superiority Doctrine;kai_barkuz
+971272;Head of Government;Iosif Adamovic;0;Old General;kai_adamovich
+971283;Chief of Air Force;Nikolay Gastello;0;Army Aviation Doctrine;kai_nklgst
+971277;Minister of Armament;Panteleymon Ponomarenko;0;Resource Industrialist;kai_panponk
+971281;Chief of Army;Paval Korzun;0;Armoured Spearhead Doctrine;kai_pvlkorzn
+971282;Chief of Army;Vasil Korz;0;Guns and Butter Doctrine;kai_vslkor
+971280;Chief of Staff;Vasil Korz;0;School of Psychology;kai_vslkor
+517004;Minister of Armament;Aleksander Osatkin-Vladimirsky;1;Infantry Proponent;M517004
+517029;Minister of Security;Aleksandr I. Krivitsky;1;Compassionate Gentleman;M517029
+517002;Head of Government;Aleksiy A. Volkov;1;Naive Optimist;M517002
+971275;Foreign Minister;Branislav Taraskevic;1;Biased Intellectual;kai_Tarashkievich
+971273;Head of Government;Maksim Tank;1;Happy Amateur;kai_tank
+517031;Minister of Security;Mikhail Bonch-Bruevich;1;Man of the People;M517025
+517030;Minister of Security;Nikolay F. Gikalo;1;Back Stabber;M517030
+517003;Foreign Minister;Nikolay I. Gusarov;1;Great Compromiser;M517003
+517036;Head of Military Intelligence;Panteleion Ponomarenko;1;Industrial Specialist;M517036
+517008;Chief of Army;Pavel Ponomarenko;1;Armoured Spearhead Doctrine;M517008
+517007;Chief of Staff;Serafim Pokrovski;1;School of Psychology;M517007
+971276;Foreign Minister;Symon Rak-Michajlouski ;1;Apologetic Clerk;kai_symonrak
+517009;Chief of Navy;Valerik Lesik;1;Indirect Approach Doctrine;M517009
+971278;Minister of Security;Viera Charuzaja;1;Man of the People;kai_viercharuz
+517010;Chief of Air Force;Vladimir I. Cheryakov;1;Carpet Bombing Doctrine;M517010
+517006;Head of Military Intelligence;Yazip Losik;1;Naval Intelligence Specialist;M517006
+517037;Head of Military Intelligence;Aleksandr I. Krivitsky;3;Political Specialist;M517029
+517024;Minister of Armament;Mikhail Bonch-Bruevich;3;Tank Proponent;M517025
+517052;Chief of Air Force;Nikolay F. Gikalo;3;Army Aviation Doctrine;M517030
+517039;Head of Military Intelligence;Iuri Shurevich;6;Technical Specialist;M517022
+971286;Head of Government;Partisan Council;6;old general;rusprotectorate
+517016;Head of Government;Vasil Zacharka;6;Corporate Suit;KR_Zakharka
+517021;Foreign Minister;Veniamin Novitski;6;Apologetic Clerk;M517021
+517033;Minister of Security;Anton Ovsyanik;7;Efficient Sociopath;KR_Ovsyanik
+517025;Minister of Armament;Arkady Smolich;7;Resource Industrialist;KR_Smolich
+517050;Chief of Navy;Friedrich Wilhelm Kurzr;7;Open Seas Doctrine;M517050
+517054;Chief of Air Force;Hans Baur;7;Air Superiority Doctrine;M517054
+517017;Foreign Minister;Iosif Voronko;7;Ideological Crusader;KR_Voronko
+517026;Minister of Armament;Leonard Zayats;7;Infantry Proponent;KR_LZayats
+517058;Chief of Air Force;Pavel O. Sukhi;7;Air Superiority Doctrine;Pavel_Sukhi
+517057;Minister of Armament;Pavel O. Sukhi;7;Air Superiority Proponent;Pavel_Sukhi
+517043;Chief of Staff;S.K.M. Vladimir I;7;School of Fire Support;kaiserreich VladimirH
+971267;Chief of Army;Stanislav Bulak-Balakhovich;7;Static Defence Doctrine;BlrBalahovich
+971266;Head of Government;Stanislav Bulak-Balakhovich;7;old general;BlrBalahovich
+517014;Head of Government;Vasily Zakharka;7;Happy Amateur;KR_Zakharka
+517032;Minister of Security;Yan Sereda;7;Crime Fighter;KR_Sereda
+517056;Head of Government;Panteleimon Rozhnovsky;8;Backroom Backstabber;M517018
+517005;Minister of Security;Sigismund von Hohenzollern;8;Prince of Terror;kaiserreich SigismundH
+517042;Head of Military Intelligence;Vatslav Ivanovsky;8;Logistics Specialist;KR_Ivanonsky
+517019;Foreign Minister;Vatslav Lastovsky;8;Ideological Crusader;KR_Lastovsky
+517045;Chief of Staff;Konstantin Ezavitov;9;School of Defence;KR_Ezavitov
+517040;Head of Military Intelligence;Mikhail Bonch-Bruevich;9;Technical Specialist;M517025
+517041;Head of Military Intelligence;Yurij B. Gamarnik;9;Political Specialist;M517005
