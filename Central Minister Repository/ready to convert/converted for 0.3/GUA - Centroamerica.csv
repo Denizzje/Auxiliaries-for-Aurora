@@ -1,8 +1,8 @@
 GUA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
 46041,Minister of Armament,Teophilo S. Grálles,0,Strategic Air Proponent,M48024
-46007,Chief of Staff,Augustín Farabundo Martí,1,School of Fire Support,kaiserreich farabundo
-46005,Minister of Security,Augustín Farabundo Martí,1,Man of the People,kaiserreich farabundo
+46007,Chief of Staff,Augustín Farabundo Martí,1,School of Fire Support,GUA_Augustin_Farabundo_Marti.dds
+46005,Minister of Security,Augustín Farabundo Martí,1,Man of the People,GUA_Augustin_Farabundo_Marti.dds
 46004,Minister of Armament,Franco Hernandez Ávila,1,Resource Industrialist,M77025
 46050,Minister of Security,Franco Hernandez Ávila,1,Compassionate Gentleman,M77025
 46076,Chief of Army,Hugo Montés Ramirez,1,Decisive Battle Doctrine,M47100
@@ -90,3 +90,8 @@ GUA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 46096,Head of Government,Jorge Ubico Castaneda,7,Silent Workhorse,M46001
 46104,Chief of Air Force,R. Buenaventure Pineda,7,Army Aviation Doctrine,M46010
 46099,Minister of Security,T. Castro Dominguez,7,Crooked Kleptocrat,M46005
+,Minister of Security,Yank Levy,2,Crime Fighter,GUA_Yank_Levy.dds
+,Foreign Minister,Froylan Turcios,2,Great Compromiser,GUA_Froylan_Turcios.dds
+,Head of Government,Augusto Cesar Sandino,2,Political Protege,GUA_Augusto_Cesar_Sandino.dds
+,Head of Government,Augustín Farabundo Martí,1,Ambitious Union Boss,GUA_Augustin_Farabundo_Marti.dds
+,Head of Government,Jacopo Arbenz Guzman,4,Flamboyant Tough Guy,GUA_Jacopo_Arbenz_Guzman.dds
