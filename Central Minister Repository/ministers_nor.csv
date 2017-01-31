@@ -1,104 +1,97 @@
-NOR,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
-14001,Head of State,H.K.M. Haakon VII,1936,1964,1999,3,Weary Stiffneck,High,M14001,x
-14002,Head of Government,Johan Nygaardsvold,1936,1964,1999,3,Ambitious Union Boss,High,M14002,x
-14003,Foreign Minister,Halvdan Koht,1936,1964,1999,3,Biased Intellectual,Medium,M14003,x
-14004,Minister of Armament,Adolf Indrebø,1936,1964,1999,3,Resource Industrialist,Medium,M14004,x
-14005,Minister of Security,Trygve H. Lie,1936,1964,1999,3,Man of the People,Medium,M14005,x
-14006,Head of Military Intelligence,Alfred Roscher-Lund,1936,1964,1999,3,Logistics Specialist,Low,M14006,x
-14007,Chief of Staff,Otto Ruge,1936,1964,1999,3,School of Defence,Medium,M14075,x
-14008,Chief of Army,Kristian K. Laake,1936,1964,1999,3,Guns and Butter Doctrine,Medium,M14008,x
-14009,Chief of Navy,Jacob von der Lippe,1936,1964,1999,3,Indirect Approach Doctrine,Medium,M14009,x
-14010,Chief of Air Force,Jacob von der Lippe,1936,1964,1999,3,Army Aviation Doctrine,Medium,M14009,x
-14011,Head of Military Intelligence,Erling Sandberg,1936,1964,1999,6,Logistics Specialist,Medium,M14014,x
-14012,Head of Government,Jacob Worm-Müller,1936,1964,1999,4,Silent Workhorse,High,kai_jacwormu,x
-14013,Head of Government,Jens Hundseid,1936,1964,1999,5,Silent Workhorse,High,kai_jenhun,x
-14014,Minister of Security,Bertram Dybwad Brochmann,1936,1964,1999,3,Man of the People,Medium,M14071,x
-14015,Head of Government,Oscar Torp,1940,1964,1999,6,Corporate Suit,High,kai_osctor,x
-14016,Head of Government,Per Borten,1940,1964,1999,5,Naive Optimist,High,kai_perbor,x
-14017,Head of State,H.K.M. Olav V,1950,1964,1999,3,Benevolent Gentleman,High,kai_olavvn,x
-14018,Head of State,H.K.M. Olav V,1950,1964,1999,5,Benevolent Gentleman,High,kai_olavvn,x
-14019,Head of State,H.K.M. Olav V,1950,1964,1999,7,Benevolent Gentleman,High,kai_olavvn,x
-14020,Head of State,H.K.M. Haakon VII,1936,1964,1999,7,Benevolent Gentleman,High,M14001,x
-14032,Head of State,H.K.M. Haakon VII,1936,1964,1999,5,Benevolent Gentleman,High,M14001,x
-14034,Head of State,Erling Sandberg,1945,1964,1999,7,Autocratic Charmer,High,M14014,x
-14036,Head of Government,C.J. Hambro,1936,1964,1999,6,Silent Workhorse,High,M14036,x
-14037,Head of Government,Einar Gerhardsen,1941,1964,1999,3,Political Protege,High,M14037,x
-14038,Head of Government,Adolf Worm-Müller,1941,1964,1999,4,Happy Amateur,High,M14038,x
-14039,Head of Government,Paal Berg,1945,1964,1999,5,Backroom Backstabber,High,M14039,x
-14040,Head of Government,Anders Lange,1945,1964,1999,7,Happy Amateur,High,M14040,x
-14041,Foreign Minister,Trygve H. Lie,1941,1964,1999,3,Iron Fisted Brute,High,M14005,x
-14042,Foreign Minister,Halvard Manthey Lange,1945,1964,1999,3,General Staffer,High,M14042,x
-14043,Foreign Minister,J. L. Mowinckel,1936,1964,1999,4,Ideological Crusader,Very High,M14043,x
-14044,Foreign Minister,Paal Berg,1937,1964,1999,4,Great Compromiser,High,M14039,x
-14045,Foreign Minister,Erik Andreas Colban,1936,1964,1999,5,Great Compromiser,High,M14045,x
-14046,Foreign Minister,C.J. Hambro,1936,1964,1999,6,Great Compromiser,High,M14036,x
-14047,Foreign Minister,Rolf Andvord,1945,1964,1999,3,Apologetic Clerk,High,M14047,x
-14048,Foreign Minister,Albert Viljam Hagelin,1942,1964,1999,8,Biased Intellectual,Low,M14048,x
-14049,Foreign Minister,Adam Egede Nissen,1941,1964,1999,0,Iron Fisted Brute,Low,M14021,x
-14050,Minister of Armament,Finn Hagerup,1937,1964,1999,3,Submarine Proponent,Medium,M14050,x
-14051,Minister of Armament,Oscar F. Torp,1939,1964,1999,3,Resource Industrialist,Medium,M14051,x
-14052,Minister of Armament,Fredrik Monsen,1940,1964,1999,3,Tank Proponent,Medium,M14052,x
-14053,Minister of Armament,Jens Christian Hauge,1940,1964,1999,3,Military Entrepreneur,High,M14053,x
-14054,Minister of Armament,Erik Brofoss,1945,1964,1999,3,Air Superiority Proponent,High,M14054,x
-14055,Minister of Armament,Frederic Beichmann,1936,1964,1999,4,Infantry Proponent,Medium,M14055,x
-14056,Minister of Armament,Johan H. Andresen,1936,1964,1999,5,Resource Industrialist,Medium,M14056,x
-14057,Minister of Armament,Benjamin Vogt,1936,1964,1999,6,Battle Fleet Proponent,Medium,M14057,x
-14058,Minister of Armament,Michael Hansson,1941,1964,1999,4,Strategic Air Proponent,Medium,M14058,x
-14059,Minister of Armament,Erling Sandberg,1943,1964,1999,4,Infantry Proponent,Very low,M14014,x
-14060,Minister of Armament,Gunnar Jahn,1945,1964,1999,4,laissez-faire capitalist,Medium,M14060,x
-14061,Minister of Armament,Albert Viljam Hagelin,1941,1964,1999,8,Tank Proponent,Low,M14048,x
-14062,Minister of Armament,Fredrik Prytz,1942,1964,1999,8,Submarine Proponent,Medium,M14062,x
-14063,Minister of Armament,Carl Fröhlich Hansen,1943,1964,1999,8,Military Entrepreneur,Low,M14063,x
-14064,Minister of Armament,Emil Lövlien,1945,1964,1999,0,Military Entrepreneur,Low,M14022,x
-14065,Minister of Security,Terje Wold,1939,1964,1999,3,Silent Lawyer,Medium,M14065,x
-14066,Minister of Security,Asbjørn Bryhn,1943,1964,1999,3,Crime Fighter,Low,M14066,x
-14067,Minister of Security,Haakon Lie,1945,1964,1999,3,Prince of Terror,High,M14067,x
-14068,Minister of Security,Arne Sunde,1936,1964,1999,4,Silent Lawyer,High,M14068,x
-14069,Minister of Security,Erling Sandberg,1936,1964,1999,6,Compassionate Gentleman,Very low,M14014,x
-14070,Minister of Security,Rolf Fuglesang,1942,1964,1999,8,Efficient Sociopath,Very Low,M14070,x
-14071,Head of Military Intelligence,Bertram Dybwad Brochmann,1936,1964,1999,5,Dismal Enigma,Medium,M14071,x
-14072,Head of Military Intelligence,Vilhelm Evang,1943,1964,1999,3,Political Specialist,Medium,M14072,x
-14073,Head of Military Intelligence,Gunnar Jahn,1936,1964,1999,4,Industrial Specialist,Medium,M14060,x
-14074,Head of Military Intelligence,Karl A. Marthinsen,1944,1964,1999,9,Dismal Enigma,Low,M14074,x
-14075,Chief of Staff,Birger Ljungberg,1936,1964,1999,3,School of Defence,High,M14007,x
-14076,Chief of Staff,Birger Frederik Motzfeldt,1944,1964,1999,3,School of Manoeuvre,Medium,M14076,x
-14077,Chief of Staff,Johan Beichmann,1942,1964,1999,5,School of Mass Combat,Very High,M14077,x
-14078,Chief of Staff,Wilhelm von Tangen-Hansteen,1946,1964,1999,5,School of Fire Support,Very High,M14078,x
-14079,Chief of Staff,Halvor Hansson,1946,1964,1999,5,School of Psychology,Very High,M14079,x
-14080,Chief of Army,Otto Ruge,1940,1964,1999,3,Guns and Butter Doctrine,Medium,M14075,x
-14081,Chief of Army,Olav av Norge,1943,1964,1999,3,Elastic Defence Doctrine,Very High,M14081,x
-14082,Chief of Army,Jorgen Bakke,1942,1964,1999,9,Decisive Battle Doctrine,Medium,M14082,x
-14083,Chief of Navy,Henry Diesen,1937,1964,1999,3,Open Seas Doctrine,Medium,M14083,x
-14084,Chief of Navy,Gunner Hovdenak,1941,1964,1999,3,Decisive Naval Battle Doctrine,Medium,M14084,x
-14085,Chief of Navy,Christopher Meyer,1938,1964,1999,5,Base Control Doctrine,Medium,M14085,x
-14086,Chief of Navy,Hans Corneliussen,1941,1964,1999,5,Indirect Approach Doctrine,Medium,M14086,x
-14087,Chief of Navy,Thorleif Fjeldstad,1941,1964,1999,8,Indirect Approach Doctrine,Medium,M14087,x
-14088,Chief of Navy,Kjeld Stub Irgens,1942,1964,1999,8,Decisive Naval Battle Doctrine,Medium,M14088,x
-14089,Chief of Air Force,Hjalmar Riiser-Larsen,1937,1964,1999,3,Army Aviation Doctrine,Medium,M14089,x
-14090,Chief of Air Force,Bjarne Øen,1945,1964,1999,3,Vertical Envelopment Doctrine,Medium,M14090,x
-14091,Chief of Air Force,Harald Bruusgaard,1936,1964,1999,4,Naval Aviation Doctrine,Medium,M14091,x
-14092,Chief of Air Force,Carl Gulliksen,1937,1964,1999,4,Air Superiority Doctrine,Medium,M14092,x
-14093,Chief of Air Force,Trygve Klingenberg,1937,1964,1999,4,Army Aviation Doctrine,Medium,M14093,x
-14094,Chief of Air Force,Ole Reistad,1939,1964,1999,4,Carpet Bombing Doctrine,Medium,M14094,x
-14095,Head of Military Intelligence,Carl Fröhlich Hansen,1945,1964,1999,8,Industrial Specialist,Low,M14063,x
-14099,Head of Government,Vidkun Quisling,1936,1964,1999,8,Corporate Suit,High,M14012,x
-14100,Foreign Minister,Vidkun Quisling,1936,1964,1999,8,The Cloak N Dagger Schemer,High,M14012,x
-14101,Minister of Security,Jonas Lie,1936,1964,1999,9,Crime Fighter,High,M14015,x
-14102,Head of Military Intelligence,Oliver Møystad,1936,1964,1999,8,Dismal Enigma,High,M14016,x
-14103,Chief of Staff,Sverre Riisnæs,1936,1964,1999,8,School of Defence,High,M14017,x
-14104,Chief of Army,Konrad Sundlo,1936,1964,1999,8,Static Defence Doctrine,High,M14018,x
-14105,Chief of Navy,Bertel Bruun,1936,1964,1999,8,Open Seas Doctrine,Medium,M14019,x
-14106,Chief of Air Force,Trygve Gran,1936,1964,1999,8,Air Superiority Doctrine,High,M14020,x
-14107,Head of State,Adam Egede Nissen,1936,1964,1999,0,Insignificant Layman,High,M14021,x
-14108,Head of Government,Emil Lövlien,1936,1964,1999,0,Smiling Oilman,High,M14022,x
-14109,Foreign Minister,Peder Furubotn,1936,1964,1999,1,Ideological Crusader,Medium,M14023,x
-14024,Minister of Armament,Henry Wilhelm Kristiansen,1936,1964,1999,0,Military Entrepreneur,High,M14024,x
-14025,Minister of Security,Samuel Titlestad,1936,1964,1999,1,Prince of Terror,High,M14025,x
-14026,Head of Military Intelligence,Asbjorn Sunde,1936,1964,1999,0,Political Specialist,Very High,M14026,x
-14027,Chief of Staff,Arne Gauslå,1936,1964,1999,1,School of Defence,High,M14027,x
-14028,Chief of Army,Arne Gauslå,1936,1964,1999,1,Elastic Defence Doctrine,Medium,M14027,x
-14029,Chief of Navy,Skule Storheil,1936,1964,1999,2,Decisive Naval Battle Doctrine,Medium,M14029,x
-14030,Chief of Air Force,Henrik Norby,1936,1964,1999,2,Carpet Bombing Doctrine,Medium,M14030,x
-14096,Head of Government,Oscar F. Torp,1951,1964,1999,3,Smiling Oilman,High,M14051,x
-14097,Minister of Armament,Nils Langhelle,1951,1964,1999,3,Resource Industrialist,High,M14097,x
-14098,Minister of Security,Oscar C. Gundersen,1946,1964,1999,3,Silent Lawyer,High,M14098,x
+NOR,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+14049,Foreign Minister,Adam Egede Nissen,0,Iron Fisted Brute,M14021
+14004,Minister of Armament,Adolf Indrebø,3,Resource Industrialist,M14004
+14038,Head of Government,Adolf Worm-Müller,4,Happy Amateur,M14038
+14048,Foreign Minister,Albert Viljam Hagelin,8,Biased Intellectual,M14048
+14061,Minister of Armament,Albert Viljam Hagelin,8,Tank Proponent,M14048
+14006,Head of Military Intelligence,Alfred Roscher-Lund,3,Logistics Specialist,M14006
+14040,Head of Government,Anders Lange,7,Happy Amateur,M14040
+14028,Chief of Army,Arne Gauslå,1,Elastic Defence Doctrine,M14027
+14027,Chief of Staff,Arne Gauslå,1,School of Defence,M14027
+14068,Minister of Security,Arne Sunde,4,Silent Lawyer,M14068
+14066,Minister of Security,Asbjørn Bryhn,3,Crime Fighter,M14066
+14026,Head of Military Intelligence,Asbjorn Sunde,0,Political Specialist,M14026
+14057,Minister of Armament,Benjamin Vogt,6,Battle Fleet Proponent,M14057
+14105,Chief of Navy,Bertel Bruun,8,Open Seas Doctrine,M14019
+14071,Head of Military Intelligence,Bertram Dybwad Brochmann,5,Dismal Enigma,M14071
+14014,Minister of Security,Bertram Dybwad Brochmann,3,Man of the People,M14071
+14076,Chief of Staff,Birger Frederik Motzfeldt,3,School of Manoeuvre,M14076
+14075,Chief of Staff,Birger Ljungberg,3,School of Defence,M14007
+14090,Chief of Air Force,Bjarne Øen,3,Vertical Envelopment Doctrine,M14090
+14046,Foreign Minister,C.J. Hambro,6,Great Compromiser,M14036
+14036,Head of Government,C.J. Hambro,6,Silent Workhorse,M14036
+14095,Head of Military Intelligence,Carl Fröhlich Hansen,8,Industrial Specialist,M14063
+14063,Minister of Armament,Carl Fröhlich Hansen,8,Military Entrepreneur,M14063
+14092,Chief of Air Force,Carl Gulliksen,4,Air Superiority Doctrine,M14092
+14085,Chief of Navy,Christopher Meyer,5,Base Control Doctrine,M14085
+14037,Head of Government,Einar Gerhardsen,3,Political Protege,M14037
+14108,Head of Government,Emil Lövlien,0,Smiling Oilman,M14022
+14064,Minister of Armament,Emil Lövlien,0,Military Entrepreneur,M14022
+14045,Foreign Minister,Erik Andreas Colban,5,Great Compromiser,M14045
+14054,Minister of Armament,Erik Brofoss,3,Air Superiority Proponent,M14054
+14011,Head of Military Intelligence,Erling Sandberg,6,Logistics Specialist,M14014
+14059,Minister of Armament,Erling Sandberg,4,Infantry Proponent,M14014
+14069,Minister of Security,Erling Sandberg,6,Compassionate Gentleman,M14014
+14050,Minister of Armament,Finn Hagerup,3,Submarine Proponent,M14050
+14055,Minister of Armament,Frederic Beichmann,4,Infantry Proponent,M14055
+14052,Minister of Armament,Fredrik Monsen,3,Tank Proponent,M14052
+14062,Minister of Armament,Fredrik Prytz,8,Submarine Proponent,M14062
+14073,Head of Military Intelligence,Gunnar Jahn,4,Industrial Specialist,M14060
+14060,Minister of Armament,Gunnar Jahn,4,laissez-faire capitalist,M14060
+14084,Chief of Navy,Gunner Hovdenak,3,Decisive Naval Battle Doctrine,M14084
+14067,Minister of Security,Haakon Lie,3,Prince of Terror,M14067
+14042,Foreign Minister,Halvard Manthey Lange,3,General Staffer,M14042
+14003,Foreign Minister,Halvdan Koht,3,Biased Intellectual,M14003
+14079,Chief of Staff,Halvor Hansson,5,School of Psychology,M14079
+14086,Chief of Navy,Hans Corneliussen,5,Indirect Approach Doctrine,M14086
+14091,Chief of Air Force,Harald Bruusgaard,4,Naval Aviation Doctrine,M14091
+14030,Chief of Air Force,Henrik Norby,2,Carpet Bombing Doctrine,M14030
+14083,Chief of Navy,Henry Diesen,3,Open Seas Doctrine,M14083
+14024,Minister of Armament,Henry Wilhelm Kristiansen,0,Military Entrepreneur,M14024
+14089,Chief of Air Force,Hjalmar Riiser-Larsen,3,Army Aviation Doctrine,M14089
+14043,Foreign Minister,J. L. Mowinckel,4,Ideological Crusader,M14043
+14010,Chief of Air Force,Jacob von der Lippe,3,Army Aviation Doctrine,M14009
+14009,Chief of Navy,Jacob von der Lippe,3,Indirect Approach Doctrine,M14009
+14012,Head of Government,Jacob Worm-Müller,4,Silent Workhorse,kai_jacwormu
+14053,Minister of Armament,Jens Christian Hauge,3,Military Entrepreneur,M14053
+14013,Head of Government,Jens Hundseid,5,Silent Workhorse,kai_jenhun
+14077,Chief of Staff,Johan Beichmann,5,School of Mass Combat,M14077
+14056,Minister of Armament,Johan H. Andresen,5,Resource Industrialist,M14056
+14002,Head of Government,Johan Nygaardsvold,3,Ambitious Union Boss,M14002
+14101,Minister of Security,Jonas Lie,9,Crime Fighter,M14015
+14082,Chief of Army,Jorgen Bakke,9,Decisive Battle Doctrine,M14082
+14074,Head of Military Intelligence,Karl A. Marthinsen,9,Dismal Enigma,M14074
+14088,Chief of Navy,Kjeld Stub Irgens,8,Decisive Naval Battle Doctrine,M14088
+14104,Chief of Army,Konrad Sundlo,8,Static Defence Doctrine,M14018
+14008,Chief of Army,Kristian K. Laake,3,Guns and Butter Doctrine,M14008
+14058,Minister of Armament,Michael Hansson,4,Strategic Air Proponent,M14058
+14097,Minister of Armament,Nils Langhelle,3,Resource Industrialist,M14097
+14081,Chief of Army,Olav av Norge,3,Elastic Defence Doctrine,M14081
+14094,Chief of Air Force,Ole Reistad,4,Carpet Bombing Doctrine,M14094
+14102,Head of Military Intelligence,Oliver Møystad,8,Dismal Enigma,M14016
+14098,Minister of Security,Oscar C. Gundersen,3,Silent Lawyer,M14098
+14096,Head of Government,Oscar F. Torp,3,Smiling Oilman,M14051
+14051,Minister of Armament,Oscar F. Torp,3,Resource Industrialist,M14051
+14015,Head of Government,Oscar Torp,6,Corporate Suit,kai_osctor
+14080,Chief of Army,Otto Ruge,3,Guns and Butter Doctrine,M14075
+14007,Chief of Staff,Otto Ruge,3,School of Defence,M14075
+14044,Foreign Minister,Paal Berg,4,Great Compromiser,M14039
+14039,Head of Government,Paal Berg,5,Backroom Backstabber,M14039
+14109,Foreign Minister,Peder Furubotn,1,Ideological Crusader,M14023
+14016,Head of Government,Per Borten,5,Naive Optimist,kai_perbor
+14047,Foreign Minister,Rolf Andvord,3,Apologetic Clerk,M14047
+14070,Minister of Security,Rolf Fuglesang,8,Efficient Sociopath,M14070
+14025,Minister of Security,Samuel Titlestad,1,Prince of Terror,M14025
+14029,Chief of Navy,Skule Storheil,2,Decisive Naval Battle Doctrine,M14029
+14103,Chief of Staff,Sverre Riisnæs,8,School of Defence,M14017
+14065,Minister of Security,Terje Wold,3,Silent Lawyer,M14065
+14087,Chief of Navy,Thorleif Fjeldstad,8,Indirect Approach Doctrine,M14087
+14106,Chief of Air Force,Trygve Gran,8,Air Superiority Doctrine,M14020
+14041,Foreign Minister,Trygve H. Lie,3,Iron Fisted Brute,M14005
+14005,Minister of Security,Trygve H. Lie,3,Man of the People,M14005
+14093,Chief of Air Force,Trygve Klingenberg,4,Army Aviation Doctrine,M14093
+14100,Foreign Minister,Vidkun Quisling,8,The Cloak N Dagger Schemer,M14012
+14099,Head of Government,Vidkun Quisling,8,Corporate Suit,M14012
+14072,Head of Military Intelligence,Vilhelm Evang,3,Political Specialist,M14072
+14078,Chief of Staff,Wilhelm von Tangen-Hansteen,5,School of Fire Support,M14078
