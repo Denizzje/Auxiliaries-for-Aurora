@@ -1,0 +1,112 @@
+MON,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+94056,Minister of Armament,Horloogiyn Choibalsan,0,Resource Industrialist,M94006
+94089,Chief of Army,Horloogiyn Choybalsan,0,Guns and Butter Doctrine,M94006
+94081,Chief of Staff,Horloogiyn Choybalsan,0,School of Manoeuvre,M94006
+94049,Foreign Minister,Horloogiyn Choybalsan,0,General Staffer,M94006
+94039,Head of Government,Horloogiyn Choybalsan,0,Old General,M94006
+94006,Head of Military Intelligence,Horloogiyn Choybalsan,0,Logistics Specialist,M94006
+94098,Chief of Air Force,Sükhbaataryn Yanjmaa,0,Air Superiority Doctrine,M94020
+94059,Minister of Armament,Sükhbaataryn Yanjmaa,0,Administrative Genius,M94020
+94120,Head of Government,Borjigin Dashdorjiin Natsagdorj,1,Flamboyant Tough Guy,MONBorj
+94124,Foreign Minister,Tserendondovyn Navaanneren,1,Great Compromiser,MONNAv
+94125,Chief of Army,Ulaan Khüü,1,Decisive Battle Doctrine,MONUla
+94126,Chief of Staff,Ulaan Khüü,1,School of Mass Combat,MONUla
+94086,Chief of Army,Dagva,3,Guns and Butter Doctrine,M94028
+94070,Head of Military Intelligence,Dogijavyn Luvsanshara,3,Logistics Specialist,M94002
+94079,Chief of Staff,Pai Yun-ti,3,School of Defence,M94021
+94037,Head of Government,Pai Yun-ti,3,Happy Amateur,M94021
+94043,Foreign Minister,Tsengubal Badrach,3,Apologetic Clerk,M94023
+94127,Minister of Armament,Jamsrangiin Tseveen,4,Laissez-Faire Capitalist,MONJam
+94122,Head of Government,Wu Heling,5,Naive Optimist,MONWu
+94123,Minister of Security,Wu Heling,5,Silent Lawyer,MONWu
+94045,Foreign Minister,Banzarjavyn Baasanjav,7,Biased Intellectual,M94045
+94163,Head of Military Intelligence,Boris Yartsev,7,Logistics Specialist,Yartsev
+94060,Minister of Security,Buyanmandu,7,Prince of Terror,M94015
+94064,Minister of Security,Buyannmeh,7,Silent Lawyer,M94064
+94063,Minister of Security,Dansrabilegyin Dogsam,7,Compassionate Gentleman,M94025
+94046,Foreign Minister,Dashiyin Damba,7,The Cloak N Dagger Schemer,M94038
+94038,Head of Government,Dashiyin Damba,7,Smiling Oilman,M94038
+94073,Head of Military Intelligence,Dashnyam,7,Logistics Specialist,M94073
+94042,Foreign Minister,Demcuydungrub,7,General Staffer,M94012
+94036,Head of Government,Demcuydungrub,7,Political Protege,M94012
+94106,Foreign Minister,Ferdynand Ossendowski,7,Biased Intellectual,MONOss
+94101,Chief of Air Force,Ganbaatar,7,Vertical Envelopment Doctrine,M94029
+94094,Chief of Navy,Ganbaatar,7,Base Control Doctrine,M94029
+94069,Head of Military Intelligence,Ichinhorloo,7,Logistics Specialist,M94016
+94110,Minister of Security,Kunimu Khan,7,Compassionate Gentleman,M72014
+94085,Chief of Army,Li Shouxin,7,Guns and Butter Doctrine,M94017
+94078,Chief of Staff,Li Shouxin,7,School of Mass Combat,M94017
+94118,Chief of Army,Magsarjav,7,Decisive Battle Doctrine,MONMar
+94161,Chief of Staff,Mikhail Tornovsky,7,School of Manoeuvre,Tornovsky
+94162,Minister of Security,Mikhail Tornovsky,7,Compassionate Gentleman,Tornovsky
+94088,Chief of Army,Ölziytrygyn Badrak,7,Static Defence Doctrine,M94082
+94082,Chief of Staff,Ölziytrygyn Badrak,7,School of Defence,M94082
+94109,Chief of Air Force,Piotr Orlov,7,Army Aviation Doctrine,M72010
+94115,Chief of Army,Tögs-Ochiryn Namnansüren,7,Elastic Defence Doctrine,MONTog
+94113,Head of Government,Tögs-Ochiryn Namnansüren,7,Political Protege,MONTog
+94050,Minister of Armament,Tsevelsodnom,7,Military Entrepreneur,M94014
+94108,Minister of Armament,Viktor A.F. Polinov,7,Administrative Genius,M72006
+94091,Chief of Navy,Yundunwangcug,7,Open Seas Doctrine,M94011
+94054,Minister of Armament,Zalbengryin Sereeter,7,Theoretical Scientist,M94024
+94145,Head of Government,7th Changkya Khutukhtu,8,Spiritual Leader,MONChang
+94121,Minister of Security,7th Changkya Khutukhtu,8,Man of the People,MONChang
+94148,Chief of Army,Amagaiin Bajudai,8,Elastic Defence Doctrine,kai_Amgaiinbajudai
+94149,Chief of Navy,Amagaiin Bajudai,8,Open Seas Doctrine,kai_Amgaiinbajudai
+94147,Head of Government,Amagaiin Bajudai,8,Naive Optimist,kai_Amgaiinbajudai
+94152,Head of Military Intelligence,Anujiin Goroncho,8,Political Specialist,kai_Anujiingoroncho
+94153,Minister of Security,Anujiin Goroncho,8,Compassionate Gentleman,kai_Anujiingoroncho
+94155,Chief of Army,Bumdaiin Gunga,8,Decisive Battle Doctrine,kai_Bumdaiingunga
+94156,Chief of Staff,Bumdaiin Gunga,8,School of Defence,kai_Bumdaiingunga
+94008,Chief of Army,Chimid,8,Elastic Defence Doctrine,M94007
+94007,Chief of Staff,Chimid,8,School of Psychology,M94007
+94062,Minister of Security,Dagva,8,Prince of Terror,M94028
+94157,Chief of Air Force,Dodzamiin Shombon,8,Army Aviation Doctrine,kai_Dodzamiinshombon
+94044,Foreign Minister,Dogijavyn Luvsanshara,8,Iron Fisted Brute,M94002
+94002,Head of Government,Dogijavyn Luvsanshara,8,Happy Amateur,M94002
+94071,Head of Military Intelligence,Dorgijavyn Luvsansambuu,8,Political Specialist,M94071
+94100,Chief of Air Force,Haidav,8,Army Aviation Doctrine,M94093
+94093,Chief of Navy,Haidav,8,Power Projection Doctrine,M94093
+94137,Foreign Minister,Ivan Serebrennikov,8,General Staffer,kai_Ivan_Serebrennikov
+94139,Minister of Armament,Ivan Serebrennikov,8,Resource Industrialist,kai_Ivan_Serebrennikov
+94138,Minister of Security,Ivan Serebrennikov,8,Prince of Terror,kai_Ivan_Serebrennikov
+94116,Head of Government,Jalkhanz Khutagt Sodnomyn Damdinbazar,8,Flamboyant Tough Guy,MONDam
+94117,Head of Military Intelligence,Jalkhanz Khutagt Sodnomyn Damdinbazar,8,Industrial Specialist,MONDam
+94004,Minister of Armament,Jambyn Lhümbe,8,Military Entrepreneur,M94004
+94005,Minister of Security,Jamtsangryin Damdinsüren,8,Efficient Sociopath,M94005
+94150,Minister of Armament,Montoiin Ninjin,8,Resource Industrialist,kai_Montoiinninjin
+94151,Foreign Minister,Ochiriin Dauletbai,8,Iron Fisted Brute,kai_Ochiriindauletbai
+94003,Foreign Minister,Peljidiyn Genden,8,Great Compromiser,M94003
+94052,Minister of Armament,Tsengubal Badrach,8,Air to Ground Proponent,M94023
+94010,Chief of Air Force,Ulanhu,8,Army Aviation Doctrine,M94010
+94009,Chief of Navy,V.G. Pyrselov,8,Open Seas Doctrine,M94009
+94154,Minister of Security,Yandagiin Tsagan,8,Prince of Terror,kai_Yandagiintsagan
+94164,Chief of Staff,Andrey S. Bakich,9,School of Fire Support,MON_Bakich
+94040,Head of Government,Andrey S. Bakich,9,Flamboyant Tough Guy,MON_Bakich
+94165,Minister of Armament,Andrey S. Bakich,9,Resource Industrialist,MON_Bakich
+94055,Minister of Armament,Battur,9,Air to Sea Proponent,M94055
+94140,Head of Government,Boris Rezukhin,9,Flamboyant Tough Guy,Rezukhin
+94083,Chief of Staff,Buma Tsende,9,School of Defence,M94035
+94104,Chief of Air Force,Buyannmeh,9,Carpet Bombing Doctrine,M94064
+94077,Head of Military Intelligence,Buyannmeh,9,Naval Intelligence Specialist,M94064
+94065,Minister of Security,Dashdoorov,9,Crooked Kleptocrat,M94065
+94096,Chief of Navy,Dashdorj,9,Indirect Approach Doctrine,M94075
+94075,Head of Military Intelligence,Dashdorj,9,Political Specialist,M94075
+94076,Head of Military Intelligence,Dashzegve,9,Logistics Specialist,M94076
+94103,Chief of Air Force,Gomgchigryn Bumtsend,9,Vertical Envelopment Doctrine,M94034
+94095,Chief of Navy,Gomgchigryn Bumtsend,9,Base Control Doctrine,M94034
+94058,Minister of Armament,Gomgchigryn Bumtsend,9,Military Entrepreneur,M94034
+94107,Head of Military Intelligence,Ignaz Trebitsch-Lincoln,9,Dismal Enigma,Kaiserreich Ignaz Trebitsch-Lincoln
+94057,Minister of Armament,Jamsrangyin Sambuu,9,Laissez-Faire Capitalist,M94057
+94066,Minister of Security,Jamsrangyin Sambuu,9,Back Stabber,M94057
+94048,Foreign Minister,Jumdjaagijn Tsedenbal,9,Iron Fisted Brute,M94041
+94041,Head of Government,Jumdjaagijn Tsedenbal,9,Corporate Suit,M94041
+94047,Foreign Minister,Marcel Rosenberg,9,Biased Intellectual,M94047
+94129,Chief of Army,Mikhail Diterikhs,9,Decisive Battle Doctrine,MONDit
+94128,Minister of Armament,Mikhail Diterikhs,9,Military Entrepreneur,MONDit
+94067,Minister of Security,Mikhailovna Kollontay,9,Man of the People,M94067
+94074,Head of Military Intelligence,Nyambuu,9,Industrial Specialist,M94068
+94068,Minister of Security,Nyambuu,9,Crime Fighter,M94068
+94111,Chief of Staff,Roman Ungern von Sternberg,9,School of Mass Combat,MONUvS
+94112,Minister of Security,Roman Ungern von Sternberg,9,Prince of Terror,Mrus UvS
+94130,Chief of Air Force,Vladimir Kislitsin,9,Air Superiority Doctrine,MONKis

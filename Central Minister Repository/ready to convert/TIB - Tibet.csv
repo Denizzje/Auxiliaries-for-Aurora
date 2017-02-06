@@ -1,0 +1,74 @@
+TIB,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+73018,Head of Government,Ngapo Ngawang Jigme,0,Silent Workhorse,M73051_Ngapoi Ngawang Jigme
+73044,Minister of Security,Dingja,1,Man of the People,M73024_Dingja
+73030,Minister of Armament,Dodewa,1,Infantry Proponent,M73025_Dodewa
+73063,Chief of Air Force,Ngapo Ngawang Jigme,1,Air Superiority Doctrine,M73051_Ngapoi Ngawang Jigme
+73060,Chief of Army,Ngapo Ngawang Jigme,1,Elastic Defence Doctrine,M73051_Ngapoi Ngawang Jigme
+73070,Chief of Navy,Ngapo Ngawang Jigme,1,Open Seas Doctrine,M73051_Ngapoi Ngawang Jigme
+73051,Chief of Staff,Ngapo Ngawang Jigme,1,School of Psychology,M73051_Ngapoi Ngawang Jigme
+73021,Foreign Minister,Ngapo Ngawang Jigme,1,Great Compromiser,M73051_Ngapoi Ngawang Jigme
+73037,Head of Military Intelligence,Rampa,1,Political Specialist,M73061_Rampa
+73017,Head of Government,Phunwang,2,Naive Optimist,M73055_Phunwang
+73036,Head of Military Intelligence,Changlochen,3,Logistics Specialist,M73021_Changlochen
+73043,Minister of Security,Changlochen,3,Man of the People,M73021_Changlochen
+73020,Foreign Minister,Gedun Choephel,3,Ideological Crusader,M73026_Gedun Choephel
+73032,Head of Military Intelligence,Rabga Pangdatsang,3,Political Specialist,M73056_Rabga Pangdatsang
+73038,Minister of Security,Rabga Pangdatsang,3,Crime Fighter,M73056_Rabga Pangdatsang
+73067,Chief of Air Force,Tobgyal Pangdatsang,3,Army Aviation Doctrine,
+73054,Chief of Army,Tobgyal Pangdatsang,3,Guns and Butter Doctrine,
+73074,Chief of Navy,Tobgyal Pangdatsang,3,Power Projection Doctrine,
+73050,Chief of Staff,Tobgyal Pangdatsang,3,School of Fire Support,
+73068,Chief of Air Force,Yuthok,3,Air Superiority Doctrine,M73070_Yuthok
+73055,Chief of Army,Yuthok,3,Decisive Battle Doctrine,M73070_Yuthok
+73075,Chief of Navy,Yuthok,3,Base Control Doctrine,M73070_Yuthok
+73046,Chief of Staff,Yuthok,3,School of Manoeuvre,M73070_Yuthok
+73016,Head of Government,Kunphela,4,Backroom Backstabber,M73032_Kunphela
+73028,Minister of Armament,Kunphela,4,Administrative Genius,M73032_Kunphela
+73027,Minister of Armament,Yarphel Pangdatsang,4,Laissez-Faire Capitalist,M73069_Yarphel Pangdatsang
+73052,Chief of Staff,Andruk Gonpo Tashi,6,School of Psychology,M73072_Gompo Tashi Andrugtsang
+73062,Chief of Army,Bapa Yeshe,6,Armoured Spearhead Doctrine,M73020
+73025,Foreign Minister,Changlochen,6,Biased Intellectual,M73021_Changlochen
+73035,Head of Military Intelligence,George Tsarong,6,Industrial Specialist,M73027_George Tsarong
+73066,Chief of Air Force,Jigme Taring,6,Air Superiority Doctrine,M73030_Jigme Taring uniforme
+73059,Chief of Army,Jigme Taring,6,Elastic Defence Doctrine,M73030_Jigme Taring uniforme
+73073,Chief of Navy,Jigme Taring,6,Open Seas Doctrine,M73030_Jigme Taring uniforme
+73047,Chief of Staff,Jigme Taring,6,School of Fire Support,M73030_Jigme Taring uniforme
+73042,Minister of Security,Kapshoba,6,Prince of Terror,M73031_Kapshoba
+73015,Minister of Security,Kyibu,6,Compassionate Gentleman,M73033_Kyibu
+73019,Foreign Minister,Lhawang Tobgyal Surkhang,6,General Staffer,M73036_Lhawang Tobgyal
+73041,Head of Government,Taktra Rinpoche,6,Backroom Backstabber,M73066_Taktra
+73065,Chief of Air Force,Tsarong Dzasa,6,Army Aviation Doctrine,M73068_Tsarong
+73056,Chief of Army,Tsarong Dzasa,6,Static Defence Doctrine,M73068_Tsarong
+73072,Chief of Navy,Tsarong Dzasa,6,Decisive Naval Battle Doctrine,M73068_Tsarong
+73045,Chief of Staff,Tsarong Dzasa,6,School of Defence,M73068_Tsarong
+73029,Minister of Armament,Tsarong Dzasa,6,Infantry Proponent,M73068_Tsarong
+73061,Chief of Army,Andruk Gonpo Tashi,7,Elastic Defence Doctrine,M73072_Gompo Tashi Andrugtsang
+73076,Chief of Navy,Andruk Gonpo Tashi,7,Power Projection Doctrine,M73072_Gompo Tashi Andrugtsang
+73010,Chief of Air Force,Changra Depon,7,Army Aviation Doctrine,M73022_Changra Depon
+73008,Chief of Army,Changra Depon,7,Static Defence Doctrine,M73022_Changra Depon
+73009,Chief of Navy,Changra Depon,7,Decisive Naval Battle Doctrine,M73022_Changra Depon
+73007,Chief of Staff,Changra Depon,7,School of Defence,M73022_Changra Depon
+73049,Chief of Staff,Gyalo Dhondup,7,School of Manoeuvre,M73028_Gyalo Dhondup
+73026,Foreign Minister,Gyalo Dhondup,7,Ideological Crusader,M73028_Gyalo Dhondup
+73069,Chief of Air Force,Gyato Wangdu,7,Vertical Envelopment Doctrine,M73029_Gyato Wangdu
+73053,Chief of Staff,Gyato Wangdu,7,School of Psychology,M73029_Gyato Wangdu
+73006,Head of Military Intelligence,Jigme Taring,7,Technical Specialist,M73029_Jigme Taring tradi
+73005,Minister of Security,Lhalu Se,7,Back Stabber,M73035_Lhalu Se
+73024,Foreign Minister,Liushar,7,Apologetic Clerk,M73037_Liushar
+73040,Minister of Security,Lukhangnga,7,Silent Lawyer,M73038_Lukangnga
+73004,Minister of Armament,Mondo ,7,Theoretical Scientist,M73039_Mondo
+73003,Foreign Minister,Ngagchen Rinpoche,7,Ideological Crusader,M73040_Ngagchen Rinpoche
+73023,Foreign Minister,Ngawang Gyaltsen,7,Great Compromiser,M73057_Ngawang Gyaltsen
+73034,Head of Military Intelligence,Phalha,7,Dismal Enigma,M73059_Phalha
+73058,Chief of Army,Ragashar,7,Guns and Butter Doctrine,M73060_Ragashar
+73048,Chief of Staff,Ragashar,7,School of Mass Combat,M73060_Ragashar
+73033,Head of Military Intelligence,Reginald Fox,7,Logistics Specialist,M73062_Reginald Fox
+73002,Head of Government,Reting Rimpoche,7,Happy Amateur,M73002
+73031,Minister of Armament,Ringang,7,Resource Industrialist,M73063_Ringang
+73039,Minister of Security,Seksing,7,Crooked Kleptocrat,M73065_Seksing
+73022,Foreign Minister,Tashi Dorje Phunkhang,7,iron fisted brute,
+73064,Chief of Air Force,Tendong Shappe,7,Air Superiority Doctrine,M73067_Tendong Shappe
+73057,Chief of Army,Tendong Shappe,7,Decisive Battle Doctrine,M73067_Tendong Shappe
+73071,Chief of Navy,Tendong Shappe,7,Base Control Doctrine,M73067_Tendong Shappe
+73014,Head of Government,Langdun,8,Political Protege,M73034_Langdun

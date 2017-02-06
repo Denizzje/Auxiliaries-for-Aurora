@@ -1,0 +1,34 @@
+CGX,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+502019,Chief of Army,Alexander von Falkenhausen,7,Elastic Defence Doctrine,L50304
+502007,Chief of Staff,Alexander von Falkenhausen,7,School of Manoeuvre,L50304
+502002,Head of Government,Alexander von Falkenhausen,7,Flamboyant Tough Guy,L50304
+502016,Chief of Navy,Bai Chongxi,7,Indirect Approach Doctrine,M502007
+502013,Chief of Staff,Bai Chongxi,7,School of Manoeuvre,M502007
+502017,Minister of Armament,Chu Chia-hua,7,Theoretical Scientist,Kaiserreich ChuChiaHua
+502034,Chief of Air Force,Feng Ru,7,Air Superiority Doctrine,M750060
+502033,Minister of Armament,Feng Ru,7,Air Superiority Proponent,M750060
+502010,Chief of Air Force,Gunther Pluschow,7,Naval Aviation Doctrine,Kaiserreich Plueschow
+502018,Chief of Navy,Gunther Pluschow,7,Power Projection Doctrine,Kaiserreich Plueschow
+502030,Head of Military Intelligence,Han Mudi,7,Technical Specialist,Kaiserreich Han Mudi
+502003,Foreign Minister,He Fengshang,7,Biased Intellectual,kaiserreich hefengshang
+502009,Chief of Navy,Hellmuth von Mucke,7,Base Control Doctrine,Kaiserreich vonMucke
+502020,Chief of Staff,Hellmuth von Mucke,7,School of Psychology,Kaiserreich vonMucke
+502004,Minister of Armament,John Rabe,7,Laissez-Faire Capitalist,Kaiserreich JohnRabe
+502032,Head of Government,K'ung Hsiang-hsi,7,Corporate Suit,Kaiserreich HHKung
+502031,Minister of Armament,K'ung Hsiang-hsi,7,Administrative Genius,Kaiserreich HHKung
+502005,Minister of Security,Lei Zhong,7,Man of the People,M502005
+502011,Chief of Air Force,Wang Shuming,7,Air Superiority Doctrine,M502010
+502015,Minister of Armament,Yu Hanmou,7,Infantry Proponent,M502004
+502025,Chief of Army,Bao Wenyue,8,Static Defence Doctrine,M52018
+502027,Chief of Air Force,Chen Changchu,8,Army Aviation Doctrine,M52020
+502022,Head of Government,Chen Gongbo,8,Political Protege,M52014
+502014,Chief of Army,Chen Jitang,8,Guns and Butter Doctrine,M502008
+502006,Head of Military Intelligence,Li Jishen,8,Dismal Enigma,M502001
+502008,Chief of Army,Max Hermann Bauer,8,Guns and Butter Doctrine,Kaiserreich MaxBauer
+502012,Chief of Staff,Max Hermann Bauer,8,School of Fire Support,Kaiserreich MaxBauer
+502026,Chief of Navy,Ren Yuandao,8,Open Seas Doctrine,M52019
+502024,Chief of Staff,Wang Jingwei,8,School of Fire Support,Kaiserreich Wang Jingwei
+502029,Foreign Minister,Wang Kemin,8,Apologetic Clerk,Kaiserreich Wang Kemin
+502023,Foreign Minister,Zhou Fohai,8,Biased Intellectual,M52201
+502028,Minister of Armament,Zhou Fohai,8,Resource Industrialist,M52201
