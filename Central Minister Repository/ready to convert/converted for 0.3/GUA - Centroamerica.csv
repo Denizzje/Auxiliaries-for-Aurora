@@ -1,8 +1,9 @@
 GUA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
 46041,Minister of Armament,Teophilo S. Grálles,0,Strategic Air Proponent,M48024
-46007,Chief of Staff,Augustín Farabundo Martí,1,School of Fire Support,GUA_Augustin_Farabundo_Marti.dds
-46005,Minister of Security,Augustín Farabundo Martí,1,Man of the People,GUA_Augustin_Farabundo_Marti.dds
+46007,Chief of Staff,Augustín Farabundo Martí,1,School of Fire Support,GUA_Augustin_Farabundo_Marti
+,Head of Government,Augustín Farabundo Martí,1,Ambitious Union Boss,GUA_Augustin_Farabundo_Marti
+46005,Minister of Security,Augustín Farabundo Martí,1,Man of the People,GUA_Augustin_Farabundo_Marti
 46004,Minister of Armament,Franco Hernandez Ávila,1,Resource Industrialist,M77025
 46050,Minister of Security,Franco Hernandez Ávila,1,Compassionate Gentleman,M77025
 46076,Chief of Army,Hugo Montés Ramirez,1,Decisive Battle Doctrine,M47100
@@ -21,12 +22,14 @@ GUA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 46008,Chief of Army,Salvador Cayetano Carpio,1,Guns and Butter Doctrine,kaiserreich cayetano
 46002,Head of Government,Víctor Manuel Gutiérrez,1,Ambitious Union Boss,kaiserreich gutierrez
 46006,Head of Military Intelligence,Adrian Recinos,2,Technical Specialist,M46016
+,Head of Government,Augusto Cesar Sandino,2,Political Protege,GUA_Augusto_Cesar_Sandino
 46034,Foreign Minister,Carlos Argumedo Salazar,2,The Cloak N Dagger Schemer,M46035
 46057,Minister of Security,Carmen Lyra,2,Prince of Terror,M47025
 46039,Foreign Minister,Enrique Díaz Toledo,2,Apologetic Clerk,M47066
 46010,Chief of Air Force,Francisco Javier Arana,2,Vertical Envelopment Doctrine,M46027
 46023,Head of Government,Francisco Javier Arana,2,Naive Optimist,M46027
 46080,Chief of Army,Francisco Rosendo Arguello,2,Guns and Butter Doctrine,M47028
+,Foreign Minister,Froylan Turcios,2,Great Compromiser,GUA_Froylan_Turcios
 46087,Chief of Navy,Hugo Siedler Mendoza,2,Indirect Approach Doctrine,M47029
 46047,Minister of Armament,Ignacio Mendéz Alino,2,Corrupt Kleptocrat,M47014
 46030,Head of Government,Isalino de Silva Londres,2,Political Protege,M47040
@@ -47,6 +50,7 @@ GUA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 46065,Head of Military Intelligence,Miguel Ramirez Alcantara,2,Dismal Enigma,M47026
 46082,Chief of Navy,Noel Esto Niño Miranda,2,Open Seas Doctrine,M48019
 46088,Chief of Air Force,Oscar Padilla Sellean,2,Naval Aviation Doctrine,M47030
+,Minister of Security,Yank Levy,2,Crime Fighter,GUA_Yank_Levy
 46027,Head of Government,Andrés Ignacio Menéndez,3,Naive Optimist,M77011
 46049,Minister of Armament,Calufa Fallas Sinaja,3,Submarine Proponent,M47068
 46054,Minister of Security,Calufa Fallas Sinaja,3,Silent Lawyer,M47068
@@ -58,6 +62,7 @@ GUA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 46025,Head of Government,Guillermo Cuadra,3,Ambitious Union Boss,M48012
 46051,Minister of Security,Guillermo Cuadra,3,Crime Fighter,M48012
 46091,Chief of Air Force,Guillermo Macho Nuñez,3,Air Superiority Doctrine,M47127
+,Head of Government,Jacopo Arbenz Guzman,3,Flamboyant Tough Guy,GUA_Jacopo_Arbenz_Guzman
 46064,Head of Military Intelligence,Jacopo Arbenz Guzman,3,Political Specialist,M46021
 46044,Minister of Armament,Jacopo Arbenz Guzman,3,Infantry Proponent,M46021
 46036,Foreign Minister,Jorge Torriello Garrido,3,General Staffer,M46011
@@ -90,8 +95,3 @@ GUA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 46096,Head of Government,Jorge Ubico Castaneda,7,Silent Workhorse,M46001
 46104,Chief of Air Force,R. Buenaventure Pineda,7,Army Aviation Doctrine,M46010
 46099,Minister of Security,T. Castro Dominguez,7,Crooked Kleptocrat,M46005
-,Minister of Security,Yank Levy,2,Crime Fighter,GUA_Yank_Levy.dds
-,Foreign Minister,Froylan Turcios,2,Great Compromiser,GUA_Froylan_Turcios.dds
-,Head of Government,Augusto Cesar Sandino,2,Political Protege,GUA_Augusto_Cesar_Sandino.dds
-,Head of Government,Augustín Farabundo Martí,1,Ambitious Union Boss,GUA_Augustin_Farabundo_Marti.dds
-,Head of Government,Jacopo Arbenz Guzman,4,Flamboyant Tough Guy,GUA_Jacopo_Arbenz_Guzman.dds
