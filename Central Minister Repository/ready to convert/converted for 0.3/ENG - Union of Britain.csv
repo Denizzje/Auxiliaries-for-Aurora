@@ -43,15 +43,15 @@ ENG,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Head of Government,William Joyce,0,Backroom Backstabber,kaiserreich joyce
 ,Minister of Security,William Joyce,0,Prince of Terror,kaiserreich joyce
 ,Minister of Armament,William Rust,0,Infantry Proponent,M1079
+,Chief of Army,Eric Blair,0,Guns and Butter Doctrine,kaiserreich ericblair
+,Head of Government,Eric Blair,0,Reformist Soldierhog,kaiserreich ericblair
+,Minister of Security,Eric Blair,0,Compassionate Gentleman,kaiserreich ericblair
 ,Chief of Army,Bill Alexander,1,Static Defence Doctrine,kaiserreich bill
 ,Minister of Security,Cecil Dudgeon,1,Compassionate Gentleman,kaiserreich dudgeon
 ,Minister of Armament,Cecil L'Estrange Malone,1,Air to Sea Proponent,kaiserreich malone
 ,Foreign Minister,David Kirkwood,1,Apologetic Clerk,kaiserreich davidkirkwood
 ,Minister of Armament,David Kirkwood,1,Infantry Proponent,kaiserreich davidkirkwood
 ,Head of Military Intelligence,Emanuel Shinwell,1,Industrial Specialist,kaiserreich shinwell
-,Chief of Army,Eric Blair,1,Guns and Butter Doctrine,kaiserreich ericblair
-,Head of Government,Eric Blair,1,Reformist Soldierhog,kaiserreich ericblair
-,Minister of Security,Eric Blair,1,Compassionate Gentleman,kaiserreich ericblair
 ,Foreign Minister,Eric Hobsbawm,1,Biased Intellectual,kaiserreich erichobsbawm
 ,Foreign Minister,Ethel MacDonald,1,Biased Intellectual,kaiserreich emacdonald
 ,Head of Military Intelligence,Fenner Brockway,1,Political Specialist,kaiserreich fenner
@@ -62,6 +62,7 @@ ENG,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Head of Government,J.B. Priestley,1,Naive Optimist,kaiserreich_UK_J_B_Priestley
 ,Minister of Armament,Jack Gaster,1,Submarine Proponent,M1077
 ,Minister of Armament,Jack Jones,1,Corrupt Kleptocrat,kaiserreich jackjones
+,Head of Government,Jack Jones,1,Flamboyant Tough Guy,kaiserreich jackjones
 ,Head of Government,Jenny Hamilton Patrick,1,Happy Amateur,kaiserreich jhamilton
 ,Foreign Minister,Jim Callaghan,1,Biased Intellectual,kaiserreich callaghan
 ,Head of Government,Jim Callaghan,1,Ambitious Union Boss,kaiserreich callaghan
