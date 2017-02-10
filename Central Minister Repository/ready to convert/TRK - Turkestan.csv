@@ -1,0 +1,73 @@
+KYG;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
+;;;;;
+521017;Foreign Minister;Abdukadyr Urazbekov;1;General Staffer;M521017
+521024;Minister of Armament;Abdulzhatir Jildizbek;1;Infantry Proponent;M521024
+521031;Minister of Security;Aleksiyi Vagov;1;Efficient Sociopath;M521031
+521052;Chief of Navy;Asmaly Toluboyev;1;Base Control Doctrine;M521052
+521032;Minister of Security;Bayali Isakaiev;1;Crime Fighter;M521032
+521009;Chief of Navy;Egor Rall;1;Power Projection Doctrine;L10438
+521006;Head of Military Intelligence;Igor N. Barakhov;1;Political Specialist;M521006
+521044;Chief of Staff;Isamil Abuzyarov;1;School of Manoeuvre;M521044
+521004;Minister of Armament;Kalina Amankulova;1;Administrative Genius;M521004
+521007;Chief of Staff;Karun Dushebaev;1;School of Psychology;M521007
+521003;Foreign Minister;Maksim Ammosov;1;Ideological Crusader;M521003
+521048;Chief of Army;Malagoza Tahabayev;1;Static Defence Doctrine;M521048
+521056;Chief of Air Force;Mikhail Us;1;Naval Aviation Doctrine;M521038
+521038;Head of Military Intelligence;Mikhail Us;1;Industrial Specialist;M521038
+521002;Head of Government;Nikolai Bogolyubhov;1;Corporate Suit;M521002
+521025;Minister of Armament;Sultankul Shamurzin;1;Air to Ground Proponent;M521025
+521010;Chief of Air Force;Tryfil Sokolov;1;Air Superiority Doctrine;M521010
+521005;Minister of Security;Turabej Kuletov;1;Man of the People;M521005
+521018;Foreign Minister;Yosip Abdrokhmanov;1;Great Compromiser;M521018
+521081;Minister of Armament;Abdurrauf Fitrat;3;Military Entrepreneur;kai_abudfitrat
+521026;Minister of Armament;Alik Bakytuul;3;Tank Proponent;M521026
+521039;Head of Military Intelligence;Azamat Cholponbek;3;Logistics Specialist;M521039
+521049;Chief of Army;Baktit Goryashenko;3;Armoured Spearhead Doctrine;M521049
+521033;Minister of Security;Boris Shapurchirnikov;3;Silent Lawyer;M521033
+521053;Chief of Navy;Gilnara Popov;3;Decisive Naval Battle Doctrine;M521053
+521020;Foreign Minister;Gulzat Everstov;3;Apologetic Clerk;M521020
+521045;Chief of Staff;Ivan Rednikov;3;School of Manoeuvre;M521045
+521014;Head of Government;Maksim Rebrov;3;Flamboyant Tough Guy;M521014
+521019;Foreign Minister;Nachum Sokolov;3;Biased Intellectual;M521019
+521034;Minister of Security;Rozhira Tshugel;3;Back Stabber;M521034
+521027;Minister of Armament;Yurij Mitrpoliskiyi;3;Theoretical Scientist;M521027
+521015;Head of Government;Andrej V. Sokolov;5;Happy Amateur;M521015
+521050;Chief of Army;Evgennij Sokolov;5;Elastic Defence Doctrine;M521050
+521040;Head of Military Intelligence;Ibrahim Validov;5;Technical Specialist;M521040
+521035;Minister of Security;Jelena Shemeleva;5;Prince of Terror;M521035
+521041;Head of Military Intelligence;Jyrgaluul Adilet;5;Logistics Specialist;M521041
+521054;Chief of Navy;Kuban Bakuulbek;5;Base Control Doctrine;M521054
+521021;Foreign Minister;Nazira Dauletova;5;Apologetic Clerk;M521021
+521058;Chief of Air Force;Pavel Shamaev;5;Army Aviation Doctrine;M521058
+521028;Minister of Armament;Viktor Glushkov;5;Theoretical Scientist;M521028
+521046;Chief of Staff;Yagur Baranov;5;School of Mass Combat;M521046
+521061;Head of Government;Abdurahim Martemyanov;7;Silent Workhorse;M526014
+521030;Minister of Armament;Adilet Rustamov;7;Corrupt Kleptocrat;M521030
+521062;Foreign Minister;Alisher Ivanov;7;Great Compromiser;M526019
+521043;Head of Military Intelligence;Aziz Mirul;7;Technical Specialist;M521043
+521070;Chief of Air Force;Babur Ipatiev;7;Air Superiority Doctrine;M526038
+521067;Chief of Staff;Babur Ipatiev;7;School of Manoeuvre;M526038
+521063;Minister of Armament;Babur Ipatiev;7;Air Superiority Proponent;M526024
+521064;Minister of Armament;Bahauddin Gorchakov;7;Military Entrepreneur;M526025
+521066;Head of Military Intelligence;Hamza Dobrynin;7;Logistics Specialist;M526035
+521037;Minister of Security;Iban Pryadezhnikov;7;Prince of Terror;M521037
+521083;Chief of Army;Isfandiyar Jurgi Bahadur Khan;7;Elastic Defence Doctrine;kai_isfbhd
+521059;Chief of Air Force;Ismael Petrikov;7;Army Aviation Doctrine;M525043
+521065;Minister of Security;Mammaduli Dinnei;7;Silent Lawyer;M526030
+521042;Head of Military Intelligence;Maryam Tugambajeva;7;Political Specialist;M521042
+521055;Chief of Navy;Mihai Dratsenko;7;Indirect Approach Doctrine;L500120
+521022;Foreign Minister;Mukhtar Dzhangalin;7;Great Compromiser;M521022
+521036;Minister of Security;Murat Salikhov;7;Back Stabber;M521036
+521008;Chief of Army;Nazhe Dudin;7;Elastic Defence Doctrine;M526040
+521069;Chief of Navy;Salim Ibadinov;7;Open Seas Doctrine;M526042
+521029;Minister of Armament;Sultan Bakytbek;7;Air to Ground Proponent;M521029
+521051;Chief of Army;Uraz Dzshandosov;7;Decisive Battle Doctrine;M521051
+521023;Foreign Minister;Vassil Dyankonov;7;Iron Fisted Brute;M521023
+521016;Head of Government;Zeki Validov;7;Smiling Oilman;M521016
+521073;Chief of Staff;Ibrahim Bek;8;School of Manoeuvre;Kaiserreich_ibragimbekm
+521072;Head of Government;Ibrahim Bek;8;Old General;Kaiserreich_ibragimbekm
+521084;Minister of Security;Kush-Beggi;8;Man of the People;KYG_Beggi
+521076;Chief of Army;Shahmurad Alim Khan;8;Armoured Spearhead Doctrine;KYG_shahmurad_alim_khan
+521075;Chief of Staff;Shahmurad Alim Khan;8;School of Psychology;KYG_shahmurad_alim_khan
+521079;Head of Government;Ishan Babakhan;9;Naive Optimist;KYG_ishan_babakhan
+521080;Minister of Security;Ishan Babakhan;9;Prince of Terror;KYG_ishan_babakhan
