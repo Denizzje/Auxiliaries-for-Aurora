@@ -1,17 +1,17 @@
-CYN;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
-;;;;;
-501016;Head of Government;Chen Geng;4;Happy Amateur;CYN_geng
-501017;Chief of Staff;Chen Geng;4;School of Fire Support;CYN_geng
-501018;Chief of Army;Chen Geng;4;Static Defence Doctrine;CYN_geng
-501020;Head of Government;Hu Ruoyu;6;Naive Optimist;CYN_hu
-501012;Head of Government;Tang Jiyao;7;Old General;Tang Jiyao
-501005;Minister of Security;Ding Zhipan;8;Crime Fighter;M501005
-501004;Minister of Armament;Liu Wenhui;8;Battle Fleet Proponent;M501004
-501008;Chief of Army;Long Yun;8;Guns and Butter Doctrine;M750056
-501002;Head of Government;Long Yun;8;Political Protege;M750056
-501007;Chief of Staff;Long Yun;8;School of Psychology;M750056
-501010;Chief of Air Force;Lu Han;8;Carpet Bombing Doctrine;M750055
-501014;Head of Government;Lu Han;8;Old General;M750055
-501009;Chief of Navy;Lu Han;8;Open Seas Doctrine;M750055
-501006;Head of Military Intelligence;Mi Zaiming;8;Political Specialist;M501006
-501003;Foreign Minister;Zhou Zhirou;8;Apologetic Clerk;M501003
+CYN,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+501016,Head of Government,Chen Geng,4,Happy Amateur,CYN_geng
+501017,Chief of Staff,Chen Geng,4,School of Fire Support,CYN_geng
+501018,Chief of Army,Chen Geng,4,Static Defence Doctrine,CYN_geng
+501020,Head of Government,Hu Ruoyu,6,Naive Optimist,CYN_hu
+501012,Head of Government,Tang Jiyao,7,Old General,Tang Jiyao
+501005,Minister of Security,Ding Zhipan,8,Crime Fighter,M501005
+501004,Minister of Armament,Liu Wenhui,8,Battle Fleet Proponent,M501004
+501008,Chief of Army,Long Yun,8,Guns and Butter Doctrine,M750056
+501002,Head of Government,Long Yun,8,Political Protege,M750056
+501007,Chief of Staff,Long Yun,8,School of Psychology,M750056
+501010,Chief of Air Force,Lu Han,8,Carpet Bombing Doctrine,M750055
+501014,Head of Government,Lu Han,8,Old General,M750055
+501009,Chief of Navy,Lu Han,8,Open Seas Doctrine,M750055
+501006,Head of Military Intelligence,Mi Zaiming,8,Political Specialist,M501006
+501003,Foreign Minister,Zhou Zhirou,8,Apologetic Clerk,M501003
