@@ -1,0 +1,70 @@
+GUY,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+562115,Foreign Minister,Cyril Lionel Robert James,1,Ideological Crusader,GUY_clr_james
+562111,Head of Government,Cyril Lionel Robert James,1,Flamboyant Tough Guy,GUY_clr_james
+562126,Head of Military Intelligence,Cyril Lionel Robert James,1,Political Specialist,GUY_clr_james
+562112,Head of Government,Tubal Uriah Butler,1,Smiling Oilman,GUY_tubal_uriah_butler
+562119,Minister of Armament,Tubal Uriah Butler,1,Resource Industrialist,GUY_tubal_uriah_butler
+562117,Foreign Minister,Alexander Clarke Bustamante,2,Ideological Crusader,GUY_alexander_bustamente
+562114,Head of Government,Alexander Clarke Bustamante,2,Ambitious Union Boss,GUY_alexander_bustamente
+562121,Minister of Armament,Alexander Clarke Bustamante,2,Laissez-Faire Capitalist,GUY_alexander_bustamente
+562033,Chief of Army,Christopher Lobban,2,Guns and Butter Doctrine,M562027
+562019,Minister of Armament,Dr. Gobinda Ganga,2,Theoretical Scientist,M562018
+562014,Head of Government,Forbes Burnham,2,Political Protege,M562014
+562116,Foreign Minister,George F. Fitzpatrick,2,Great Compromiser,GUY_fitzpatrick
+562113,Head of Government,Grantley Herbert Adams,2,Happy Amateur,GUY_grantley_herbert_adams
+562124,Minister of Security,Grantley Herbert Adams,2,Compassionate Gentleman,GUY_grantley_herbert_adams
+562029,Chief of Staff,Kingsley Forrester,2,School of Manoeuvre,M562025
+562120,Minister of Armament,Krishna Deonarine,2,Resource Industrialist,GUY_krishna_denarine
+562125,Minister of Security,Krishna Deonarine,2,Man of the People,GUY_krishna_denarine
+562039,Chief of Air Force,Kyle Lightfoot,2,Air Superiority Doctrine,M562031
+562118,Foreign Minister,Malcolm Meredith Nurse,2,Biased Intellectual,GUY_nurse
+562128,Head of Military Intelligence,Malcolm Meredith Nurse,2,Logistics Specialist,GUY_nurse
+562123,Minister of Armament,Malcolm Meredith Nurse,2,Military Entrepreneur,GUY_nurse
+562130,Chief of Army,Norman Washington Manley,2,Static Defence Doctrine,GUY_norman_manley
+562129,Chief of Staff,Norman Washington Manley,2,School of Fire Support,GUY_norman_manley
+562122,Minister of Armament,Norman Washington Manley,2,Tank Proponent,GUY_norman_manley
+562127,Head of Military Intelligence,Ralph de Boissière,2,Dismal Enigma,GUY_boissiere
+562017,Foreign Minister,Rasleigh Jackson,2,Great Compromiser,M562016
+562036,Chief of Navy,Thomas McGarrity,2,Power Projection Doctrine,M562029
+562022,Minister of Security,Vibert Parvathan,2,Silent Lawyer,M562021
+562031,Chief of Staff,Arthur Andrew Cipriani,3,School of Mass Combat,GUY_arthur_andrew_cipriani
+562002,Head of Government,Arthur Andrew Cipriani,3,Ambitious Union Boss,GUY_arthur_andrew_cipriani
+562023,Minister of Security,Arthur Andrew Cipriani,3,Man of the people,GUY_arthur_andrew_cipriani
+562026,Minister of Security,Cuthbert Brook-Smith,3,Efficient Sociopath,Cuthbert_Brook-Smith
+562027,Head of Military Intelligence,J. A. M. Rice-Evans,3,Naval Intelligence Specialist,J_A_M_Rice-Evans
+562046,Foreign Minister,K.E. Ingram,3,Biased Intellectual,KE_Ingram
+562041,Chief of Air Force,Lawrence E. Brooks,3,Air Superiority Doctrine,Brooks
+562043,Foreign Minister,Amy Bailey,4,Biased Intellectual,Amy_Bailey
+562005,Minister of Security,Gladdys Maud Longbridge,4,Man of the People,Gladdys_Maud_Longbridge
+562004,Minister of Armament,Abraham Issa,5,Administrative Genius,Abraham_Issa
+562010,Chief of Air Force,Billy Strachan,5,Air Superiority Doctrine,Kaiserreich Stratchan
+562049,Minister of Armament,Carlos Prio,5,Administrative Genius,M33004
+562030,Chief of Staff,Charles Birchwood,5,School of Defence,M562007
+562044,Minister of Security,Charles Campbell Woolley,5,Compassionate Gentleman,M562005
+562006,Head of Military Intelligence,Edward F. Collingwood,5,Industrial Specialist,M562006
+562008,Chief of Army,Frederic Augustis,5,Armoured Spearhead Doctrine,M562008
+562037,Chief of Navy,H.C. Bigelow,5,Indirect Approach Doctrine,M562009
+562040,Chief of Air Force,H.F. Burnette,5,Naval Aviation Doctrine,M562010
+562042,Foreign Minister,Hugh Mackintosh Foot,5,Great Compromiser,Hugh_Mackintosh_Foot
+562021,Minister of Security,Lien James,5,Prince of Terror,M562020
+562051,Head of Military Intelligence,Manuel Ferrara,5,Dismal Enigma,M33006
+562050,Minister of Security,Sergio Carbo,5,Compassionate Gentleman,M33005
+562048,Head of Government,Sir Francis Stanley Jackson,5,Happy Amateur,M562002
+562003,Foreign Minister,Sir Geoffrey Stanfford Northcote,5,Apologetic Clerk,M562003
+562007,Chief of Staff,Sir George William Grogan,5,School of Psychology,Kaiserreich Grogan
+562099,Head of Government,Sir Gordon J. Lethem,5,Silent Workhorse,M562001
+562045,Minister of Armament,Sir Ralph Alnwick Grey,5,Administrative Genius,M562004
+562009,Chief of Navy,Sir Ralph Leatham,5,Decisive Naval Battle Doctrine,Kaiserreich Leatham
+562015,Head of Government,Reginald Stubbs,6,Backroom Backstabber,Reginald_Stubbs
+562034,Chief of Army,Sir George William Grogan,6,elastic defence doctrine,Kaiserreich Grogan
+562028,Chief of Staff,C.F. Drew,7,School of Psychology,L1111
+562016,Foreign Minister,Charles Joseph Loghie,7,The Cloak N Dagger Schemer,M562015
+562013,Head of Government,Frederick Derecourt,7,Corporate Suit,M562013
+562032,Chief of Army,H.F.L. Hilton-Green,7,Decisive Battle Doctrine,L1164
+562035,Chief of Navy,Henry Winslow,7,Base Control Doctrine,M562028
+562020,Minister of Security,James Christkirk,7,Crime Fighter,M562019
+562047,Head of Military Intelligence,Marcus Garvey,7,Political Specialist,GUY_marcus_garvey
+562018,Minister of Armament,Maurice Gordon,7,Resource Industrialist,M562017
+562038,Chief of Air Force,Mortimer Chesswood,7,Army Aviation Doctrine,M562030
+562024,Head of Military Intelligence,William J. Featherstone,7,Dismal Enigma,M562022
