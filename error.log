@@ -1,0 +1,55 @@
+[17:41:38][persistent.cpp:36]: Error: "Unexpected token: name, near line: 17842
+" in file: "events/00_annexations.txt" near line: 17842
+[17:45:09][graphics.cpp:1204]: No font with name 
+[17:45:20][graphics.cpp:1204]: No font with name 
+[17:45:21][graphics.cpp:1204]: No font with name 
+[17:45:35][graphics.cpp:1204]: No font with name 
+[17:46:26][graphics.cpp:1204]: No font with name 
+[17:46:28][graphics.cpp:1204]: No font with name 
+[17:47:06][graphics.cpp:1204]: No font with name 
+[17:47:32][graphics.cpp:1204]: No font with name 
+[17:47:54][graphics.cpp:1204]: No font with name 
+[17:48:00][graphics.cpp:1204]: No font with name 
+[17:48:00][graphics.cpp:1204]: No font with name 
+[17:48:07][graphics.cpp:1204]: No font with name 
+[17:48:39][graphics.cpp:1204]: No font with name 
+[17:49:13][graphics.cpp:1204]: No font with name 
+[17:49:41][graphics.cpp:1204]: No font with name 
+[17:49:41][graphics.cpp:1204]: No font with name 
+[17:50:41][graphics.cpp:1204]: No font with name 
+[17:51:03][graphics.cpp:1204]: No font with name 
+[17:52:03][graphics.cpp:1204]: No font with name 
+[17:53:44][graphics.cpp:1204]: No font with name 
+[17:54:14][graphics.cpp:1204]: No font with name 
+[17:54:22][graphics.cpp:1204]: No font with name 
+[17:55:12][graphics.cpp:1204]: No font with name 
+[17:55:48][graphics.cpp:1204]: No font with name 
+[17:57:48][graphics.cpp:1204]: No font with name 
+[17:58:25][gameidler.cpp:1401]: AI tried to post an invalid command: order_assign_command
+[17:58:28][effectbase.cpp:723]: *Tried to trigger non-existant event: hungary.2
+[17:58:33][unit.cpp:232]: Brandenburg Division has been placed in 788 at start, but that is enemy territory.
+[17:58:33][unit.cpp:232]: Hannover Division has been placed in 788 at start, but that is enemy territory.
+[17:58:43][unit.cpp:232]: Italian Socialist Volunteers has been placed in 3878 at start, but that is enemy territory.
+[17:58:44][graphics.cpp:1204]: No font with name 
+[17:59:03][unit.cpp:232]: I. St. Louis Militia has been placed in 4569 at start, but that is enemy territory.
+[17:59:03][unit.cpp:232]: II. St. Louis Militia has been placed in 4569 at start, but that is enemy territory.
+[18:00:53][graphics.cpp:1204]: No font with name 
+[18:02:16][graphics.cpp:1204]: No font with name 
+[18:02:48][graphics.cpp:1204]: No font with name 
+[18:03:17][unit.cpp:232]: Foreign Volunteers has been placed in 4056 at start, but that is enemy territory.
+[18:03:17][unit.cpp:232]: Foreign Volunteers has been placed in 4056 at start, but that is enemy territory.
+[18:03:17][graphics.cpp:1204]: No font with name 
+[18:03:26][graphics.cpp:1204]: No font with name 
+[18:03:26][graphics.cpp:1204]: No font with name 
+[18:04:07][effectbase.cpp:723]: *Tried to trigger non-existant event: cntd.2
+[18:04:08][graphics.cpp:1204]: No font with name 
+[18:04:58][graphics.cpp:1204]: No font with name 
+[18:05:45][graphics.cpp:1204]: No font with name 
+[18:06:36][graphics.cpp:1204]: No font with name 
+[18:06:56][graphics.cpp:1204]: No font with name 
+[18:09:00][graphics.cpp:1204]: No font with name 
+[18:09:10][unit.cpp:232]: Corps de la Wallonie has been placed in 11519 at start, but that is enemy territory.
+[18:09:10][unit.cpp:232]: 1ers Francs-Tireurs de Bruxelles has been placed in 516 at start, but that is enemy territory.
+[18:09:10][unit.cpp:232]: Corps de Nancy has been placed in 11516 at start, but that is enemy territory.
+[18:09:10][unit.cpp:232]: 1ers Francs-Tireurs d'Alsace has been placed in 9503 at start, but that is enemy territory.
+[18:09:21][gameidler.cpp:1401]: AI tried to post an invalid command: order_assign_command
