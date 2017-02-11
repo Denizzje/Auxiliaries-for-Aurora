@@ -1,0 +1,126 @@
+PAK,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+564113,Minister of Armament,Bhogaraju Pattabhi Sitaramayya,2,Keynesian Economy,PRKBho
+564115,Foreign Minister,Mahadev Desai,2,Great Compromiser,PRKMah
+564116,Minister of Security,Mohandas Karamchand Gandhi,2,Great Soul,PRKGandhi
+564114,Minister of Security,Rajkumari Amrit Kaur,2,Health and Safety,PRKAmr
+564059,Head of Military Intelligence,B. R. Ambedkar,3,Dismal Enigma,PAKAmb
+564055,Minister of Security,B. R. Ambedkar,3,Health and Safety,PAKAmb
+564072,Minister of Armament,Ghanshyam Das Birla,3,Keynesian Economy,PAKDas
+564070,Foreign Minister,Huseyn Shaheed Suhrawardy,3,Biased Intellectual,PAKHus
+564071,Minister of Security,K. P. Kesava Menon,3,Health and Safety,PAKMen
+564096,Minister of Security,Karam Chand Jain,3,Crime Fighter,PAKKaram
+564034,Foreign Minister,Liaquat Ali Khan,3,The Cloak N Dagger Schemer,M59052
+564132,Minister of Security,M. C. Chagla,3,Crime Fighter,PAKChag
+564058,Head of Military Intelligence,Maharaja K. S. Digvijaysinhji,3,Logistics Specialist,PAKDigv
+564098,Chief of Staff,Maharaja K. S. Digvijaysinhji,3,School of Psychology,PAKDigv
+564049,Minister of Security,Mehr Chand Mahajan,3,Silent Lawyer,PAKChand
+564092,Minister of Security,Morarji Desai,3,Compassionate Gentleman,PAKMor
+564091,Minister of Armament,Morarji Desai,3,Planned Economy Proponent,PAKMor
+564069,Head of Government,Muhammad Ali Jinnah,3,Gentleman Politician,PAKJin2
+564135,Foreign Minister,N. Gopalaswami Ayyangar,3,Great Compromiser,PAKAyy
+564121,Foreign Minister,Sachchidananda Sinha,3,Great Compromiser,PAKSac
+564133,Foreign Minister,Sheikh M. Abdullah,3,Ideological Crusader,PAKAbd
+564095,Minister of Armament,Sir Shanti Swaroop Bhatnagar,3,Theoretical Scientist,PAKSwa
+564122,Head of Government,V. K. Krishna Menon,3,Flamboyant Tough Guy,PAKVkm
+564123,Foreign Minister,V. K. Krishna Menon,3,Iron Fisted Brute,PAKVkm
+564086,Minister of Armament,Walchand Hirachand Doshi,3,Administrative Genius,PAKWil
+564127,Minister of Armament,Ambalal Sarabhai,4,Resource Industrialist,PAKSarabhai
+564041,Minister of Armament,Ardeshir Darabshaw Shroff,4,Mixed Economy,PAKShr
+564136,Minister of Security,B. G. Kher,4,Health and Safety,PAKKhe
+564137,Head of Government,B. G. Kher,4,Naive Optimist,PAKKhe
+564039,Minister of Armament,Chunnilal Devkaran Nanjee,4,Bank President,PAKDev
+564089,Chief of Air Force,Hardutt Singh Malikr,4,Air Superiority Doctrine,PAKHar
+564068,Minister of Armament,Kanaiyalal Maneklal Munshi,4,Industrialiser,PAKMun
+564138,Head of Government,Kanaiyalal Maneklal Munshi,4,Silent Workhorse,PAKMun
+564128,Head of Military Intelligence,Kasturbhai Lalbhai,4,Industrial Specialist,PAKKas
+564129,Minister of Armament,Kasturbhai Lalbhai,4,Industrialiser,PAKKas
+564067,Minister of Security,M. R. Jayakar,4,Health and Safety,PAKJay
+564015,Chief of Air Force,Mehar Singh,4,Army Aviation Doctrine,M59114
+564065,Head of Government,Narasimha Chintaman Kelkar,4,Happy Amateur,PAKChi
+564145,Minister of Armament,Nathu Singh Rathore,4,Reformer,PAKRat
+564029,Chief of Staff,Nathu Singh Rathore,4,School of Manoeuvre,PAKRat
+564043,Chief of Staff,Sayajirao Gaekwad III,4,School of Manoeuvre,PAKGae
+564141,Foreign Minister,Sir Cowasjee Jehangir,4,Great Compromiser,PAKJeh
+564090,Minister of Security,Sir Cowasjee Jehangir,4,Man of the People,PAKJeh
+564024,Chief of Army,Sir Frank Messervy,4,Commando Doctrine Army,M59102
+564033,Foreign Minister,Sir Girija Shankar Bajpai,4,Great Compromiser,PAKGir
+564051,Minister of Security,Sir Henry Gidney,4,Compassionate Gentleman,PAKHen
+564131,Foreign Minister,Sir R. P. Paranjpe,4,Biased Intellectual,PAKPar
+564066,Foreign Minister,Sir Shah Nawaz Bhutto,4,Biased Intellectual,PAKBhu
+564061,Foreign Minister,Sir Tej Bahadur Sapru,4,Apologetic Clerk,PAKTej
+564094,Chief of Staff,Umed Singh II of Kotah,4,School of Mass Combat,PAKUme
+564093,Chief of Army,Umed Singh II of Kotah,4,Static Defence Doctrine,PAKUme
+564025,Chief of Army,Archibald Wavell,5,Elastic Defence Doctrine,PAKWav
+564087,Minister of Armament,B.R. Shenoy,5,Laissez-Faire Capitalist,PAKShe
+564084,Chief of Air Force,Cecil Bouchier,5,Carpet Bombing Doctrine,PAKBou
+564108,Chief of Navy,D. N. Mukerji,5,Base Control Doctrine,INDMuk
+564050,Minister of Security,Evan Meredith Jenkins,5,Compassionate Gentleman,M564024
+564130,Chief of Navy,F.P.R. Noronha,5,Decisive Naval Battle Doctrine,PAKNoh
+564124,Chief of Army,Gopal Gurunath Bewoor,5,Doctrine of Autonomy,PAKGop
+564125,Chief of Staff,Gopal Gurunath Bewoor,5,School of Manoeuvre,PAKGop
+564126,Minister of Security,H. N. Kunzru,5,Man of the People,PAKKun
+564010,Chief of Air Force,Indra Lal Roy,5,Air Superiority Doctrine,PAKInd
+564038,Minister of Armament,Jehangir Ratanji Dadabhoy Tata,5,Vernacular Industrialiser,PAKTata
+564016,Chief of Navy,John Talbot-Savignac-Hall,5,Indirect Approach Doctrine,PAKTal
+564014,Chief of Air Force,Karun Krishna Majumdar,5,Vertical Envelopment Doctrine,PAKKar
+564140,Minister of Armament,Minocher Rustom Masani,5,Balanced Budget Economy,PAKMin
+564139,Head of Government,Minocher Rustom Masani,5,Corporate Suit,PAKMin
+564063,Head of Military Intelligence,Sardar Ujjal Singh,5,Technical Specialist,PAKSar
+564040,Minister of Armament,Sir Adershir Dalal,5,Construction Magnate,PAKAde
+564099,Chief of Army,Sir Amarsinhji Sahib,5,Guns and Butter Doctrine,PAKAma
+564005,Minister of Security,Sir C. P. Ramaswami Iyer,5,Crime Fighter,PAKCP
+564062,Minister of Security,Sir Syed Sultan Ahmed,5,Silent Lawyer,PAKSye
+564064,Minister of Armament,Sobha Singh,5,Resource Industrialist,PAKSob
+564060,Head of Government,V. S. Srinivasa Sastri,5,Flamboyant Tough Guy,PAKVss
+564146,Chief of Staff,Wamanrao Sawant,5,School of Fire Support,PAKWam
+564109,Chief of Navy,Adhar Kumar Chatterjee,6,Indirect Approach Doctrine,INDCha
+564036,Minister of Armament,Aga Khan III,6,Construction Magnate,PAKAga
+564020,Chief of Navy,Arthur Bedford,6,Indirect Approach Doctrine,PAKBed
+564101,Minister of Armament,Damodaran Asan A.S,6,Bank President,INDAsa
+564111,Minister of Security,Ghazanfar Ali Khan,6,Crime Fighter,PAKGha
+564085,Chief of Staff,Hugh Elles,6,School of Manoeuvre,PAKEll
+564032,Foreign Minister,Jagatjit Singh Bahadur,6,Biased Intellectual,PAKJaga
+564019,Chief of Navy,John Henry Godfrey,6,Open Seas Doctrine,PAKGod
+564053,Minister of Security,Khengarji III Sawai Bahadur,6,Compassionate Gentleman,PAKKhen
+564044,Chief of Staff,Khengarji III Sawai Bahadur,6,School of Defence,PAKKhen
+564097,Chief of Navy,Krishna Kumarsinhji Bhavsinhji,6,Base Control Doctrine,PAKBha
+564102,Minister of Security,M.A. Chacko,6,Crime Fighter,INDChac
+564030,Foreign Minister,Madan Mohan Malaviya,6,Great Compromiser,PakMadan
+564057,Head of Military Intelligence,Maharaja Bhagvatsingh Sahib,6,Political Specialist,PAKBhaga
+564007,Chief of Army,Maharaja Ganga Singh,6,Decisive Battle Doctrine,PAKGanga
+564002,Head of Government,Maharaja Ganga Singh,6,Respected War Hero,PAKGanga
+564045,Chief of Staff,Maharaja Ranbir Singh,6,School of Psychology,PAKRanbir
+564134,Chief of Staff,Maharaja Sadul Singh,6,School of Mass Combat,PAKSadulSingh
+564027,Chief of Army,Maharaja Sajjan Singh,6,Elastic Defence Doctrine,PAKSaj
+564054,Minister of Security,Maharaja Sawai Man Singh II,6,Man of the People,PAKSawai
+564088,Minister of Security,Malik Amir Mohammad Khan,6,Compassionate Gentleman,PAKMoh
+564142,Head of Government,Malik Khizar Hayat Tiwana,6,Flamboyant Tough Guy,PAKTiw
+564035,Foreign Minister,Malik Khizar Hayat Tiwana,6,Ideological Crusader,PAKTiw
+564026,Chief of Army,Malik Umar Hayat Khan,6,Armoured Spearhead Doctrine,PAKUmar
+564143,Foreign Minister,Muhammad Zafarullah Khan,6,Great Compromiser,PAKZaf
+564110,Chief of Navy,Ram Dass Katari,6,Indirect Approach Doctrine,INDRam
+564107,Chief of Air Force,Shri Krishna Chandra Welingkar,6,Air Superiority Doctrine,INDWel
+564144,Minister of Security,Sir Abdul Qadir,6,Compassionate Gentleman,PAKQad
+564003,Foreign Minister,Sir Atul Chandra Chatterjee,6,Ideological Crusader,PAKAtul
+564006,Head of Military Intelligence,Sir Basil John Gould,6,Logistics Specialist,PAKGou
+564018,Foreign Minister,Sir Benegal Narsing Rau,6,Biased Intellectual,PAKNar
+564037,Minister of Armament,Sir Benegal Rama Rau,6,Balanced Budget Economy,PAKBene
+564004,Minister of Armament,Sir C. D. Deshmukh,6,Administrative Genius,PAKCD
+564112,Head of Government,Sir Chhotu Ram,6,Flamboyant Tough Guy,PAKRam
+564074,Minister of Security,Sir Chhotu Ram,6,Man of the People,PAKRam
+564009,Chief of Navy,Sir Humphrey Thomas Walwyn,6,Power Projection Doctrine,PAKWal
+564075,Minister of Armament,Sir Mian Fazl-i-Husain,6,Planned Economy Proponent,PAKFaz
+564028,Chief of Staff,Sir Sikander Hayat Khan,6,School of Psychology,PAKSit
+564073,Head of Government,Sir Sikander Hayat Khan,6,Silent Workhorse,PAKSit
+564011,Chief of Air Force,Trilochan Singh,6,Carpet Bombing Doctrine,PAKTri
+564100,Foreign Minister,V. S. Subramanya Iyer,6,Apologetic Clerk,INDIye
+564042,Minister of Armament,Alfred Knox,7,Military Entrepreneur,PAKKno
+564047,Chief of Staff,Alfred Knox,7,School of Fire Support,PAKKno
+564021,Chief of Navy,Herbert Fitzherbert,7,Base Control Doctrine,PAKFitz
+564056,Head of Military Intelligence,John Burnett-Stuart,7,Logistics Specialist,PAKBurn
+564008,Chief of Staff,Maharaja Bhupinder Singh,7,School of Defence,PAKBhup
+564052,Minister of Security,Maharaja Pratap Singh Gaekwad,7,Media Magnate,PAKPratap
+564031,Foreign Minister,Maharaja Yadavindra Singh,7,Apologetic Clerk,PAKYada
+564046,Chief of Staff,Sir Claud Jacob,7,School of Fire Support,PAKJac
+564023,Chief of Army,Sir Sadeq Mohammad Khan V,7,Decisive Battle Doctrine,PAKSad

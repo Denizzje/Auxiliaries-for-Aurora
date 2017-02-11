@@ -1,0 +1,214 @@
+ETH,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+65122,Head of Military Intelligence,Maxamed Siyaad Barre,1,Dismal Enigma,ETH_siad_barre
+65121,Minister of Security,Maxamed Siyaad Barre,1,Prince of Terror,ETH_siad_barre
+65125,Head of Government,Alemework Beyene,2,Silent Workhorse,ETH_alemework_beyene
+65120,Foreign Minister,Ali Djamah,2,Ideological Crusader,ETH_ali_djamah
+65175,Chief of Air Force,Farah Ali Omar,2,Carpet Bombing Doctrine,Omar
+65164,Minister of Armament,Farah Ali Omar,2,Strategic Air Proponent,Omar
+65117,Chief of Army,Geresu Dukki,2,Elastic Defence Doctrine,ETH_geresu_dukki
+65116,Chief of Staff,Geresu Dukki,2,School of Manoeuvre,ETH_geresu_dukki
+65163,Foreign Minister,Germame Neway,2,Iron Fisted Brute,Neway
+65169,Minister of Security,Germame Neway,2,Back Stabber,Neway
+65127,Foreign Minister,Hamid Idris Awate,2,General Staffer,ETH_idris_awate
+65126,Head of Government,Hamid Idris Awate,2,Ambitious Union Boss,ETH_idris_awate
+65162,Head of Government,Ibrahim Sultan Ali,2,Ambitious Union Boss,Ali
+65170,Head of Military Intelligence,Mahmud Omar Ibrahim,2,Industrial Specialist,Ibrahim
+65165,Minister of Armament,Mahmud Omar Ibrahim,2,Resource Industrialist,Ibrahim
+65168,Minister of Security,Mahmud Omar Ibrahim,2,Man of the People,Ibrahim
+65172,Chief of Army,Mengistu Neway,2,Static Defence Doctrine,Neway1
+65171,Chief of Staff,Mengistu Neway,2,School of Defence,Neway1
+65115,Chief of Army,Tadesse Birru,2,Decisive Battle Doctrine,ETH_tadesse_birru
+65114,Chief of Staff,Tadesse Birru,2,School of Fire Support,ETH_tadesse_birru
+65174,Chief of Navy,Tafari Benti,2,Decisive Naval Battle Doctrine,Benti
+65166,Minister of Armament,Tafari Benti,2,Battle Fleet Proponent,Benti
+65173,Chief of Navy,Yilma Deressa,2,Indirect Approach Doctrine,Deressa
+65167,Minister of Armament,Yilma Deressa,2,Submarine Proponent,Deressa
+65265,Chief of Air Force,Abdullah al-Harari,3,Air Superiority Doctrine,al-Harari
+65252,Minister of Armament,Abdullah al-Harari,3,Air Superiority Proponent,al-Harari
+65109,Head of Government,Abebe Aregay,3,Old General,ETH_abebe_aregay
+65110,Minister of Security,Abebe Aregay,3,Crime Fighter,ETH_abebe_aregay
+65107,Chief of Army,Afework Wolde Semayit,3,Elastic Defence Doctrine,ETH_semayit
+65106,Chief of Staff,Afework Wolde Semayit,3,School of Defence,ETH_semayit
+65251,Minister of Armament,Afework Wolde Semayit,3,Military Entrepreneur,ETH_semayit
+65102,Chief of Army,Balcha Safo,3,Guns and Butter Doctrine,ETH_balcha_safo
+65101,Chief of Staff,Balcha Safo,3,School of Mass Combat,ETH_balcha_safo
+65249,Foreign Minister,Hassan Gouled Aptidon,3,The Cloak N Dagger Schemer,Aptidon
+65259,Head of Military Intelligence,Hassan Gouled Aptidon,3,Political Specialist,Aptidon
+65254,Minister of Armament,Hassan Gouled Aptidon,3,Corrupt Kleptocrat,Aptidon
+65257,Minister of Security,Hassan Gouled Aptidon,3,Crooked Kleptocrat,Aptidon
+65112,Foreign Minister,Lorenzo Taezaz,3,Great Compromiser,ETH_lorenzo_taezaz
+65113,Minister of Armament,Lorenzo Taezaz,3,Resource Industrialist,ETH_lorenzo_taezaz
+65263,Chief of Navy,Mohamed Abshir Muse,3,Decisive Naval Battle Doctrine,Muse
+65253,Minister of Armament,Mohamed Abshir Muse,3,Battle Fleet Proponent,Muse
+65266,Chief of Air Force,Mohamed Ibrahim Liqliqato,3,Vertical Envelopment Doctrine,Liqliqato
+65262,Chief of Navy,Mohamed Ibrahim Liqliqato,3,Base Control Doctrine,Liqliqato
+65119,Head of Military Intelligence,Mohammed Kamil,3,Logistics Specialist,ETH_mohammed_kamil
+65118,Minister of Security,Mohammed Kamil,3,Compassionate Gentleman,ETH_mohammed_kamil
+65264,Chief of Navy,Mukhtar Mohamed Hussein,3,Open Seas Doctrine,Hussein
+65261,Head of Military Intelligence,Mukhtar Mohamed Hussein,3,Naval Intelligence Specialist,Hussein
+65353,Head of Government,Tekle Wolde Hawaryat,3,Flamboyant Tough Guy,unknown
+65248,Foreign Minister,Woldeab Woldemariam,3,Apologetic Clerk,Woldemariam
+65247,Head of Government,Woldeab Woldemariam,3,Ambitious Union Boss,Woldemariam
+65255,Minister of Armament,Woldeab Woldemariam,3,Laissez-Faire Capitalist,Woldemariam
+65258,Minister of Security,Woldeab Woldemariam,3,Back Stabber,Woldemariam
+65250,Foreign Minister,Yaasiin Cismaan Keenadiid,3,Iron Fisted Brute,Keenadiid
+65260,Head of Military Intelligence,Yaasiin Cismaan Keenadiid,3,Dismal Enigma,Keenadiid
+65256,Minister of Security,Yaasiin Cismaan Keenadiid,3,Prince of Terror,Keenadiid
+65245,Chief of Air Force,Adamu Tesfaw,4,Air Superiority Doctrine,Tesfaw
+65230,Minister of Armament,Adamu Tesfaw,4,Air Superiority Proponent,Tesfaw
+65244,Chief of Air Force,Alimirah Hanfere,4,Naval Aviation Doctrine,Hanfere
+65242,Chief of Navy,Alimirah Hanfere,4,Power Projection Doctrine,Hanfere
+65233,Minister of Armament,Alimirah Hanfere,4,Air to Sea Proponent,Hanfere
+65240,Chief of Navy,Belay Zeleke,4,Indirect Approach Doctrine,Zeleke
+65231,Minister of Armament,Belay Zeleke,4,Submarine Proponent,Zeleke
+65226,Foreign Minister,Ghebrehannes Tesfamariam,4,Apologetic Clerk,Tesfamariam
+65228,Minister of Armament,Ghebrehannes Tesfamariam,4,Administrative Genius,Tesfamariam
+65235,Minister of Security,Ghebrehannes Tesfamariam,4,Efficient Sociopath,Tesfamariam
+65241,Chief of Navy,Girma Wolde-Giorgis,4,Open Seas Doctrine,Wolde-Giorgis
+65237,Head of Military Intelligence,Girma Wolde-Giorgis,4,Naval Intelligence Specialist,Wolde-Giorgis
+65111,Foreign Minister,Giyorgis Wolde Yohannes,4,Iron Fisted Brute,ETH_giyorgis_wolde_yohannes
+65295,Head of Government,Maascio Zewede,4,Corporate Suit,unknown
+65227,Foreign Minister,Seyoum Maascio,4,Biased Intellectual,Maascio
+65236,Head of Military Intelligence,Seyoum Maascio,4,Technical Specialist,Maascio
+65229,Minister of Armament,Seyoum Maascio,4,Theoretical Scientist,Maascio
+65234,Minister of Security,Seyoum Maascio,4,Man of the People,Maascio
+65243,Chief of Air Force,Tedla Bairu,4,Army Aviation Doctrine,Bairu
+65239,Chief of Army,Tedla Bairu,4,Guns and Butter Doctrine,Bairu
+65238,Chief of Staff,Tedla Bairu,4,School of Psychology,Bairu
+65232,Minister of Armament,Tedla Bairu,4,Air to Ground Proponent,Bairu
+65214,Foreign Minister,Araya Wassie,5,Ideological Crusader,Wassie
+65223,Minister of Security,Araya Wassie,5,Crime Fighter,Wassie
+65211,Head of Government,Asfaha Wolde Mikael,5,Backroom Backstabber,Mikael
+65224,Head of Military Intelligence,Asfaha Wolde Mikael,5,Political Specialist,Mikael
+65218,Minister of Armament,Asfaha Wolde Mikael,5,Laissez-Faire Capitalist,Mikael
+65222,Minister of Security,Asfaha Wolde Mikael,5,Back Stabber,Mikael
+65215,Foreign Minister,Endargatchew Messai,5,Biased Intellectual,Messai
+65212,Head of Government,Endargatchew Messai,5,Flamboyant Tough Guy,Messai
+65225,Head of Military Intelligence,Endargatchew Messai,5,Technical Specialist,Messai
+65217,Minister of Armament,Endargatchew Messai,5,Theoretical Scientist,Messai
+65221,Minister of Security,Endargatchew Messai,5,Compassionate Gentleman,Messai
+65103,Chief of Air Force,Mishka Babitchef,5,Vertical Envelopment Doctrine,ETH_mishka_babitchef
+65219,Minister of Security,Said Sefaf,5,Man of the People,Sefaf
+65216,Minister of Armament,Tesfayohannes Berhe,5,Administrative Genius,Berhe
+65220,Minister of Security,Tesfayohannes Berhe,5,Efficient Sociopath,Berhe
+65213,Foreign Minister,Tessema Eshete,5,The Cloak N Dagger Schemer,ETH_tessema_eshete
+65104,Minister of Armament,Tessema Eshete,5,Corrupt Kleptocrat,ETH_tessema_eshete
+65075,Chief of Staff,Abanefso Balcha,6,School of Mass Combat,M65075
+65063,Minister of Security,Ato Fassika,6,Prince of Terror,M65063
+65208,Chief of Army,Beyene Merid,6,Elastic Defence Doctrine,Merid
+65207,Chief of Staff,Beyene Merid,6,School of Manoeuvre,Merid
+65105,Foreign Minister,Blantangeta Hiruy Wolde Selassie,6,Great Compromiser,ETH_blantangeta
+65040,Head of Government,Blatta Zawde Belaineh,6,Silent Workhorse,M65024
+65055,Minister of Armament,Blatta Zawde Belaineh,6,Resource Industrialist,M65024
+65087,Chief of Navy,Dedja Zinatch Nadeon,6,Power Projection Doctrine,M65029
+65048,Foreign Minister,Dedja Zinatch Nadeon,6,Iron Fisted Brute,M65029
+65092,Chief of Air Force,Gabriel Zawde Gilaneh,6,Army Aviation Doctrine,M65030
+65197,Foreign Minister,Haregot Abbai,6,The Cloak N Dagger Schemer,Abbai
+65206,Head of Military Intelligence,Haregot Abbai,6,Dismal Enigma,Abbai
+65354,Minister of Armament,Haregot Abbai,6,Laissez-Faire Capitalist,Abbai
+65203,Minister of Security,Haregot Abbai,6,Silent Lawyer,Abbai
+65198,Foreign Minister,Kidane Mariam,6,Ideological Crusader,Mariam
+65205,Head of Military Intelligence,Kidanemariam Ghebremeskel,6,Political Specialist,Ghebremeskel
+65201,Minister of Armament,Kidanemariam Ghebremeskel,6,Corrupt Kleptocrat,Ghebremeskel
+65204,Minister of Security,Kidanemariam Ghebremeskel,6,Crooked Kleptocrat,Ghebremeskel
+65083,Chief of Army,Lij Abiye Abebe,6,Armoured Spearhead Doctrine,M65078
+65070,Head of Military Intelligence,Lij Araya Abebe,6,Industrial Specialist,M65070
+65062,Minister of Security,Ras Gugsa Arya,6,Compassionate Gentleman,M65025
+65039,Head of Government,Ras Imru Haile Selassie,6,Corporate Suit,M65021
+65069,Head of Military Intelligence,Ras Imru Haile Selassie,6,Political Specialist,M65021
+65047,Foreign Minister,Ras Sega,6,Biased Intellectual,M65023
+65199,Minister of Armament,Saleh Ahmed Kekia,6,Administrative Genius,Kekia
+65202,Minister of Security,Saleh Ahmed Kekia,6,Efficient Sociopath,Kekia
+65049,Foreign Minister,Tsehafe Taezaz,6,Ideological Crusader,M65049
+65056,Minister of Armament,Wagshum Wosen Hailu,6,Tank Proponent,M65056
+65081,Chief of Army,Woldemeskal Tariku,6,Guns and Butter Doctrine,M65027
+65074,Chief of Staff,Woldemeskal Tariku,6,School of Defence,M65027
+65209,Chief of Air Force,Yosef Ben-Jochannan,6,Air Superiority Doctrine,Ben-Jochannan
+65200,Minister of Armament,Yosef Ben-Jochannan,6,Air Superiority Proponent,Ben-Jochannan
+65196,Chief of Air Force,Abubakar Garad Usman,7,Air Superiority Doctrine,Usman
+65180,Minister of Armament,Abubakar Garad Usman,7,Air Superiority Proponent,Usman
+65178,Foreign Minister,Akalework Habte-Wold,7,Iron Fisted Brute,Habte-Wold2
+65186,Minister of Security,Akalework Habte-Wold,7,Prince of Terror,Habte-Wold2
+65043,Foreign Minister,Aklilu Habtewold,7,Biased Intellectual,M65043
+65058,Minister of Security,Aklilu Habtewold,7,Efficient Sociopath,M65058
+65193,Chief of Navy,Bashir Ismail Yusuf,7,Decisive Naval Battle Doctrine,Yusuf
+65182,Minister of Armament,Bashir Ismail Yusuf,7,Battle Fleet Proponent,Yusuf
+65002,Head of Government,Bedjironde Tekle Hawariate,7,Happy Amateur,M65002
+65005,Minister of Security,Bedjironde Tekle Hawariate,7,Crime Fighter,M65002
+65191,Chief of Army,Beine Barakhi,7,Static Defence Doctrine,Barakhi
+65190,Chief of Staff,Beine Barakhi,7,School of Defence,Barakhi
+65059,Minister of Security,Deajaz Gabremariam,7,Compassionate Gentleman,M65059
+65008,Chief of Army,Desta Damtew,7,Guns and Butter Doctrine,M65008
+65065,Head of Military Intelligence,Fikre Selasse Katama,7,Logistics Specialist,M65065
+65189,Head of Military Intelligence,Gebremeskel Woldu,7,Industrial Specialist,Woldu
+65181,Minister of Armament,Gebremeskel Woldu,7,Resource Industrialist,Woldu
+65185,Minister of Security,Gebremeskel Woldu,7,Man of the People,Woldu
+65195,Chief of Air Force,Haddis Alemayehu,7,Naval Aviation Doctrine,Alemayehu
+65194,Chief of Navy,Haddis Alemayehu,7,Power Projection Doctrine,Alemayehu
+65184,Minister of Armament,Haddis Alemayehu,7,Air to Sea Proponent,Alemayehu
+65077,Chief of Army,Haile Abba Mersa,7,Decisive Battle Doctrine,M65077
+65006,Head of Military Intelligence,Haile Selassie I,7,Logistics Specialist,M65001
+65072,Chief of Staff,Haile Wolde Rufe,7,School of Mass Combat,M65072
+65071,Chief of Staff,Hapte Mikael Agafari,7,School of Psychology,M65071
+65003,Foreign Minister,Herouy Wolde Selassie,7,General Staffer,M65003
+65004,Minister of Armament,Herouy Wolde Selassie,7,Military Entrepreneur,M65003
+65010,Chief of Air Force,John Robinson,7,Vertical Envelopment Doctrine,M65010
+65042,Foreign Minister,Makonnen Endelkatchew,7,Great Compromiser,M65036
+65036,Head of Government,Makonnen Endelkatchew,7,Political Protege,M65036
+65177,Foreign Minister,Makonnen Habte-Wold,7,Ideological Crusader,Habte-Wold1
+65188,Minister of Security,Makonnen Habte-Wold,7,Back Stabber,Habte-Wold1
+65044,Foreign Minister,Mered Azmatch Asfa Wossen,7,The Cloak N Dagger Schemer,M65044
+65089,Chief of Air Force,Mesfin Sileshi,7,Carpet Bombing Doctrine,M65089
+65192,Chief of Navy,Nasibu Zamanuael,7,Indirect Approach Doctrine,Zamanuael1
+65183,Minister of Armament,Nasibu Zamanuael,7,Submarine Proponent,Zamanuael1
+65176,Foreign Minister,Omar Hassano,7,Apologetic Clerk,Hassano
+65179,Minister of Armament,Omar Hassano,7,Administrative Genius,Hassano
+65187,Minister of Security,Omar Hassano,7,Silent Lawyer,Hassano
+65050,Minister of Armament,Pierre Linant de Bellefonds,7,Administrative Genius,M65050
+65007,Chief of Staff,Ras Mulugueta,7,School of Defence,M65007
+65066,Head of Military Intelligence,Tamrat Yigezu,7,Dismal Enigma,M65066
+65294,Head of Government,Tekle Hawariat Tekle Mariyam,7,Happy Amateur,M65002
+65052,Minister of Armament,Tsehafe Taezaz,7,Air Superiority Proponent,M65049
+65084,Chief of Navy,Wondossen Kassa,7,Open Seas Doctrine,M65084
+65131,Foreign Minister,Abdulkadir Mohamed Saleh Kebire,8,Biased Intellectual,Kebire
+65133,Head of Military Intelligence,Abdulkadir Mohamed Saleh Kebire,8,Technical Specialist,Kebire
+65132,Minister of Armament,Abdulkadir Mohamed Saleh Kebire,8,Theoretical Scientist,Kebire
+65155,Head of Military Intelligence,Dirie Hirsi,8,Industrial Specialist,Hirsi
+65154,Minister of Armament,Dirie Hirsi,8,Resource Industrialist,Hirsi
+65099,Chief of Air Force,Fitauri Zawde Gobena,8,Air Superiority Doctrine,M65020
+65148,Minister of Armament,Fitauri Zawde Gobena,8,Air Superiority Proponent,M65020
+65147,Chief of Army,Getachew Abate,8,Guns and Butter Doctrine,M65014
+65146,Chief of Staff,Getachew Abate,8,School of Psychology,M65014
+65145,Head of Military Intelligence,Getachew Abate,8,Logistics Specialist,M65014
+65144,Minister of Armament,Getachew Abate,8,Military Entrepreneur,M65014
+65138,Chief of Air Force,Haile Kebbede,8,Army Aviation Doctrine,M65017
+65137,Chief of Army,Haile Kebbede,8,Elastic Defence Doctrine,M65017
+65136,Chief of Staff,Haile Kebbede,8,School of Defence,M65017
+65134,Foreign Minister,Haile Kebbede,8,General Staffer,M65017
+65135,Minister of Armament,Haile Kebbede,8,Air to Ground Proponent,M65017
+65100,Head of Government,Haile Selassie Gugsa,8,Naive Optimist,M65012
+65097,Head of Military Intelligence,Haile Selassie Gugsa,8,Political Specialist,M65012
+65141,Foreign Minister,Hailu Tekle Haymanot,8,Iron Fisted Brute,M65013
+65142,Minister of Armament,Hailu Tekle Haymanot,8,Corrupt Kleptocrat,M65013
+65143,Minister of Security,Hailu Tekle Haymanot,8,Crooked Kleptocrat,M65013
+65129,Foreign Minister,Kantiba Wosene Zamanel,8,Ideological Crusader,M65015
+65130,Minister of Security,Kantiba Wosene Zamanel,8,Prince of Terror,M65015
+65151,Chief of Army,Kassa Haile Darge,8,Decisive Battle Doctrine,M65018
+65150,Chief of Staff,Kassa Haile Darge,8,School of Mass Combat,M65018
+65149,Minister of Armament,Kassa Haile Darge,8,Infantry Proponent,M65018
+65157,Chief of Navy,Kifle Yaqob,8,Open Seas Doctrine,M65011
+65156,Head of Military Intelligence,Kifle Yaqob,8,Naval Intelligence Specialist,M65011
+65096,Minister of Security,Lij Asrate,8,Silent Lawyer,M65061
+65140,Foreign Minister,Mohamoud Ali Shire,8,Great Compromiser,Shire
+65139,Minister of Security,Mohamoud Ali Shire,8,Man of the People,Shire
+65094,Foreign Minister,Ras Hailu Tekle Haimanot,8,Iron Fisted Brute,M65013
+65095,Minister of Armament,Ras Hailu Tekle Haimanot,8,Corrupt Kleptocrat,M65013
+65082,Chief of Army,Ras Kassa,8,Static Defence Doctrine,M65018
+65009,Chief of Navy,Ras Seyum,8,Indirect Approach Doctrine,M65009
+65159,Chief of Army,Seyum Mangasha,8,Static Defence Doctrine,M65009
+65160,Chief of Navy,Seyum Mangasha,8,Indirect Approach Doctrine,M65009
+65158,Chief of Staff,Seyum Mangasha,8,School of Manoeuvre,M65009
+65128,Foreign Minister,Tekle Markos Wolde Gabriel,8,The Cloak N Dagger Schemer,M65067
+65153,Chief of Air Force,Zerai Deres,8,Carpet Bombing Doctrine,Deres
+65152,Minister of Armament,Zerai Deres,8,Strategic Air Proponent,Deres

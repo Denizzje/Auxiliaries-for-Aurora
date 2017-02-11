@@ -1,0 +1,120 @@
+PRK,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+579115,Foreign Minister,A. C. N. Nambiar,0,Great Compromiser,PRKNam
+579117,Chief of Army,A.D.Loganadan,0,Armoured Spearhead Doctrine,PRKLog
+579118,Chief of Staff,A.D.Loganadan,0,School of Fire Support,PRKLog
+579033,Foreign Minister,Alexandra David-Néel,0,Ideological Crusader,PRKAlex
+579058,Chief of Army,Bhagat Singh,0,Doctrine of Autonomy,KRBhagat_Singh
+579057,Minister of Security,Chandrasekhar Azad,0,Efficient Sociopath,PRKCha
+579080,Chief of Air Force,Gurbachan Singh,0,Army Aviation Doctrine,PRKGur
+579074,Head of Government,Hemanta Kumar Sarkar,0,Ambitious Union Boss,PRKHem
+579081,Minister of Armament,Leela Roy,0,Planned Economy Proponent,PRKLee
+579107,Head of Military Intelligence,Muzaffar Ahmed,0,Logistics Specialist,PRKMuz
+579106,Minister of Armament,Nalini Ranjan Sarkar ,0,Administrative Genius,PRKNal
+579006,Foreign Minister,Sarat Chandra Bose,0,The Cloak N Dagger Schemer,M59045
+579023,Foreign Minister,Sardul Singh Caveeshar,0,Biased Intellectual,PRKCav
+579004,Foreign Minister,Subhas Chandra Bose,0,General Staffer,KRSubhas
+579014,Chief of Staff,Subhas Chandra Bose,0,School of Manoeuvre,KRSubhas
+579019,Minister of Security,Subhas Chandra Bose,0,Compassionate Gentleman,KRSubhas
+579105,Minister of Security,U. Muthuramalingam Thevar,0,Secret Police Chief,PRKMut
+579062,Chief of Staff,Virendranath Chattopadhyaya,0,School of Fire Support,KRVirendranath
+579129,Minister of Armament,Army Reform Committee,1,Army Reform Committee,PRKRef
+579070,Chief of Staff,Bhai Bhagwan Singh,1,School of Mass Combat,KRBhag
+579071,Foreign Minister,Bhavabhushan Mitra,1,Ideological Crusader,KRMitra
+579065,Minister of Armament,Bhupendra Kumar Datta,1,Resource Industrialist,KRDatta
+579066,Chief of Army,Bhupendra Kumar Datta,1,Guns and Butter Doctrine,KRDatta
+579095,Chief of Staff,Chempakaraman Pillai,1,School of Defence,INDChem
+579096,Chief of Army,Chempakaraman Pillai,1,Decisive Battle Doctrine,INDChem
+579078,Chief of Air Force,Dodla Ranga Reddy,1,Carpet Bombing Doctrine,PRKDad
+579125,Minister of Armament,Gulzarilal Nanda,1,Industrialiser,PRKGul
+579072,Head of Government,Jawaharlal Nehru,1,Flamboyant Tough Guy,PRKNeh
+579073,Minister of Armament,Jawaharlal Nehru,1,Industrialiser,PRKNeh
+579108,Head of Government,Jayaprakash Narayan,1,Naive Optimist,PRKJay
+579109,Foreign Minister,Jayaprakash Narayan,1,Great Compromiser,PRKJay
+579008,Minister of Armament,Lal Bahadur Shastri,1,Administrative Genius,PRKSha
+579126,Head of Government,Lal Bahadur Shastri,1,Silent Workhorse,PRKSha
+579026,Head of Military Intelligence,M. A. G. Osmani,1,Logistics Specialist,MAG_Osmani
+579029,Chief of Navy,M. A. G. Osmani,1,Base Control Doctrine,MAG_Osmani
+579055,Chief of Staff,M. A. G. Osmani,1,School of Mass Combat,MAG_Osmani
+579056,Chief of Army,M. A. G. Osmani,1,Armoured Spearhead Doctrine,MAG_Osmani
+579099,Chief of Staff,Mahendra Pratap,1,School of Fire Support,PRKPra
+579100,Chief of Army,Mahendra Pratap,1,Elastic Defence Doctrine,PRKPra
+579069,Head of Military Intelligence,Manabendra Nath Roy,1,Logistics Specialist,KRNath
+579110,Head of Government,Manabendra Nath Roy,1,Reformist Soldierhog,KRNath
+579098,Chief of Air Force,P. Krishna Pillai,1,Carpet Bombing Doctrine,INDPPil
+579030,Chief of Air Force,P. Krishnamurti,1,Army Aviation Doctrine,PRKPkr
+579122,Minister of Security,Puran Chand Joshi,1,Crime Fighter,PRKPcj
+579123,Head of Government,Puran Chand Joshi,1,Reformist Soldierhog,PRKPcj
+579063,Head of Military Intelligence,Rahul Sankrityayan,1,Industrial Specialist,KRRahul
+579027,Chief of Staff,Rash Behari Bose,1,School of Psychology,PRKReh
+579036,Head of Military Intelligence,Rash Behari Bose,1,Political Specialist,PRKReh
+579050,Chief of Army,Rash Behari Bose,1,Elastic Defence Doctrine,PRKReh
+579113,Chief of Staff,Sahajanand Saraswati,1,School of Mass Combat,PRKSah
+579097,Chief of Navy,Sannappa Parameshwar Gaonkar,1,Decisive Naval Battle Doctrine,INDPara
+579060,Minister of Security,Sarojini Naidu,1,Man of the People,KRNaidu
+579101,Chief of Staff,Shripad Amrit Dange,1,Commando Doctrine Staff,PRKDan
+579102,Chief of Army,Shripad Amrit Dange,1,Commando Doctrine Army,PRKDan
+579103,Head of Government,Shripad Amrit Dange,1,Ambitious Union Boss,PRKDan
+579061,Foreign Minister,Sohan Singh Bhakna,1,General Staffer,KRSohan
+579119,Chief of Army,Surya Sen,1,Doctrine of Autonomy,PRKSen
+579120,Minister of Armament,Surya Sen,1,Reformer,PRKSen
+579079,Chief of Air Force,Syed Naseem Haider,1,Naval Aviation Doctrine,PRKHai
+579028,Chief of Army,Tarak Nath Das,1,Elastic Defence Doctrine,Tarak_Nath_Das
+579037,Chief of Staff,Tarak Nath Das,1,School of Manoeuvre,Tarak_Nath_Das
+579093,Chief of Staff,Thakin Soe,1,School of Manoeuvre,BURSoe
+579094,Chief of Army,Than Tun,1,Guns and Butter Doctrine,BURTun
+579112,Minister of Security,V. M. Tarkunde,1,Crime Fighter,PRKVmt
+579116,Head of Military Intelligence,V. Subbiah,1,Political Specialist,PRKSub
+579007,Minister of Armament,Vallabhbhai Jhaverbhai Patel,1,Mixed Economy,PRKPat
+579083,Foreign Minister,Vallabhbhai Jhaverbhai Patel,1,Iron Fisted Brute,PRKPat
+579064,Minister of Security,Vinayak Damodar Savarkar,1,Prince of Terror,PRKVin
+579092,Head of Military Intelligence,Abdul Razak,2,Dismal Enigma,BURAbd
+579005,Foreign Minister,Ananthasayanam Ayyangar,2,Great Compromiser,M59044
+579089,Foreign Minister,Aung San,2,Ideological Crusader,BURAun
+579087,Chief of Staff,Ba Cho,2,School of Defence,BURBoc
+579090,Minister of Armament,Ba Win,2,Resource Industrialist,BURWin
+579015,Chief of Staff,Barindra Kumar Ghosh,2,School of Mass Combat,PRKBar
+579016,Chief of Navy,Bhaskar Soman,2,Decisive Naval Battle Doctrine,M59107
+579075,Minister of Armament,Bhogaraju Pattabhi Sitaramayya,2,Keynesian Economy,PRKBho
+579009,Minister of Armament,Dr. John Mathai,2,Balanced Budget Economy,M59039
+579077,Head of Military Intelligence,J. B. Kripalani,2,Logistics Specialist,PRKKri
+579012,Head of Military Intelligence,Jagjivan Ram,2,Political Specialist,PRKJag
+579034,Minister of Armament,Jnananjan Niyogi,2,Administrative Genius,Jnananjan_Niyogi
+579067,Chief of Navy,Lala Har Dayal,2,Power Projection Doctrine,KRLar
+579018,Chief of Army,M. P. T. Acharya,2,Guns and Butter Doctrine,PRKAch
+579084,Foreign Minister,Mahadev Desai,2,Great Compromiser,PRKMah
+579035,Minister of Security,Maulana Bhashani,2,Man of the People,Maulana_Bhashani
+579002,Head of Government,Mohandas Karamchand Gandhi,2,Silent Workhorse,PRKGandhi
+579020,Minister of Security,Mohandas Karamchand Gandhi,2,Great Soul,PRKGandhi
+579003,Head of Government,Narendra Deva,2,Ambitious Union Boss,PRKNar
+579086,Chief of Air Force,Niranjan Prasad,2,Air Superiority Doctrine,PRKNir
+579043,Chief of Staff,Pandit Parmanand,2,School of Defence,Pandit_Parmanand
+579044,Chief of Army,Pandit Parmanand,2,Elastic Defence Doctrine,Pandit_Parmanand
+579127,Head of Government,Panjabrao Deshmukh,2,Ambitious Union Boss,PRKDes
+579128,Minister of Armament,Panjabrao Deshmukh,2,Theoretical Scientist,PRKDes
+579054,Minister of Armament,Prafulla Chandra Roy,2,Theoretical Scientist,Prafulla_Chandra_Roy
+579114,Minister of Armament,Prasanta C. Mahalanobis,2,Industrialiser,PRKMaha
+579068,Chief of Air Force,Pulin Behari Das,2,Air Superiority Doctrine,KRDas
+579022,Head of Government,Rabindranath Tagore,2,Silent Workhorse,KRTagore
+579011,Minister of Security,Rafi Ahmed Kidwai,2,Crime Fighter,M59068
+579013,Head of Military Intelligence,Rafi Ahmed Kidwai,2,Dismal Enigma,M59068
+579076,Minister of Security,Rajkumari Amrit Kaur,2,Health and Safety,PRKAmr
+579021,Head of Government,Shri Aurobindo,2,Naive Optimist,KRAuro
+579017,Chief of Air Force,Subroto Mukherjee,2,Army Aviation Doctrine,M59115
+579091,Minister of Security,Thakin Mya,2,Compassionate Gentleman,BURMayt
+579088,Foreign Minister,U Nu,2,The Cloak N Dagger Schemer,BURUnu
+579038,Chief of Army,Baba Prithvi Singh Azad,3,Elastic Defence Doctrine,Baba_Prithvi_Singh_Azad
+579049,Minister of Security,Bidhan Chandra Roy,3,Compassionate Gentleman,Bidhan_Chandra_Roy
+579124,Head of Government,Bidhan Chandra Roy,3,Happy Amateur,Bidhan_Chandra_Roy
+579032,Head of Government,Muhammad Ali Bogra,3,Ambitious Union Boss,Muhammad_Ali_Bogra
+579048,Minister of Security,Narayan Roy,3,Crime Fighter,Narayan_Roy
+579047,Foreign Minister,Paramhansa Yogananda,3,Great Compromiser,Paramhansa_Yogananda
+579042,Minister of Security,Bhupal Bose,4,Silent Lawyer,Bhupal_Bose
+579010,Minister of Armament,Hitendra Desai,4,Resource Industrialist,M59060
+579053,Foreign Minister,Sri Anandamoyi Ma,4,Great Compromiser,Sri_Anandamoyi_Ma
+579052,Head of Government,Sucheta Kriplani,4,Political Protege,Sucheta_Kriplani
+579040,Head of Government,Huseyn Shaheed Suhrawardy,5,Ambitious Union Boss,Huseyn_Shaheed_Suhrawardy
+579041,Foreign Minister,Sisir Kumar Maitra,5,Biased Intellectual,Sisir_Kumar_Maitra
+579046,Head of Government,Khawaja Nazimuddin,6,Political Protege,Khawaja_Nazimuddin
+579024,Minister of Armament,Syama Prasad Mookerjee,6,Theoretical Scientist,Syama_Prasad_Mookerjee
+579025,Minister of Security,A.C. Bhaktivedanta Swami Prabhupada,7,Compassionate Gentleman,AC_Bhaktivedanta_Swami_Prabhupada
