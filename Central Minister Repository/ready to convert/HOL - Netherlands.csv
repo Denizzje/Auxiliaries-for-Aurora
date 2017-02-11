@@ -1,0 +1,134 @@
+HOL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+8162,Chief of Army,Alexander de Leeuw,0,Elastic Defence Doctrine,M8162
+8164,Chief of Army,Anthon Koejemans,0,Guns and Butter Doctrine,M8164
+8072,Foreign Minister,Benjamin Boers,0,Great Compromiser,M8040
+8056,Head of Government,Daniel Goulooze,0,Smiling Oilman,M8025
+8125,Minister of Security,Daniel Goulooze,0,Crime Fighter,M8025
+8074,Foreign Minister,David Wijnkoop,0,Biased Intellectual,M8022
+8055,Head of Government,David Wijnkoop,0,Naive Optimist,M8022
+8171,Chief of Navy,Fokke Bosman,0,Open Seas Doctrine,M8123
+8123,Minister of Security,Fokke Bosman,0,Compassionate Gentleman,M8123
+8152,Chief of Staff,Geert Sterringa,0,School of Defence,M8152
+8124,Minister of Security,Hendrickus Sneevliet,0,Man of the People,M8124
+8141,Head of Military Intelligence,Ina Willekes-MacDonald,0,Dismal Enigma,M8141
+8179,Chief of Air Force,Jan Dieters,0,Vertical Envelopment Doctrine,M8041
+8073,Foreign Minister,Nicolaas Beuzemaker,0,The Cloak N Dagger Schemer,M8054
+8054,Head of Government,Nicolaas Beuzemaker,0,Happy Amateur,M8054
+8102,Minister of Armament,Peiter Bergsma,0,laissez-faire capitalist,M8102
+8151,Chief of Staff,Thomas Struik,0,School of Mass Combat,M8027
+8140,Head of Military Intelligence,Abraham Menist,1,Political Specialist,M8026
+8170,Chief of Navy,Christiaan Beekman,1,Base Control Doctrine,M8170
+8153,Chief of Staff,Jacobus Engels,1,School of Psychology,M8105
+8105,Minister of Armament,Jacobus Engels,1,Strategic Air Proponent,M8105
+8103,Minister of Armament,Jacques de Kadt,1,Military Entrepreneur,M8081
+8104,Minister of Armament,Jan Postma,1,Theoretical Scientist,M8024
+8180,Chief of Air Force,Julius Zegers,1,Air Superiority Doctrine,M8030
+8163,Chief of Army,Nico van Straaten,1,Armoured Spearhead Doctrine,M8028
+8075,Foreign Minister,Paul de Groot,1,Ideological Crusader,M8021
+8076,Foreign Minister,Willem van Ravesteyn,1,Apologetic Clerk,M8023
+8029,Chief of Navy,Karel Doorman,2,Open Seas Doctrine,M8029
+8192,Minister of Armament,Louis de Visser,2,Theoretical Scientist,M8192
+8058,Foreign Minister,Adrianus Pelt,3,Apologetic Clerk,M8058
+8182,Chief of Army,Bernhard Coltof,3,Elastic Defence Doctrine,M8142
+8142,Chief of Staff,Bernhard Coltof,3,School of Psychology,M8142
+8062,Foreign Minister,Charles Guillaume Cramer,3,The Cloak N Dagger Schemer,M8062
+8128,Head of Military Intelligence,Charles Guillaume Cramer,3,Technical Specialist,M8062
+8082,Minister of Armament,Charles Guillaume Cramer,3,Air Superiority Proponent,M8062
+8109,Minister of Security,Charles Guillaume Cramer,3,Silent Lawyer,M8062
+8079,Minister of Armament,Charles Welter,3,Theoretical Scientist,M8079
+8126,Head of Military Intelligence,Emanuel Boekman,3,Dismal Enigma,M8126
+8106,Minister of Security,Franc van der Goes,3,Man of the People,M8106
+8059,Foreign Minister,George van den Bergh,3,Iron Fisted Brute,M8059
+8127,Head of Military Intelligence,Harmen de Boer,3,Political Specialist,M8127
+8077,Minister of Armament,Jacob van Gelderen,3,laissez-faire capitalist,M8077
+8107,Minister of Security,Jan Bergmeijer,3,Compassionate Gentleman,M8107
+8129,Head of Military Intelligence,Jan Lambertus Faber,3,Political Specialist,M8129
+8084,Minister of Armament,Jan Tinbergen,3,Resource Industrialist,M8084
+8060,Foreign Minister,Jan van Royen,3,Biased Intellectual,M8060
+8043,Head of Government,Johan Albarda,3,Happy Amateur,M8043
+8080,Minister of Armament,Johan Albarda,3,laissez-faire capitalist,M8043
+8110,Minister of Security,Johan Brautigam,3,Prince of Terror,M8110
+8078,Minister of Armament,Lambertus H. Mansholt,3,Resource Industrialist,M8078
+8197,Minister of Security,Leendert A. Donker,3,Compassionate Gentleman,M8197
+8108,Minister of Security,Louis Beel,3,Man of the People,M8044
+8172,Chief of Air Force,Petrus W. Best,3,Naval Aviation Doctrine,M8172
+8057,Foreign Minister,Servatius Baart,3,Great Compromiser,M8057
+8188,Head of Government,Willem Drees,3,Ambitious Union Boss,M8130
+8130,Head of Military Intelligence,Willem Drees,3,Logistics Specialist,M8130
+8191,Minister of Armament,Wim Schokking,3,Air to Ground Proponent,M8191
+8189,Foreign Minister,Dirk U. Stikker,4,Great Compromiser,M8189
+8196,Minister of Security,Henrik Mulderije,4,Crime Fighter,M8196
+8190,Foreign Minister,Jan Willem Beyen,4,Apologetic Clerk,M8190
+8193,Minister of Armament,Kees Staf,4,Resource Industrialist,M8193
+8195,Minister of Security,Teun Struiken,4,Back Stabber,M8195
+8083,Minister of Armament,Alexander Fiévez,5,Administrative Genius,M8083
+8087,Minister of Armament,Daniel van der Zee,5,Air to Sea Proponent,M8087
+8113,Minister of Security,Fedde Schurer,5,Man of the People,M8113
+8134,Head of Military Intelligence,Frans Fuykschot,5,Dismal Enigma,M8134
+8133,Head of Military Intelligence,G.J. Sas,5,Logistics Specialist,M8133
+8131,Head of Military Intelligence,H.A. van Kamebeek,5,Technical Specialist,M8131
+8063,Foreign Minister,Hendricus Colijn,5,Ideological Crusader,M8002
+8002,Head of Government,Hendricus Colijn,5,Silent Workhorse,M8002
+8156,Chief of Army,Henri Winkelman,5,Elastic Defence Doctrine,M8154
+8064,Foreign Minister,Jacobus Patijn,5,Apologetic Clerk,M8064
+8091,Minister of Armament,James de Booy,5,Battle Fleet Proponent,M8091
+8132,Head of Military Intelligence,Jan Slotemaker,5,Logistics Specialist,M8132
+8155,Chief of Army,Jan van Voorst tot Voorst,5,Static Defence Doctrine,M8155
+8093,Minister of Armament,Joest van Hamel,5,Military Entrepreneur,M8093
+8009,Chief of Navy,Johannes Furstner,5,Indirect Approach Doctrine,M8009
+8092,Minister of Armament,Johannes Meynen,5,Theoretical Scientist,M8092
+8194,Minister of Security,Johannes van Maarseveen,5,Silent Lawyer,M8194
+8115,Minister of Security,John Loudon,5,Compassionate Gentleman,M8115
+8005,Minister of Security,Josephus H.H. van Schaik,5,Silent Lawyer,M8005
+8044,Head of Government,Louis Beel,5,Smiling Oilman,M8044
+8010,Chief of Air Force,Marius Raaijmakers,5,Air Superiority Doctrine,M8010
+8090,Minister of Armament,O. van Lidth de Jeude,5,Administrative Genius,M8090
+8046,Head of Government,Pieter Gerbrandy,5,Flamboyant Tough Guy,M8046
+8112,Minister of Security,Pieter Gerbrandy,5,Crime Fighter,M8046
+8004,Minister of Armament,Pieter Oud,5,Submarine Proponent,M8004
+8061,Foreign Minister,Pim van Boetzelaer,5,General Staffer,M8061
+8086,Minister of Armament,Tietse Pieter Sevensma,5,Laissez-Faire Capitalist,M8086
+8088,Minister of Armament,W.G. van Wettum,5,Tank Proponent,M8088
+8114,Minister of Security,Wilhelmus Andriessen,5,Prince of Terror,M8114
+8047,Head of Government,Willem Schermerhorn,5,Naive Optimist,M8047
+8089,Minister of Armament,Willem Schermerhorn,5,Resource Industrialist,M8047
+8007,Chief of Staff,Adriaan Dijxhoorn,6,School of Defence,M8007
+8095,Minister of Armament,Adriaan Dijxhoorn,6,Tank Proponent,M8007
+8066,Foreign Minister,Andries Dirk de Graaf,6,Great Compromiser,M8048
+8048,Head of Government,Andries Dirk de Graaf,6,Happy Amateur,M8048
+8116,Minister of Security,Bernard C.J. Loder,6,Back Stabber,M8116
+8136,Head of Military Intelligence,Christoffel van Tuinen,6,Industrial Specialist,M8136
+8049,Head of Government,Dirk Jan de Geer,6,Political Protege,M8049
+8094,Minister of Armament,Dirk Jan de Geer,6,Infantry Proponent,M8049
+8067,Foreign Minister,Eelco van Kleffens,6,Great Compromiser,M8065
+8003,Foreign Minister,Frans B. van Blokland,6,Ideological Crusader,M8003
+8118,Minister of Security,Gerrit van Heuven Goedhart,6,Compassionate Gentleman,M8118
+8008,Chief of Army,Izaak Reynders,6,Static Defence Doctrine,M8008
+8050,Head of Government,Jan de Quay,6,Happy Amateur,M8050
+8097,Minister of Armament,Jan de Quay,6,Resource Industrialist,M8050
+8098,Minister of Armament,Jannes van Dijk,6,Administrative Genius,M8098
+8006,Head of Military Intelligence,Johan W. van Oorschot,6,Dismal Enigma,M8006
+8117,Minister of Security,Louis Einthoven,6,Crime Fighter,M8117
+8096,Minister of Armament,Maximilien Steenberghe,6,Air to Ground Proponent,M8096
+8147,Chief of Staff,Simon Spoor,6,School of Psychology,M8137
+8137,Head of Military Intelligence,Simon Spoor,6,Naval Intelligence Specialist,M8137
+8122,Minister of Security,Carel Gooseling,7,Compassionate Gentleman,M8122
+8053,Head of Government,Graaf de Marchant et d'Ansembourg,7,Flamboyant Tough Guy,M8013
+8161,Chief of Army,Herman van Voorst tot Voorst,7,Elastic Defence Doctrine,M8161
+8139,Head of Military Intelligence,Michiel de Bruyne,7,Technical Specialist,M8139
+8148,Chief of Staff,Anton Mussert,8,School of Psychology,M8148
+8070,Foreign Minister,Anton Mussert,8,The Cloak N Dagger Schemer,M8011
+8177,Chief of Air Force,Claes Douw van der Krap,8,Naval Aviation Doctrine,M8020
+8069,Foreign Minister,Graaf de Marchant et d'Ansembourg,8,Ideological Crusader,M8013
+8160,Chief of Army,Hendrik Seyffardt,8,Guns and Butter Doctrine,M8017
+8149,Chief of Staff,Hendrik Seyffardt,8,School of Defence,M8017
+8168,Chief of Navy,Pieter Koenraad,8,Base Control Doctrine,M8019
+8159,Chief of Army,Adrianus Zondervan,9,Decisive Battle Doctrine,M8018
+8052,Head of Government,Anton Mussert,9,Ambitious Union Boss,M8011
+8099,Minister of Armament,C.J. Huygens,9,Administrative Genius,M8014
+8119,Minister of Security,Corneliis van Geelkerken,9,Prince of Terror,M8015
+8100,Minister of Armament,Gerrit van Burink,9,Infantry Proponent,M8100
+8138,Head of Military Intelligence,Henk Feldmeijer,9,Political Specialist,M8016
+8071,Foreign Minister,Meinout Rost van Tonningen,9,Iron Fisted Brute,M8012
+8051,Head of Government,Meinout Rost van Tonningen,9,Backroom Backstabber,M8012

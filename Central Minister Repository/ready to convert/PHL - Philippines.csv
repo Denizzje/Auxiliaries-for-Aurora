@@ -1,0 +1,79 @@
+PHI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+50023,Foreign Minister,Casto Alejandrino,1,Apologetic Clerk,M50023
+50024,Minister of Armament,Crisanto Evangelista,1,Resource Industrialist,M50021
+50090,Head of Military Intelligence,Guillermo Capadocia,1,Political Specialist,PHI_guillermo_capadocia
+50089,Minister of Security,Guillermo Capadocia,1,Efficient Sociopath,PHI_guillermo_capadocia
+50091,Minister of Armament,Herminegildo Cruz,1,Administrative Genius,PHI_herminegildo_cruz
+50028,Chief of Army,Jesus Lava,1,Guns and Butter Doctrine,M50028
+50029,Chief of Navy,Jesus Lava,1,Base Control Doctrine,M50028
+50027,Chief of Staff,Luis Taruc,1,School of Manoeuvre,M50026
+50026,Head of Military Intelligence,Luis Taruc,1,Dismal Enigma,M50026
+50022,Head of Government,Pedro Abad Santos,1,Corporate Suit,M50022
+50030,Chief of Air Force,Joe Rogers,2,Carpet Bombing Doctrine,M50030
+50025,Minister of Security,Mariano Balgos,2,Crime Fighter,M50025
+50052,Minister of Armament,Carlos P. Garcia,3,Battle Fleet Proponent,M50052
+50055,Minister of Armament,Diosdado P. Macapagal,3,Military Entrepreneur,M50055
+50046,Foreign Minister,Emilio Aguinaldo,3,Ideological Crusader,M50032
+50062,Minister of Security,José M.Crisol,3,Crooked Kleptocrat,M50062
+50043,Foreign Minister,Juan Sumulong,3,Biased Intellectual,M50033
+50038,Head of Government,Juan Sumulong,3,Happy Amateur,M50033
+50056,Minister of Security,Pardo de Tavera,3,Prince of Terror,M50056
+50037,Head of Government,Rafel Liwanag,3,Political Protege,M50037
+50048,Minister of Armament,Rafel Liwanag,3,Submarine Proponent,M50037
+50064,Minister of Security,Alberto Ramos,4,Silent Lawyer,M50064
+50047,Minister of Armament,Antonio de las Alas,4,laissez-faire capitalist,M50014
+50069,Chief of Staff,Augusto Jurado,4,School of Mass Combat,M50069
+50085,Chief of Air Force,Basilio Fernando,4,Army Aviation Doctrine,M50085
+50080,Head of Military Intelligence,Benigno Ramos,4,Political Specialist,M50016
+50072,Chief of Army,Benito N. Ebuen,4,Decisive Battle Doctrine,M50006
+50006,Head of Military Intelligence,Benito N. Ebuen,4,Logistics Specialist,M50006
+50086,Chief of Air Force,Edwin Andrews,4,Vertical Envelopment Doctrine,M50086
+50004,Minister of Armament,Elpidio Quirino,4,laissez-faire capitalist,M50004
+50079,Head of Military Intelligence,Fidel Segundo,4,Logistics Specialist,M50079
+50074,Chief of Army,Heraclio Alano,4,Armoured Spearhead Doctrine,M50074
+50077,Head of Military Intelligence,James Wilson,4,Naval Intelligence Specialist,M50077
+50040,Foreign Minister,Joaquin Elizalde,4,Great Compromiser,M50040
+50081,Head of Military Intelligence,John Gilbert Winant,4,Industrial Specialist,M50081
+50083,Chief of Navy,Jose V. Andrada,4,Open Seas Doctrine,M50083
+50005,Minister of Security,Jose Yulo,4,Compassionate Gentleman,M50005
+50008,Chief of Army,Leoncio S. Tan,4,Guns and Butter Doctrine,M50008
+50057,Minister of Security,Leoncio S. Tan,4,Back Stabber,M50008
+50078,Head of Military Intelligence,Leslie Ailen Wheeler,4,Technical Specialist,M50078
+50042,Foreign Minister,Manuel Quadrino,4,Biased Intellectual,M50042
+50050,Minister of Armament,Manuel Quadrino,4,Corrupt Kleptocrat,M50042
+50039,Foreign Minister,Manuel Quezon,4,the cloak n dagger schemer,M50001
+50088,Head of Government,Manuel Roxas,4,Old General,M50035
+50075,Chief of Army,Mateo M. Capinpin,4,Guns and Butter Doctrine,M50075
+50007,Chief of Staff,Paulino Santos,4,School of Psychology,M50007
+50010,Chief of Air Force,Pelagio Cruz,4,Army Aviation Doctrine,M50010
+50003,Foreign Minister,Quintin Paredes,4,Apologetic Clerk,M50003
+50070,Chief of Staff,Quirinto P. Evangelista,4,School of Manoeuvre,M50070
+50076,Chief of Army,Rafael Jalandoni,4,Guns and Butter Doctrine,M50076
+50084,Chief of Navy,Ramon A. Alcaraz,4,Decisive Naval Battle Doctrine,M50084
+50067,Minister of Security,Ramon Quisumbing,4,Man of the People,M50067
+50058,Minister of Security,Roman Apolinario,4,Man of the People,M50058
+50009,Chief of Navy,Santiago Nuval,4,Open Seas Doctrine,M50009
+50041,Foreign Minister,Sergio Osmeña,4,Iron Fisted Brute,M50002
+50002,Head of Government,Sergio Osmeña,4,Silent Workhorse,M50002
+50073,Chief of Army,Vicente P. Lim,4,Elastic Defence Doctrine,M50073
+50068,Chief of Staff,Basilio J. Valdez,6,School of Defence,M50017
+50044,Foreign Minister,Elpidio Quirino,6,Ideological Crusader,M50004
+50036,Head of Government,Elpidio Quirino,6,Silent Workhorse,M50004
+50082,Chief of Navy,Eustacio Orobia,6,Indirect Approach Doctrine,M50019
+50045,Foreign Minister,Ferdinand Marcos,6,Iron Fisted Brute,M50013
+50053,Minister of Armament,José G. David,6,Resource Industrialist,M50053
+50066,Minister of Security,José G. Lukban,6,Efficient Sociopath,M50066
+50061,Minister of Security,Jose P. Laurel,6,Silent Lawyer,M50061
+50049,Minister of Armament,Manuel Roxas,6,Air to Sea Proponent,M50035
+50054,Minister of Armament,Ramon Magsaysay,6,Tank Proponent,M50054
+50051,Minister of Armament,Serafin Fausto,6,Administrative Genius,M50051
+50065,Minister of Security,Serafin Fausto,6,Silent Lawyer,M50051
+50060,Minister of Security,Teofilo Sison,6,Compassionate Gentleman,M50060
+50059,Minister of Security,Tiranó Craveza,6,Efficient Sociopath,M50059
+50087,Chief of Air Force,Victor H. Dizon,6,Naval Aviation Doctrine,M50087
+50018,Chief of Army,Basilio J. Valdez,7,Static Defence Doctrine,M50017
+50093,Head of Government,Basilio J. Valdez,7,Flamboyant Tough Guy,M50017
+50015,Minister of Security,Benigno Aquino sr.,7,Crooked Kleptocrat,M50015
+50012,Head of Government,José P. Laurel,7,Smiling Oilman,M50011
+50020,Chief of Air Force,Felix Pestana,8,Air Superiority Doctrine,M50020

@@ -1,0 +1,167 @@
+PER,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+53143,Head of Military Intelligence,Ja'fer Pishevari,0,Dismal Enigma,M53023
+53126,Head of Government,Ardeshir Ovanessian,1,Naive Optimist,PER_ardeshir_ovanessian
+53131,Foreign Minister,Ardeshir Ovanessian,1,Ideological Crusader,PER_ardeshir_ovanessian
+53155,Chief of Navy,Fyodor Raskolnikov,1,Base Control Doctrine,PER_fyodor_raskolnikov
+53127,Head of Government,Haydar Amuogly,1,Backroom Backstabber,PER_haydar_amuogly
+53135,Minister of Armament,Haydar Amuogly,1,Resource Industrialist,PER_haydar_amuogly
+53139,Minister of Security,Haydar Amuogly,1,Prince of Terror,PER_haydar_amuogly
+53144,Head of Military Intelligence,Khosro Roozbeh,1,Logistics Specialist,PER_khosro_roozbeh
+53149,Chief of Staff,Khosro Roozbeh,1,School of Fire Support,PER_khosro_roozbeh
+53152,Chief of Army,Khosro Roozbeh,1,Decisive Battle Doctrine,PER_khosro_roozbeh
+53134,Foreign Minister,Bozorg Alavi,2,Great Compromiser,PER_bozorg_alavi
+53140,Minister of Security,Ehsan Tabari,2,Back Stabber,PER_ehsan_tabari
+53145,Head of Military Intelligence,Heshmat Taleqani,2,Dismal Enigma,PER_heshmat_taleqani
+53138,Minister of Armament,Iraj Eskandari,2,Administrative Genius,PER_iraj_eskandari
+53132,Foreign Minister,Maryam Firouz,2,Biased Intellectual,PER_maryam_firouz
+53142,Minister of Security,Maryam Firouz,2,Crime Fighter,PER_maryam_firouz
+53129,Head of Government,Mirza Kuchik Khan,2,Naive Optimist,PER_mirza_kuchik_khan
+53151,Chief of Staff,Mirza Kuchik Khan,2,School of Defence,PER_mirza_kuchik_khan
+53153,Chief of Army,Mirza Kuchik Khan,2,Guns and Butter Doctrine,PER_mirza_kuchik_khan
+53133,Foreign Minister,Mohammad Farrokhi Yazdi,2,Apologetic Clerk,PER_mohammad_farrokhi_yazdi
+53136,Minister of Armament,Noureddin Kianouri,2,Laissez-Faire Capitalist,PER_noureddin_kianouri
+53146,Head of Military Intelligence,Noureddin Kianouri,2,Technical Specialist,PER_noureddin_kianouri
+53141,Minister of Security,Sattar Khan,2,Man of the People,PER_sattar_khan
+53148,Head of Military Intelligence,Sattar Khan,2,Logistics Specialist,PER_sattar_khan
+53150,Chief of Staff,Sattar Khan,2,School of Psychology,PER_sattar_khan
+53154,Chief of Army,Sattar Khan,2,Elastic Defence Doctrine,PER_sattar_khan
+53128,Head of Government,Soleiman Mirza Eskandari,2,Happy Amateur,PER_soleiman
+53137,Minister of Armament,Taqi Arani,2,Resource Industrialist,PER_taqi_arani
+53147,Head of Military Intelligence,Taqi Arani,2,Technical Specialist,PER_taqi_arani
+53158,Minister of Security,Ayatollah Mahmoud Taleghani,3,Man of the People,PER_mahmoud_taleghani
+53156,Minister of Armament,Mehdi Bazargan,3,Infantry Proponent,PER_mehdi_bazargan
+53203,Foreign Minister,Mohammad Khiabani,3,Ideological Crusader,PERKhi
+53130,Head of Government,Mohsen Sadr,3,Silent Workhorse,PER_mohsen_sadr
+53159,Minister of Armament,Yadollah Sahabi,3,Theoretical Scientist,PER_yadollah_sahabi
+53160,Head of Military Intelligence,Yadollah Sahabi,3,Industrial Specialist,PER_yadollah_sahabi
+53200,Minister of Security,Abol-Ghasem Kashani,4,Compassionate Gentleman,PERAbo
+53199,Minister of Armament,Ahmad Zirakzadeh,4,Bank President,PERZir
+53093,Chief of Staff,Ali Khan Nakziam,4,School of Manoeuvre,M53027
+53198,Foreign Minister,Ali Shayegan,4,Biased Intellectual,PERShay
+53036,Head of Government,Ali Zohayli,4,Smiling Oilman,M53036
+53048,Foreign Minister,Ali Zohayli,4,The Cloak N Dagger Schemer,M53036
+53167,Minister of Armament,Mohammad Mosaddegh,4,Administrative Genius,PERMos
+53197,Head of Government,Mohammad Mosaddegh,4,Naive Optimist,PERMos
+53055,Foreign Minister,Mohammed Mosaddegh,4,Great Compromiser,PERMos
+53089,Head of Military Intelligence,Mohammed Mosaddegh,4,Logistics Specialist,PERMos
+53116,Chief of Staff,Mohammed Mosaddegh,4,School of Manoeuvre,PERMos
+53051,Foreign Minister,Nusrullah Intizam,4,Biased Intellectual,M53051
+53039,Head of Government,Sayed Morteza Khan Bayat,4,Flamboyant Tough Guy,M53039
+53085,Head of Military Intelligence,Sir Neville Grantleigh,4,Industrial Specialist,M53085
+53111,Head of Government,Abdol Hossein Hajir,5,Happy Amateur,M53111
+53118,Foreign Minister,Abdol Hossein Hajir,5,Ideological Crusader,M53111
+53193,Head of Government,Abdolhossein Teymourtash,5,Flamboyant Tough Guy,PERTey
+53194,Foreign Minister,Abdolhossein Teymourtash,5,Great Compromiser,PERTey
+53191,Minister of Security,Ahmad Kasravi,5,Man of the People,PERKas
+53192,Foreign Minister,Ahmad Kasravi,5,Biased Intellectual,PERKas
+53196,Minister of Armament,Ali-Akbar Davar,5,Administrative Genius,PERAli
+53189,Minister of Security,Hossein Pirnia,5,Compassionate Gentleman,PERPir
+53015,Minister of Security,Mohammad-Ali Foroughi,5,Crime Fighter,PERFor
+53035,Head of Government,Mohammad-Ali Foroughi,5,Political Protege,PERFor
+53195,Foreign Minister,Mohammad-Ali Foroughi,5,Apologetic Clerk,PERFor
+53166,Foreign Minister,Abbas Mirza Farman Farmaian Qajar,6,Great Compromiser,PERAbb
+53179,Foreign Minister,Abdol Hossein Sardari,6,Ideological Crusader,PERHos
+53174,Minister of Security,Abdol-Hossein Mirza Qajar,6,Man of the People,PERMir
+53087,Head of Military Intelligence,Abdollah Entezam,6,Technical Specialist,M53087
+53078,Minister of Security,Abolhassan Hakimi,6,Back Stabber,M53078
+53053,Foreign Minister,Abul Qasim Najm,6,The Cloak N Dagger Schemer,M53053
+53037,Head of Government,Ahmeed Qawan as Saltana,6,Happy Amateur,M53037
+53054,Foreign Minister,Ahmeed Qawan as Saltana,6,Ideological Crusader,M53037
+53058,Minister of Armament,Alfred Rudolph Zimmermann,6,Laissez-Faire Capitalist,M53014
+53113,Head of Government,Ali Mansour,6,Political Protege,M53034
+53084,Head of Military Intelligence,Ali Sepahbodi Qajar,6,Dismal Enigma,M53084
+53183,Chief of Army,Amanullah Jahanbani,6,Static Defence Doctrine,PERJah
+53069,Minister of Armament,Anushirvan Sepahbody,6,Administrative Genius,M53052
+53098,Chief of Army,Azram Mir Ghani,6,Elastic Defence Doctrine,M53098
+53076,Minister of Security,Edward G.V.S. Lord Derby,6,Efficient Sociopath,M53076
+53180,Minister of Security,Fathollah Khan Akbar,6,Silent Lawyer,PERFat
+53165,Head of Government,Firouz M. Nosrat-ed-Dowleh Qajar,6,Naive Optimist,PERFir
+53003,Foreign Minister,Hassan Taqizadeh,6,Great Compromiser,PERTaq
+53056,Minister of Armament,Hassan Taqizadeh,6,Bank President,PERTaq
+53100,Chief of Army,Hedayat Gilanshah,6,Decisive Battle Doctrine,M53100
+53095,Chief of Staff,Hossein Afkhami,6,School of Fire Support,M53017
+53079,Minister of Security,Hossein Arfazni,6,Silent Lawyer,M53079
+53068,Minister of Armament,Ja'fer Pishevari,6,Resource Industrialist,M53023
+53168,Minister of Security,Mohammad Hassan Mirza Qajar,6,Compassionate Gentleman,PERMoh
+53004,Minister of Armament,Mohammad-Taqi Bahar,6,Laissez-Faire Capitalist,PERBar
+53066,Minister of Armament,Mohammed Bahrami,6,Strategic Air Proponent,M53026
+53074,Minister of Security,Mohammed Bahrami,6,Compassionate Gentleman,M53026
+53103,Chief of Navy,Mohammed Mir Mohanna,6,Power Projection Doctrine,M53029
+53109,Chief of Air Force,Mohammed Mir Mohanna,6,Naval Aviation Doctrine,M53029
+53105,Chief of Navy,Mohammed Moini,6,Indirect Approach Doctrine,M53020
+53108,Chief of Air Force,Mohammed Moini,6,Vertical Envelopment Doctrine,M53020
+53038,Head of Government,Mohammed Said Maraghei,6,Silent Workhorse,M53038
+53049,Foreign Minister,Mohammed Said Maraghei,6,Great Compromiser,M53038
+53178,Foreign Minister,Moussa Hakimi,6,Ideological Crusader,PERMou
+53182,Chief of Army,Moussa Hakimi,6,Static Defence Doctrine,PERMou
+53041,Head of Government,Muhsin Sadr al Araf,6,Corporate Suit,M53041
+53088,Head of Military Intelligence,Ovassaq al-Doleh Noorie,6,Naval Intelligence Specialist,M53088
+53092,Chief of Staff,Reza Mizani,6,School of Mass Combat,M53006
+53176,Foreign Minister,Samad Khan Momtaz os-Saltaneh,6,Biased Intellectual,PERMom
+53064,Minister of Armament,Sayyid al-Din Tabataba'i,6,Battle Fleet Proponent,M53012
+53005,Minister of Security,Seyyed Hassan Modarres,6,Man of the People,PERHas
+53175,Minister of Security,Vosough od-Dowleh,6,Crime Fighter,PERVos
+53086,Head of Military Intelligence,Abdol Hossein Sardarie,7,Dismal Enigma,M53086
+53008,Chief of Army,Abdolreza Afkhami,7,Static Defence Doctrine,M53008
+53162,Head of Government,Abdul Husayn Farman Farma,7,Silent Workhorse,kai_abdhssfrm
+53104,Chief of Navy,Ahmad Khan Nakhjaavan,7,Decisive Naval Battle Doctrine,PERNak
+53010,Chief of Air Force,Ahmad Khan Nakhjavan,7,Naval Aviation Doctrine,PERNak
+53059,Minister of Armament,Ahmad Khan Nakhjavan,7,Air to Sea Proponent,M53004
+53009,Chief of Navy,Ahmad Mira Khosravani,7,Indirect Approach Doctrine,M53009
+53060,Minister of Armament,Ahmad Mira Khosravani,7,Submarine Proponent,M53009
+53170,Chief of Staff,Ahmad Qavam,7,School of Defence,PERQua
+53090,Chief of Staff,Ali Akbar Deiva,7,School of Psychology,M53005
+53034,Head of Government,Ali Khan Mansour,7,Old General,M53034
+53072,Minister of Security,Ali Mansour,7,Man of the People,M53034
+53114,Head of Government,Ali Razmara,7,Old Airmarshal,M53114
+53119,Chief of Staff,Ali Razmara,7,School of Psychology,M53114
+53120,Chief of Air Force,Ali Razmara,7,Army Aviation Doctrine,M53114
+53052,Foreign Minister,Anushirvan Sepahbody,7,Apologetic Clerk,M53052
+53185,Chief of Army,Assadollah Hosseinpoor,7,Decisive Battle Doctrine,PERPoo
+53186,Chief of Army,Azizollah Khan Zarghami,7,Elastic Defence Doctrine,PERZar
+53081,Head of Military Intelligence,Dinshah Irani,7,Technical Specialist,M53021
+53117,Head of Government,Fazlollah Zahedi,7,Old General,M53117
+53121,Chief of Army,Fazlollah Zahedi,7,Guns and Butter Doctrine,M53117
+53110,Chief of Air Force,Hedayat Gilanshah,7,Carpet Bombing Doctrine,M53100
+53115,Head of Government,Hussein Khan Ala,7,Backroom Backstabber,M53073
+53040,Head of Government,Ibrahim Hakimi al Mulk,7,Backroom Backstabber,M53040
+53002,Head of Government,Mahmud Jam,7,Silent Workhorse,M53002
+53181,Head of Military Intelligence,Masoud Keyhan,7,Logistics Specialist,PERKey
+53077,Minister of Security,Mehdi Manjarani,7,Prince of Terror,M53077
+53096,Chief of Army,Mir Afkhami,7,Guns and Butter Doctrine,M53018
+53043,Foreign Minister,Miria Muhsin Khan,7,Ideological Crusader,M53043
+53057,Minister of Armament,Mirza Riza Arfa Dowleh,7,Infantry Proponent,M53057
+53071,Minister of Security,Mirza Riza Arfa Dowleh,7,Back Stabber,M53057
+53169,Head of Military Intelligence,Mohammad Taqi-Khan Pessian,7,Logistics Specialist,PERPess
+53202,Chief of Staff,Mohammad Taqi-Khan Pessian,7,School of Manoeuvre,PERPess
+53099,Chief of Army,Mohammed Nakhjavani,7,Armoured Spearhead Doctrine,M53062
+53094,Chief of Staff,Mohammed Reza Pahlavi,7,School of Defence,M53011
+53177,Foreign Minister,Mozafar Aalam,7,General Staffer,PERAal
+53080,Head of Military Intelligence,Muhammed Reza Pahlavi,7,Political Specialist,M53011
+53042,Foreign Minister,Mustafa Adil,7,Biased Intellectual,M53042
+53045,Foreign Minister,Muzzafar Alam,7,Apologetic Clerk,M53045
+53006,Head of Military Intelligence,Reza Mizani,7,Naval Intelligence Specialist,M53006
+53101,Chief of Navy,Reza Mizani,7,Base Control Doctrine,M53006
+53007,Chief of Staff,Reza Pahlavi,7,School of Defence,M53001
+53204,Chief of Army,Reza Pahlavi,7,Guns and Butter Doctrine,M53001
+53106,Chief of Air Force,Sadegh Khan Koopal,7,Army Aviation Doctrine,M53106
+53205,Chief of Staff,Vsevolod D. Starosselsky,7,School of Manoeuvre,PERVse
+53187,Chief of Staff,Wilhelm Wassmuss,7,School of Manoeuvre,PERWas
+53173,Chief of Air Force,Yadolah Azam Zangeneh,7,Air Superiority Doctrine,PERAza
+53067,Minister of Armament,Zoka Dowleh,7,Tank Proponent,M53065
+53061,Minister of Armament,Abdolreza Afkhami,8,Military Entrepreneur,M53008
+53033,Head of Government,Ahmad Matin-Daftary,8,Naive Optimist,M53033
+53083,Head of Military Intelligence,Ahmad Matin-Daftary,8,Naval Intelligence Specialist,M53033
+53082,Head of Military Intelligence,Alfred Rudolph Zimmermann,8,Industrial Specialist,M53014
+53047,Foreign Minister,Amari Jawad,8,Biased Intellectual,M53047
+53091,Chief of Staff,Hassan Majid Firooz,8,School of Defence,M53028
+53097,Chief of Army,Hassan Majid Firooz,8,Static Defence Doctrine,M53028
+53073,Minister of Security,Hussein Khan Ala,8,Silent Lawyer,M53073
+53046,Foreign Minister,Ibrahim Alam,8,The Cloak N Dagger Schemer,M53046
+53062,Minister of Armament,Mohammed Nakhjavani,8,Tank Proponent,M53062
+53107,Chief of Air Force,Mohammed Nakhjavani,8,Air Superiority Doctrine,M53062
+53063,Minister of Armament,Morteza Yazdi,8,Air Superiority Proponent,M53024
+53188,Chief of Staff,Muhammad-Husayn Ayrom,8,School of Fire Support,PERAyr
+53190,Head of Military Intelligence,Muhammad-Husayn Ayrom,8,Political Specialist,PERAyr
+53102,Chief of Navy,Schapur Khisrabadi,8,Open Seas Doctrine,M53102
