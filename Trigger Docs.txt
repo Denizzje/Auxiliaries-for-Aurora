@@ -1,4 +1,4 @@
-== TRIGGER DOCUMENTATION ==
+== TRIGGER DOCUMENTATION == test
 state - check state id
 Supported scopes: state
 
