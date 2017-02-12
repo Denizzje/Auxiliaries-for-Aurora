@@ -1,0 +1,77 @@
+SAU,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+63081,Foreign Minister,Constantin Zureiq,5,Biased Intellectual,SAU_Constantin Zureiq
+63075,Chief of Army,Abd al-Qadir al-Husayni,6,Doctrine of Autonomy,SAU_Abd al-Qadir al-Husayni
+63076,Chief of Staff,Abd al-Qadir al-Husayni,6,Commando Doctrine Staff,SAU_Abd al-Qadir al-Husayni
+63077,Minister of Security,Awni Abd al-Hadi,6,Health and Safety,SAU_Awni Abd al-Hadi
+63020,Minister of Armament,Ghazi bin Faisal,6,Laissez-Faire Capitalist,SAUGha
+63014,Foreign Minister,Jafar al-Askari,6,General Staffer,k_AlAskari
+63006,Head of Government,Jafar al-Askari,6,Respected War Hero,k_AlAskari
+63012,Head of Government,Jamil Mardam Bey,6,Happy Amateur,SAUMar
+63026,Minister of Armament,Jamil Mardam Bey,6,Bank President,SAUMar
+63057,Head of Military Intelligence,Mu'in al-Madi,6,Political Specialist,SAUMui
+63056,Minister of Security,Musa Alami,6,Compassionate Gentleman,SAUMus
+63073,Foreign Minister,Nasib al-Bakri,6,Ideological Crusader,SAU_Nasib al-Bakri
+63072,Head of Government,Nasib al-Bakri,6,Flamboyant Tough Guy,SAU_Nasib al-Bakri
+63074,Minister of Armament,Nasib al-Bakri,6,Mixed Economy,SAU_Nasib al-Bakri
+63055,Foreign Minister,Rafiq al-Tamimi,6,Apologetic Clerk,SAURaf
+63080,Chief of Army,Rida al-Rikabi,6,Guns and Butter Doctrine,SAU_Rida al-Rikabi
+63079,Chief of Staff,Rida al-Rikabi,6,School of Mass Combat,SAU_Rida al-Rikabi
+63047,Chief of Army,Ronald Storrs,6,Armoured Spearhead Doctrine,SAUSto
+63033,Head of Military Intelligence,Ronald Storrs,6,Logistics Specialist,SAUSto
+63058,Minister of Security,Subhi al-Khadra,6,Crime Fighter,SAUSub
+63052,Chief of Navy,Tahsin Qadri,6,Base Control Doctrine,k_TahsinQadri
+63054,Chief of Air Force,Yasin Hilmi Salman,6,Vertical Envelopment Doctrine,M91002
+63071,Chief of Staff,Yasin Hilmi Salman,6,Commando Doctrine Staff,M91002
+63011,Head of Government,Yasin Hilmi Salman,6,Naive Optimist,M91002
+63008,Head of Government,Yusuf Al-Azmah,6,Flamboyant Tough Guy,SAUYus
+63078,Foreign Minister,Abd al-Rahman Shahbandar,7,Biased Intellectual,SAU_Abd al-Rahman Shahbandar
+63044,Chief of Army,Abdullah bin Hussein,7,Decisive Battle Doctrine,SAUAbd
+63016,Foreign Minister,Abdullah bin Hussein,7,Great Compromiser,SAUAbd
+63027,Minister of Security,Abdullah bin Hussein,7,Compassionate Gentleman,SAUAbd
+63069,Minister of Armament,Ali Jawdat al-Aiyubi,7,Keynesian Economy,SAU_Ali Jawdat al-Aiyubi
+63070,Minister of Security,Ali Jawdat al-Aiyubi,7,Crime Fighter,SAU_Ali Jawdat al-Aiyubi
+63050,Chief of Army,Aziz Ali al-Misri,7,Guns and Butter Doctrine,SAUAzi
+63035,Head of Military Intelligence,Bakr Sidqi,7,Dismal Enigma,SAUSid
+63028,Minister of Security,Bakr Sidqi,7,Prince of Terror,SAUSid
+63042,Chief of Staff,Emir Faisal bin Hussein,7,School of Manoeuvre,SAUFai
+63068,Chief of Air Force,Faisal al Saud,7,Army Aviation Doctrine,M63003
+63066,Chief of Army,Faisal al Saud,7,Guns and Butter Doctrine,M63003
+63067,Chief of Navy,Faisal al Saud,7,Open Seas Doctrine,M63003
+63061,Foreign Minister,Faisal al Saud,7,Apologetic Clerk,M63003
+63062,Minister of Armament,Faisal al Saud,7,Resource Industrialist,M63003
+63025,Minister of Armament,Faris al-Khoury,7,Administrative Genius,SAUFar
+63045,Chief of Army,Jafar al-Askari,7,Decisive Battle Doctrine,k_AlAskari
+63051,Chief of Navy,Jamil al Midfai,7,Indirect Approach Doctrine,SAUJam
+63040,Chief of Staff,Jamil al Midfai,7,School of Fire Support,SAUJam
+63013,Foreign Minister,Jamil al Midfai,7,Apologetic Clerk,SAUJam
+63010,Head of Government,Jamil al Midfai,7,Corporate Suit,SAUJam
+63022,Minister of Armament,Jamil al Midfai,7,Tank Proponent,SAUJam
+63031,Minister of Security,Jamil al Midfai,7,Silent Lawyer,SAUJam
+63032,Minister of Security,Jamil al-Ulshi,7,Crime Fighter,SAUUls
+63064,Head of Military Intelligence,Khalid al Saud,7,Logistics Specialist,M63005
+63063,Minister of Security,Khalid al Saud,7,Crooked Kleptocrat,M63005
+63048,Chief of Army,Mawlid al Mukhlis,7,Elastic Defence Doctrine,SAUMaw
+63019,Foreign Minister,Mawlid al Mukhlis,7,Biased Intellectual,SAUMaw
+63015,Foreign Minister,Nesi el Bikri,7,Iron Fisted Brute,SAUNes
+63043,Chief of Army,Nuri as Said,7,Guns and Butter Doctrine,SAUNur
+63018,Foreign Minister,Nuri as Said,7,General Staffer,SAUNur
+63007,Head of Government,Nuri as Said,7,Old General,SAUNur
+63021,Minister of Armament,Nuri as Said,7,Military Entrepreneur,SAUNur
+63029,Minister of Security,Nuri as Said,7,Silent Lawyer,SAUNur
+63039,Chief of Staff,Nuri as-Said,7,School of Mass Combat,SAUNur
+63017,Foreign Minister,Rustum Haidar,7,Ideological Crusader,SAURus
+63009,Head of Government,Rustum Haidar,7,Naive Optimist,SAURus
+63034,Head of Military Intelligence,Rustum Haidar,7,Political Specialist,SAURus
+63030,Minister of Security,Rustum Haidar,7,Man of the People,SAURus
+63049,Chief of Army,Saleh al-Ali,7,Decisive Battle Doctrine,SAUSal
+63037,Head of Military Intelligence,Salman bin Hamad Al Khalifa,7,Industrial Specialist,SAUSalm
+63065,Chief of Staff,Saud al Saud,7,School of Manoeuvre,M63002
+63060,Head of Government,Saud al Saud,7,Backroom Backstabber,M63002
+63024,Minister of Armament,Sultan al-Atrash,7,Resource Industrialist,SAUSul
+63036,Head of Military Intelligence,Tahsin Qadri,7,Logistics Specialist,k_TahsinQadri
+63053,Chief of Air Force,Yusuf Al-Azmah,7,Army Aviation Doctrine,SAUYus
+63046,Chief of Army,Yusuf Al-Azmah,7,Armoured Spearhead Doctrine,SAUYus
+63038,Chief of Staff,Yusuf Al-Azmah,7,School of Psychology,SAUYus
+63023,Minister of Armament,Yusuf Al-Azmah,7,Infantry Proponent,SAUYus
+63041,Chief of Staff,Zeid bin Hussein,7,School of Psychology,SAUZei

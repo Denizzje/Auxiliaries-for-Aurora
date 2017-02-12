@@ -1,0 +1,85 @@
+DOM,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+49113,Head of Government,Hector Porfirio Quezada,0,Ambitious Union Boss,DOM_hector
+49114,Minister of Security,Hector Porfirio Quezada,0,Man of the People,DOM_hector
+49106,Minister of Security,Filareto Kavernido,1,Man of the People,DOM_filareto
+49117,Foreign Minister,Mauricio Baez,1,Iron fisted brute,DOM_baez
+49116,Head of Government,Mauricio Baez,1,Ambitious Union Boss,DOM_baez
+49112,Head of Military Intelligence,Ramon Marrero Aristy,1,Political Specialist,DOM_marrero
+49097,Chief of Air Force,Edgar Martinez,2,Air Superiority Doctrine,M49029
+49090,Chief of Navy,Edgar Martinez,2,Indirect Approach Doctrine,M49029
+49043,Head of Government,Francisco Prats Ramirez,2,Happy Amateur,M49037
+49077,Head of Military Intelligence,Francisco Prats Ramirez,2,Industrial Specialist,M49037
+49095,Chief of Air Force,Frank Felix Miranda,2,Naval Aviation Doctrine,M49030
+49111,Chief of Staff,Frank Felix Miranda,2,School of Psychology,M49030
+49103,Head of Government,Jose Eugenio Kunhardt,2,Corporate Suit,DOM_kunhardt
+49104,Minister of Armament,Jose Eugenio Kunhardt,2,Military Entrepreneur,DOM_kunhardt
+49108,Foreign Minister,Jose Ramon Lopez Lora,2,Great Compromiser,DOM_ramon_lopez
+49107,Head of Government,Jose Ramon Lopez Lora,2,Silent Workhorse,DOM_ramon_lopez
+49126,Chief of Army,Juan Tomas Diaz,2,Decisive Battle Doctrine,DOM_juan
+49127,Chief of Staff,Juan Tomas Diaz,2,School of Defence,DOM_juan
+49128,Minister of Armament,Juan Tomas Diaz,2,Infantry Proponent,DOM_juan
+49121,Foreign Minister,Tomas Baez Diaz,2,Apologetic Clerk,DOM_diaz
+49122,Head of Military Intelligence,Tomas Baez Diaz,2,Political Specialist,DOM_diaz
+49123,Minister of Security,Tomas Baez Diaz,2,Crime Fighter,DOM_diaz
+49125,Minister of Armament,Antonio de la Maza,3,Administrative Genius,DOM_maza
+49124,Minister of Armament,Ercilia Pepin,3,Laissez-Faire Capitalist,DOM_pepin
+49120,Foreign Minister,Felix Evaristo Mejia,3,Ideological Crusader,DOM_mejia
+49119,Head of Government,Felix Evaristo Mejia,3,Flamboyant Tough Guy,DOM_mejia
+49054,Foreign Minister,Juan Bosch,3,Iron Fisted Brute,M49021
+49045,Head of Government,Juan Bosch,3,Old General,M49021
+49110,Foreign Minister,Rafael Estrella Ure?a,3,Biased Intellectual,DOM_urena
+49099,Minister of Armament,Enrique Mirabal,4,Laissez-Faire Capitalist,DOM_mirabal
+49062,Minister of Armament,Francisco Cutricos,5,Corrupt Kleptocrat,M49024
+49022,Head of Government,Jesus de Galindez,5,Flamboyant Tough Guy,M49013
+49044,Head of Government,Mario Imbert McGregor,5,Corporate Suit,M49026
+49078,Head of Military Intelligence,Mario Imbert McGregor,5,Dismal Enigma,M49026
+49063,Minister of Armament,Mario Imbert McGregor,5,Resource Industrialist,M49026
+49085,Chief of Army,Victor Vinas Roman,5,Decisive Battle Doctrine,M49027
+49082,Chief of Staff,Victor Vinas Roman,5,School of Fire Support,M49027
+49040,Head of Government,Alberto Garcia Vienda,6,Happy Amateur,M49015
+49076,Head of Military Intelligence,Alberto Garcia Vienda,6,Logistics Specialist,M49015
+49069,Minister of Security,Alberto Garcia Vienda,6,Silent Lawyer,M49015
+49094,Chief of Air Force,Diego Trabajo Ruiz,6,Carpet Bombing Doctrine,M49094
+49084,Chief of Army,Domingo de los Santos Ortiz,6,Armoured Spearhead Doctrine,M49018
+49052,Foreign Minister,Emilio de los Santos,6,Iron Fisted Brute,M49052
+49081,Chief of Staff,Jesus da Costa-Ruiz,6,School of Mass Combat,M49006
+49051,Foreign Minister,Jesus de Galindez,6,Ideological Crusader,M49013
+49059,Minister of Armament,Jesus de Galindez,6,laissez-faire capitalist,M49013
+49061,Minister of Armament,Jorge Balaguer,6,Administrative Genius,M49014
+49042,Head of Government,Rafael Bonelly Fondeur,6,Smiling Oilman,M49042
+49060,Minister of Armament,Rafael Bonelly Fondeur,6,Infantry Proponent,M49042
+49041,Head of Government,Rafael Espaillat,6,Political Protege,M49035
+49068,Minister of Security,Rafael Espaillat,6,Efficient Sociopath,M49035
+49010,Chief of Air Force,Anibal Vallejo Sosa,7,Air Superiority Doctrine,M49010
+49053,Foreign Minister,Antonio Leyba Pou,7,Ideological Crusader,M49025
+49071,Minister of Security,Antonio Leyba Pou,7,Man of the People,M49025
+49048,Foreign Minister,Arturo Despradel,7,Great Compromiser,M49048
+49066,Minister of Security,Donald Reid Cabral,7,Compassionate Gentleman,M49066
+49003,Foreign Minister,Elias Brache,7,Great Compromiser,M49003
+49046,Foreign Minister,Ernesto Bonetti-Burgos,7,Apologetic Clerk,M49046
+49075,Head of Military Intelligence,Hector Trujillo,7,Political Specialist,M49067
+49067,Minister of Security,Hector Trujillo,7,Crooked Kleptocrat,M49067
+49087,Chief of Navy,Honoracio Yuna Robles,7,Open Seas Doctrine,M49087
+49009,Chief of Navy,Humberto Rojas,7,Indirect Approach Doctrine,M49009
+49056,Minister of Armament,Ignacio Bajordo,7,Administrative Genius,M49056
+49002,Head of Government,Jacinto Bienvenido Peynado,7,Happy Amateur,M49002
+49064,Minister of Security,Jacinto Bienvenido Peynado,7,Crooked Kleptocrat,M49002
+49006,Head of Military Intelligence,Jesus da Costa Ruiz,7,Technical Specialist,M49006
+49074,Head of Military Intelligence,Jorge Balaguer,7,Logistics Specialist,M49014
+49092,Chief of Air Force,Julio Ortega Frier,7,Army Aviation Doctrine,M49047
+49047,Foreign Minister,Julio Ortega Frier,7,The Cloak N Dagger Schemer,M49047
+49058,Minister of Armament,Luis Amiamo Tio,7,Corrupt Kleptocrat,M49058
+49038,Head of Government,Manuel de Jesus Troncoso,7,Silent Workhorse,M49004
+49073,Head of Military Intelligence,Manuel de Jesus Troncoso,7,Naval Intelligence Specialist,M49004
+49004,Minister of Armament,Manuel de Jesus Troncoso,7,Infantry Proponent,M49004
+49080,Chief of Staff,Manuel Pena Battle,7,School of Defence,M49049
+49049,Foreign Minister,Manuel Pena Battle,7,General Staffer,M49049
+49101,Foreign Minister,Porfirio Rubirosa,7,The cloak n dagger schemer,DOM_rubirosa
+49100,Head of Military Intelligence,Porfirio Rubirosa,7,Dismal Enigma,DOM_rubirosa
+49008,Chief of Army,Rafel Trujillo,7,Static Defence Doctrine,M49001
+49088,Chief of Navy,Rafel Trujillo,7,Base Control Doctrine,M49088
+49007,Chief of Staff,Rafel Trujillo,7,School of Defence,M49001
+49039,Head of Government,Rafel Trujillo,7,Backroom Backstabber,M49001
+49057,Minister of Armament,Rafel Trujillo,7,Corrupt Kleptocrat,M49001
+49005,Minister of Security,Rafel Trujillo,7,Prince of Terror,M49001
