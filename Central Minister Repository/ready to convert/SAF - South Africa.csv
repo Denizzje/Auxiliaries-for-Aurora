@@ -1,0 +1,107 @@
+SAF,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+70113,Foreign Minister,Bram Fisher,2,Biased Intellectual,kaiserreich_SAF_Fischer
+70115,Minister of Security,Bram Fisher,2,Silent Lawyer,kaiserreich_SAF_Fischer
+70116,Head of Military Intelligence,William H. Andrews,2,Industrial Specialist,kaiserreich_SAF_Andrews
+70112,Head of Government,Yusuf Dadoo,2,Ambitious Union Boss,kaiserreich_SAF_Dadoo
+70114,Minister of Armament,Yusuf Dadoo,2,Military Entrepreneur,kaiserreich_SAF_Dadoo
+70150,Foreign Minister,Alex Hepple,3,Ideological Crusader,KR Alex Hepple
+70151,Head of Government,Alex Hepple,3,Silent Workhorse,KR Alex Hepple
+70142,Chief of Staff,F. H. P. Creswell,3,School of Psychology,KR F. H. P. Creswell
+70141,Head of Government,F. H. P. Creswell,3,Happy Amateur,KR F. H. P. Creswell
+70149,Chief of Army,Jimmy Green,3,Guns and Butter Doctrine,KR Jimmy Green
+70147,Head of Military Intelligence,Jimmy Green,3,Industrial Specialist,KR Jimmy Green
+70148,Minister of Security,Jimmy Green,3,Crime Fighter,KR Jimmy Green
+70146,Minister of Security,Thomas Boydell,3,Man of the People,KR Thomas Boydell
+70144,Head of Government,Walter Madeley,3,Ambitious Union Boss,KR Walter Madeley
+70145,Minister of Armament,Walter Madeley,3,Resource Industrialist,KR Walter Madeley
+70124,Minister of Armament,Albert John Lutuli,4,Infantry Proponent,kaiserreich_SAF_Lutuli
+70123,Foreign Minister,Alfred Xuma,4,The Cloak N Dagger Schemer,kaiserreich_SAF_Xuma
+70126,Head of Military Intelligence,Josiah Zion Gumede,4,Industrial Specialist,kaiserreich_SAF_Gumede
+70127,Chief of Staff,Oliver Tambo,4,School of Psychology,kaiserreich_SAF_Tambo
+70125,Minister of Security,Oliver Tambo,4,Man of the People,kaiserreich_SAF_Tambo
+70085,Chief of Air Force,Adolph Malan,5,Army Aviation Doctrine,M70047
+70047,Minister of Armament,Adolph Malan,5,Air to Ground Proponent,M70047
+70139,Minister of Security,Anthony Sillery,5,Crime Fighter,M553005
+70129,Head of Government,C. F. Stallard,5,Silent Workhorse,M70058
+70058,Minister of Security,C. F. Stallard,5,Silent Lawyer,M70058
+70084,Chief of Air Force,Christoffel Venter,5,Vertical Envelopment Doctrine,M70084
+70137,Head of Government,Godfrey Martin Huggins,5,Corporate Suit,M553002
+70034,Foreign Minister,Graham Botha,5,Apologetic Clerk,M70034
+70045,Minister of Armament,H. J. van der Byl,5,Theoretical Scientist,M70045
+70096,Head of Government,Jan Hendrik Hofmeyr,5,Silent Workhorse,kaiserreich_SAF_Hofmeyr
+70004,Minister of Armament,Jan Hendrik Hofmeyr,5,Laissez-Faire Capitalist,kaiserreich_SAF_Hofmeyr
+70038,Foreign Minister,L. J. du Plessis,5,Ideological Crusader,M70013
+70079,Chief of Army,Leonard Beyers,5,Static Defence Doctrine,M70072
+70095,Minister of Security,Nicolaas J. de Wet,5,Man of the People,M70025
+70138,Minister of Armament,Robert J. Hudson,5,Administrative Genius,M553004
+70110,Chief of Air Force,Stephen Melville,5,Army Aviation Doctrine,kaiserreich_SAF_Melville_fake
+70048,Minister of Armament,Charles T. te Water,6,Resource Industrialist,M70048
+70083,Chief of Navy,Cornelis van Zuigenbrogge,6,Indirect Approach Doctrine,M70050
+70050,Minister of Armament,Cornelis van Zuigenbrogge,6,Submarine Proponent,M70050
+70068,Head of Military Intelligence,Eric Louw,6,Technical Specialist,M70032
+70081,Chief of Army,Francois Theron,6,Armoured Spearhead Doctrine,M70081
+70106,Head of Military Intelligence,Frans Erasmus,6,Logistics Specialist,M70063
+70092,Minister of Security,H.G. Lawrence,6,Prince of Terror,M70092
+70077,Chief of Army,James Mitchell-Baker,6,Decisive Battle Doctrine,M70071
+70071,Chief of Staff,James Mitchell-Baker,6,School of Manoeuvre,M70071
+70008,Chief of Army,Jan C. Smuts,6,Armoured Spearhead Doctrine,M70005
+70074,Chief of Staff,Jan C. Smuts,6,School of Mass Combat,M70005
+70035,Foreign Minister,Jan C. Smuts,6,Ideological Crusader,M70005
+70030,Head of Government,Jan C. Smuts,6,Backroom Backstabber,M70005
+70006,Head of Military Intelligence,Jan C. Smuts,6,Logistics Specialist,M70005
+70090,Minister of Armament,Jan C. Smuts,6,Military Entrepreneur,M70005
+70005,Minister of Security,Jan C. Smuts,6,Man of the People,M70005
+70082,Chief of Navy,Jeannot de la Tourier,6,Decisive Naval Battle Doctrine,M70066
+70066,Head of Military Intelligence,Jeannot de la Tourier,6,Naval Intelligence Specialist,M70066
+70072,Chief of Staff,Leonard Beyers,6,School of Defence,M70072
+70086,Chief of Air Force,Marinus van Osterkemp,6,Naval Aviation Doctrine,M70053
+70053,Minister of Armament,Marinus van Osterkemp,6,Air to Sea Proponent,M70053
+70009,Chief of Navy,Pierre Oliver-Knoll,6,Open Seas Doctrine,M70009
+70051,Minister of Armament,Pierre Oliver-Knoll,6,Battle Fleet Proponent,M70009
+70010,Chief of Air Force,Pierre van Ryneveld,6,Air Superiority Doctrine,M70007
+70080,Chief of Army,Pierre van Ryneveld,6,Elastic Defence Doctrine,M70007
+70007,Chief of Staff,Pierre van Ryneveld,6,School of Manoeuvre,M70007
+70037,Foreign Minister,Pierre van Ryneveld,6,General Staffer,M70007
+70109,Chief of Navy,Pieter de Waal,6,Open Seas Doctrine,kaiserreich_SAF_DeWaal_fake
+70033,Foreign Minister,Reginald Blankenberg,6,Biased Intellectual,M70033
+70075,Chief of Staff,Robert Palmer,6,School of Psychology,M70075
+70067,Head of Military Intelligence,Seymour Jacklin,6,Political Specialist,M70016
+70065,Head of Military Intelligence,B.J. Schoeman,7,Logistics Specialist,M70065
+70078,Chief of Army,C. de Weenburg du Toit,7,Armoured Spearhead Doctrine,M70015
+70073,Chief of Staff,C. de Weenburg du Toit,7,School of Fire Support,M70015
+70040,Minister of Armament,C. de Weenburg du Toit,7,Tank Proponent,M70015
+70064,Minister of Security,C. de Weenburg du Toit,7,Crime Fighter,M70015
+70069,Head of Military Intelligence,C. R. Swart,7,Dismal Enigma,M70057
+70057,Minister of Security,C. R. Swart,7,Silent Lawyer,M70057
+70108,Chief of Army,Christian du Toit,7,Guns and Butter Doctrine,M70015
+70107,Chief of Staff,Christian du Toit,7,School of Manoeuvre,M70015
+70036,Foreign Minister,E.G. Jansen,7,Great Compromiser,M70036
+70061,Minister of Security,E.G. Jansen,7,Silent Lawyer,M70036
+70032,Foreign Minister,Eric H. Louw,7,Biased Intellectual,M70032
+70031,Foreign Minister,Gert Cronje,7,Iron Fisted Brute,M70031
+70076,Chief of Army,J.F. Naude,7,Guns and Butter Doctrine,M70076
+70003,Foreign Minister,James Hertzog,7,General Staffer,M70002
+70002,Head of Government,James Hertzog,7,Old General,M70002
+70042,Minister of Armament,James Hertzog,7,Infantry Proponent,M70002
+70056,Minister of Security,N. J. van der Merwe,7,Compassionate Gentleman,M70056
+70070,Head of Military Intelligence,Nicolaas Havenga,7,Industrial Specialist,M70004
+70104,Minister of Armament,Nicolaas Havenga,7,Resource Industrialist,M70004
+70052,Minister of Armament,P.O. Sauer,7,laissez-faire capitalist,M70052
+70102,Head of Government,T.E. Dönges,7,Silent Workhorse,M70059
+70059,Minister of Security,T.E. Dönges,7,Man of the People,M70059
+70039,Foreign Minister,D. F. Malan,8,The Cloak N Dagger Schemer,M70029
+70029,Head of Government,D. F. Malan,8,Flamboyant Tough Guy,M70029
+70060,Minister of Security,D. F. Malan,8,Crime Fighter,M70029
+70091,Minister of Armament,F.C. Erasmus,8,Submarine Proponent,M70063
+70063,Minister of Security,F.C. Erasmus,8,Efficient Sociopath,M70063
+70105,Head of Military Intelligence,Hendrijk F. Verwoerd,8,Technical Specialist,M70055
+70055,Minister of Security,Hendrijk F. Verwoerd,8,Prince of Terror,M70055
+70012,Head of Government,J. F. van Rensburg,8,Old General,M70011
+70103,Foreign Minister,J. G. Strijdom,8,Iron Fisted Brute,M70041
+70041,Minister of Armament,J. G. Strijdom,8,Resource Industrialist,M70041
+70062,Minister of Security,J. G. Strijdom,8,Back Stabber,M70041
+70049,Minister of Armament,Oswald Pirow,8,Military Entrepreneur,M70014
+70097,Minister of Security,Oswald Pirow,8,Crime Fighter,kaiserreich_SAF_Pirow
+70087,Chief of Air Force,S.P. Le Roux,8,Vertical Envelopment Doctrine,M70043
+70043,Minister of Armament,S.P. Le Roux,8,Administrative Genius,M70043

@@ -1,0 +1,100 @@
+RSI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+508222,Head of Government,Benito Mussolini,0,Old General,kaiserreich_RSI_Benito_Mussolini
+508215,Minister of Security,Benito Mussolini,0,Man of the People,kaiserreich_RSI_Benito_Mussolini
+508205,Minister of Security,Cesare Maria De Vecchi,0,Prince of Terror,kaiserreich_RSI_De_Vecchi
+508219,Chief of Navy,Dino Grandi,0,Power Projection Doctrine,M3153
+508203,Foreign Minister,Dino Grandi,0,Great Compromiser,M3056
+508216,Head of Military Intelligence,Dino Grandi,0,Technical Specialist,M3056
+508209,Chief of Navy,Domenico Cavagnari,0,Decisive Naval Battle Doctrine,M3009
+508208,Chief of Army,Emilio De Bono,0,Decisive Battle Doctrine,kaiserreich_RSI_De_Bono
+508206,Head of Military Intelligence,Emilio De Bono,0,Logistics Specialist,kaiserreich_RSI_De_Bono
+508204,Minister of Armament,Giuseppe Bottai,0,Infantry Proponent,kaiserreich_RSI_Bottai
+508214,Minister of Armament,Guido Jung,0,Administrative Genius,M3076
+508210,Chief of Air Force,Italo Balbo,0,Army Aviation Doctrine,kaiserreich_RSI_Balbo
+508212,Head of Government,Luigi Federzoni,0,Ambitious Union Boss,kaiserreich_RSI_Federzoni
+508202,Head of Government,Michele Bianchi,0,Silent Workhorse,kaiserreich_RSI_Bianchi
+508207,Chief of Staff,Renato Ricci,0,School of Mass Combat,kaiserreich_RSI_renato_ricci
+508226,Head of Military Intelligence,Umberto Ricci,0,Industrial Specialist,kaiserreich_RSI_umberto_ricci
+508011,Head of Government,Amadeo Bordiga,1,Naive Optimist,kaiserreich_RSI_Amedeo_Bordiga
+508002,Head of Government,Antonio Gramsci,1,Silent Workhorse,kaiserreich antoniogramsci
+508015,Minister of Security,Antonio Gramsci,1,Crime Fighter,kaiserreich antoniogramsci
+508007,Chief of Staff,Camillo Berneri,1,School of Defence,kaiserreich_RSI_Berneri
+508014,Minister of Armament,Fausto Gullo,1,Military Entrepreneur,kaiserreich_RSI_Gullo
+508009,Chief of Navy,Francesco Maugeri,1,Decisive Naval Battle Doctrine,kaiserreich_RSI_Maugeri
+508026,Head of Military Intelligence,Giorgo Napolitano,1,Political Specialist,kaiserreich_RSI_Napolitano
+508006,Head of Military Intelligence,Giuseppe di Vittorio,1,Political Specialist,M3120
+508010,Chief of Air Force,Mario Ajmone Cat,1,Air Superiority Doctrine,kaiserreich_RSI_Ajmone_Cat
+508024,Minister of Armament,Mauro Scoccimarro,1,Air Superiority Proponent,M3088
+508016,Head of Military Intelligence,Palmiro Togliatti,1,Technical Specialist,M3021
+508022,Head of Government,Pietro Ingrao,1,Ambitious Union Boss,kaiserreich_RSI_Ingrao
+508003,Foreign Minister,Pietro Nenni,1,Ideological Crusader,M3062
+508025,Minister of Security,Pietro Secchia,1,Back Stabber,kaiserreich_RSI_Secchia
+508005,Minister of Security,Ruggiero Grieco,1,Man of the People,kaiserreich_RSI_Greco
+508008,Chief of Army,Umberto Marzocchi,1,Elastic Defence Doctrine,kaiserreich_RSI_Marzocchi
+508004,Minister of Armament,Vittorio Vidali,1,Infantry Proponent,M3087
+508108,Chief of Army,Alfredo Pizzoni,2,Armoured Spearhead Doctrine,kaiserreich_RSI_Pizzoni
+508109,Chief of Navy,Angelo Corsi,2,Power Projection Doctrine,kaiserreich_RSI_Corsi
+508106,Head of Military Intelligence,Antonio Pesenti,2,Technical Specialist,M3024
+508114,Minister of Armament,Antonio Pesenti,2,Resource Industrialist,M3024
+508104,Minister of Armament,Carlo Rosselli,2,Administrative Genius,kaiserreich_RSI_Rosselli
+508115,Head of Military Intelligence,Elio Vittorini,2,Political Specialist,Elio_Vittorini
+508125,Minister of Security,Francesco De Martino,2,Compassionate Gentleman,kaiserreich_RSI_De_Martino
+508122,Head of Government,Gaetano Salvemini,2,Political Protege,kaiserreich_RSI_Salvemini
+508126,Head of Military Intelligence,Giacomo Mancini,2,Political Specialist,kaiserreich_RSI_Mancini
+508113,Foreign Minister,Giacomo Matteotti,2,Biased Intellectual,kaiserreich_RSI_Matteotti
+508102,Head of Government,Giacomo Matteotti,2,Silent Workhorse,kaiserreich_RSI_Matteotti
+508132,Head of Government,Giorgio Amendola,2,Silent Workhorse,kaiserreich_RSI_Amendola
+508105,Minister of Security,Giuseppe Romita,2,Compassionate Gentleman,M3105
+508123,Foreign Minister,Giuseppe Saragat,2,Great Compromiser,kaiserreich_RSI_Saragat
+508107,Chief of Staff,Luigi Longo,2,School of Mass Combat,M3022
+508103,Foreign Minister,Luigi Longo,2,Ideological Crusader,M3022
+508112,Head of Government,Luigi Longo,2,Political Protege,M3022
+508119,Chief of Navy,Raffaele de Courten,2,Open Seas Doctrine,M3019
+508110,Chief of Air Force,Renato Sandalli,2,Naval Aviation Doctrine,M3020
+508610,Chief of Air Force,Adriano Visconti,4,Air Superiority Doctrine,kaiserreich_RSI_Visconti
+508314,Minister of Armament,Alberto Beneduce,4,Military Entrepreneur,kaiserreich_RSI_Beneduce
+508306,Head of Military Intelligence,Benedetto Croce,4,Technical Specialist,kaiserreich_RSI_Croce
+508310,Chief of Air Force,Carlo Scialoja,4,Army Aviation Doctrine,M3157
+508317,Chief of Staff,Cipriano Facchinetti,4,School of Manoeuvre,M3083
+508324,Minister of Armament,Cipriano Facchinetti,4,Resource Industrialist,M3083
+508309,Chief of Navy,Emilio Ferreri,4,Indirect Approach Doctrine,kaiserreich_RSI_Ferreri
+508312,Head of Government,Enrico De Nicola,4,Ambitious Union Boss,M3039
+508305,Minister of Security,Enrico De Nicola,4,Crime Fighter,M3039
+508304,Minister of Armament,Epicarmo Corbino,4,Infantry Proponent,kaiserreich_RSI_Corbino
+508303,Foreign Minister,Francesco Saverio Nitti,4,General Staffer,kaiserreich_RSI_Nitti
+508318,Chief of Army,Giancarlo Pajetta,4,Static Defence Doctrine,M3028
+508319,Chief of Navy,Giancarlo Pajetta,4,Power Projection Doctrine,M3028
+508307,Chief of Staff,Giuseppe Spataro,4,School of Defence,kaiserreich_RSI_Spataro
+508302,Head of Government,Guglielmo Giannini,4,Naive Optimist,kaiserreich_RSI_Giannini
+508315,Minister of Security,Vincenzo Arangio-Ruiz,4,Silent Lawyer,kaiserreich_RSI_Arangio_Ruiz
+508403,Foreign Minister,Gaetano Martino,6,Ideological Crusader,kaiserreich_RSI_Martino
+508407,Chief of Staff,Gennaro Cassiani,6,School of Defence,kaiserreich_RSI_Cassiani
+508412,Head of Government,Gennaro Cassiani,6,Political Protege,kaiserreich_RSI_Cassiani
+508406,Head of Military Intelligence,Giacomo Acerbo,6,Industrial Specialist,M3073
+508414,Minister of Armament,Giacomo Acerbo,6,Resource Industrialist,M3073
+508402,Head of Government,Giuseppe Alessi,6,Backroom Backstabber,Giuseppe_Alessi
+508408,Chief of Army,Luigi Rizzo,6,Guns and Butter Doctrine,kaiserreich_RSI_Rizzo
+508409,Chief of Navy,Luigi Rizzo,6,Open Seas Doctrine,kaiserreich_RSI_Rizzo
+508405,Minister of Security,Mario Scelba,6,Back Stabber,M3101
+508404,Minister of Armament,Silvio Milazzo,6,Resource Industrialist,kaiserreich_RSI_Milazzo
+508608,Chief of Army,Achille Starace,7,Static Defence Doctrine,M3126
+508602,Head of Government,Achille Starace,7,Old General,M3126
+508606,Head of Military Intelligence,Bruno Spampanato,7,Political Specialist,kaiserreich_RSI_Spampanato
+508604,Minister of Armament,Domenico Pellegrini Giampietro,7,Military Entrepreneur,kaiserreich_RSI_Pellegrini_Giampietro
+508607,Chief of Staff,Federico Baistrocchi,7,School of Defence,M3064
+508603,Foreign Minister,Filippo Anfuso,7,Ideological Crusader,kaiserreich_RSI_Anfuso
+508619,Head of Government,Lucio Tasca Lanza,7,Happy Amateur,RSI_lucio_tasca
+508615,Head of Government,Ranieri di Borbone-Due Sicilie,7,Political Protege,ranieri
+508605,Minister of Security,Roberto Farinacci,7,Efficient Sociopath,M3096
+508623,Head of Government,S.A. Fulco Ruffo di Calabria,8,Old airmarshal,RSI_calabria
+508507,Chief of Staff,Calogero Vizzini,9,School of Mass Combat,kaiserreich_RSI_Vizzini
+508617,Head of Government,Calogero Vizzini,9,Flamboyant Tough Guy,kaiserreich_RSI_Vizzini
+508508,Chief of Army,Giuseppe Genco Russo,9,Static Defence Doctrine,kaiserreich_RSI_Genco_Russo
+508512,Head of Government,Salvatore Giuliano,9,Old General,kaiserreich_RSI_Giuliano
+508516,Head of Military Intelligence,Salvatore Giuliano,9,Logistics Specialist,kaiserreich_RSI_Giuliano
+508503,Foreign Minister,Salvatore Lucky Luciano Lucania,9,iron fisted brute,kaiserreich_RSI_Lucania
+508506,Head of Military Intelligence,Salvatore Lucky Luciano Lucania,9,Dismal Enigma,kaiserreich_RSI_Lucania
+508502,Head of Government,Vito Cascio Ferro,9,Backroom Backstabber,kaiserreich_RSI_Vito_Cascio_Ferro
+508504,Minister of Armament,Vito Genovese,9,Corrupt Kleptocrat,kaiserreich_RSI_Vito_Genovese
+508505,Minister of Security,Vito Genovese,9,Prince of Terror,kaiserreich_RSI_Vito_Genovese

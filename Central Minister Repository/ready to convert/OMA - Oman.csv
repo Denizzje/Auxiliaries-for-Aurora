@@ -1,0 +1,70 @@
+OMN,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+92011,Foreign Minister,Abbas bin Muhammad,7,Ideological Crusader,unknown
+92040,Head of Military Intelligence,Abbas bin Muhammad,7,Political Specialist,unknown
+92060,Chief of Air Force,Abdallah ibn Timur,7,Air Superiority Doctrine,M92010
+92017,Minister of Armament,Abdallah ibn Timur,7,Air Superiority Proponent,M92010
+92026,Minister of Armament,Ahmad bin Muhammad,7,Laissez-Faire Capitalist,unknown
+92037,Head of Military Intelligence,Ali bin Faisal,7,Industrial Specialist,unknown
+92024,Minister of Armament,Ali bin Faisal,7,Resource Industrialist,unknown
+92015,Minister of Armament,Ali ibn Timur,7,Corrupt Kleptocrat,M92015
+92029,Minister of Security,Ali ibn Timur,7,Crooked Kleptocrat,M92015
+92010,Foreign Minister,Dhiyab bin Fahad,7,Great Compromiser,unknown
+92033,Minister of Security,Dhiyab bin Fahad,7,Man of the People,unknown
+92061,Chief of Air Force,Fawzi ibn Timur,7,Carpet Bombing Doctrine,M92028
+92018,Minister of Armament,Fawzi ibn Timur,7,Strategic Air Proponent,M92028
+92020,Minister of Armament,Hamad bin Faisal,7,Battle fleet Proponent,unknown
+92056,Chief of Navy,Hamad bin Faisal,7,Decisive Naval Battle Doctrine,unknown
+92039,Head of Military Intelligence,Hamud bin Faisal,7,Naval Intelligence Specialist,unknown
+92057,Chief of Navy,Hamud bin Faisal,7,Open Seas Doctrine,unknown
+92035,Minister of Security,Hilal bin Muhammad,7,Crime Fighter,unknown
+92006,Foreign Minister,Ibrahim ibn Timur,7,Iron Fisted Brute,M92012
+92030,Minister of Security,Ibrahim ibn Timur,7,Prince of Terror,M92012
+92050,Chief of Army,Jamil ibn Timur,7,Elastic Defence Doctrine,M92021
+92044,Chief of Staff,Jamil ibn Timur,7,School of Manoeuvre,M92021
+92012,Foreign Minister,Mahmud bin Muhammad,7,Apologetic Clerk,unknown
+92036,Minister of Security,Mahmud bin Muhammad,7,Back Stabber,unknown
+92032,Minister of Security,Malik bin Faisal,7,Silent Lawyer,unknown
+92025,Minister of Armament,Muhammad bin Muhammad,7,Administrative Genius,unknown
+92055,Chief of Navy,Nadir bin Faisal,7,Base Control Doctrine,unknown
+92062,Chief of Air Force,Nadir bin Faisal,7,Vertical Envelopment Doctrine,unknown
+92003,Head of Government,Said ibn Timur,7,Backroom Backstabber,M92001
+92028,Minister of Security,Said ibn Timur,7,Efficient Sociopath,M92001
+92005,Foreign Minister,Said ibn Timur,7,General Staffer,M92001
+92013,Minister of Armament,Said ibn Timur,7,Military Entrepreneur,M92001
+92043,Chief of Staff,Said ibn Timur,7,School of Defence,M92001
+92049,Chief of Army,Said ibn Timur,7,Static Defence Doctrine,M92001
+92052,Chief of Army,Salim bin Faisal,7,Decisive Battle Doctrine,unknown
+92016,Minister of Armament,Salim bin Faisal,7,Infantry Proponent,unknown
+92042,Head of Military Intelligence,Salim bin Faisal,7,Logistics Specialist,unknown
+92046,Chief of Staff,Salim bin Faisal,7,School of Mass Combat,unknown
+92034,Minister of Security,Shihab bin Faisal,7,Compassionate Gentleman,unknown
+92051,Chief of Army,Zahir ibn Timur,7,Armoured Spearhead Doctrine,M92024
+92045,Chief of Staff,Zahir ibn Timur,7,School of Fire Support,M92024
+92019,Minister of Armament,Zahir ibn Timur,7,Tank Proponent,M92024
+92066,Foreign Minister,al-Husayn ibn Ali,8,General Staffer,kaiserreich al-Husayn
+92068,Minister of Armament,al-Husayn ibn Ali,8,Resource Industrialist,kaiserreich al-Husayn
+92059,Chief of Navy,Ali bin Serhan,8,Indirect Approach Doctrine,unknown
+92021,Minister of Armament,Ali bin Serhan,8,Submarine Proponent,unknown
+92065,Foreign Minister,Djaffar ibn al-Mansur,8,General Staffer,kaiserreich Djaffar
+92067,Minister of Armament,Djaffar ibn al-Mansur,8,Resource Industrialist,kaiserreich Djaffar
+92038,Head of Military Intelligence,Gharib bin Thabit,8,Dismal Enigma,unknown
+92008,Foreign Minister,Gharib bin Thabit,8,The Cloak N Dagger Schemer,unknown
+92022,Minister of Armament,Sa’id bin Kindeh,8,air to sea proponent,unknown
+92063,Chief of Air Force,Sa’id bin Kindeh,8,Naval Aviation Doctrine,unknown
+92058,Chief of Navy,Sa’id bin Kindeh,8,Power Projection Doctrine,unknown
+92070,Head of Military Intelligence,Saleh al Qu'aiti,8,Industrial Specialist,kaiserreich Saleh
+92069,Minister of Security,Saleh al Qu'aiti,8,Man of the People,kaiserreich Saleh
+92009,Foreign Minister,Salim bin Kindeh,8,Biased Intellectual,unknown
+92041,Head of Military Intelligence,Salim bin Kindeh,8,Technical Specialist,unknown
+92027,Minister of Armament,Salim bin Kindeh,8,Theoretical Scientist,unknown
+92031,Minister of Security,Thabit bin ‘Abdu’llah,8,Efficient Sociopath,unknown
+92007,Foreign Minister,Thabit bin ‘Abdu’llah,8,General Staffer,unknown
+92014,Minister of Armament,Thabit bin ‘Abdu’llah,8,Military Entrepreneur,unknown
+92047,Chief of Staff,Thabit bin ‘Abdu’llah,8,School of Defence,unknown
+92004,Head of Government,Thabit bin ‘Abdu’llah,8,Silent Workhorse,unknown
+92053,Chief of Army,Thabit bin ‘Abdu’llah,8,Static Defence Doctrine,unknown
+92023,Minister of Armament,Thanaiyan bin Hamad,8,air to ground proponent,unknown
+92064,Chief of Air Force,Thanaiyan bin Hamad,8,Army Aviation Doctrine,unknown
+92054,Chief of Army,Thanaiyan bin Hamad,8,Guns and Butter Doctrine,unknown
+92048,Chief of Staff,Thanaiyan bin Hamad,8,School of Psychology,unknown
