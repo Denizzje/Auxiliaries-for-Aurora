@@ -55,10 +55,17 @@ Supported scopes: country
 
 Supported targets:
 
-has_country_flag - has country flag(s) been set
+has_country_flag - has country flag been set.Check flag val date set and days since set.
+Example: has_country_flag = test_flag
+has_country_flag = { 
+	flag = <name> (mandatory)
+	value < <int> (optional)
+	date > <date> (optional)
+	days > <int> (optional)
+}
 Supported scopes: country
 
-Supported targets:
+Supported targets: ???
 
 reserves - check amount of reserves
 Supported scopes:
@@ -100,10 +107,17 @@ Supported scopes: ???
 
 Supported targets: ???
 
-has_global_flag - has global flag(s) been set
+has_global_flag - has global flag been set.Check flag val date set and days since set.
+Example: has_global_flag = test_flag
+has_global_flag = { 
+	flag = <name> (mandatory)
+	value < <int> (optional)
+	date > <date> (optional)
+	days > <int> (optional)
+}
 Supported scopes: ???
 
-Supported targets:
+Supported targets: ???
 
 is_attacker - check if attacker side in combat
 Supported scopes:
@@ -221,10 +235,17 @@ Supported scopes: country
 
 Supported targets:
 
-has_state_flag - has state flag(s) been set
+has_state_flag - has state flag been setCheck flag val date set and days since set.
+Example: has_state_flag = test_flag
+has_state_flag = { 
+	flag = <name> (mandatory)
+	value < <int> (optional)
+	date > <date> (optional)
+	days > <int> (optional)
+}
 Supported scopes: state
 
-Supported targets: none
+Supported targets: ??? none
 
 has_war_with - is countries at war
 Supported scopes: country
@@ -936,9 +957,103 @@ Supported scopes: country
 
 Supported targets:
 
+has_resources_amount - checks for amount of resources in specified state
+Example:
+has_resources_amount = {
+	resource = chromium
+	amount > 10
+	state = 31 (optional - can be used in state scope instead)
+Supported scopes: state country
+
+Supported targets: none
+
+has_tech_bonus - checks if the country has a bonus for the specified technology or category
+Example:
+has_tech_bonus = {
+	technology =  <tech>
+	category = <tech cat>
+	}
+Supported scopes: country
+
+Supported targets: ???
+
+has_template_majority_unit - check if country has a division template that is majority of specific unit
+Supported scopes: country
+
+Supported targets:
+
+min_planning - check if side has maximal planning bonus
+Supported scopes:
+
+Supported targets:
+
+has_country_leader - check if country has leader with specified ID. Don't localize this. Tooltip only for debug.
+has_country_leader = {
+	id = <ID>
+	ruling_only = yes/no (default = yes)
+	name = <string>
+}
+Supported scopes: country
+
+Supported targets:
+
+has_army_experience - Compares current country's army experience with right side value.
+ has_army_experience < <value>
+Supported scopes: country
+
+Supported targets:
+
+has_air_experience - Compares current country's air experience with right side value.
+ has_air_experience < <value>
+Supported scopes: country
+
+Supported targets:
+
+has_navy_experience - Compares current country's navy experience with right side value.
+ has_navy_experience < <value>
+Supported scopes: country
+
+Supported targets:
+
+has_full_control_of_state - check controller for state(s)
+Supported scopes: country
+
+Supported targets: THIS ROOT PREV FROM OWNER CONTROLLER CAPITAL
+
+num_divisions - Will compare towards the amount of divisions a country has control over, if strength matters use has_army_size.
+Supported scopes: country
+
+Supported targets:
+
+count_triggers - Returns true if the specified number of sub-triggers return true
+calc_true_if = { amount = 2 <trigger> <trigger> <trigger> }
+Supported scopes: ???
+
+Supported targets:
+
+is_target_of_coup - is_target_of_coup = yes - Returns true if current country is being targeted by a coup from any country.
+Supported scopes: country
+
+Supported targets:
+
+is_staging_coup - is_staging_coup = yes - Returns true if current country is staging a coup in another any country.
+Supported scopes: country
+
+Supported targets:
+
+has_focus_tree - Does current country have the specified focus tree.
+Supported scopes: country
+
+Supported targets:
+
+has_template_ai_majority_unit - check if country has a division template that is majority of specific unit using AI's priorities rather than visual
+Supported scopes: country
+
+Supported targets:
+
 
 =================
-[17:06:03][ConsoleCmdImpl.cpp:4171]: 
+[17:34:54][ConsoleCmdImpl.cpp:4193]: 
 == EFFECT DOCUMENTATION ==
 add_manpower - Adds manpower to the country in scope or locally on a state if in state scope
 Supported scopes: state country
@@ -1729,5 +1844,46 @@ Supported scopes: state
 
 Supported targets: none
 
+modify_global_flag - modify global flag. Only modifies if flag already exists.
+Example: modify_global_flag = { flag = <name> value = <number> }
+Supported scopes: ???
 
-=================
+Supported targets:
+
+modify_country_flag - modify country flag. Only modifies if flag already exists.
+Example: modify_country_flag = { flag = <name> value = <number> }
+Supported scopes: country
+
+Supported targets:
+
+modify_state_flag - modify state flag. Only modifies if flag already exists.
+Example: modify_state_flag = { flag = <name> value = <number> }
+Supported scopes: country
+
+Supported targets:
+
+add_state_modifier - Adds a modifier to the state
+Example: add_state_modifier = { modifier = { local_non_core_manpower = 0.2 } }
+Supported scopes: state
+
+Supported targets: none
+
+set_province_name - set_province_name = { id = <province id> name = <string> } - Set name for a province
+Supported scopes: ???
+
+Supported targets:
+
+set_state_name - set_state_name = <string> - Set the current states name
+Supported scopes: state
+
+Supported targets: none
+
+reset_province_name - reset name of a province back to localization one.
+Supported scopes: ???
+
+Supported targets:
+
+reset_state_name - reset_state_name = yes - Resets the current states name to the original one
+Supported scopes: state
+
+Supported targets: none
