@@ -1,21 +1,21 @@
 POR,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-9035,Minister of Security,¡lvaro Cunhal,1,Man of the People,POR_alvaro_cunhal
-9095,Head of Government,AntÛnio Pinto Quartim,1,Silent Workhorse,POR_pinto_quartim
-9039,Chief of Navy,Bento GonÁalves,1,Power Projection Doctrine,POR_bento_goncalves
-9032,Head of Government,Bento GonÁalves,1,Happy Amateur,POR_bento_goncalves
+9035,Minister of Security,√Ålvaro Cunhal,1,Man of the People,POR_alvaro_cunhal
+9095,Head of Government,Ant√≥nio Pinto Quartim,1,Silent Workhorse,POR_pinto_quartim
+9039,Chief of Navy,Bento Gon√ßalves,1,Power Projection Doctrine,POR_bento_goncalves
+9032,Head of Government,Bento Gon√ßalves,1,Happy Amateur,POR_bento_goncalves
 9059,Minister of Armament,F.Salgado Zenha,1,Military Entrepreneur,M9034
 9037,Chief of Staff,Jose A.P. Rebelo,1,School of Psychology,M9037
 9098,Minister of Security,Manuel Ribeiro,1,Crime Fighter,POR_manuel_ribeiro
 9040,Chief of Air Force,Antonio Sergo,2,Carpet Bombing Doctrine,M9036
 9036,Head of Military Intelligence,Antonio Sergo,2,Industrial Specialist,M9036
 9038,Chief of Army,Jose A.P. Rebelo,2,Guns and Butter Doctrine,M9037
-90109,Minister of Armament,JosÈ Gomes Ferreira,2,Administrative Genius,POR_jose_gomes_ferreira
+90109,Minister of Armament,Jos√© Gomes Ferreira,2,Administrative Genius,POR_jose_gomes_ferreira
 90110,Foreign Minister,Maria da Cunha Lamas,2,Great Compromiser,POR_maria_lamas
 9020,Chief of Air Force,J.M. Sarmento Beires,3,Naval Aviation Doctrine,M9020
-9012,Head of Government,Jaime Cortes„o,3,Smiling Oilman,M9012
-9057,Minister of Armament,Jaime Cortes„o,3,Tank Proponent,M9012
-9019,Chief of Navy,JosÈ Sarmento Pimentel,3,Base Control Doctrine,M9019
+9012,Head of Government,Jaime Cortes√£o,3,Smiling Oilman,M9012
+9057,Minister of Armament,Jaime Cortes√£o,3,Tank Proponent,M9012
+9019,Chief of Navy,Jos√© Sarmento Pimentel,3,Base Control Doctrine,M9019
 9015,Minister of Security,Raul Proenca,3,Back Stabber,M9015
 9044,Foreign Minister,Ruy Ulrich,3,Great Compromiser,M9023
 9046,Foreign Minister,Francisco Cunha Leal,4,The Cloak N Dagger Schemer,M9013
@@ -28,10 +28,10 @@ POR,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 9084,Head of Government,Aquilino Ribeiro,6,Political Protege,M9062
 9062,Minister of Security,Aquilino Ribeiro,6,Crime Fighter,M9062
 9043,Foreign Minister,D.Fezas Vital,6,General Staffer,M9022
-9051,Minister of Armament,Jo„o Chagas,6,Military Entrepreneur,M9051
-90104,Head of Government,Jo„o Tamagnini Barbosa,6,Corporate Suit,POR_joao_tamagnini_barbosa
-9075,Chief of Navy,Quint„o Meireles,6,Open Seas Doctrine,M9029
-90105,Foreign Minister,Quint„o Meireles,6,General Staffer,M9029
+9051,Minister of Armament,Jo√£o Chagas,6,Military Entrepreneur,M9051
+90104,Head of Government,Jo√£o Tamagnini Barbosa,6,Corporate Suit,POR_joao_tamagnini_barbosa
+9075,Chief of Navy,Quint√£o Meireles,6,Open Seas Doctrine,M9029
+90105,Foreign Minister,Quint√£o Meireles,6,General Staffer,M9029
 9017,Chief of Staff,Raul Brandao,6,School of Defence,M9004
 9052,Minister of Armament,Vasco Carvalho,6,Theoretical Scientist,M9052
 9003,Foreign Minister,A. Oliveira Salazar,7,Ideological Crusader,M9002
@@ -40,8 +40,8 @@ POR,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 9047,Foreign Minister,Alfredo Pimenta,7,Ideological Crusader,M9026
 9064,Minister of Security,Alfredo Pimenta,7,Prince of Terror,M9026
 9076,Chief of Navy,Americo Deus Tomas,7,Open Seas Doctrine,M9076
-9093,Head of Government,AntÛnio de Fragosa Carmona,7,Backroom Backstabber,M9001
-90112,Head of Government,AntÛnio Lopes Mateus,7,Old General,POR_lopes_mateus
+9093,Head of Government,Ant√≥nio de Fragosa Carmona,7,Backroom Backstabber,M9001
+90112,Head of Government,Ant√≥nio Lopes Mateus,7,Old General,POR_lopes_mateus
 9054,Minister of Armament,Antonio Sardinho,7,Administrative Genius,M9024
 9058,Minister of Armament,Armindo Monteiro,7,Battle Fleet Proponent,M9058
 9069,Head of Military Intelligence,Augusto Vasconcellos,7,Technical Specialist,M9069
@@ -54,16 +54,16 @@ POR,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 90108,Head of Government,Jaime Afreixo,7,Old Admiral,M9009
 9053,Minister of Armament,Joao Nunes Costa,7,Air to Ground Proponent,M9053
 9068,Head of Military Intelligence,Joao Pereira Bastos,7,Logistics Specialist,M9016
-9048,Foreign Minister,JosÈ Caeiro da Mata,7,Great Compromiser,M9048
+9048,Foreign Minister,Jos√© Caeiro da Mata,7,Great Compromiser,M9048
 9067,Head of Military Intelligence,Julio Dantas,7,Industrial Specialist,M9067
 9061,Minister of Security,M. Nobre Melo,7,Efficient Sociopath,M9061
 9010,Chief of Air Force,Manuel Gouveia,7,Vertical Envelopment Doctrine,M9010
 9005,Minister of Security,Mario Pais Sousa,7,Crooked Kleptocrat,M9005
 9077,Chief of Air Force,Ortins Bettencourt,7,Naval Aviation Doctrine,M9077
 9081,Foreign Minister,Paulo Cunha,7,Apologetic Clerk,M9081
-9006,Head of Military Intelligence,Pedro TeotÛnio Pereira,7,Dismal Enigma,M9006
+9006,Head of Military Intelligence,Pedro Teot√≥nio Pereira,7,Dismal Enigma,M9006
 9004,Minister of Armament,Raul Brandao,7,Resource Industrialist,M9004
-90106,Head of Government,SidÛnio Pais,7,Naive Optimist,kai_sidpai
+90106,Head of Government,Sid√≥nio Pais,7,Naive Optimist,kai_sidpai
 9007,Chief of Staff,Tasso Miranda Cabral,7,School of Fire Support,M9007
 9045,Foreign Minister,Xavier Cordeiro,7,Biased Intellectual,M9045
 90102,Head of Government,Alberto Monsaraz,8,Corporate Suit,POR_alberto_monsaraz
@@ -71,8 +71,8 @@ POR,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 9050,Minister of Armament,Henrique Mitchell Paiva Couceiro,8,Military Entrepreneur,POR_paiva_couceiro
 9074,Chief of Army,J.Barros Rodrigues,8,Elastic Defence Doctrine,M9074
 9065,Minister of Security,J.Botelho Moniz,8,Compassionate Gentleman,M9065
-9049,Minister of Armament,JosÈ HipÛlito Vaz Raposo,8,Infantry Proponent,M9049
-90101,Minister of Security,JosÈ HipÛlito Vaz Raposo,8,Crime Fighter,M9049
+9049,Minister of Armament,Jos√© Hip√≥lito Vaz Raposo,8,Infantry Proponent,M9049
+90101,Minister of Security,Jos√© Hip√≥lito Vaz Raposo,8,Crime Fighter,M9049
 9042,Foreign Minister,Luis Almeida Braga,8,Iron Fisted Brute,M9042
 9073,Chief of Army,Rolao Pretea,8,Armoured Spearhead Doctrine,M9073
-90100,Head of Government,Francisco Rol„o Preto,9,Happy Amateur,POR_rolao_preto
+90100,Head of Government,Francisco Rol√£o Preto,9,Happy Amateur,POR_rolao_preto

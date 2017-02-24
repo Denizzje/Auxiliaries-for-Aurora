@@ -1,57 +1,57 @@
 HUN,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-21092,Minister of Armament,Béla Zsedényi,0,Infantry Proponent,M21031
-21079,Foreign Minister,Erik Molnár,0,Ideological Crusader,M21079
-21126,Head of Military Intelligence,Ernö Gerö,0,Logistics Specialist,M21093
-21093,Minister of Armament,Ernö Gerö,0,Resource Industrialist,M21093
+21092,Minister of Armament,BÃ©la ZsedÃ©nyi,0,Infantry Proponent,M21031
+21079,Foreign Minister,Erik MolnÃ¡r,0,Ideological Crusader,M21079
+21126,Head of Military Intelligence,ErnÃ¶ GerÃ¶,0,Logistics Specialist,M21093
+21093,Minister of Armament,ErnÃ¶ GerÃ¶,0,Resource Industrialist,M21093
 21114,Minister of Security,Ferenc Erdei,0,Compassionate Gentleman,M21114
 21174,Chief of Staff,Gabor Sziszkalatay,0,School of Psychology,M21136
 21113,Minister of Security,Imre Nagy,0,Back Stabber,M21113
-21157,Chief of Navy,Kálmán Hardy,0,Decisive Naval Battle Doctrine,M21039
-21081,Foreign Minister,László Rajk,0,Iron Fisted Brute,M21035
-21064,Head of Government,László Rajk,0,Flamboyant Tough Guy,M21035
-21127,Head of Military Intelligence,László Rajk,0,Political Specialist,M21035
-21111,Minister of Security,László Rajk,0,Crime Fighter,M21035
+21157,Chief of Navy,KÃ¡lmÃ¡n Hardy,0,Decisive Naval Battle Doctrine,M21039
+21081,Foreign Minister,LÃ¡szlÃ³ Rajk,0,Iron Fisted Brute,M21035
+21064,Head of Government,LÃ¡szlÃ³ Rajk,0,Flamboyant Tough Guy,M21035
+21127,Head of Military Intelligence,LÃ¡szlÃ³ Rajk,0,Political Specialist,M21035
+21111,Minister of Security,LÃ¡szlÃ³ Rajk,0,Crime Fighter,M21035
 21138,Chief of Staff,Matta Zalka,0,School of Psychology,M21037
 21080,Foreign Minister,Matta Zalka,0,General Staffer,M21037
-21065,Head of Government,Mátyas Rákosi,0,Backroom Backstabber,M21032
-21112,Minister of Security,Mátyás Rákosi,0,Crooked Kleptocrat,M21032
+21065,Head of Government,MÃ¡tyas RÃ¡kosi,0,Backroom Backstabber,M21032
+21112,Minister of Security,MÃ¡tyÃ¡s RÃ¡kosi,0,Crooked Kleptocrat,M21032
 21110,Minister of Security,Mihaly Farkas,0,Prince of Terror,M21110
 21150,Chief of Army,Nikolaj Berzin,0,Decisive Battle Doctrine,M21038
-21094,Minister of Armament,Zoltán Vas,0,Military Entrepreneur,M21034
-21075,Foreign Minister,Arpád Szakasits,3,Biased Intellectual,M21061
-21061,Head of Government,Arpád Szakasits,3,Happy Amateur,M21061
+21094,Minister of Armament,ZoltÃ¡n Vas,0,Military Entrepreneur,M21034
+21075,Foreign Minister,ArpÃ¡d Szakasits,3,Biased Intellectual,M21061
+21061,Head of Government,ArpÃ¡d Szakasits,3,Happy Amateur,M21061
 21165,Chief of Air Force,Edgar Keksz,3,Air Superiority Doctrine,M21073
 21147,Chief of Army,Gabor Sziszkalatay,3,Guns and Butter Doctrine,M21136
 21107,Minister of Security,Jozsef Revay,3,Crime Fighter,M21107
-21123,Head of Military Intelligence,Károly Peyer,3,Industrial Specialist,M21045
-21155,Chief of Navy,Reszö Kastner,3,Base Control Doctrine,M21089
-21089,Minister of Armament,Reszö Kastner,3,Administrative Genius,M21089
+21123,Head of Military Intelligence,KÃ¡roly Peyer,3,Industrial Specialist,M21045
+21155,Chief of Navy,ReszÃ¶ Kastner,3,Base Control Doctrine,M21089
+21089,Minister of Armament,ReszÃ¶ Kastner,3,Administrative Genius,M21089
 21200,Head of Government,Zsigmond Kunfi,3,Flamboyant Tough Guy,kunfi_zsigmond
-21198,Head of Government,Károly Rassay,4,Flamboyant Tough Guy,rassay_karoly
-21183,Foreign Minister,Móric Esterházy,5,Great Compromiser,esterhazy_moric
+21198,Head of Government,KÃ¡roly Rassay,4,Flamboyant Tough Guy,rassay_karoly
+21183,Foreign Minister,MÃ³ric EsterhÃ¡zy,5,Great Compromiser,esterhazy_moric
 21090,Minister of Armament,Albert Apponyi,6,Strategic Air Proponent,M21090
-21187,Chief of Staff,Antal Lehár,6,School of Fire Support,lehar_antal
-21166,Chief of Air Force,Béla Rákosi,6,Vertical Envelopment Doctrine,M21020
+21187,Chief of Staff,Antal LehÃ¡r,6,School of Fire Support,lehar_antal
+21166,Chief of Air Force,BÃ©la RÃ¡kosi,6,Vertical Envelopment Doctrine,M21020
 21203,Head of Government,Endre Bajcsy-Zsilinszky,6,Flamboyant Tough Guy,M21074
 21077,Foreign Minister,Ferenc Nagy,6,Great Compromiser,M21012
 21063,Head of Government,Ferenc Nagy,6,Happy Amateur,M21012
 21148,Chief of Army,Ferenc Szombathelyi,6,Static Defence Doctrine,M21148
 21156,Chief of Navy,Francois Deak,6,Power Projection Doctrine,M21076
 21076,Foreign Minister,Francois Deak,6,Apologetic Clerk,M21076
-21182,Head of Government,János Esterházy,6,Naive Optimist,janos_esterhazy
-21078,Foreign Minister,János Gyöngyösi,6,Great Compromiser,M21013
-21149,Chief of Army,János Vörös,6,Elastic Defence Doctrine,M21017
-21137,Chief of Staff,János Vörös,6,School of Manoeuvre,M21017
-21125,Head of Military Intelligence,József Széll,6,Political Specialist,M21108
-21108,Minister of Security,József Széll,6,Efficient Sociopath,M21108
-21109,Minister of Security,Miklós Bonczos,6,Silent Lawyer,M21109
+21182,Head of Government,JÃ¡nos EsterhÃ¡zy,6,Naive Optimist,janos_esterhazy
+21078,Foreign Minister,JÃ¡nos GyÃ¶ngyÃ¶si,6,Great Compromiser,M21013
+21149,Chief of Army,JÃ¡nos VÃ¶rÃ¶s,6,Elastic Defence Doctrine,M21017
+21137,Chief of Staff,JÃ¡nos VÃ¶rÃ¶s,6,School of Manoeuvre,M21017
+21125,Head of Military Intelligence,JÃ³zsef SzÃ©ll,6,Political Specialist,M21108
+21108,Minister of Security,JÃ³zsef SzÃ©ll,6,Efficient Sociopath,M21108
+21109,Minister of Security,MiklÃ³s Bonczos,6,Silent Lawyer,M21109
 21091,Minister of Armament,Miklos Olgyay,6,Resource Industrialist,M21014
-21181,Head of Government,Pál Teleki,6,Silent Workhorse,kaiserreich Teleki
-21062,Head of Government,Zoltán Tildy,6,Silent Workhorse,M21011
-21124,Head of Military Intelligence,Zoltán Tildy,6,Dismal Enigma,M21011
-21145,Chief of Army,Béla Miklós de Dalnók,7,Static Defence Doctrine,M21059
-21059,Head of Government,Béla Miklós de Dalnók,7,Corporate Suit,M21059
+21181,Head of Government,PÃ¡l Teleki,6,Silent Workhorse,kaiserreich Teleki
+21062,Head of Government,ZoltÃ¡n Tildy,6,Silent Workhorse,M21011
+21124,Head of Military Intelligence,ZoltÃ¡n Tildy,6,Dismal Enigma,M21011
+21145,Chief of Army,BÃ©la MiklÃ³s de DalnÃ³k,7,Static Defence Doctrine,M21059
+21059,Head of Government,BÃ©la MiklÃ³s de DalnÃ³k,7,Corporate Suit,M21059
 21153,Chief of Navy,Edgar Keksz,7,Base Control Doctrine,M21073
 21073,Foreign Minister,Edgar Keksz,7,Iron Fisted Brute,M21073
 21121,Head of Military Intelligence,Edgar Keksz,7,Naval Intelligence Specialist,M21073
@@ -61,73 +61,73 @@ HUN,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 21088,Minister of Armament,Etienne de Winchkler,7,Resource Industrialist,M21088
 21164,Chief of Air Force,Ferenc Keresztes-Fischer,7,Air Superiority Doctrine,M21100
 21122,Head of Military Intelligence,Ferenc Keresztes-Fischer,7,Industrial Specialist,M21100
-21146,Chief of Army,Hugó Sónyi,7,Decisive Battle Doctrine,M21146
-21086,Minister of Armament,Imre Oltványi,7,Administrative Genius,M21086
-21163,Chief of Air Force,Kálmán Ternegg-Ratz,7,Army Aviation Doctrine,M21163
-21060,Head of Government,Karoly Barthá von Dálnokfalva,7,Old General,M21060
+21146,Chief of Army,HugÃ³ SÃ³nyi,7,Decisive Battle Doctrine,M21146
+21086,Minister of Armament,Imre OltvÃ¡nyi,7,Administrative Genius,M21086
+21163,Chief of Air Force,KÃ¡lmÃ¡n Ternegg-Ratz,7,Army Aviation Doctrine,M21163
+21060,Head of Government,Karoly BarthÃ¡ von DÃ¡lnokfalva,7,Old General,M21060
 21105,Minister of Security,Laszlo Baky,7,Crime Fighter,M21105
-21184,Minister of Security,Miklós Bánffy,7,Compassionate Gentleman,banffy_miklos
+21184,Minister of Security,MiklÃ³s BÃ¡nffy,7,Compassionate Gentleman,banffy_miklos
 21154,Chief of Navy,Otto I Habsburg,7,Indirect Approach Doctrine,M21044
-21135,Chief of Staff,Vilmos Röder,7,School of Fire Support,M21135
-21119,Head of Military Intelligence,András Zákó,8,Political Specialist,M21119
-21083,Minister of Armament,Bela Imrédy de Omoravia,8,Infantry Proponent,M21024
-21069,Foreign Minister,Béla Imrédy de Omoravia,8,Ideological Crusader,M21024
-21054,Head of Government,Béla Imrédy de Omoravia,8,Corporate Suit,M21024
+21135,Chief of Staff,Vilmos RÃ¶der,7,School of Fire Support,M21135
+21119,Head of Military Intelligence,AndrÃ¡s ZÃ¡kÃ³,8,Political Specialist,M21119
+21083,Minister of Armament,Bela ImrÃ©dy de Omoravia,8,Infantry Proponent,M21024
+21069,Foreign Minister,BÃ©la ImrÃ©dy de Omoravia,8,Ideological Crusader,M21024
+21054,Head of Government,BÃ©la ImrÃ©dy de Omoravia,8,Corporate Suit,M21024
 21143,Chief of Army,Edgar Keksz,8,Guns and Butter Doctrine,M21073
 21161,Chief of Air Force,Ferenc Feketehalmy-Czeydner,8,Army Aviation Doctrine,M21161
 21177,Foreign Minister,Ferenc Keresztes-Fischer,8,Apologetic Clerk,M21100
 21175,Head of Government,Ferenc Keresztes-Fischer,8,Happy Amateur,M21100
 21100,Minister of Security,Ferenc Keresztes-Fischer,8,Silent Lawyer,M21100
-21144,Chief of Army,Géza Lakatos,8,Elastic Defence Doctrine,M21058
-21058,Head of Government,Géza Lakatos,8,Old General,M21058
-21007,Chief of Staff,Gustáv Henneyey,8,School of Mass Combat,M21007
-21072,Foreign Minister,Gustáv Henneyey,8,General Staffer,M21007
-21162,Chief of Air Force,Györghyi De Brody,8,Vertical Envelopment Doctrine,M21040
-21002,Head of Government,Gyula Gömbös de Jakfa,8,Flamboyant Tough Guy,M21002
-21006,Head of Military Intelligence,Gyula Gömbös de Jakfa,8,Political Specialist,M21002
+21144,Chief of Army,GÃ©za Lakatos,8,Elastic Defence Doctrine,M21058
+21058,Head of Government,GÃ©za Lakatos,8,Old General,M21058
+21007,Chief of Staff,GustÃ¡v Henneyey,8,School of Mass Combat,M21007
+21072,Foreign Minister,GustÃ¡v Henneyey,8,General Staffer,M21007
+21162,Chief of Air Force,GyÃ¶rghyi De Brody,8,Vertical Envelopment Doctrine,M21040
+21002,Head of Government,Gyula GÃ¶mbÃ¶s de Jakfa,8,Flamboyant Tough Guy,M21002
+21006,Head of Military Intelligence,Gyula GÃ¶mbÃ¶s de Jakfa,8,Political Specialist,M21002
 21142,Chief of Army,Henrik Werth,8,Static Defence Doctrine,M21142
-21070,Foreign Minister,István Csáky,8,The Cloak N Dagger Schemer,M21070
-21008,Chief of Army,István Shvoy,8,Decisive Battle Doctrine,M21008
-21179,Foreign Minister,Jenö Ghyczy,8,Apologetic Clerk,M21179
-21053,Head of Government,K. Darányi de Pusztaszentgyörgyi,8,Smiling Oilman,M21053
-21098,Minister of Security,K. Darányi de Pusztaszentgyörgyi,8,Back Stabber,M21053
-21120,Head of Military Intelligence,Kádár Gyula,8,Dismal Enigma,M21120
-21003,Foreign Minister,Kálmán Kánya,8,Great Compromiser,M21003
-21103,Minister of Security,Kalmán Szell,8,Crime Fighter,M21103
-21131,Chief of Staff,Karoly Barthá von Dálnokfalva,8,School of Psychology,M21060
-21084,Minister of Armament,Lajos Reményi-Schneller,8,Administrative Genius,M21084
-21071,Foreign Minister,László Bárdossy,8,Iron Fisted Brute,M21056
-21056,Head of Government,László Bárdossy,8,Silent Workhorse,M21056
+21070,Foreign Minister,IstvÃ¡n CsÃ¡ky,8,The Cloak N Dagger Schemer,M21070
+21008,Chief of Army,IstvÃ¡n Shvoy,8,Decisive Battle Doctrine,M21008
+21179,Foreign Minister,JenÃ¶ Ghyczy,8,Apologetic Clerk,M21179
+21053,Head of Government,K. DarÃ¡nyi de PusztaszentgyÃ¶rgyi,8,Smiling Oilman,M21053
+21098,Minister of Security,K. DarÃ¡nyi de PusztaszentgyÃ¶rgyi,8,Back Stabber,M21053
+21120,Head of Military Intelligence,KÃ¡dÃ¡r Gyula,8,Dismal Enigma,M21120
+21003,Foreign Minister,KÃ¡lmÃ¡n KÃ¡nya,8,Great Compromiser,M21003
+21103,Minister of Security,KalmÃ¡n Szell,8,Crime Fighter,M21103
+21131,Chief of Staff,Karoly BarthÃ¡ von DÃ¡lnokfalva,8,School of Psychology,M21060
+21084,Minister of Armament,Lajos RemÃ©nyi-Schneller,8,Administrative Genius,M21084
+21071,Foreign Minister,LÃ¡szlÃ³ BÃ¡rdossy,8,Iron Fisted Brute,M21056
+21056,Head of Government,LÃ¡szlÃ³ BÃ¡rdossy,8,Silent Workhorse,M21056
 21085,Minister of Armament,Laszlo Endre,8,Strategic Air Proponent,M21085
-21010,Chief of Air Force,László Tomor,8,Air Superiority Doctrine,M21010
-21178,Foreign Minister,M. Kállay de Nagy-Kalló,8,General Staffer,M21057
-21057,Head of Government,M. Kállay de Nagy-Kalló,8,Happy Amateur,M21057
-21102,Minister of Security,M. Kállay de Nagy-Kalló,8,Man of the People,M21057
-21118,Head of Military Intelligence,Mihaly Ujvári,8,Logistics Specialist,M21118
-21009,Chief of Navy,Miklós Horthy de Nagybánya,8,Decisive Naval Battle Doctrine,M21001
-21005,Minister of Security,Miklós Kozma,8,Prince of Terror,M21005
-21176,Foreign Minister,Pál Teleki de Szek,8,Great Compromiser,M21055
-21055,Head of Government,Pál Teleki de Szek,8,Naive Optimist,M21055
-21099,Minister of Security,Pál Teleki de Szek,8,Compassionate Gentleman,M21055
-21117,Head of Military Intelligence,Rezsö Andorka,8,Technical Specialist,M21117
-21133,Chief of Staff,Sandór Szurmay,8,School of Fire Support,M21133
-21004,Minister of Armament,Tihamér Fabinyi,8,Military Entrepreneur,M21004
+21010,Chief of Air Force,LÃ¡szlÃ³ Tomor,8,Air Superiority Doctrine,M21010
+21178,Foreign Minister,M. KÃ¡llay de Nagy-KallÃ³,8,General Staffer,M21057
+21057,Head of Government,M. KÃ¡llay de Nagy-KallÃ³,8,Happy Amateur,M21057
+21102,Minister of Security,M. KÃ¡llay de Nagy-KallÃ³,8,Man of the People,M21057
+21118,Head of Military Intelligence,Mihaly UjvÃ¡ri,8,Logistics Specialist,M21118
+21009,Chief of Navy,MiklÃ³s Horthy de NagybÃ¡nya,8,Decisive Naval Battle Doctrine,M21001
+21005,Minister of Security,MiklÃ³s Kozma,8,Prince of Terror,M21005
+21176,Foreign Minister,PÃ¡l Teleki de Szek,8,Great Compromiser,M21055
+21055,Head of Government,PÃ¡l Teleki de Szek,8,Naive Optimist,M21055
+21099,Minister of Security,PÃ¡l Teleki de Szek,8,Compassionate Gentleman,M21055
+21117,Head of Military Intelligence,RezsÃ¶ Andorka,8,Technical Specialist,M21117
+21133,Chief of Staff,SandÃ³r Szurmay,8,School of Fire Support,M21133
+21004,Minister of Armament,TihamÃ©r Fabinyi,8,Military Entrepreneur,M21004
 21132,Chief of Staff,Vilmos Nagy,8,School of Defence,M21132
 21116,Head of Military Intelligence,Andor Jaross,9,Political Specialist,M21025
 21095,Minister of Security,Andor Jaross,9,Prince of Terror,M21025
-21066,Foreign Minister,Döme Sztójay,9,Ideological Crusader,M21051
-21051,Head of Government,Döme Sztójay,9,Happy Amateur,M21051
+21066,Foreign Minister,DÃ¶me SztÃ³jay,9,Ideological Crusader,M21051
+21051,Head of Government,DÃ¶me SztÃ³jay,9,Happy Amateur,M21051
 21171,Chief of Army,Ferenc Feketehalmy-Czeydner,9,Elastic Defence Doctrine,M21161
 21115,Head of Military Intelligence,Ferenc Rajniss,9,Dismal Enigma,M21115
-21159,Chief of Air Force,Ferenc Szálasi,9,Naval Aviation Doctrine,M21021
-21169,Foreign Minister,Ferenc Szálasi,9,Iron Fisted Brute,M21021
-21204,Head of Government,Ferenc Szálasi,9,Backroom Backstabber,M21021
-21067,Foreign Minister,Gábor Kemény,9,Great Compromiser,M21067
-21096,Minister of Security,Gábor Vajna,9,Man of the People,M21096
-21052,Head of Government,Jenö Rácz,9,Political Protege,M21022
-21082,Minister of Armament,Jenö Rácz,9,laissez-faire capitalist,M21022
-21140,Chief of Army,Károlyi Beregffy,9,Guns and Butter Doctrine,M21129
-21129,Chief of Staff,Károlyi Beregffy,9,School of Manoeuvre,M21129
+21159,Chief of Air Force,Ferenc SzÃ¡lasi,9,Naval Aviation Doctrine,M21021
+21169,Foreign Minister,Ferenc SzÃ¡lasi,9,Iron Fisted Brute,M21021
+21204,Head of Government,Ferenc SzÃ¡lasi,9,Backroom Backstabber,M21021
+21067,Foreign Minister,GÃ¡bor KemÃ©ny,9,Great Compromiser,M21067
+21096,Minister of Security,GÃ¡bor Vajna,9,Man of the People,M21096
+21052,Head of Government,JenÃ¶ RÃ¡cz,9,Political Protege,M21022
+21082,Minister of Armament,JenÃ¶ RÃ¡cz,9,laissez-faire capitalist,M21022
+21140,Chief of Army,KÃ¡rolyi Beregffy,9,Guns and Butter Doctrine,M21129
+21129,Chief of Staff,KÃ¡rolyi Beregffy,9,School of Manoeuvre,M21129
 21139,Chief of Army,Lajos Csatay von Csatai,9,Armoured Spearhead Doctrine,M21128
 21128,Chief of Staff,Lajos Csatay von Csatai,9,School of Manoeuvre,M21128
 21151,Chief of Navy,Sandor Csia,9,Base Control Doctrine,M21151

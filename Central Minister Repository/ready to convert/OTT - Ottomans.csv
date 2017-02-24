@@ -1,0 +1,98 @@
+OTT,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+,Head of Government,Sefik Hüsnü Bey,1,Ambitious Union Boss,K_SefikHosni
+549014,Head of Government,Hasan Âli Pasa,3,Happy Amateur,K_HasanliYcel
+549072,Head of Government,Prens Sabâhaddin Efendi,4,Naive Optimist,OTTPre
+549011,Head of Government,Ali Fethi Pasa,4,Political Protege,M12013
+549015,Head of Government,Ali Adnan Pasa,5,Corporate Suit,M12046
+,Head of Government,Ali Sükrü Pasa,6,Flamboyant Tough Guy,KR_alisukru
+549010,Head of Government,Mustafa Ismet Pasa,7,Old General,M12007
+549004,Head of Government,Mehmed Cavid Pasa,7,Corporate Suit,K_Cavid
+,Head of Government,Mustafa Kemal Pasa,8,Respected War Hero,M549008
+,Head of Government,Hüseyin Avni Pasa,8,Silent Workhorse,KR_huseyinavni
+,Head of Government,Hüseyin Selahattin Pasa,8,Old General,KR_huseyinselahattin
+549005,Head of Government,Hüseyin Nihâl Pasa,9,Flamboyant Tough Guy,M12011
+,Foreign Minister,Nazim Hikmet Bey,1,Biased Intellectual,M12023
+549028,Foreign Minister,Tevfik Rüstü Bey,3,Ideological Crusader,M12003
+549073,Foreign Minister,Osman Kemal Bey,4,Ideological Crusader,K_borisjohnsonsgranddad
+549072,Foreign Minister,Prens Sabâhaddin Efendi,4,Ideological Crusader,OTTPre
+549026,Foreign Minister,Köprülüzade Mehmed Fuad Pasa,5,Biased Intellectual,K_Kprl_Mehm
+,Foreign Minister,Asimoglu Hakki Pasa,6,Apologetic Clerk,OTT_Haqqi
+,Foreign Minister,Kazim Fikri Pasa,7,Apologetic Clerk,M12049
+549024,Foreign Minister,Mustafa Ismet Pasa,7,Great Compromiser,M12007
+,Foreign Minister,Filibeli Hilmi Pasa,7,Iron-Fisted Brute,KR_filibelihilmi
+549029,Foreign Minister,Selahattin Pasa,7,Ideological Crusader,OTTAdi
+549025,Foreign Minister,Ali Fuat Pasa,8,General Staffer,M12079
+,Foreign Minister,Mehmet Sükrü Pasa,8,Great Compromiser,M12034
+,Foreign Minister,Süleyman Sefik Pasa,8,Iron-Fisted Brute,OTT_Shefik
+,Foreign Minister,Riza Nur Pasa,8,Biased Intellectual,KR_rizanur
+,Foreign Minister,Zeki Velidi Pasa,9,Ideological Crusader,M12012
+549018,Foreign Minister,Ahmet Necdet Pasa,9,Biased Intellectual,K_NejdetSanar
+,Minister of Armament,Berc Keresteciyan Bey,4,Construction Magnate,OTT_Keresteciyan
+,Minister of Armament,Resad Muhlis Bey,4,Keynesian Economy,OTT_Muhlis
+,Minister of Armament,Sevket Rasit Bey,4,Resource Industrialist,OTT_Hatipoglu
+,Minister of Armament,Köprülüzade Fuat Pasa,5,Industrialiser,K_Kprl_Mehm
+,Minister of Armament,Mehmed Sakir Pasa,6,Mixed Economy,OTT_Kesebir
+,Minister of Armament,Abdulmuhsin Sadun Pasa,6,Oil Baron,OTT_Abd al-Muhsin as-Sa'dun
+,Minister of Armament,Hasan Hüsnü Pasa,7,Reformer,OTTSak
+,Minister of Armament,Kara Kemal Bey,7,Corrupt Kleptocrat,KR_karakemal
+549031,Minister of Armament,Mehmed Cavid Pasa,7,Laissez-Faire Capitalist,K_Cavid
+549034,Minister of Armament,Mahmut Celal Pasa,7,Resource Industrialist,M12032
+,Minister of Armament,Mustafa Abdulhalik Pasa,8,Balanced Budget Economy,OTTRen
+,Minister of Armament,Haci Ömer Bey,8,Resource Industrialist,OTT_Haci
+549035,Minister of Armament,Demirag Nuri Pasa,8,Administrative Genius,K_Demir
+,Minister of Armament,Mehmed Sefik Pasa,8,Tank Proponent,KR_mehmetsefik
+,Minister of Armament,Mehmet Sükrü Pasa,8,Planned Economy Proponent,M12034
+,Minister of Armament,Mehmed Recep Pasa,9,Military Entrepreneur,OTT_Peker
+549040,Minister of Security,Agaoglu Ahmed Pasa,4,Silent Lawyer,K_AhmetAaolu
+,Minister of Security,Ibrahim Refik Pasa,4,Health and Safety,M12024
+,Minister of Security,Bekir Refik Pasa ,5,Crime Fighter,M12095
+,Minister of Security,Ahmet Naci Pasa,6,Man of the People,M12061
+,Minister of Security,Mehmet Semseddin Pasa,7,Back Stabber,OTT_Semsettin
+,Minister of Security,Abdulkadir Pasa,7,Efficient Sociopath,KR_abdulkadir
+,Minister of Security,Yunus Nadi Pasa,7,Media Magnate,K_YunusNadi
+,Minister of Security,Yusuf Kemal Pasa,8,Silent Lawyer,OTT_Yusuf Kemal
+,Minister of Security,Feridun Fikri Pasa,8,Crime Fighter,OTT_Feridun
+549094,Minister of Security,Mustafa Abdülhalik Pasa,8,Prince of Terror,OTTRen
+,Minister of Security,Necmeddin Sadik Pasa,8,Media Magnate,M12039
+,Minister of Security,Mehmed Esad Pasa,8,Secret Police Chief,OTT_Esad
+,Minister of Security,Sadri Maksudi Pasa,9,Compassionate Gentleman,K_SadriMaksudiArsal
+,Minister of Security,Mehmed Recep Pasa,9,Efficient Sociopath,OTT_Peker
+,Head of Military Intelligence,Ethem Nejat Bey,1,Political Specialist,K_ethemnejat
+,Head of Military Intelligence,Hasan Ali Bey,3,Dismal Enigma,K_HasanliYcel
+,Head of Military Intelligence,Ali Fethi Pasa,4,Logistics Specialist,M12013
+,Head of Military Intelligence,Mehmed Sükrü Ali Bey,7,Dismal Enigma,OTT_Ogel
+,Head of Military Intelligence,Riza Tevfik Bey,7,Dismal Enigma,OTT_Riza
+,Head of Military Intelligence,Mehmed Emin Bey,7,Industrial Specialist,OTT_Mehmet Emin Yurdakul
+,Head of Military Intelligence,Gülekoglu Kasim Bey,7,Political Specialist,OTT_Gülek
+,Head of Military Intelligence,Ali Said Pasa,7,Logistics Specialist,KR_akbaytogan
+549081,Head of Military Intelligence,Cerkes Ethem,7,Logistics Specialist,K_cerkesEthem
+,Head of Military Intelligence,Kuscubasi Esref,7,Political Specialist,KR_kuscubasi
+,Head of Military Intelligence,Yenibahceli Nail Bey,7,Logistics Specialist,KR_yenibahcelinail
+,Head of Military Intelligence,Doktor Nazim Bey,7,Political Specialist,KR_drnazim
+549051,Head of Military Intelligence,Cemal Aga,8,Political Specialist,K_CemalGursel
+,Head of Military Intelligence,Necati Özdeniz Bey,8,Naval Intelligence Specialist,KR_navalintel
+549050,Head of Military Intelligence,Osman Nevres Bey,8,Political Specialist,K_HasanTahsin
+,Head of Military Intelligence,Mehmed Esad Pasa,8,Logistics Specialist,OTT_Esad
+,Head of Military Intelligence,Yörük Ali Efe,8,Logistics Specialist,K_EfeofallEfes
+,Head of Military Intelligence,Aziz Vefa,8,Technical Specialist,KR_azizvefa
+,Head of Military Intelligence,Nuhali Nuri Pasa,9,Dismal Enigma,K_NuriBerkoz
+549092,Chief of Staff,Osman Fuat Efendi,5,School of Fire Support,OTTFau
+549057,Chief of Staff,Ali Fuat Pasa,6,School of Fire Support,M12079
+,Chief of Staff,Mustafa Fevzi Pasa,7,School of Fire Support,M12007
+549052,Chief of Staff,Mustafa Kemal Pasa,7,School of Manoeuvre,M549008
+549091,Chief of Staff,Selahattin Pasa,7,School of Mass Combat,OTTAdi
+549055,Chief of Staff,Mustafa Ismet Pasa,7,School of Defence,M12007
+549054,Chief of Staff,Nuhali Nuri Pasa,8,School of Mass Combat,K_NuriBerkoz
+549088,Chief of Army,Ismail Hakki Pasa,5,Elastic Defence Doctrine,OTTIsm
+549058,Chief of Army,Mustafa Fevzi Pasa,7,Elastic Defence Doctrine,M12007
+549062,Chief of Army,Mustafa Ismet Pasa,7,Decisive Battle Doctrine,M12008
+549061,Chief of Army,Rashid Ali al-Gaylani Pasa,8,Guns and Butter Doctrine,K_AliKilani
+549060,Chief of Army,Ali Arslan Pasa,9,Decisive Battle Doctrine,M12018
+549066,Chief of Navy,Ali Fuat Pasa,6,Base Control Doctrine,M12079
+549064,Chief of Navy,Huseyn Rauf Pasa,7,Indirect Approach Doctrine,M549009
+549090,Chief of Navy,Wilhelm A. Souchon,7,Open Seas Doctrine,OTTWil
+549065,Chief of Navy,Mahmud Mukhtar Pasa,8,Decisive Naval Battle Doctrine,K_MahmudMukhtar
+549069,Chief of Air Force,Vecihi Hürkus Pasa,5,Air Superiority Doctrine,K_VecihiHürkus
+549067,Chief of Air Force,Ali Pasa,6,Army Aviation Doctrine,M12010
+549089,Chief of Air Force,Erich Serno,7,Air Superiority Doctrine,OTTSer

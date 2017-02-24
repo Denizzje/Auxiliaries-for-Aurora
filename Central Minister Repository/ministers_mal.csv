@@ -12,7 +12,7 @@ MAL,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 539011,Head of State,Leon Cayla,1938,1964,1999,4,Resigned Generalissimo,High,M538001,x
 539012,Head of State,Pierre Boisson,1940,1964,1999,4,Powerhungry Demagogue,High,M534010,x
 539013,Head of State,Pierre Charles Cournaire,1943,1964,1999,4,Insignificant Layman,High,M534004,x
-539014,Head of State,René V.M. Barthes,1946,1964,1999,4,Pig-headed Isolationist,High,M539014,x
+539014,Head of State,RenÃ© V.M. Barthes,1946,1964,1999,4,Pig-headed Isolationist,High,M539014,x
 539015,Head of State,Martin Cayla,1936,1964,1999,7,Benevolent Gentleman,High,M539005,x
 539016,Head of State,Leopold Sedar Senghor,1936,1964,1999,2,Die-hard Reformer,High,M539016,x
 539017,Head of Government,Jean-Louis Beyries,1938,1964,1999,4,Naive Optimist,High,M539008,x
@@ -32,14 +32,14 @@ MAL,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 539031,Minister of Security,Paul Ribeyre,1945,1964,1999,4,Efficient Sociopath,Medium,M539031,x
 539032,Minister of Security,Oswald Durand,1936,1964,1999,7,Back Stabber,Medium,M533026,x
 539033,Minister of Security,Fily Dabo Sissoko,1943,1964,1999,7,Crime Fighter,Medium,M539033,x
-539034,Minister of Security,Mamadou Konaté,1936,1964,1999,2,Prince of Terror,Medium,M539034,x
-539035,Head of Military Intelligence,René V.M. Barthes,1943,1964,1999,4,Political Specialist,Medium,M539014,x
+539034,Minister of Security,Mamadou KonatÃ©,1936,1964,1999,2,Prince of Terror,Medium,M539034,x
+539035,Head of Military Intelligence,RenÃ© V.M. Barthes,1943,1964,1999,4,Political Specialist,Medium,M539014,x
 539036,Head of Military Intelligence,Martin Cayla,1936,1964,1999,7,Dismal Enigma,Medium,M539005,x
 539037,Head of Military Intelligence,Aoua Keita,1936,1964,1999,2,Industrial Specialist,Medium,M539037,x
 539038,Chief of Staff,Paul Moguez,1943,1964,1999,4,School of Psychology,Medium,M539038,x
 539039,Chief of Staff,Leon Cayla,1936,1964,1999,7,School of Defence,Medium,M538001,x
 539040,Chief of Staff,Abdallah Soumare,1936,1964,1999,2,School of Fire Support,Medium,M539040,x
-539041,Chief of Army,Aimé Teisseire,1942,1964,1999,4,Decisive Battle Doctrine,Medium,M539041,x
+539041,Chief of Army,AimÃ© Teisseire,1942,1964,1999,4,Decisive Battle Doctrine,Medium,M539041,x
 539042,Chief of Army,Henri Verdier,1936,1964,1999,7,Static Defence Doctrine,Medium,M539042,x
 539043,Chief of Army,Henri Rol-Tanguy,1936,1964,1999,2,Decisive Battle Doctrine,Medium,M539043,x
 539044,Chief of Navy,Jean Desanti,1936,1964,1999,7,Indirect Approach Doctrine,Medium,M539022,x

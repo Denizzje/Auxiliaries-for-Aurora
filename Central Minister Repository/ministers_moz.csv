@@ -1,53 +1,53 @@
 MOZ,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
 569001,Head of State,Kamba Simango,1936,1964,1999,1,Stern Imperialist,High,MOZ_kamba_simango,x
-569002,Head of State,Mateus Sans„o Muthemba,1936,1964,1999,1,Die-hard Reformer,High,MOZ_mateus_sansao_muthemba,x
-569003,Head of State,JosÈ Albazine,1936,1964,1999,1,Ruthless Powermonger,High,MOZ_jose_albazine,x
+569002,Head of State,Mateus Sans√£o Muthemba,1936,1964,1999,1,Die-hard Reformer,High,MOZ_mateus_sansao_muthemba,x
+569003,Head of State,Jos√© Albazine,1936,1964,1999,1,Ruthless Powermonger,High,MOZ_jose_albazine,x
 569004,Head of State,Sebastiao Cabral Funchal,1936,1964,1999,2,Powerhungry Demagogue,High,M569012,x
-569005,Head of Government,JosÈ Albazine,1936,1964,1999,1,Ambitious Union Boss,High,MOZ_jose_albazine,x
-569006,Head of Government,JosÈ Zaluar Nunes,1936,1964,1999,3,Political Protege,High,M569013,x
-569007,Head of Government,Mateus Sans„o Muthemba,1936,1964,1999,1,Ambitious Union Boss,High,MOZ_mateus_sansao_muthemba,x
-569008,Head of Government,JosÈ Barollo Rodrigues,1936,1964,1999,2,Naive Optimist,High,M569014,x
-569009,Foreign Minister,AntÛnio Rui de Noronha,1936,1964,1999,2,Apologetic Clerk,High,MOZ_antonio_rui_de_noronha,x
+569005,Head of Government,Jos√© Albazine,1936,1964,1999,1,Ambitious Union Boss,High,MOZ_jose_albazine,x
+569006,Head of Government,Jos√© Zaluar Nunes,1936,1964,1999,3,Political Protege,High,M569013,x
+569007,Head of Government,Mateus Sans√£o Muthemba,1936,1964,1999,1,Ambitious Union Boss,High,MOZ_mateus_sansao_muthemba,x
+569008,Head of Government,Jos√© Barollo Rodrigues,1936,1964,1999,2,Naive Optimist,High,M569014,x
+569009,Foreign Minister,Ant√≥nio Rui de Noronha,1936,1964,1999,2,Apologetic Clerk,High,MOZ_antonio_rui_de_noronha,x
 569010,Foreign Minister,Karel Monjardim Pott,1936,1964,1999,2,Great Compromiser,High,MOZ_karel_monjardim_pott,x
-569011,Foreign Minister,Sebasti„o Soares de Resende,1936,1964,1999,3,Ideological Crusader,High,MOZ_sebastiao_soares_de_resende,x
+569011,Foreign Minister,Sebasti√£o Soares de Resende,1936,1964,1999,3,Ideological Crusader,High,MOZ_sebastiao_soares_de_resende,x
 569012,Foreign Minister,Maria Estella de Bettencourt,1936,1964,1999,2,Biased Intellectual,High,M569016,x
-569013,Foreign Minister,AntÛnio de Navarro,1936,1964,1999,2,Apologetic Clerk,High,MOZ_antonio_de_navarro,x
+569013,Foreign Minister,Ant√≥nio de Navarro,1936,1964,1999,2,Apologetic Clerk,High,MOZ_antonio_de_navarro,x
 569014,Minister of Armament,Karel Monjardim Pott,1936,1964,1999,2,Administrative Genius,High,MOZ_karel_monjardim_pott,x
 569015,Minister of Armament,Roberto Ndevu Mashaba,1936,1964,1999,3,Military Entrepreneur,High,MOZ_roberto_ndevu_mashaba,"x	"
-569016,Minister of Armament,AntÛnio de Navarro,1936,1964,1999,2,Resource Industrialist,High,MOZ_antonio_de_navarro,x
+569016,Minister of Armament,Ant√≥nio de Navarro,1936,1964,1999,2,Resource Industrialist,High,MOZ_antonio_de_navarro,x
 569017,Minister of Armament,Manuel Alves Cardiga,1936,1964,1999,2,Laissez-Faire Capitalist,High,MOZ_manuel_alves_cardiga,x
 569018,Minister of Armament,Adolfo Camaraquintinga,1936,1964,1999,3,laissez-faire capitalist,Medium,M569017,x
 569019,Minister of Armament,Paulo Inacio,1936,1964,1999,2,Infantry Proponent,Medium,M569018,x
 569020,Minister of Security,Kamba Simango,1936,1964,1999,1,Crime Fighter,High,MOZ_kamba_simango,x
-569021,Minister of Security,JosÈ Albazine,1936,1964,1999,1,Man of the People,High,MOZ_jose_albazine,x
+569021,Minister of Security,Jos√© Albazine,1936,1964,1999,1,Man of the People,High,MOZ_jose_albazine,x
 569022,Minister of Security,Roberto Francisco Zixaxa,1936,1964,1999,2,Silent Lawyer,Medium,MOZ_roberto_francisco_zixaxa,x
 569023,Head of Military Intelligence,Roberto Francisco Zixaxa,1936,1964,1999,2,Logistics Specialist,Medium,MOZ_roberto_francisco_zixaxa,x
 569024,Head of Military Intelligence,Carlos dos Santos,1936,1964,1999,2,Industrial Specialist,Medium,M569023,x
 569025,Head of Military Intelligence,Kamba Simango,1936,1964,1999,1,Political Specialist,High,MOZ_kamba_simango,x
-569026,Chief of Staff,Mateus Sans„o Muthemba,1936,1964,1999,1,school of defence,High,MOZ_mateus_sansao_muthemba,x
+569026,Chief of Staff,Mateus Sans√£o Muthemba,1936,1964,1999,1,school of defence,High,MOZ_mateus_sansao_muthemba,x
 569027,Chief of Staff,Federico da Costa Lopes da Silva,1936,1964,1999,2,School of Manoeuvre,Medium,M569026,x
 569028,Chief of Army,Patricio Nunes Gomes,1936,1964,1999,2,Decisive Battle Doctrine,Medium,M569029,x
 569029,Chief of Navy,Cesare Ponjo,1936,1964,1999,2,Open Seas Doctrine,Medium,M569031,x
 569031,Chief of Air Force,Oliva Nuno Tomas,1936,1964,1999,2,Vertical Envelopment Doctrine,Medium,M569033,x
 569032,Chief of Air Force,Patricio Nunes Gomes,1936,1964,1999,2,Army Aviation Doctrine,Medium,M569029,x
-569033,Chief of Air Force,JosÈ Augusto da Costa Almeida,1936,1964,1999,6,Army Aviation Doctrine,Medium,MOZ_costa_almeida,x
-569034,Head of State,L·zaro N'Kavandame,1936,1964,1999,2,Pig-headed Isolationist,High,MOZ_lazaro_cavandame,x
-569035,Head of Government,L·zaro N'Kavandame,1936,1964,1999,2,Backroom Backstabber,High,MOZ_lazaro_cavandame,x
-569038,Foreign Minister,L·zaro N'Kavandame,1936,1964,1999,2,Biased Intellectual,High,MOZ_lazaro_cavandame,x
-569039,Minister of Armament,L·zaro N'Kavandame,1936,1964,1999,2,Infantry Proponent,Medium,MOZ_lazaro_cavandame,x
-5690010,Head of State,JosÈ Pereira Cabral,1936,1964,1999,7,Resigned Generalissimo,High,M569001,x
-5690020,Head of Government,JosÈ Nunes de Oliveira,1936,1964,1999,7,old airmarshal,High,M569002,x
-5690030,Foreign Minister,Louis de Sousa È Vasconcelos,1936,1964,1999,7,General Staffer,High,M569003,x
+569033,Chief of Air Force,Jos√© Augusto da Costa Almeida,1936,1964,1999,6,Army Aviation Doctrine,Medium,MOZ_costa_almeida,x
+569034,Head of State,L√°zaro N'Kavandame,1936,1964,1999,2,Pig-headed Isolationist,High,MOZ_lazaro_cavandame,x
+569035,Head of Government,L√°zaro N'Kavandame,1936,1964,1999,2,Backroom Backstabber,High,MOZ_lazaro_cavandame,x
+569038,Foreign Minister,L√°zaro N'Kavandame,1936,1964,1999,2,Biased Intellectual,High,MOZ_lazaro_cavandame,x
+569039,Minister of Armament,L√°zaro N'Kavandame,1936,1964,1999,2,Infantry Proponent,Medium,MOZ_lazaro_cavandame,x
+5690010,Head of State,Jos√© Pereira Cabral,1936,1964,1999,7,Resigned Generalissimo,High,M569001,x
+5690020,Head of Government,Jos√© Nunes de Oliveira,1936,1964,1999,7,old airmarshal,High,M569002,x
+5690030,Foreign Minister,Louis de Sousa √© Vasconcelos,1936,1964,1999,7,General Staffer,High,M569003,x
 5690040,Minister of Armament,Augusto Nunes Diaz,1936,1964,1999,7,Military Entrepreneur,Medium,M569004,x
 5690050,Minister of Security,Joao Tristao de Bettencourt,1936,1964,1999,7,Prince of Terror,Medium,M569005,x
 5690060,Head of Military Intelligence,Antonio Conceicao Neves,1936,1964,1999,7,Naval Intelligence Specialist,Medium,M569006,x
-5690070,Chief of Staff,Louis de Sousa È Vasconcelos,1936,1964,1999,7,School of Psychology,Medium,M569003,x
+5690070,Chief of Staff,Louis de Sousa √© Vasconcelos,1936,1964,1999,7,School of Psychology,Medium,M569003,x
 5690080,Chief of Army,Joao Martins de Carvalho,1936,1964,1999,7,Guns and Butter Doctrine,Medium,M569008,x
 5690090,Chief of Navy,Tomas Garcia Rosado,1936,1964,1999,7,Power Projection Doctrine,Medium,M569009,x
-5690100,Chief of Air Force,JosÈ de S· Aruajo,1936,1964,1999,7,Air Superiority Doctrine,Medium,M569010,x
+5690100,Chief of Air Force,Jos√© de S√° Aruajo,1936,1964,1999,7,Air Superiority Doctrine,Medium,M569010,x
 5690110,Head of State,Henrique Nunes Garcia,1936,1964,1999,4,Benevolent Gentleman,High,M569011,x
-5690130,Head of Government,JosÈ Zaluar Nunes,1936,1964,1999,4,Political Protege,High,M569013,x
-5690150,Foreign Minister,Joao Reis È Canto,1936,1964,1999,4,Ideological Crusader,High,M569015,x
+5690130,Head of Government,Jos√© Zaluar Nunes,1936,1964,1999,4,Political Protege,High,M569013,x
+5690150,Foreign Minister,Joao Reis √© Canto,1936,1964,1999,4,Ideological Crusader,High,M569015,x
 5690170,Minister of Armament,Adolfo Camaraquintinga,1936,1964,1999,4,laissez-faire capitalist,Medium,M569017,x
 5690190,Minister of Security,Luis Pereira Gomes,1936,1964,1999,4,Compassionate Gentleman,Medium,M569019,x
 5690210,Head of Military Intelligence,Joao Kaulza de Arriaga,1944,1964,1999,7,Logistics Specialist,Medium,M569021,x

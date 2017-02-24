@@ -1,15 +1,15 @@
 U08,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-551733,Chief of Army,André Marty,0,Guns and Butter Doctrine,M2018
-551741,Chief of Navy,André Marty,0,Indirect Approach Doctrine,M2018
+551733,Chief of Army,AndrÃ© Marty,0,Guns and Butter Doctrine,M2018
+551741,Chief of Navy,AndrÃ© Marty,0,Indirect Approach Doctrine,M2018
 551675,Minister of Armament,Auguste Lecoeur,0,Military Entrepreneur,M2095
 551674,Minister of Armament,Benoit Frachon,0,Battle Fleet Proponent,M2094
 551752,Chief of Air Force,Charles Tillon,0,Army Aviation Doctrine,M2180
 551742,Chief of Navy,Charles Tillon,0,Base Control Doctrine,M2180
 551698,Minister of Security,Claudine Chomat,0,Efficient Sociopath,M2118
 551676,Minister of Armament,Daniel Renoult,0,Theoretical Scientist,M2096
-551671,Minister of Armament,George Lévy,0,Administrative Genius,M2014
-551720,Head of Military Intelligence,Gustave Guéhenneux,0,Technical Specialist,M2141
+551671,Minister of Armament,George LÃ©vy,0,Administrative Genius,M2014
+551720,Head of Military Intelligence,Gustave GuÃ©henneux,0,Technical Specialist,M2141
 551719,Head of Military Intelligence,Henri Gourdeaux,0,Logistics Specialist,M2119
 551699,Minister of Security,Henri Gourdeaux,0,Silent Lawyer,M2119
 551646,Foreign Minister,Jacques Duclos,0,Ideological Crusader,M2012
@@ -30,8 +30,8 @@ U08,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 551717,Head of Military Intelligence,Waldeck Rochet,0,Dismal Enigma,M2016
 551680,Minister of Security,Adrien Tixier,3,Compassionate Gentleman,M2100
 551683,Minister of Security,Albert Lebrun,3,Silent Lawyer,M2001
-551706,Head of Military Intelligence,André Le Troquer,3,Dismal Enigma,M2072
-551652,Minister of Armament,André Le Troquer,3,Resource Industrialist,M2072
+551706,Head of Military Intelligence,AndrÃ© Le Troquer,3,Dismal Enigma,M2072
+551652,Minister of Armament,AndrÃ© Le Troquer,3,Resource Industrialist,M2072
 551779,Minister of Security,Charles Brune,3,Silent Lawyer,M2229
 551705,Head of Military Intelligence,Daniel Mayer,3,Logistics Specialist,M2023
 551768,Head of Government,Edgar Faure,3,Backroom Backstabber,M2219
@@ -49,8 +49,8 @@ U08,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 551630,Foreign Minister,Joseph Paul Boncour,3,Ideological Crusader,M2049
 551776,Minister of Armament,Jules Moch,3,Battle Fleet Proponent,M2104
 551679,Minister of Security,Julien Luchaire,3,Efficient Sociopath,M2099
-551632,Foreign Minister,Léon Blum,3,Apologetic Clerk,M2033
-551615,Head of Government,Léon Blum,3,Naive Optimist,M2033
+551632,Foreign Minister,LÃ©on Blum,3,Apologetic Clerk,M2033
+551615,Head of Government,LÃ©on Blum,3,Naive Optimist,M2033
 551650,Minister of Armament,Leon Jouhaux,3,Strategic Air Proponent,M2070
 551729,Chief of Army,Leon Victor Bourgeois,3,Guns and Butter Doctrine,M2157
 551744,Chief of Air Force,Marcel Deat,3,Air Superiority Doctrine,M2183
@@ -60,7 +60,7 @@ U08,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 551631,Foreign Minister,Pierre Comert,3,The Cloak N Dagger Schemer,M2050
 551745,Chief of Air Force,Pierre Cot,3,Army Aviation Doctrine,M2184
 551703,Head of Military Intelligence,Roger Salengro,3,Industrial Specialist,M2123
-551709,Head of Military Intelligence,Aimé Lepercq,4,Industrial Specialist,M2130
+551709,Head of Military Intelligence,AimÃ© Lepercq,4,Industrial Specialist,M2130
 551601,Head of Government,Albert Sarraut,4,Happy Amateur,M2002
 551655,Minister of Armament,Albert Sarraut,4,laissez-faire capitalist,M2002
 551686,Minister of Security,Arthur Fontaine,4,Efficient Sociopath,M2106
@@ -85,21 +85,21 @@ U08,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 551775,Minister of Armament,Paul Ramadier,4,Resource Industrialist,M2035
 551731,Chief of Army,Pierre Auguste Chardigny,4,Elastic Defence Doctrine,M2098
 551602,Foreign Minister,Pierre Etienne Flandin,4,Ideological Crusader,M2003
-551685,Minister of Security,Pierre Pené,4,Silent Lawyer,M2105
+551685,Minister of Security,Pierre PenÃ©,4,Silent Lawyer,M2105
 551653,Minister of Armament,Raoul Dautry,4,Theoretical Scientist,M2073
-551770,Head of Government,René Mayer,4,Naive Optimist,M2221
-551782,Head of Military Intelligence,René Mayer,4,Logistics Specialist,M2221
-551774,Minister of Armament,René Mayer,4,Tank Proponent,M2221
+551770,Head of Government,RenÃ© Mayer,4,Naive Optimist,M2221
+551782,Head of Military Intelligence,RenÃ© Mayer,4,Logistics Specialist,M2221
+551774,Minister of Armament,RenÃ© Mayer,4,Tank Proponent,M2221
 551753,Head of Government,Robert Schumann,4,Corporate Suit,M2088
 551609,Chief of Air Force,Victor Denain,4,Carpet Bombing Doctrine,M2010
 551603,Minister of Armament,Vincent Auriol,4,Administrative Genius,M2004
 551633,Foreign Minister,Yvon Delbos,4,Biased Intellectual,M2048
 551760,Minister of Security,Yvon Delbos,4,Silent Lawyer,M2048
-551712,Head of Military Intelligence,André Marie,5,Technical Specialist,M2041
-551664,Minister of Armament,André Marie,5,Air Superiority Proponent,M2041
-551693,Minister of Security,André Marie,5,Prince of Terror,M2041
+551712,Head of Military Intelligence,AndrÃ© Marie,5,Technical Specialist,M2041
+551664,Minister of Armament,AndrÃ© Marie,5,Air Superiority Proponent,M2041
+551693,Minister of Security,AndrÃ© Marie,5,Prince of Terror,M2041
 551769,Head of Government,Antoine Pinay,5,Silent Workhorse,M2220
-551738,Chief of Navy,César Campinchi,5,Indirect Approach Doctrine,M2173
+551738,Chief of Navy,CÃ©sar Campinchi,5,Indirect Approach Doctrine,M2173
 551713,Head of Military Intelligence,Charles Luizet,5,Technical Specialist,M2134
 551662,Minister of Armament,Edouard Herriot,5,laissez-faire capitalist,M2042
 551637,Foreign Minister,George Bidault,5,General Staffer,M2039
@@ -107,18 +107,18 @@ U08,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 551777,Minister of Armament,Georges Bidault,5,Infantry Proponent,M2039
 551754,Foreign Minister,Maurice Dejean,5,Great Compromiser,M2202
 551773,Minister of Armament,Pierre-Henri Teitgen,5,laissez-faire capitalist,M2224
-551755,Foreign Minister,René Pleven,5,Biased Intellectual,M2090
-551767,Head of Government,René Pleven,5,Political Protege,M2090
-551670,Minister of Armament,René Pleven,5,Resource Industrialist,M2090
+551755,Foreign Minister,RenÃ© Pleven,5,Biased Intellectual,M2090
+551767,Head of Government,RenÃ© Pleven,5,Political Protege,M2090
+551670,Minister of Armament,RenÃ© Pleven,5,Resource Industrialist,M2090
 551772,Foreign Minister,Robert Schumann,5,Biased Intellectual,M2088
 551766,Head of Government,Robert Schumann,5,Corporate Suit,M2088
 551668,Minister of Armament,Robert Schumann,5,Administrative Genius,M2088
 551695,Minister of Security,Robert Schumann,5,Crime Fighter,M2088
 551756,Chief of Army,Alphonse Georges,6,Static Defence Doctrine,L24082
-551716,Head of Military Intelligence,André Boulloche,6,Dismal Enigma,M2137
-551714,Head of Military Intelligence,André de Wawrin-Passy,6,Logistics Specialist,M2135
-551696,Minister of Security,André Le Troquer,6,Compassionate Gentleman,M2072
-551623,Head of Government,André Marie,6,Happy Amateur,M2041
+551716,Head of Military Intelligence,AndrÃ© Boulloche,6,Dismal Enigma,M2137
+551714,Head of Military Intelligence,AndrÃ© de Wawrin-Passy,6,Logistics Specialist,M2135
+551696,Minister of Security,AndrÃ© Le Troquer,6,Compassionate Gentleman,M2072
+551623,Head of Government,AndrÃ© Marie,6,Happy Amateur,M2041
 551639,Foreign Minister,Antoine Henri Queuille,6,Iron Fisted Brute,M2043
 551625,Head of Government,Antoine Henri Queuille,6,Corporate Suit,M2043
 551665,Minister of Armament,Antoine Henri Queuille,6,Air to Ground Proponent,M2043
@@ -143,7 +143,7 @@ U08,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 551666,Minister of Armament,Louis Armand,6,Tank Proponent,M2086
 551661,Minister of Armament,Marie Emile Fayolle,6,Infantry Proponent,M2081
 551764,Minister of Armament,Marie-Pierre Koenig,6,Military Entrepreneur,L24107
-551749,Chief of Air Force,Martial Valín,6,Air Superiority Doctrine,M2185
+551749,Chief of Air Force,Martial ValÃ­n,6,Air Superiority Doctrine,M2185
 551663,Minister of Armament,Paul Marchandeau,6,Administrative Genius,M2083
 551785,Head of Military Intelligence,Paul Ribeyre,6,Naval Intelligence Specialist,M2235
 551727,Chief of Staff,Pierre Bourges-Maunory,6,School of Psychology,M2152
@@ -152,10 +152,10 @@ U08,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 551622,Head of Government,Pierre Laval,6,Flamboyant Tough Guy,M2040
 551726,Chief of Staff,Pierre-Armand Billotte,6,School of Fire Support,M2151
 551750,Chief of Air Force,Raymond Roques,6,Carpet Bombing Doctrine,M2194
-551640,Foreign Minister,René Charron,6,Apologetic Clerk,M2059
-551642,Foreign Minister,René Lucien Massigli,6,The Cloak N Dagger Schemer,M2061
-551710,Head of Military Intelligence,René Nicolau,6,Dismal Enigma,M2112
-551692,Minister of Security,René Nicolau,6,Compassionate Gentleman,M2112
+551640,Foreign Minister,RenÃ© Charron,6,Apologetic Clerk,M2059
+551642,Foreign Minister,RenÃ© Lucien Massigli,6,The Cloak N Dagger Schemer,M2061
+551710,Head of Military Intelligence,RenÃ© Nicolau,6,Dismal Enigma,M2112
+551692,Minister of Security,RenÃ© Nicolau,6,Compassionate Gentleman,M2112
 551781,Head of Military Intelligence,Robert Lecourt,6,Industrial Specialist,M2231
 551748,Chief of Air Force,Robert Rossi,6,Army Aviation Doctrine,M2191
 551715,Head of Military Intelligence,Roger Lantenois,6,Industrial Specialist,M2136

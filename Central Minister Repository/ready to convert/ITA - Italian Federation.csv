@@ -10,7 +10,7 @@ ITA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 3276,Minister of Security,Alberto Cardinal di Jorio,3,Back Stabber,kaiserreich_ITA_DiJorio
 3233,Head of Military Intelligence,Angelo Giuseppe Cardinal Roncalli,3,Political Specialist,kaiserreich_ITA_angelo_roncalli
 3419,Chief of Navy,Carlo Bergamini,3,Power Projection Doctrine,kaiserreich_ITA_Bergamini
-3250,Head of Government,Eugène Cardinal Tisserant,3,Silent Workhorse,kaiserreich tisserant
+3250,Head of Government,EugÃ¨ne Cardinal Tisserant,3,Silent Workhorse,kaiserreich tisserant
 3402,Head of Government,Ferruccio Parri,3,Naive Optimist,M3049
 3415,Minister of Security,Ferruccio Parri,3,Man of the People,M3049
 3406,Head of Military Intelligence,Giacomo Carboni,3,Industrial Specialist,M3112
@@ -76,11 +76,11 @@ ITA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 3277,Foreign Minister,Alfredo Ildefonso Cardinal Schuster,7,Great Compromiser,kaiserreich_ITA_Schuster
 3271,Foreign Minister,Augusta Cardinal da Silva,7,Ideological Crusader,kaiserreich_ITA_Da_Silva
 3273,Minister of Security,Benedetto Cardinal Masella,7,Silent Lawyer,kaiserreich_ITA_Masella
-3006,Head of Military Intelligence,Cesare Amé,7,Industrial Specialist,M3006
+3006,Head of Military Intelligence,Cesare AmÃ©,7,Industrial Specialist,M3006
 3239,Foreign Minister,Domenico Cardinal Tardini,7,Apologetic Clerk,kaiserreich tardini
 3241,Minister of Armament,Domenico Cardinal Tardini,7,Administrative Genius,kaiserreich tardini
-3247,Foreign Minister,Eugène Cardinal Tisserant,7,Biased Intellectual,kaiserreich tisserant
-3248,Minister of Security,Eugène Cardinal Tisserant,7,Crime Fighter,kaiserreich tisserant
+3247,Foreign Minister,EugÃ¨ne Cardinal Tisserant,7,Biased Intellectual,kaiserreich tisserant
+3248,Minister of Security,EugÃ¨ne Cardinal Tisserant,7,Crime Fighter,kaiserreich tisserant
 3225,Head of Government,Eugenio Cardinal Pacelli,7,Naive Optimist,kaiserreich ecPacelli
 3244,Minister of Security,Francesco Cardinal Marchetti-Selvaggiani,7,Silent Lawyer,kaiserreich marchetti
 3238,Foreign Minister,Giovanni Cardinal Montini,7,Ideological Crusader,kaiserreich montini1
@@ -88,8 +88,8 @@ ITA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 3242,Minister of Armament,Giovanni Cardinal Montini,7,Laissez-Faire Capitalist,kaiserreich montini1
 3053,Foreign Minister,Giuseppe Bastianini,7,Iron Fisted Brute,M3053
 3278,Minister of Security,Giuseppe Cardinal Pizzardo,7,Efficient Sociopath,kaiserreich_ITA_Pizzardo
-3224,Chief of Staff,Josef von Österreich-Toskana,7,School of Mass Combat,kaiserreich josefferdinandvOT
-3223,Foreign Minister,Josef von Österreich-Toskana,7,General Staffer,kaiserreich josefferdinandvOT
+3224,Chief of Staff,Josef von Ã–sterreich-Toskana,7,School of Mass Combat,kaiserreich josefferdinandvOT
+3223,Foreign Minister,Josef von Ã–sterreich-Toskana,7,General Staffer,kaiserreich josefferdinandvOT
 3240,Minister of Armament,Lorenzo Cardinal Lauri,7,Administrative Genius,kaiserreich lauri
 3237,Foreign Minister,Luigi Cardinal Maglione,7,Apologetic Clerk,kaiserreich maglione
 3235,Head of Government,Luigi Cardinal Maglione,7,Political Protege,kaiserreich maglione
@@ -121,7 +121,7 @@ ITA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 3260,Head of Government,Gregorius XVII,8,Backroom Backstabber,kaiserreich_ITA_Gregorius_XVII
 3005,Minister of Security,Guido Buffarini-Guidi,8,Man of the People,M3005
 3282,Minister of Security,Josef Cardinal Frings,8,Man of the People,kaiserreich_ITA_Frings
-3221,Head of Government,Josef von Österreich-Toskana,8,Old General,kaiserreich josefferdinandvOT
+3221,Head of Government,Josef von Ã–sterreich-Toskana,8,Old General,kaiserreich josefferdinandvOT
 3140,Chief of Army,Mario Roatta,8,Armoured Spearhead Doctrine,M3140
 3161,Chief of Air Force,Rino Corso Fougier,8,Air Superiority Doctrine,M3161
 3254,Minister of Security,Elias I di Borbone-Parma,9,Prince of Terror,kaiserreich_ITA_elias_parma
@@ -129,6 +129,6 @@ ITA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 3141,Chief of Army,Junio Borghese,9,Decisive Battle Doctrine,M3044
 3280,Foreign Minister,Marcel Cardinal Lefebvre,9,iron fisted brute,kaiserreich_ITA_Lefebvre
 3150,Chief of Navy,Paolo Thaon di Revel,9,Open Seas Doctrine,M3035
-3253,Foreign Minister,Pedro Cardinal Segura y Sáenz,9,iron fisted brute,kaiserreich_ITA_pedro_segura
+3253,Foreign Minister,Pedro Cardinal Segura y SÃ¡enz,9,iron fisted brute,kaiserreich_ITA_pedro_segura
 3255,Minister of Security,Theodor Cardinal Innitzer,9,Prince of Terror,kaiserreich innitzer
 3124,Chief of Staff,Ugo Cavallero,9,School of Manoeuvre,M3124

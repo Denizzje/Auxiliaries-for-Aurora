@@ -6,12 +6,12 @@ LAT,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 27069,Foreign Minister,Johannes Kabin,3,Great Compromiser,kaiserreich_johanneskab
 27060,Chief of Navy,Alex Nirk,5,Power Projection Doctrine,M26094
 27048,Chief of Staff,Alexander Jaakson,5,School of Fire Support,M26083
-27035,Minister of Security,August Jürima,5,Crooked Kleptocrat,M26066
-27028,Minister of Armament,Hugo Pärtelpoeg,5,Laissez-Faire Capitalist,M26057
+27035,Minister of Security,August JÃ¼rima,5,Crooked Kleptocrat,M26066
+27028,Minister of Armament,Hugo PÃ¤rtelpoeg,5,Laissez-Faire Capitalist,M26057
 27044,Chief of Staff,Johan Holberg,5,School of Defence,M26084
 27031,Minister of Security,Johannes Klesment,5,Compassionate Gentleman,M26067
-27017,Head of Government,Jüri Uluots,5,Smiling Oilman,M26032
-27038,Head of Military Intelligence,Jüri Uluots,5,Industrial Specialist,M26032
+27017,Head of Government,JÃ¼ri Uluots,5,Smiling Oilman,M26032
+27038,Head of Military Intelligence,JÃ¼ri Uluots,5,Industrial Specialist,M26032
 27066,Chief of Air Force,Leo Sepp,5,Carpet Bombing Doctrine,M26056
 27025,Minister of Armament,Leo Sepp,5,Resource Industrialist,M26056
 27013,Head of Government,Otto Tief,5,Happy Amateur,M26038
@@ -27,7 +27,7 @@ LAT,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 27012,Head of Government,Paul Schiemann,6,Silent Workhorse,Kaiserreich Paul Schiemann
 27024,Minister of Armament,Peter von Weymarn,6,Theoretical Scientist,Kaiserreich von Weymarn
 27039,Head of Military Intelligence,Reinhold K. Zarins,6,Technical Specialist,M27012
-27018,Head of Government,Reinhold K. Zariñs,6,Political Protege,M27012
+27018,Head of Government,Reinhold K. ZariÃ±s,6,Political Protege,M27012
 27046,Chief of Staff,Verners Tefpers,6,School of Manoeuvre,M27017
 27074,Minister of Security,Viktor Puskar,6,Man of the People,kaiserreich_viktorpus
 27075,Head of Military Intelligence,Artur Sirk,7,Dismal Enigma,kaiserreich_artursik
@@ -35,7 +35,7 @@ LAT,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 27008,Chief of Army,Johan Laidoner,7,Static Defence Doctrine,M26008
 27032,Minister of Security,Julius Seljamaa,7,Prince of Terror,M26003
 27058,Chief of Army,Karl Dormagen,7,Elastic Defence Doctrine,Kaiserreich Karl Dormagen
-27022,Minister of Armament,Konstantin Päts,7,Administrative Genius,M26001
+27022,Minister of Armament,Konstantin PÃ¤ts,7,Administrative Genius,M26001
 27050,Chief of Staff,Kurt Georg Andersen,7,School of Psychology,Kaiserreich Kurt Andersen
 27005,Minister of Security,Kurt Georg Andersen,7,Crime Fighter,Kaiserreich Kurt Andersen
 27084,Chief of Staff,Nikolai Yudenich,7,School of Fire Support,LatYudenich
@@ -59,9 +59,9 @@ LAT,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 27033,Minister of Security,Karl Sigismund Litzmann,8,Back Stabber,M26035
 27043,Chief of Staff,Kurt Jahn,8,School of Fire Support,Kaiserreich Kurt Jahn
 27087,Chief of Air Force,Piotr Skut,8,Air Superiority Doctrine,Kaiserreich Skut
-27055,Chief of Army,Rüdiger von der Goltz,8,Static Defence Doctrine,Kaiserreich von der Goltz
-27007,Chief of Staff,Rüdiger von der Goltz,8,School of Psychology,Kaiserreich von der Goltz
-27016,Head of Government,Rüdiger von der Goltz,8,Old General,Kaiserreich von der Goltz
+27055,Chief of Army,RÃ¼diger von der Goltz,8,Static Defence Doctrine,Kaiserreich von der Goltz
+27007,Chief of Staff,RÃ¼diger von der Goltz,8,School of Psychology,Kaiserreich von der Goltz
+27016,Head of Government,RÃ¼diger von der Goltz,8,Old General,Kaiserreich von der Goltz
 27003,Foreign Minister,Alfred Rosenberg,9,Biased Intellectual,Kaiserreich Alfred Rosenberg
 27042,Head of Military Intelligence,Erich Koch,9,Logistics Specialist,M27087
 27041,Head of Military Intelligence,Hans Heinrich Lohse,9,Industrial Specialist,M27031

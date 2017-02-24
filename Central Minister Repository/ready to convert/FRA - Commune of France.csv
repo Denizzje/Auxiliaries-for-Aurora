@@ -6,9 +6,9 @@ FRA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Chief of Air Force,Charles Tillon,0,Army Aviation Doctrine,M2180
 ,Chief of Navy,Charles Tillon,0,Base Control Doctrine,M2180
 ,Minister of Security,Claudine Chomat,0,Health and Safety,M2118
-,Minister of Armament,Georges Lévy,0,Administrative Genius,M2014
+,Minister of Armament,Georges LÃ©vy,0,Administrative Genius,M2014
 ,Head of Government,Georges Valois,0,Totalist Chairman,kaiserreich georgevalois
-,Head of Military Intelligence,Gustave Guéhenneux,0,Technical Specialist,M2141
+,Head of Military Intelligence,Gustave GuÃ©henneux,0,Technical Specialist,M2141
 ,Head of Military Intelligence,Hubert Lagradelle,0,Technical Specialist,kaiserreich hubertlagradelle
 ,Chief of Army,Jacques Doriot,0,Elastic Defence Doctrine,kaiserreich jacquesdoriot
 ,Chief of Staff,Jacques Doriot,0,School of Psychology,kaiserreich jacquesdoriot
@@ -17,7 +17,7 @@ FRA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Chief of Staff,Jacques Duclos,0,School of Manoeuvre,M2012
 ,Foreign Minister,Jacques Duclos,0,Ideological Crusader,M2012
 ,Head of Government,Jacques Duclos,0,Backroom Backstabber,M2012
-,Minister of Armament,Jean Jérôme,0,Planned Economy Proponent,M2093
+,Minister of Armament,Jean JÃ©rÃ´me,0,Planned Economy Proponent,M2093
 ,Head of Military Intelligence,Jean-Marie Clamamus,0,Industrial Specialist,M2120
 ,Minister of Security,Jean-Marie Clamamus,0,Man of the People,M2120
 ,Minister of Security,Louis Aragon,0,Health and Safety,kaiserreich aragon
@@ -28,9 +28,9 @@ FRA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Chief of Staff,Marcel Cachin,0,School of Fire Support,M2017
 ,Foreign Minister,Marcel Cachin,0,Biased Intellectual,M2017
 ,Head of Government,Marcel Cachin,0,Silent Workhorse,M2017
-,Chief of Air Force,Marcel Déat,0,Air Superiority Doctrine,kaiserreich marceldeat
-,Chief of Navy,Marcel Déat,0,Base Control Doctrine,kaiserreich marceldeat
-,Minister of Armament,Marcel Déat,0,Air Superiority Proponent,kaiserreich marceldeat
+,Chief of Air Force,Marcel DÃ©at,0,Air Superiority Doctrine,kaiserreich marceldeat
+,Chief of Navy,Marcel DÃ©at,0,Base Control Doctrine,kaiserreich marceldeat
+,Minister of Armament,Marcel DÃ©at,0,Air Superiority Proponent,kaiserreich marceldeat
 ,Chief of Air Force,Marcel Gitton,0,Air Superiority Doctrine,M2020
 ,Foreign Minister,Marcel Gitton,0,Apologetic Clerk,M2020
 ,Foreign Minister,Maurice Thorez,0,Biased Intellectual,M2011
@@ -41,16 +41,16 @@ FRA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Head of Military Intelligence,Waldeck Rochet,0,Dismal Enigma,M2016
 ,Minister of Security,Adrien Tixier,1,Compassionate Gentleman,M2100
 ,Minister of Security,Alfred Rosmer,1,Silent Lawyer,kaiserreich alfredrosmer
-,Foreign Minister,Amédée Dunois,1,Ideological Crusader,kaiserreich amedeedunois
-,Chief of Army,André Marty,1,Guns and Butter Doctrine,M2018
-,Chief of Navy,André Marty,1,Indirect Approach Doctrine,M2018
-,Chief of Air Force,Antoine de Saint-Exupéry,1,Air Superiority Doctrine,saintexuperyqr1
-,Head of Government,Benoît Frachon,1,Ambitious Union Boss,kaiserreich benoitfrachon
-,Minister of Armament,Benoît Frachon,1,Industrialiser,kaiserreich benoitfrachon
+,Foreign Minister,AmÃ©dÃ©e Dunois,1,Ideological Crusader,kaiserreich amedeedunois
+,Chief of Army,AndrÃ© Marty,1,Guns and Butter Doctrine,M2018
+,Chief of Navy,AndrÃ© Marty,1,Indirect Approach Doctrine,M2018
+,Chief of Air Force,Antoine de Saint-ExupÃ©ry,1,Air Superiority Doctrine,saintexuperyqr1
+,Head of Government,BenoÃ®t Frachon,1,Ambitious Union Boss,kaiserreich benoitfrachon
+,Minister of Armament,BenoÃ®t Frachon,1,Industrialiser,kaiserreich benoitfrachon
 ,Head of Government,Boris Souvarine,1,Naive Optimist,kaiserreich borissouverain
 ,Foreign Minister,Charles Rappoport,1,Ideological Crusader,kaiserreich charlesrappapport
 ,Minister of Security,Charles Rappoport,1,Health and Safety,kaiserreich charlesrappapport
-,Head of Government,Comité de Salut Public,1,Silent Workhorse,KRCdSP
+,Head of Government,ComitÃ© de Salut Public,1,Silent Workhorse,KRCdSP
 ,Minister of Armament,Daniel Renoult,1,Construction Magnate,M2096
 ,Minister of Security,Gaston Monmousseau,1,Health and Safety,FRA_Monmousseau
 ,Minister of Armament,Georges Dumoulin,1,Industrialiser,FRA_Dumoulin
@@ -67,7 +67,7 @@ FRA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Minister of Security,Julien Luchaire,1,Efficient Sociopath,M2099
 ,Foreign Minister,Laurent Casenove,1,Great Compromiser,M2064
 ,Minister of Armament,Laurent Casenove,1,Theoretical Scientist,M2064
-,Minister of Armament,Léon Jouhaux,1,Planned Economy Proponent,kaiserreich leonjouhaux
+,Minister of Armament,LÃ©on Jouhaux,1,Planned Economy Proponent,kaiserreich leonjouhaux
 ,Head of Government,Marceau Pivert,1,Corporate Suit,kaiserreich marceaupivert
 ,Minister of Security,Marceau Pivert,1,Compassionate Gentleman,kaiserreich marceaupivert
 ,Chief of Staff,Missak Manouchian,1,School of Manoeuvre,kaiserreich manouchian
@@ -79,24 +79,24 @@ FRA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Head of Military Intelligence,Roger Salengro,1,Industrial Specialist,M2123
 ,Head of Military Intelligence,Albert Camus,2,Dismal Enigma,kaiserreich albertcamus
 ,Chief of Army,Alphonse Georges,2,Static Defence Doctrine,L24082
-,Minister of Armament,André Breton,2,Construction Magnate,kaiserreich breton
-,Chief of Air Force,André Malraux,2,Carpet Bombing Doctrine,kaiserreich malraux
-,Minister of Armament,André Malraux,2,Strategic Air Proponent,kaiserreich malraux
-,Head of Government,Benoît Broutchoux,2,Respected War Hero,FRA_Broutchoux
-,Minister of Armament,Benoît Broutchoux,2,Planned Economy Proponent,FRA_Broutchoux
+,Minister of Armament,AndrÃ© Breton,2,Construction Magnate,kaiserreich breton
+,Chief of Air Force,AndrÃ© Malraux,2,Carpet Bombing Doctrine,kaiserreich malraux
+,Minister of Armament,AndrÃ© Malraux,2,Strategic Air Proponent,kaiserreich malraux
+,Head of Government,BenoÃ®t Broutchoux,2,Respected War Hero,FRA_Broutchoux
+,Minister of Armament,BenoÃ®t Broutchoux,2,Planned Economy Proponent,FRA_Broutchoux
 ,Foreign Minister,Charles-Emmanuel Mast,2,General Staffer,L24224
-,Head of Government,Daniel Guérin,2,Happy Amateur,kaiserreich danielguerin
-,Minister of Armament,Daniel Guérin,2,Mixed Economy,kaiserreich danielguerin
+,Head of Government,Daniel GuÃ©rin,2,Happy Amateur,kaiserreich danielguerin
+,Minister of Armament,Daniel GuÃ©rin,2,Mixed Economy,kaiserreich danielguerin
 ,Head of Military Intelligence,Daniel Mayer,2,Logistics Specialist,M2023
 ,Head of Military Intelligence,Felix Gouin,2,Technical Specialist,M2034
-,Foreign Minister,Fernand Desprès,2,Ideological Crusader,FRA_Despres
-,Minister of Security,Fernand Desprès,2,Man of the People,FRA_Despres
+,Foreign Minister,Fernand DesprÃ¨s,2,Ideological Crusader,FRA_Despres
+,Minister of Security,Fernand DesprÃ¨s,2,Man of the People,FRA_Despres
 ,Chief of Army,Henri Tanguy,2,Elastic Defence Doctrine,kaiserreich roltanguy
 ,Chief of Staff,Henri Tanguy,2,School of Mass Combat,kaiserreich roltanguy
 ,Minister of Armament,Henri Tanguy,2,Infantry Proponent,kaiserreich roltanguy
 ,Foreign Minister,Jean-Paul Sartre,2,Biased Intellectual,kaiserreich sartre
-,Foreign Minister,Léon Blum,2,Great Compromiser,M2033
-,Head of Government,Léon Blum,2,Naive Optimist,M2033
+,Foreign Minister,LÃ©on Blum,2,Great Compromiser,M2033
+,Head of Government,LÃ©on Blum,2,Naive Optimist,M2033
 ,Chief of Army,Maurice Joyeux,2,Doctrine of Autonomy,kaiserreich mauricejoyeux
 ,Head of Government,Maurice Joyeux,2,Ambitious Union Boss,kaiserreich mauricejoyeux
 ,Minister of Security,Maurice Joyeux,2,Man of the People,kaiserreich mauricejoyeux
@@ -110,12 +110,12 @@ FRA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Head of Military Intelligence,Paul Repiton-Preneuf,2,Logistics Specialist,M2142
 ,Chief of Army,Pierre Fabien,2,Decisive Battle Doctrine,M2167
 ,Foreign Minister,Robert Louzon,2,Great Compromiser,FRA_Louzon
-,Minister of Security,Sébastien Faure,2,Crime Fighter,kaiserreich sebastienfaure
+,Minister of Security,SÃ©bastien Faure,2,Crime Fighter,kaiserreich sebastienfaure
 ,Minister of Armament,Vincent Auriol,2,Administrative Genius,M2004
 ,Minister of Security,Albert Lebrun,3,Silent Lawyer,M2001
-,Head of Military Intelligence,André Le Troquer,3,Dismal Enigma,M2072
-,Minister of Armament,André Le Troquer,3,Resource Industrialist,M2072
-,Minister of Security,André Le Troquer,3,Compassionate Gentleman,M2072
+,Head of Military Intelligence,AndrÃ© Le Troquer,3,Dismal Enigma,M2072
+,Minister of Armament,AndrÃ© Le Troquer,3,Resource Industrialist,M2072
+,Minister of Security,AndrÃ© Le Troquer,3,Compassionate Gentleman,M2072
 ,Foreign Minister,Edouard Daladier,3,Great Compromiser,M2037
 ,Head of Government,Edouard Daladier,3,Naive Optimist,M2037
 ,Minister of Armament,Edouard Daladier,3,Laissez-Faire Capitalist,M2037
@@ -130,12 +130,12 @@ FRA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Minister of Security,Pierre Auguste Chardigny,3,Prince of Terror,M2098
 ,Chief of Air Force,Pierre Cot,3,Army Aviation Doctrine,M2184
 ,Chief of Air Force,Victor Denain,4,Carpet Bombing Doctrine,M2010
-,Head of Military Intelligence,Aimé Lepercq,4,Industrial Specialist,M2130
+,Head of Military Intelligence,AimÃ© Lepercq,4,Industrial Specialist,M2130
 ,Head of Government,Albert Sarraut,4,Happy Amateur,M2002
 ,Minister of Armament,Albert Sarraut,4,Laissez-Faire Capitalist,M2002
 ,Minister of Security,Arthur Fontaine,4,Efficient Sociopath,M2106
 ,Head of Government,Camille Chautemps,4,Silent Workhorse,M2036
-,Chief of Navy,François Darlan,4,Open Seas Doctrine,M2009
+,Chief of Navy,FranÃ§ois Darlan,4,Open Seas Doctrine,M2009
 ,Foreign Minister,Georges Bonnet,4,Iron Fisted Brute,M2053
 ,Minister of Armament,Georges Bonnet,4,Resource Industrialist,M2053
 ,Chief of Air Force,Guy La Chambre,4,Vertical Envelopment Doctrine,M2188
@@ -153,27 +153,27 @@ FRA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Head of Government,Paul Reynaud,4,Political Protege,M2038
 ,Chief of Army,Pierre Auguste Chardigny,4,Elastic Defence Doctrine,M2098
 ,Foreign Minister,Pierre Etienne Flandin,4,Ideological Crusader,M2003
-,Minister of Security,Pierre Pené,4,Silent Lawyer,M2105
+,Minister of Security,Pierre PenÃ©,4,Silent Lawyer,M2105
 ,Minister of Armament,Raoul Dautry,4,Theoretical Scientist,M2073
 ,Head of Government,Robert Schumann,4,Corporate Suit,M2088
 ,Foreign Minister,Yvon Delbos,4,Biased Intellectual,M2048
 ,Minister of Security,Yvon Delbos,4,Silent Lawyer,M2048
-,Chief of Navy,César Campinchi,5,Indirect Approach Doctrine,M2173
+,Chief of Navy,CÃ©sar Campinchi,5,Indirect Approach Doctrine,M2173
 ,Head of Military Intelligence,Charles Luizet,5,Technical Specialist,M2134
 ,Minister of Armament,Edouard Herriot,5,Laissez-Faire Capitalist,M2042
 ,Foreign Minister,George Bidault,5,General Staffer,M2039
 ,Head of Government,Georges Bidault,5,Old General,M2039
 ,Foreign Minister,Maurice Dejean,5,Great Compromiser,M2202
-,Foreign Minister,René Pleven,5,Biased Intellectual,M2090
-,Minister of Armament,René Pleven,5,Resource Industrialist,M2090
+,Foreign Minister,RenÃ© Pleven,5,Biased Intellectual,M2090
+,Minister of Armament,RenÃ© Pleven,5,Resource Industrialist,M2090
 ,Minister of Armament,Robert Schumann,5,Administrative Genius,M2088
 ,Minister of Security,Robert Schumann,5,Crime Fighter,M2088
-,Head of Military Intelligence,André Boulloche,6,Dismal Enigma,M2137
-,Head of Military Intelligence,André de Wawrin-Passy,6,Logistics Specialist,M2135
-,Head of Government,André Marie,6,Happy Amateur,M2041
-,Head of Military Intelligence,André Marie,6,Technical Specialist,M2041
-,Minister of Armament,André Marie,6,Air Superiority Proponent,M2041
-,Minister of Security,André Marie,6,Prince of Terror,M2041
+,Head of Military Intelligence,AndrÃ© Boulloche,6,Dismal Enigma,M2137
+,Head of Military Intelligence,AndrÃ© de Wawrin-Passy,6,Logistics Specialist,M2135
+,Head of Government,AndrÃ© Marie,6,Happy Amateur,M2041
+,Head of Military Intelligence,AndrÃ© Marie,6,Technical Specialist,M2041
+,Minister of Armament,AndrÃ© Marie,6,Air Superiority Proponent,M2041
+,Minister of Security,AndrÃ© Marie,6,Prince of Terror,M2041
 ,Foreign Minister,Antoine Henri Queuille,6,Iron Fisted Brute,M2043
 ,Head of Government,Antoine Henri Queuille,6,Corporate Suit,M2043
 ,Minister of Armament,Antoine Henri Queuille,6,Air to Ground Proponent,M2043
@@ -198,22 +198,22 @@ FRA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Minister of Armament,Louis Armand,6,Tank Proponent,M2086
 ,Minister of Armament,Marie Emile Fayolle,6,Infantry Proponent,M2081
 ,Minister of Armament,Marie-Pierre Koenig,6,Military Entrepreneur,L24107
-,Chief of Air Force,Martial Valín,6,Air Superiority Doctrine,M2185
+,Chief of Air Force,Martial ValÃ­n,6,Air Superiority Doctrine,M2185
 ,Minister of Armament,Paul Marchandeau,6,Administrative Genius,M2083
 ,Chief of Staff,Pierre Bourges-Maunory,6,School of Psychology,M2152
 ,Foreign Minister,Pierre Henri Watier,6,Biased Intellectual,M2060
 ,Head of Government,Pierre Laval,6,Flamboyant Tough Guy,M2040
 ,Chief of Staff,Pierre-Armand Billotte,6,School of Fire Support,M2151
 ,Chief of Air Force,Raymond Roques,6,Carpet Bombing Doctrine,M2194
-,Foreign Minister,René Charron,6,Apologetic Clerk,M2059
-,Foreign Minister,René Lucien Massigli,6,The Cloak N Dagger Schemer,M2061
-,Head of Military Intelligence,René Nicolau,6,Dismal Enigma,M2112
-,Minister of Security,René Nicolau,6,Compassionate Gentleman,M2112
+,Foreign Minister,RenÃ© Charron,6,Apologetic Clerk,M2059
+,Foreign Minister,RenÃ© Lucien Massigli,6,The Cloak N Dagger Schemer,M2061
+,Head of Military Intelligence,RenÃ© Nicolau,6,Dismal Enigma,M2112
+,Minister of Security,RenÃ© Nicolau,6,Compassionate Gentleman,M2112
 ,Chief of Air Force,Robert Rossi,6,Army Aviation Doctrine,M2191
 ,Head of Military Intelligence,Roger Lantenois,6,Industrial Specialist,M2136
 ,Minister of Security,Eugene Dunoyer de Segonzac,7,Compassionate Gentleman,M2122
-,Chief of Staff,Henri-Honoré Giraud,7,School of Fire Support,L24084
-,Head of Government,Henri-Honoré Giraud,7,Old General,L24084
+,Chief of Staff,Henri-HonorÃ© Giraud,7,School of Fire Support,L24084
+,Head of Government,Henri-HonorÃ© Giraud,7,Old General,L24084
 ,Minister of Armament,Jacques de Guillebon,7,Resource Industrialist,M2097
 ,Foreign Minister,Maurice Bourges-Maunoroy,7,General Staffer,M2066
 ,Chief of Army,Maxime Weygand,7,Elastic Defence Doctrine,M2146

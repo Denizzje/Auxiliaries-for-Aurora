@@ -1,8 +1,8 @@
 HAI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-78056,Foreign Minister,Félix Juste Constant,1,Biased Intellectual,M78021
-78044,Head of Government,Félix Juste Constant,1,Happy Amateur,M78021
-78065,Minister of Armament,Félix Juste Constant,1,laissez-faire capitalist,M78021
+78056,Foreign Minister,FÃ©lix Juste Constant,1,Biased Intellectual,M78021
+78044,Head of Government,FÃ©lix Juste Constant,1,Happy Amateur,M78021
+78065,Minister of Armament,FÃ©lix Juste Constant,1,laissez-faire capitalist,M78021
 78144,Head of Government,Max Hudicourt,1,Ambitious Union Boss,HAI_hudicourt
 78142,Head of Military Intelligence,Max Hudicourt,1,Political Specialist,HAI_hudicourt
 78141,Minister of Security,Max Hudicourt,1,Crime Fighter,HAI_hudicourt
@@ -10,9 +10,9 @@ HAI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 78112,Chief of Air Force,Belmeau Max-Pierre,2,Vertical Envelopment Doctrine,M78076
 78087,Head of Military Intelligence,Belmeau Max-Pierre,2,Logistics Specialist,M78076
 78076,Minister of Security,Belmeau Max-Pierre,2,Back Stabber,M78076
-78135,Chief of Army,Charlemagne Péralte,2,Guns and Butter Doctrine,HAI_peralte
-78136,Chief of Staff,Charlemagne Péralte,2,School of Manoeuvre,HAI_peralte
-78134,Head of Government,Charlemagne Péralte,2,Flamboyant Tough Guy,HAI_peralte
+78135,Chief of Army,Charlemagne PÃ©ralte,2,Guns and Butter Doctrine,HAI_peralte
+78136,Chief of Staff,Charlemagne PÃ©ralte,2,School of Manoeuvre,HAI_peralte
+78134,Head of Government,Charlemagne PÃ©ralte,2,Flamboyant Tough Guy,HAI_peralte
 78045,Head of Government,Daniel Fignole,2,Political Protege,M78045
 78078,Minister of Security,Daniel Fignole,2,Silent Lawyer,M78045
 78103,Chief of Army,Ernst Severe,2,Guns and Butter Doctrine,M78028
@@ -26,13 +26,13 @@ HAI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 78077,Minister of Security,Victor Vivian,2,Efficient Sociopath,M78025
 78137,Chief of Air Force,Charles Terres Weymann,3,Army Aviation Doctrine,HAI_weymann
 78138,Minister of Armament,Charles Terres Weymann,3,Resource Industrialist,HAI_weymann
-78124,Chief of Army,Démosthenes Pétrus Calixte,3,Guns and Butter Doctrine,M78037
-78123,Chief of Staff,Démosthenes Pétrus Calixte,3,School of Mass Combat,M78037
-78146,Head of Government,Démosthenes Pétrus Calixte,3,Happy Amateur,M78037
-78088,Head of Military Intelligence,Démosthenes Pétrus Calixte,3,Political Specialist,M78037
-78122,Minister of Security,Démosthenes Pétrus Calixte,3,Man of the People,M78037
-78042,Head of Government,Dumarsais Estimé,3,Flamboyant Tough Guy,M78034
-78072,Minister of Security,Dumarsais Estimé,3,Back Stabber,M78034
+78124,Chief of Army,DÃ©mosthenes PÃ©trus Calixte,3,Guns and Butter Doctrine,M78037
+78123,Chief of Staff,DÃ©mosthenes PÃ©trus Calixte,3,School of Mass Combat,M78037
+78146,Head of Government,DÃ©mosthenes PÃ©trus Calixte,3,Happy Amateur,M78037
+78088,Head of Military Intelligence,DÃ©mosthenes PÃ©trus Calixte,3,Political Specialist,M78037
+78122,Minister of Security,DÃ©mosthenes PÃ©trus Calixte,3,Man of the People,M78037
+78042,Head of Government,Dumarsais EstimÃ©,3,Flamboyant Tough Guy,M78034
+78072,Minister of Security,Dumarsais EstimÃ©,3,Back Stabber,M78034
 78116,Foreign Minister,Louis-Dantes Bellegarde,3,Great Compromiser,M78005
 78080,Head of Military Intelligence,Louis-Dantes Bellegarde,3,Industrial Specialist,M78005
 78058,Minister of Armament,Louis-Dantes Bellegarde,3,Corrupt Kleptocrat,M78005
@@ -43,7 +43,7 @@ HAI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 78093,Chief of Staff,Andre Dumont,4,School of Manoeuvre,M78052
 78052,Foreign Minister,Andre Dumont,4,Iron Fisted Brute,M78052
 78083,Head of Military Intelligence,Andre Dumont,4,Naval Intelligence Specialist,M78052
-78106,Chief of Navy,André Sainté Frederic,4,Power Projection Doctrine,M78106
+78106,Chief of Navy,AndrÃ© SaintÃ© Frederic,4,Power Projection Doctrine,M78106
 78064,Minister of Armament,Armand Ouellet,4,Administrative Genius,M78064
 78057,Foreign Minister,Clement Jumelle,4,Apologetic Clerk,M78057
 78151,Head of Government,Clement Jumelle,4,Corporate Suit,M78057
@@ -55,20 +55,20 @@ HAI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 78084,Head of Military Intelligence,Max Charlmes,4,Technical Specialist,M78062
 78062,Minister of Armament,Max Charlmes,4,Strategic Air Proponent,M78062
 78073,Minister of Security,Max Charlmes,4,Crooked Kleptocrat,M78062
-78110,Chief of Air Force,Pascalé B.G. Guillaume,4,Vertical Envelopment Doctrine,M78020
+78110,Chief of Air Force,PascalÃ© B.G. Guillaume,4,Vertical Envelopment Doctrine,M78020
 78101,Chief of Army,Paul Magloire,4,Guns and Butter Doctrine,M78043
 78094,Chief of Staff,Paul Magloire,4,School of Mass Combat,M78043
 78130,Chief of Navy,Philippe Kieffer,4,Base Control Doctrine,HAI_Kieffer
 78132,Head of Military Intelligence,Philippe Kieffer,4,Naval Intelligence Specialist,HAI_Kieffer
 78131,Minister of Security,Philippe Kieffer,4,Crime Fighter,HAI_Kieffer
-78053,Foreign Minister,Timoléon Cesar Brutus,4,Ideological Crusader,M78053
-78109,Chief of Air Force,André Sainté Frederic,6,Naval Aviation Doctrine,M78106
+78053,Foreign Minister,TimolÃ©on Cesar Brutus,4,Ideological Crusader,M78053
+78109,Chief of Air Force,AndrÃ© SaintÃ© Frederic,6,Naval Aviation Doctrine,M78106
 78099,Chief of Army,Antoine Levelt,6,Armoured Spearhead Doctrine,M78075
 78092,Chief of Staff,Antoine Levelt,6,School of Manoeuvre,M78075
 78069,Minister of Security,Auguste Bonamy,6,Silent Lawyer,M78069
 78010,Chief of Air Force,Edouard Roy,6,Army Aviation Doctrine,M78010
-78104,Chief of Navy,Georges Léger,6,Base Control Doctrine,M78046
-78046,Foreign Minister,Georges Léger,6,The Cloak N Dagger Schemer,M78046
+78104,Chief of Navy,Georges LÃ©ger,6,Base Control Doctrine,M78046
+78046,Foreign Minister,Georges LÃ©ger,6,The Cloak N Dagger Schemer,M78046
 78060,Minister of Armament,Jean Francois Duvalier,6,Administrative Genius,M78015
 78126,Head of Government,Joseph Louis Borno,6,Naive Optimist,M78079
 78079,Head of Military Intelligence,Joseph Louis Borno,6,Technical Specialist,M78079
@@ -78,23 +78,23 @@ HAI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 78061,Minister of Armament,Louis Dejoie,6,laissez-faire capitalist,M78033
 78059,Minister of Armament,Luc Dominique,6,Tank Proponent,M78014
 78047,Foreign Minister,Marcel Fombrun,6,Iron Fisted Brute,M78013
-78090,Chief of Staff,Sebastien de Arrondé,6,School of Manoeuvre,M78006
-78006,Head of Military Intelligence,Sebastien de Arrondé,6,Political Specialist,M78006
+78090,Chief of Staff,Sebastien de ArrondÃ©,6,School of Manoeuvre,M78006
+78006,Head of Military Intelligence,Sebastien de ArrondÃ©,6,Political Specialist,M78006
 78111,Chief of Air Force,Antoine Levelt,7,Carpet Bombing Doctrine,M78075
 78085,Head of Military Intelligence,Antoine Levelt,7,Logistics Specialist,M78075
 78075,Minister of Security,Antoine Levelt,7,Silent Lawyer,M78075
-78008,Chief of Army,Élie Lescot,7,Static Defence Doctrine,HAI_lescot
-78007,Chief of Staff,Élie Lescot,7,School of Fire Support,HAI_lescot
-78048,Foreign Minister,Élie Lescot,7,General Staffer,HAI_lescot
-78039,Head of Government,Élie Lescot,7,Old General,HAI_lescot
-78004,Minister of Armament,Élie Lescot,7,Infantry Proponent,HAI_lescot
-78070,Minister of Security,Élie Lescot,7,Man of the People,HAI_lescot
+78008,Chief of Army,Ã‰lie Lescot,7,Static Defence Doctrine,HAI_lescot
+78007,Chief of Staff,Ã‰lie Lescot,7,School of Fire Support,HAI_lescot
+78048,Foreign Minister,Ã‰lie Lescot,7,General Staffer,HAI_lescot
+78039,Head of Government,Ã‰lie Lescot,7,Old General,HAI_lescot
+78004,Minister of Armament,Ã‰lie Lescot,7,Infantry Proponent,HAI_lescot
+78070,Minister of Security,Ã‰lie Lescot,7,Man of the People,HAI_lescot
 78098,Chief of Army,Franck Lavaud,7,Elastic Defence Doctrine,M78035
 78091,Chief of Staff,Franck Lavaud,7,School of Psychology,M78035
 78147,Head of Government,Franck Lavaud,7,Old General,M78035
-78149,Head of Government,François Duvalier,7,Corporate Suit,HAI_duvalier
+78149,Head of Government,FranÃ§ois Duvalier,7,Corporate Suit,HAI_duvalier
 78043,Head of Government,Paul Magloire,7,Old General,M78043
-78002,Head of Government,Sténio Vincent,7,Corporate Suit,M78001
+78002,Head of Government,StÃ©nio Vincent,7,Corporate Suit,M78001
 78117,Chief of Army,Alfred Auguste Nemours,8,Decisive Battle Doctrine,M78009
 78009,Chief of Navy,Alfred Auguste Nemours,8,Open Seas Doctrine,M78009
 78118,Chief of Staff,Alfred Auguste Nemours,8,School of Psychology,M78009

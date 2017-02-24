@@ -29,7 +29,7 @@ ARG,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 35171,Chief of Staff,Pablo San Martin,2,School of Defence,M35027
 35172,Chief of Staff,Paul Castex Lainford,2,School of Psychology,M35172
 35153,Head of Military Intelligence,Pedro S. Casal,2,Naval Intelligence Specialist,M35009
-35274,Head of Government,AmÈrico Ghioldi,3,Political Protege,ARG_americo_ghioldi
+35274,Head of Government,Am√©rico Ghioldi,3,Political Protege,ARG_americo_ghioldi
 35144,Head of Military Intelligence,Baldassare Baldi Jimenez,3,Logistics Specialist,M35037
 35285,Head of Government,Carlos Sanchez Viamonte,3,Silent Workhorse,ARG_carlos_sanchez_viamonte
 35070,Foreign Minister,Eduardo Miya Bermudez,3,Apologetic Clerk,M35070
@@ -60,7 +60,7 @@ ARG,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 35143,Head of Military Intelligence,Bartolomeo de la Colina,4,Industrial Specialist,M35095
 35095,Minister of Armament,Bartolomeo de la Colina,4,Air to Sea Proponent,M35095
 35197,Chief of Navy,Carlos Putalla Vignolo,4,Open Seas Doctrine,M35197
-35276,Head of Government,CrisÛlogo Larralde,4,Ambitious Union Boss,ARG_crisologo_larralde
+35276,Head of Government,Cris√≥logo Larralde,4,Ambitious Union Boss,ARG_crisologo_larralde
 35193,Chief of Navy,Elpidio Gonzalez,4,Base Control Doctrine,M35088
 35141,Head of Military Intelligence,Elpidio Gonzalez,4,Technical Specialist,M35088
 35088,Minister of Armament,Elpidio Gonzalez,4,Resource Industrialist,M35088
@@ -70,7 +70,7 @@ ARG,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 35068,Foreign Minister,Gilbert A. Paez,4,Biased Intellectual,M35068
 35212,Chief of Air Force,Hector del Riva,4,Naval Aviation Doctrine,M35030
 35195,Chief of Navy,Heriberto La Galine,4,Indirect Approach Doctrine,M35029
-35239,Head of Government,HipÛlito Yrigoyen,4,Ambitious Union Boss,Kaiserreich HipÛlito Yrigoyen
+35239,Head of Government,Hip√≥lito Yrigoyen,4,Ambitious Union Boss,Kaiserreich Hip√≥lito Yrigoyen
 35064,Foreign Minister,Horacio Hoya San Arte,4,Ideological Crusader,M35064
 35117,Minister of Security,Horacio Hoya San Arte,4,Silent Lawyer,M35064
 35140,Head of Military Intelligence,Jorge de la Torre,4,Dismal Enigma,M35006
@@ -92,7 +92,7 @@ ARG,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 35268,Head of Government,Enrique Mosca,5,Naive Optimist,ARG_enrique_mosca
 35089,Head of Government,Jose Tamborni,5,Naive Optimist,M35089
 35286,Head of Government,Oscar Alende,5,Backroom Backstabber,ARG_oscar_alende
-35272,Head of Government,Ricardo BalbÌn,5,Flamboyant Tough Guy,ARG_ricardo_balbin
+35272,Head of Government,Ricardo Balb√≠n,5,Flamboyant Tough Guy,ARG_ricardo_balbin
 35087,Minister of Armament,Agustin Rodriguez,6,Administrative Genius,M35087
 35061,Foreign Minister,Alberto Gilbert,6,Ideological Crusader,M35061
 35142,Head of Military Intelligence,Alberto Gilbert,6,Logistics Specialist,M35061
@@ -133,7 +133,7 @@ ARG,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 35230,Chief of Navy,Segundo R. Storni,6,Open Seas Doctrine,M35225
 35225,Foreign Minister,Segundo R. Storni,6,Iron Fisted Brute,M35225
 35228,Head of Military Intelligence,Vicente Huidrabra Urribe,6,Technical Specialist,M35228
-35269,Head of Government,Vicente Sol·,6,Happy Amateur,ARG_vicente_sola
+35269,Head of Government,Vicente Sol√°,6,Happy Amateur,ARG_vicente_sola
 35278,Head of Government,Vicente Solano Lima,6,Silent Workhorse,ARG_vicente_solano_lima
 35173,Chief of Army,Agustin P. Justo,7,Elastic Defence Doctrine,M35001
 35002,Head of Government,Agustin P. Justo,7,Old General,M35001

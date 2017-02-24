@@ -1,20 +1,18 @@
 RUS,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
 4235,Foreign Minister,Aleksandra M. Kollontai,0,Apologetic Clerk,MRUS Kollontai
-4356,Head of Government,Lev B. Kamenev,0,Ambitious Union Boss,MRUS Kamenev
-4357,Minister of Armament,Lev B. Kamenev,0,Planned Economy Proponent,MRUS Kamenev
 4117,Foreign Minister,Maxim M. Litvinov,0,Biased Intellectual,M4003
 4180,Chief of Air Force,Pavel V. Rychagov,0,Army Aviation Doctrine,M4030
 4118,Minister of Armament,Sergei M. Kirov,0,Resource Industrialist,kaiserreich sergeikirov
-4136,Chief of Army,Vasily von Blücher,0,Armoured Spearhead Doctrine,M4136
-4257,Minister of Security,Yan K. Berzin,0,Back Stabber,M4006
+4136,Chief of Army,Vasily von BlÃ¼cher,0,Armoured Spearhead Doctrine,M4136
 4120,Head of Military Intelligence,Yan K. Berzin,0,Technical Specialist,M4006
+4257,Minister of Security,Yan K. Berzin,0,Back Stabber,M4006
 4131,Chief of Army,Aleksandr I. Yegorov,1,Elastic Defence Doctrine,M4131
 4260,Chief of Staff,Aleksandr I. Yegorov,1,School of Defence,M4131
 4097,Foreign Minister,Georgiy Chicherin,1,Biased Intellectual,M4097
 4288,Chief of Army,Ivan S. Konev,1,Decisive Battle Doctrine,L10026
-4240,Minister of Armament,Nikolai I. Bukharin,1,Planned Economy Proponent,BukharinSOV
 4161,Head of Government,Nikolai I. Bukharin,1,Silent Workhorse,BukharinSOV
+4240,Minister of Armament,Nikolai I. Bukharin,1,Planned Economy Proponent,BukharinSOV
 4165,Minister of Armament,Nikolai N. Krestinsky,1,Administrative Genius,kaiserreich nkrestinsky
 4264,Chief of Army,Vasily I. Chuikov,1,Elastic Defence Doctrine,L9881
 4128,Chief of Staff,Vasily I. Chuikov,1,School of Psychology,L9881
@@ -22,16 +20,18 @@ RUS,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 4222,Head of Government,Vyacheslav M. Molotov,1,Silent Workhorse,M4034
 4149,Chief of Air Force,Aleksandr A. Kazakov,2,Vertical Envelopment Doctrine,Kazakov
 4238,Minister of Armament,Aleksandr Shlyapnikov,2,Resource Industrialist,MRUS Shlyapnikov
-4164,Head of Military Intelligence,Alexei I. Rykov,2,Dismal Enigma,Rykov
 4221,Head of Government,Alexei I. Rykov,2,Naive Optimist,Rykov
+4164,Head of Military Intelligence,Alexei I. Rykov,2,Dismal Enigma,Rykov
 4254,Minister of Security,Alexei I. Rykov,2,Silent Lawyer,Rykov
+4249,Head of Military Intelligence,Boris Savnikov,2,Dismal Enigma,M4108
+4246,Minister of Security,Boris Savnikov,2,Prince of Terror,M4108
 4253,Head of Military Intelligence,Dmitri Popov,2,Political Specialist,MRUS Popov
 4277,Foreign Minister,Georgiy M. Malenkov,2,Ideological Crusader,Georgy_Malenkov
 4278,Minister of Security,Georgiy M. Malenkov,2,Silent Lawyer,Georgy_Malenkov
 4228,Foreign Minister,Grigory Y. Zinoviev,2,The Cloak N Dagger Schemer,MRUS Zinoviev
 4275,Chief of Army,Konstantin K. Rokossovsky,2,Armoured Spearhead Doctrine,M4027
-4267,Head of Government,Konstantin K. Rokossovsky,2,Reformist Soldierhog,M4027
 4177,Chief of Staff,Konstantin K. Rokossovsky,2,School of Manoeuvre,M4027
+4267,Head of Government,Konstantin K. Rokossovsky,2,Reformist Soldierhog,M4027
 4169,Head of Government,Lazer M. Kaganovich,2,Flamboyant Tough Guy,M4004
 4168,Minister of Armament,Lazer M. Kaganovich,2,Resource Industrialist,M4004
 4252,Head of Military Intelligence,Maria A. Spiridonova,2,Political Specialist,Mrus spiridanova
@@ -40,6 +40,8 @@ RUS,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 4297,Head of Military Intelligence,Nikolai Berdyaev,2,Logistics Specialist,M4297
 4234,Minister of Armament,Nikolai D. Kondratiev,2,Industrialiser,MRUS Kondratiev
 4172,Foreign Minister,Nikolai Sukhanov,2,Ideological Crusader,sukhanov
+4122,Head of Military Intelligence,Aleksandr Antonov,3,Technical Specialist,M4122
+4108,Minister of Armament,Boris Savinkov,3,Mixed Economy,M4108
 4285,Foreign Minister,Fanni Y. Kaplan,3,Ideological Crusader,Fanni_Kaplan
 4178,Chief of Army,Georgiy K. Zhukov,3,Armoured Spearhead Doctrine,M4028
 4261,Chief of Staff,Georgiy K. Zhukov,3,School of Fire Support,M4028
@@ -48,20 +50,20 @@ RUS,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 4095,Head of Government,Iraklij G. Tsereteliy,3,Naive Optimist,M4095
 4255,Minister of Security,Iraklij G. Tsereteliy,3,Silent Lawyer,MRUS Tsereteli
 4137,Chief of Army,Ivan Belov,3,Static Defence Doctrine,M4137
-4322,Chief of Staff,Mikhail D. Bonch-Bruyevich,3,School of Defence,Kaiserreich Bonch
+4220,Head of Government,Lev B. Kamenev,3,Happy Amateur,MRUS Kamenev
+4239,Minister of Armament,Lev B. Kamenev,3,Keynesian Economy,MRUS Kamenev
 4323,Chief of Army,Mikhail D. Bonch-Bruyevich,3,Static Defence Doctrine,Kaiserreich Bonch
-4291,Head of Military Intelligence,Nikolai F. Vatutin,3,Logistics Specialist,L10354
+4322,Chief of Staff,Mikhail D. Bonch-Bruyevich,3,School of Defence,Kaiserreich Bonch
 4287,Chief of Staff,Nikolai F. Vatutin,3,School of Psychology,L10354
+4291,Head of Military Intelligence,Nikolai F. Vatutin,3,Logistics Specialist,L10354
 4251,Head of Military Intelligence,Pavel N. Malyantovich,3,Political Specialist,MRUS Malyantovich
 4099,Foreign Minister,Viktor M. Chernov,3,Apologetic Clerk,M4099
 4283,Minister of Security,Vladimir L. Burtsev,3,Crime Fighter,Vladimir_Burtsev
-4239,Minister of Armament,Vladimir M. Zenzinov,3,Keynesian Economy,MRUS Zenzinov
-4220,Head of Government,Vladimir M. Zenzinov,3,Silent Workhorse,MRUS Zenzinov
 4231,Minister of Armament,Andrei D. Sakharov,4,Theoretical Scientist,MRUS Sakharov
 4227,Foreign Minister,Ariadna V. Tyrkova-Williams,4,Apologetic Clerk,MRUS Tyrkova
 4292,Foreign Minister,Georgiy V. Vernadsky,4,Great Compromiser,M4292
-4233,Minister of Armament,Mikhail I. Tereshchenko,4,Administrative Genius,MRUS Tereshchenko
 4236,Foreign Minister,Mikhail I. Tereshchenko,4,Ideological Crusader,MRUS Tereshchenko
+4233,Minister of Armament,Mikhail I. Tereshchenko,4,Administrative Genius,MRUS Tereshchenko
 4318,Chief of Army,Nikolai N. Dukhonin,4,Decisive Battle Doctrine,Dukhonin
 4319,Chief of Staff,Nikolai N. Dukhonin,4,School of Mass Combat,Dukhonin
 4279,Foreign Minister,Nikolai V. Nekrasov,4,Apologetic Clerk,MRUS Nekrasov
@@ -76,15 +78,16 @@ RUS,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 4293,Minister of Armament,Mikhail V. Bernacki,5,Administrative Genius,M4293
 4325,Chief of Navy,Nestor A. Monastyrev,5,Open Seas Doctrine,Kaiserreich Monastyrev
 4326,Chief of Army,Nikolai A. Lokhvitski,5,Static Defence Doctrine,Kaiserreich Lokhvitski
-4160,Head of Government,Pavel N. Milyukov,5,Backroom Backstabber,Mrus miliukov
 4226,Foreign Minister,Pavel N. Milyukov,5,Great Compromiser,MRUS Miliukov
+4160,Head of Government,Pavel N. Milyukov,5,Backroom Backstabber,Mrus miliukov
+4316,Chief of Staff,Vasily A. Kharlamov,5,School of Manoeuvre,Kaiserreich Kharlamov
 4317,Head of Military Intelligence,Vasily A. Kharlamov,5,Logistics Specialist,Kaiserreich Kharlamov
 4175,Minister of Security,Vasily A. Kharlamov,5,Man of the People,Kaiserreich Kharlamov
-4316,Chief of Staff,Vasily A. Kharlamov,5,School of Manoeuvre,Kaiserreich Kharlamov
 4245,Minister of Security,Vasily A. Maklakov,5,Silent Lawyer,MRUS Maklakov
 4225,Foreign Minister,Vasily G. Boldyrev,5,General Staffer,Boldyrev
 4219,Head of Government,Vasily G. Boldyrev,5,Respected War Hero,Boldyrev
 4298,Minister of Armament,Wassily Leontief,5,Laissez-Faire Capitalist,M4298
+4313,Head of Government,Abram Dragomirov,6,Old General,kaiserreich Dragomirov
 4302,Minister of Security,Aleksandr D. Protopopov,6,Back Stabber,M4302
 4151,Chief of Air Force,Aleksandr P. Kutepov,6,Army Aviation Doctrine,L500050
 4171,Foreign Minister,Georgiy P. Ignatiev,6,Great Compromiser,Georgi_Ignatiev
@@ -92,51 +95,51 @@ RUS,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 4299,Chief of Air Force,Igor I. Sikorsky,6,Carpet Bombing Doctrine,M4299
 4142,Chief of Navy,Ivan F. Bosrem,6,Indirect Approach Doctrine,Bostrem
 4109,Minister of Armament,Ivan G. Erdeli,6,Infantry Proponent,Erdeli
-4265,Chief of Army,Ivan P. Romanovsky,6,Decisive Battle Doctrine,M4129
+4265,Chief of Army,Ivan Romanovsky,6,Decisive Battle Doctrine,M4129
+4129,Chief of Staff,Ivan Romanovsky,6,School of Fire Support,M4129
 4130,Chief of Staff,Jevgenij von Rommel,6,School of Manoeuvre,M4130
+4266,Chief of Army,Lavr Kornilov,6,Decisive Battle Doctrine,MRUS Kornilov
+4259,Chief of Staff,Lavr Kornilov,6,School of Mass Combat,MRUS Kornilov
 4115,Minister of Security,Matvey Skobelev,6,Prince of Terror,M4115
 4243,Minister of Security,Nikolai Gredeskul,6,Efficient Sociopath,MRUS Gredeskul
 4224,Foreign Minister,Nikolai S. Trubetskoy,6,Biased Intellectual,MRUS Trubetskoy
 4218,Head of Government,Nikolai S. Trubetskoy,6,Naive Optimist,MRUS Trubetskoy
-4143,Chief of Navy,Robert von Wirén,6,Decisive Naval Battle Doctrine,M4143
+4143,Chief of Navy,Robert von WirÃ©n,6,Decisive Naval Battle Doctrine,M4143
 4301,Head of Military Intelligence,Roman B. Gul,6,Industrial Specialist,M4301
 4296,Minister of Armament,Sergei Bulgakov,6,Planned Economy Proponent,M4296
-4311,Minister of Security,Vasily Shulgin,6,Back Stabber,Shulgin
 4310,Head of Military Intelligence,Vasily Shulgin,6,Technical Specialist,Shulgin
+4311,Minister of Security,Vasily Shulgin,6,Back Stabber,Shulgin
 4190,Foreign Minister,Vladimir D. Nabokov,6,General Staffer,kaiserreich VladimirDmitrievichNabokov
 4241,Minister of Security,Vladimir D. Nabokov,6,Health and Safety,kaiserreich VladimirDmitrievichNabokov
 4223,Foreign Minister,Vladimir P. Paley,6,Apologetic Clerk,MRUS Paley
 4148,Chief of Air Force,Vyacheslav Tkachov,6,Army Aviation Doctrine,Tkachov
-4320,Head of Military Intelligence,Yevgeny K. Miller,6,Logistics Specialist,L500062
 4150,Chief of Air Force,Yevgeny K. Miller,6,Vertical Envelopment Doctrine,L500062
+4320,Head of Military Intelligence,Yevgeny K. Miller,6,Logistics Specialist,L500062
 4306,Head of Government,Abram Dragomirov,7,Old General,kaiserreich Dragomirov
 4176,Head of Military Intelligence,Abram Dragomirov,7,Technical Specialist,L500010
 4197,Head of Military Intelligence,Aleksandr A. Kazakov,7,Technical Specialist,Kazakov
 4303,Chief of Army,Aleksandr Rodzyanko,7,Guns and Butter Doctrine,M4303
 4214,Chief of Army,Alexei P. Arkhangelskiy,7,Decisive Battle Doctrine,Alexei_Archangelskiy
 4282,Minister of Armament,Alexei P. Arkhangelskiy,7,Military Entrepreneur,Alexei_Archangelskiy
-4086,Chief of Staff,Anton I. Denikin,7,School of Mass Combat,Mrus Denikin
 4181,Chief of Army,Anton I. Denikin,7,Static Defence Doctrine,Mrus denikin
+4086,Chief of Staff,Anton I. Denikin,7,School of Mass Combat,Mrus Denikin
 4159,Head of Government,Anton I. Denikin,7,The Peasant Marshal Hog,Mrus denikin
 4145,Chief of Air Force,Anton V. Turkul,7,Air Superiority Doctrine,L500095
-4138,Chief of Navy,Dmitri Nenyukov,7,Open Seas Doctrine,Nenyukov
-4185,Minister of Armament,Dmitri Pavlovich Romanov,7,Corrupt Kleptocrat,kaiserreich dmitripavlovich
 4186,Chief of Army,Dmitri Pavlovich Romanov,7,Guns and Butter Doctrine,kaiserreich dmitripavlovich
-4183,Minister of Security,Felix F. Yusupov,7,Back Stabber,kai_flxfysp
+4185,Minister of Armament,Dmitri Pavlovich Romanov,7,Corrupt Kleptocrat,kaiserreich dmitripavlovich
+4138,Chief of Navy,Dmitry Nenyukov,7,Open Seas Doctrine,Nenyukov
+4116,Minister of Security,Felix F. Yusopov,7,Compassionate Gentleman,M4112
 4192,Head of Government,Felix F. Yusupov,7,Happy Amateur,kai_flxfysp
 4184,Head of Military Intelligence,Felix F. Yusupov,7,Political Specialist,kai_flxfysp
+4183,Minister of Security,Felix F. Yusupov,7,Back Stabber,kai_flxfysp
 4135,Chief of Army,Jevgenij von Rommel,7,Armoured Spearhead Doctrine,M4130
-4100,Foreign Minister,Mikhail A. Taube,7,Ideological Crusader,MRUS Taube
 4103,Minister of Armament,Mikhail Rodzyanko,7,Resource Industrialist,M4103
 4113,Minister of Security,Mikhail Rodzyanko,7,Silent Lawyer,M4103
 4094,Head of Government,Patriarch Kiril,7,Spiritual Leader,KR_PatrKirr
 4308,Head of Government,Pavel Bermondt-Avalov,7,Old General,kaiserreich Bermondt-Avalov
-4200,Minister of Security,Pavel N. Ignatiev,7,Crime Fighter,Pavel_Ignatiev
 4201,Minister of Armament,Pavel N. Ignatiev,7,Resource Industrialist,Pavel_Ignatiev
-4167,Minister of Security,Pyotr N. Wrangel,7,Crime Fighter,M4124
-4263,Chief of Army,Pyotr N. Wrangel,7,Decisive Battle Doctrine,M4124
-4124,Chief of Staff,Pyotr N. Wrangel,7,School of Manoeuvre,M4124
-4158,Head of Government,Pyotr N. Wrangel,7,The Black Baron Hog,M4124
+4200,Minister of Security,Pavel N. Ignatiev,7,Crime Fighter,Pavel_Ignatiev
+4100,Foreign Minister,Pyotr Plehanov,7,Ideological Crusader,M4100
 4133,Chief of Army,Sergei L. Markov,7,Armoured Spearhead Doctrine,Mrus Markov
 4262,Chief of Staff,Sergei L. Markov,7,School of Manoeuvre,MRUS Markov
 4196,Minister of Security,Sergei L. Markov,7,Silent Lawyer,Mrus Markov
@@ -152,19 +155,12 @@ RUS,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 4107,Minister of Armament,Vladimir von Kappel,7,Military Entrepreneur,L500106
 4202,Head of Military Intelligence,Aleksandr I. Solzhenitsyn,8,Political Specialist,Alexandr_Solzhenitsyn
 4304,Minister of Security,Aleksandr P. Balk,8,Prince of Terror,M4304
-4331,Head of Government,Aleksandr S. Lukomsky,8,Old General,L500054
-4198,Head of Government,Aleksandr V. Kolchak,8,Flamboyant Tough Guy,Mrus kolchak
 4141,Chief of Navy,Aleksandr V. Kolchak,8,Power Projection Doctrine,MRUS Kolchak
-4332,Minister of Armament,Aleksei I. Putilov,8,Bank President,MRUS Putilov
-4106,Minister of Armament,Alexei A. Ignatiev,8,Military Entrepreneur,Kaiserreich Alexei Ignatiev
+4198,Head of Government,Aleksandr V. Kolchak,8,Flamboyant Tough Guy,Mrus kolchak
 4098,Foreign Minister,Alexei A. Ignatiev,8,The Cloak N Dagger Schemer,Kaiserreich Alexei Ignatiev
+4106,Minister of Armament,Alexei A. Ignatiev,8,Military Entrepreneur,Kaiserreich Alexei Ignatiev
 4088,Chief of Navy,Boris Makaroff,8,Decisive Naval Battle Doctrine,M4088
-4096,Foreign Minister,Boris V. Stürmer,8,Iron Fisted Brute,M4096
-4330,Minister of Armament,Ivan P. Romanovsky,8,Reformer,M4129
-4129,Chief of Staff,Ivan P. Romanovsky,8,School of Fire Support,M4129
-4266,Chief of Army,Lavr G. Kornilov,8,Decisive Battle Doctrine,MRUS Kornilov
-4335,Head of Government,Lavr G. Kornilov,8,Old General,MRUS Kornilov
-4259,Chief of Staff,Lavr G. Kornilov,8,School of Mass Combat,MRUS Kornilov
+4096,Foreign Minister,Boris V. StÃ¼rmer,8,Iron Fisted Brute,M4096
 4087,Chief of Army,Lavrentij Kornilov,8,Guns and Butter Doctrine,M4087
 4170,Foreign Minister,Lev N. Gumilov,8,Iron Fisted Brute,Lev_Gumilov
 4289,Head of Government,Lev N. Gumilov,8,Naive Optimist,Lev_Gumilov
@@ -174,45 +170,25 @@ RUS,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 4105,Minister of Armament,Nikanor V. Savic,8,Industrialiser,RUS_Nikanor
 4083,Minister of Armament,Nikolai A. Maklakov,8,Military Entrepreneur,M4083
 4324,Minister of Security,Nikolai P. Vladimir,8,Crime Fighter,RUS_Pvladimir
-4248,Minister of Security,Pyotr Krasnov,8,Crime Fighter,MRUS Krasnov
 4276,Chief of Army,Pyotr Krasnov,8,Guns and Butter Doctrine,MRUS Krasnov
 4258,Chief of Staff,Pyotr Krasnov,8,School of Manoeuvre,MRUS Krasnov
+4248,Minister of Security,Pyotr Krasnov,8,Crime Fighter,MRUS Krasnov
 4315,Head of Government,Regency Council,8,Silent Workhorse,rusprotectorate
-4187,Minister of Security,Vladimir M. Purishkevich,8,Crooked Kleptocrat,kaiserreich VladimirPurishkevich
 4191,Head of Government,Vladimir M. Purishkevich,8,Flamboyant Tough Guy,kaiserreich VladimirPurishkevich
+4187,Minister of Security,Vladimir M. Purishkevich,8,Crooked Kleptocrat,kaiserreich VladimirPurishkevich
 4084,Minister of Security,Vladimir Malyshkin,8,Back Stabber,M4084
-4353,Minister of Security,Aleksandr A. Galich,9,Man of the People,MRUS Galich
-4336,Foreign Minister,Aleksandr Dikgof-Derental,9,Biased Intellectual,MRUS Dikgof-Derental
-4349,Foreign Minister,Aleksandr L. Kazembek,9,Iron Fisted Brute,MRUS Kazembek
-4338,Chief of Army,Aleksandr S. Antonov,9,Doctrine of Autonomy,M4122
-4122,Head of Military Intelligence,Aleksandr S. Antonov,9,Logistics Specialist,M4122
-4344,Foreign Minister,Aleksei N. Tolstoy,9,Biased Intellectual,MRUS Tolstoy
-4355,Minister of Security,Anatoly MacReady-Stenroos,9,Media Magnate,MRUS MacReady-Stenroos
-4354,Minister of Armament,Andrey I. Zankevich,9,Construction Magnate,MRUS Zankevich
 4139,Chief of Navy,Boris A. Vilkitsky,9,Indirect Approach Doctrine,Kaiserreich Vilkitsky
-4166,Head of Military Intelligence,Boris V. Annenkov,9,Logistics Specialist,Annenkov
 4125,Chief of Staff,Boris V. Annenkov,9,School of Mass Combat,Annenkov
-4329,Head of Government,Boris V. Savinkov,9,The Vozhd2,M4108
-4341,Minister of Security,Bronislav V. Kaminski,9,Prince of Terror,MRUS Kaminski
-4340,Chief of Staff,Bronislav V. Kaminski,9,School of Fire Support,MRUS Kaminski
-4334,Foreign Minister,Dmitri M. Odinets,9,Ideological Crusader,MRUS Odinets
-4337,Minister of Security,Emma Dikgof-Derental ,9,Efficient Sociopath,MRUS Emma ikgof-Derental
+4166,Head of Military Intelligence,Boris V. Annenkov,9,Logistics Specialist,Annenkov
 4111,Minister of Security,Grigorij R. Semyonov,9,Efficient Sociopath,M4111
 4300,Minister of Security,Ivan A. Ilyin,9,Silent Lawyer,M4300
-4333,Minister of Security,Karlis Goppers,9,Secret Police Chief,MRUS Goppers
-4342,Chief of Army,Konstantin P. Voskoboinik,9,Decisive Battle Doctrine,MRUS Voskoboinik
 4104,Minister of Armament,Nikolai P. Krasnov,9,Construction Magnate,M4104
-4346,Minister of Armament,Nikolai V. Ustryalov,9,Administrative Genius,MRUS Ustryalov
-4345,Head of Government,Nikolai V. Ustryalov,9,Flamboyant Tough Guy,MRUS Ustryalov
 4132,Chief of Army,Pavel N. Shatilov,9,Elastic Defence Doctrine,Shatilov
-4157,Head of Government,Pavel N. Shatilov,9,Political Protege,Shatilov
 4126,Chief of Staff,Pavel N. Shatilov,9,School of Fire Support,Shatilov
-4352,Head of Government,Sergei G. Romanovski,9,Backroom Backstabber,MRUS Romanovski
-4351,Head of Military Intelligence,Sergei G. Romanovski,9,Dismal Enigma,MRUS Romanovski
-4350,Foreign Minister,Sergei G. Romanovski,9,Great Compromiser,MRUS Romanovski
-4339,Chief of Staff,Vasily V. Biskupsky,9,School of Mass Combat,MRUS Biskupsky
-4114,Minister of Security,Viktor L. Pokrovsky,9,Back Stabber,L500069
+4157,Head of Government,Pavel N. Shatilov,9,Political Protege,Shatilov
+4263,Chief of Army,Pyotr N. Wrangel,9,Decisive Battle Doctrine,M4124
+4124,Chief of Staff,Pyotr N. Wrangel,9,School of Manoeuvre,M4124
+4158,Head of Government,Pyotr N. Wrangel,9,The Black Baron Hog,M4124
+4167,Minister of Security,Pyotr N. Wrangel,9,Prince of Terror,M4124
 4093,Head of Government,Viktor L. Pokrovsky,9,Backroom Backstabber,L500069
-4347,Head of Government,Viktor M. Baydalakov,9,Corporate Suit,MRUS Baydalakov
-4348,Head of Military Intelligence,Viktor M. Baydalakov,9,Political Specialist,MRUS Baydalakov
-4343,Minister of Armament,Yuri V. Kluchnikov,9,Construction Magnate,MRUS Kluchnikov
+4114,Minister of Security,Viktor L. Pokrovsky,9,Back Stabber,L500069

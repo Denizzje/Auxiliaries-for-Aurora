@@ -6,12 +6,12 @@ MON,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 94049,Foreign Minister,Horloogiyn Choybalsan,0,General Staffer,M94006
 94039,Head of Government,Horloogiyn Choybalsan,0,Old General,M94006
 94006,Head of Military Intelligence,Horloogiyn Choybalsan,0,Logistics Specialist,M94006
-94098,Chief of Air Force,Sükhbaataryn Yanjmaa,0,Air Superiority Doctrine,M94020
-94059,Minister of Armament,Sükhbaataryn Yanjmaa,0,Administrative Genius,M94020
+94098,Chief of Air Force,SÃ¼khbaataryn Yanjmaa,0,Air Superiority Doctrine,M94020
+94059,Minister of Armament,SÃ¼khbaataryn Yanjmaa,0,Administrative Genius,M94020
 94120,Head of Government,Borjigin Dashdorjiin Natsagdorj,1,Flamboyant Tough Guy,MONBorj
 94124,Foreign Minister,Tserendondovyn Navaanneren,1,Great Compromiser,MONNAv
-94125,Chief of Army,Ulaan Khüü,1,Decisive Battle Doctrine,MONUla
-94126,Chief of Staff,Ulaan Khüü,1,School of Mass Combat,MONUla
+94125,Chief of Army,Ulaan KhÃ¼Ã¼,1,Decisive Battle Doctrine,MONUla
+94126,Chief of Staff,Ulaan KhÃ¼Ã¼,1,School of Mass Combat,MONUla
 94086,Chief of Army,Dagva,3,Guns and Butter Doctrine,M94028
 94070,Head of Military Intelligence,Dogijavyn Luvsanshara,3,Logistics Specialist,M94002
 94079,Chief of Staff,Pai Yun-ti,3,School of Defence,M94021
@@ -40,11 +40,11 @@ MON,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 94118,Chief of Army,Magsarjav,7,Decisive Battle Doctrine,MONMar
 94161,Chief of Staff,Mikhail Tornovsky,7,School of Manoeuvre,Tornovsky
 94162,Minister of Security,Mikhail Tornovsky,7,Compassionate Gentleman,Tornovsky
-94088,Chief of Army,Ölziytrygyn Badrak,7,Static Defence Doctrine,M94082
-94082,Chief of Staff,Ölziytrygyn Badrak,7,School of Defence,M94082
+94088,Chief of Army,Ã–lziytrygyn Badrak,7,Static Defence Doctrine,M94082
+94082,Chief of Staff,Ã–lziytrygyn Badrak,7,School of Defence,M94082
 94109,Chief of Air Force,Piotr Orlov,7,Army Aviation Doctrine,M72010
-94115,Chief of Army,Tögs-Ochiryn Namnansüren,7,Elastic Defence Doctrine,MONTog
-94113,Head of Government,Tögs-Ochiryn Namnansüren,7,Political Protege,MONTog
+94115,Chief of Army,TÃ¶gs-Ochiryn NamnansÃ¼ren,7,Elastic Defence Doctrine,MONTog
+94113,Head of Government,TÃ¶gs-Ochiryn NamnansÃ¼ren,7,Political Protege,MONTog
 94050,Minister of Armament,Tsevelsodnom,7,Military Entrepreneur,M94014
 94108,Minister of Armament,Viktor A.F. Polinov,7,Administrative Genius,M72006
 94091,Chief of Navy,Yundunwangcug,7,Open Seas Doctrine,M94011
@@ -72,8 +72,8 @@ MON,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 94138,Minister of Security,Ivan Serebrennikov,8,Prince of Terror,kai_Ivan_Serebrennikov
 94116,Head of Government,Jalkhanz Khutagt Sodnomyn Damdinbazar,8,Flamboyant Tough Guy,MONDam
 94117,Head of Military Intelligence,Jalkhanz Khutagt Sodnomyn Damdinbazar,8,Industrial Specialist,MONDam
-94004,Minister of Armament,Jambyn Lhümbe,8,Military Entrepreneur,M94004
-94005,Minister of Security,Jamtsangryin Damdinsüren,8,Efficient Sociopath,M94005
+94004,Minister of Armament,Jambyn LhÃ¼mbe,8,Military Entrepreneur,M94004
+94005,Minister of Security,Jamtsangryin DamdinsÃ¼ren,8,Efficient Sociopath,M94005
 94150,Minister of Armament,Montoiin Ninjin,8,Resource Industrialist,kai_Montoiinninjin
 94151,Foreign Minister,Ochiriin Dauletbai,8,Iron Fisted Brute,kai_Ochiriindauletbai
 94003,Foreign Minister,Peljidiyn Genden,8,Great Compromiser,M94003

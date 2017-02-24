@@ -12,10 +12,10 @@ DEN,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 16156,Chief of Staff,Christian Eli Christensen,1,School of Mass Combat,KREli
 16153,Head of Government,Halfdan Rasmussen,1,Happy Amateur,KRHalfdan
 16155,Minister of Security,Hans Scherfig,1,Man of the People,KRScherfig
-16154,Foreign Minister,Martin Andersen Nexø,1,Ideological Crusader,KRNexo
+16154,Foreign Minister,Martin Andersen NexÃ¸,1,Ideological Crusader,KRNexo
 16157,Minister of Armament,Poul Gissemann,1,Industrialiser,KRGissemand
 16161,Chief of Navy,Richard Jensen,1,Base Control Doctrine,KRJensen
-16160,Chief of Army,Thøger Thøgersen,1,Elastic Defence Doctrine,KRThøger
+16160,Chief of Army,ThÃ¸ger ThÃ¸gersen,1,Elastic Defence Doctrine,KRThÃ¸ger
 16055,Foreign Minister,Albert Olsen,2,General Staffer,M16023
 16085,Minister of Security,Borge Houmann,2,Efficient Sociopath,M16025
 16117,Chief of Army,Borge Thing,2,Elastic Defence Doctrine,M16028
@@ -48,7 +48,7 @@ DEN,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 16059,Minister of Armament,Vilhelm Buhl,3,Battle Fleet Proponent,M16039
 16102,Chief of Staff,Vilhelm La Cour,3,School of Psychology,M16102
 16119,Chief of Navy,Aage H. Vedel,4,Open Seas Doctrine,M16119
-16120,Chief of Navy,E.B. de Crèvecoeur,4,Power Projection Doctrine,M16120
+16120,Chief of Navy,E.B. de CrÃ¨vecoeur,4,Power Projection Doctrine,M16120
 16076,Minister of Security,Eigil Thune Jacobsen,4,Compassionate Gentleman,M16076
 16006,Head of Military Intelligence,Erik Mertz,4,Logistics Specialist,M16006
 16048,Foreign Minister,Erik Scavenius,4,Biased Intellectual,M16040
@@ -72,7 +72,7 @@ DEN,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 16067,Minister of Armament,Christen Nielsen Hauge,5,Laissez-Faire Capitalist,M16067
 16079,Minister of Security,Didrik G. Nyholm,5,Compassionate Gentleman,M16079
 16112,Chief of Army,Ebbe Gortz,5,Static Defence Doctrine,M16103
-16103,Chief of Staff,Ebbe Gørtz,5,School of Psychology,M16103
+16103,Chief of Staff,Ebbe GÃ¸rtz,5,School of Psychology,M16103
 16147,Head of Government,Erik Eriksen,5,Naive Optimist,M16147
 16053,Foreign Minister,Gustav Rasmussen,5,The Cloak N Dagger Schemer,M16053
 16065,Minister of Armament,Halfdan Henriksen,5,Air to Ground Proponent,M16065
@@ -80,13 +80,13 @@ DEN,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 16043,Head of Government,Knud Kristensen,5,Political Protege,M16043
 16064,Minister of Armament,Knud Kristensen,5,Infantry Proponent,M16043
 16092,Head of Military Intelligence,Niels Frederiksen,5,Political Specialist,M16092
-16131,Chief of Air Force,Svend Asbjørn Holten,5,Carpet Bombing Doctrine,M16081
+16131,Chief of Air Force,Svend AsbjÃ¸rn Holten,5,Carpet Bombing Doctrine,M16081
 16014,Head of Government,Thomas Madsen-Mygdal,5,Silent Workhorse,kia_thomad
 16148,Minister of Armament,Thorkild Kristensen,5,Administrative Genius,M16148
 16149,Minister of Security,Aksel Moller,6,Silent Lawyer,M16149
 16013,Head of Government,Christmas Moller,6,Flamboyant Tough Guy,kai_christmol
-16052,Foreign Minister,Christmas Møller,6,Biased Intellectual,M16041
-16041,Head of Government,Christmas Møller,6,Happy Amateur,M16041
+16052,Foreign Minister,Christmas MÃ¸ller,6,Biased Intellectual,M16041
+16041,Head of Government,Christmas MÃ¸ller,6,Happy Amateur,M16041
 16011,Head of Military Intelligence,Harald Petersen,6,Political Specialist,M16078
 16078,Minister of Security,Harald Petersen,6,Crime Fighter,M16078
 16114,Chief of Army,Henrik Kauffmann,6,Guns and Butter Doctrine,M16114
@@ -95,18 +95,18 @@ DEN,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 16042,Head of Government,Ole Bjorn Kraft,6,Smiling Oilman,M16042
 16066,Minister of Armament,Ole Bjorn Kraft,6,Resource Industrialist,M16042
 16063,Minister of Armament,Soren Brorsen,6,Theoretical Scientist,M16063
-16081,Minister of Security,Svend Asbjørn Holten,6,Prince of Terror,M16081
+16081,Minister of Security,Svend AsbjÃ¸rn Holten,6,Prince of Terror,M16081
 16016,Head of Government,Vilhelm Fibiger,6,Naive Optimist,kai_vilhfib
 16116,Chief of Army,Arthur Dahl,7,Guns and Butter Doctrine,M16084
 16084,Minister of Security,Arthur Dahl,7,Man of the People,M16084
-16069,Minister of Armament,C.V. Bramsnæs,7,Laissez-Faire Capitalist,M16069
+16069,Minister of Armament,C.V. BramsnÃ¦s,7,Laissez-Faire Capitalist,M16069
 16134,Chief of Air Force,Fritz Clausen,7,Naval Aviation Doctrine,M16011
 16096,Head of Military Intelligence,Georg Frederiksen,7,Industrial Specialist,M16096
 16057,Foreign Minister,Henrik Hauch,7,Apologetic Clerk,M16057
 16123,Chief of Navy,Hjalmar Rechnitzer,7,Indirect Approach Doctrine,M16009
 16045,Head of Government,Otto Bovensiepen,7,Old General,M16045
 16083,Minister of Security,Otto Bovensiepen,7,Prince of Terror,M16045
-16124,Chief of Navy,Søren Brorsen,7,Open Seas Doctrine,M16063
+16124,Chief of Navy,SÃ¸ren Brorsen,7,Open Seas Doctrine,M16063
 16106,Chief of Staff,William Nebendahl,7,School of Manoeuvre,M16101
 16141,Head of Government,Knud Bach,8,Smiling Oilman,M16015
 16142,Chief of Air Force,Poul Sommer,8,Army Aviation Doctrine,M16016

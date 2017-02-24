@@ -1,7 +1,7 @@
 WLL,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
-511001,Head of State,LÈon Degrelle,1936,1964,1999,9,Powerhungry Demagogue,Very High,M511001,x
-511002,Head of Government,LÈon Degrelle,1936,1964,1999,9,Old General,Very High,M511001,x
-511003,Foreign Minister,LÈon Degrelle,1936,1964,1999,9,Iron Fisted Brute,Very High,M511001,x
+511001,Head of State,L√©on Degrelle,1936,1964,1999,9,Powerhungry Demagogue,Very High,M511001,x
+511002,Head of Government,L√©on Degrelle,1936,1964,1999,9,Old General,Very High,M511001,x
+511003,Foreign Minister,L√©on Degrelle,1936,1964,1999,9,Iron Fisted Brute,Very High,M511001,x
 511004,Minister of Armament,Victor Matthys,1936,1964,1999,9,Military Entrepreneur,Very High,M15058,x
 511005,Minister of Security,Paul Ouwerx,1936,1964,1999,9,Crime Fighter,Very High,M15075,x
 511006,Head of Military Intelligence,Paul Ouwerx,1936,1964,1999,9,Logistics Specialist,Very High,M15075,x
@@ -12,37 +12,37 @@ WLL,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 511011,Head of State,Alexander von Falkenhausen,1940,1964,1999,8,Resigned Generalissimo,Very High,M510086,x
 511012,Head of State,Victor Matthys,1941,1964,1999,9,Insignificant Layman,Very High,M15058,x
 511013,Head of Government,Alexander von Falkenhausen,1940,1964,1999,9,Silent Workhorse,Very High,M510086,x
-511014,Head of Government,JosÈ Streel,1936,1964,1999,8,Political Protege,Very High,M511014,x
+511014,Head of Government,Jos√© Streel,1936,1964,1999,8,Political Protege,Very High,M511014,x
 511015,Head of Government,Victor Matthys,1941,1964,1999,9,Silent Workhorse,Very High,M15058,x
-511016,Foreign Minister,Jean-FranÁois Collard,1940,1964,1999,8,Apologetic Clerk,Very High,M511016,x
-511017,Foreign Minister,JosÈ Streel,1942,1964,1999,9,Ideological Crusader,Very High,M511014,x
+511016,Foreign Minister,Jean-Fran√ßois Collard,1940,1964,1999,8,Apologetic Clerk,Very High,M511016,x
+511017,Foreign Minister,Jos√© Streel,1942,1964,1999,9,Ideological Crusader,Very High,M511014,x
 511018,Foreign Minister,Xavier de Grunne,1936,1964,1999,8,Biased Intellectual,Very High,M511018,x
 511019,Minister of Armament,Baron de Launoit,1936,1964,1999,8,Resource Industrialist,Very High,M511019,x
-511020,Minister of Armament,Jean-FranÁois Collard,1940,1964,1999,8,laissez-faire capitalist,Very High,M511016,x
-511021,Minister of Armament,LÈon Degrelle,1937,1964,1999,9,Infantry Proponent,Very High,M511001,x
+511020,Minister of Armament,Jean-Fran√ßois Collard,1940,1964,1999,8,laissez-faire capitalist,Very High,M511016,x
+511021,Minister of Armament,L√©on Degrelle,1937,1964,1999,9,Infantry Proponent,Very High,M511001,x
 511022,Minister of Armament,Paul Garain,1942,1964,1999,9,Military Entrepreneur,Very High,M511022,x
 511023,Minister of Armament,Xavier de Grunne,1936,1964,1999,8,laissez-faire capitalist,Very High,M511018,x
 511024,Minister of Security,Jean Vermeire,1936,1964,1999,9,Efficient Sociopath,Very High,M511007,x
 511025,Minister of Security,John Hagemans,1940,1964,1999,9,Man of the People,Very High,M511025,x
-511026,Minister of Security,JosÈ Streel,1942,1964,1999,9,Man of the People,Very High,M511014,x
-511027,Minister of Security,LÈon Degrelle,1937,1964,1999,9,Prince of Terror,Very High,M511001,x
+511026,Minister of Security,Jos√© Streel,1942,1964,1999,9,Man of the People,Very High,M511014,x
+511027,Minister of Security,L√©on Degrelle,1937,1964,1999,9,Prince of Terror,Very High,M511001,x
 511028,Minister of Security,Xavier de Grunne,1936,1964,1999,8,Silent Lawyer,Very High,M511018,x
 511029,Head of Military Intelligence,John Hagemans,1937,1964,1999,6,Dismal Enigma,Very High,M511025,x
-511030,Head of Military Intelligence,JosÈ Streel,1938,1964,1999,9,Political Specialist,Very High,M511014,x
+511030,Head of Military Intelligence,Jos√© Streel,1938,1964,1999,9,Political Specialist,Very High,M511014,x
 511031,Chief of Staff,Egert Reeder,1936,1964,1999,8,School of Manoeuvre,Very High,M510061,x
 511032,Chief of Staff,Lambert Chardonne,1936,1964,1999,8,School of Fire Support,Very High,L68002,x
-511033,Chief of Staff,LÈon Degrelle,1936,1964,1999,9,School of Mass Combat,Very High,M511001,x
+511033,Chief of Staff,L√©on Degrelle,1936,1964,1999,9,School of Mass Combat,Very High,M511001,x
 511034,Chief of Staff,Lucien Lippert,1936,1964,1999,6,School of Psychology,Very High,M511010,x
 511035,Chief of Staff,Paul Ouwerx,1936,1964,1999,5,School of Manoeuvre,Very High,M15075,x
 511036,Chief of Army,Egert Reeder,1940,1964,1999,9,Elastic Defence Doctrine,Very High,M510061,x
 511037,Chief of Army,Jean Vermeire,1936,1964,1999,9,Static Defence Doctrine,Very High,M511007,x
-511038,Chief of Army,LÈon Degrelle,1936,1964,1999,9,Guns and Butter Doctrine,Very High,M511001,x
+511038,Chief of Army,L√©on Degrelle,1936,1964,1999,9,Guns and Butter Doctrine,Very High,M511001,x
 511039,Chief of Army,Lucien Lippert,1936,1964,1999,6,Decisive Battle Doctrine,Very High,M511010,x
 511040,Chief of Army,Paul Ouwerx,1936,1964,1999,5,Static Defence Doctrine,Very High,M15075,x
 511041,Chief of Navy,Egert Reeder,1940,1964,1999,9,Base Control Doctrine,Very High,M510061,x
 511042,Chief of Air Force,Egert Reeder,1940,1964,1999,9,Air Superiority Doctrine,Very High,M510061,x
-511043,Head of State,S.K.M. Adalbert I von Preuﬂen,1936,1964,1999,7,german aristocrat,Very High,kaiserreich adalbertvH,x
-511044,Head of State,S.K.M. Adalbert I von Preuﬂen,1936,1964,1999,6,german aristocrat,Very High,kaiserreich adalbertvH,x
+511043,Head of State,S.K.M. Adalbert I von Preu√üen,1936,1964,1999,7,german aristocrat,Very High,kaiserreich adalbertvH,x
+511044,Head of State,S.K.M. Adalbert I von Preu√üen,1936,1964,1999,6,german aristocrat,Very High,kaiserreich adalbertvH,x
 511045,Head of State,Andre Renard,1936,1964,1999,1,Pig-headed Isolationist,Very High,kai_rndandr,x
 511046,Head of Government,Charles Plisnier,1936,1964,1999,1,Silent Workhorse,Very High,kai_charplis,x
 511047,Foreign Minister,Fernand Dehousse,1936,1964,1999,1,Apologetic Clerk,Very High,kai_frndhss,x
@@ -60,5 +60,5 @@ WLL,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 511059,Foreign Minister,Georges Prosper Remi,1936,1964,1999,6,Great Compromiser,Very High,kai_grgprosrm,x
 511060,Head of State,S.K.M. Leopold III,1936,1949,1950,7,Benevolent Gentleman,Very High,M15001,x
 511061,Head of State,S.K.M. Leopold III,1936,1949,1950,6,Benevolent Gentleman,Very High,M15001,x
-511062,Head of State,S.K.M. Wilhelm I von Preuﬂen,1940,1964,1999,7,german aristocrat,Very High,,x
-511063,Head of State,S.K.M. Wilhelm I von Preuﬂen,1940,1964,1999,6,german aristocrat,Very High,,x
+511062,Head of State,S.K.M. Wilhelm I von Preu√üen,1940,1964,1999,7,german aristocrat,Very High,,x
+511063,Head of State,S.K.M. Wilhelm I von Preu√üen,1940,1964,1999,6,german aristocrat,Very High,,x

@@ -114,7 +114,7 @@ POL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 13157,Foreign Minister,Jerzy Potocki,7,Biased Intellectual,kaiserreich jpotocki
 13009,Chief of Navy,Jerzy Swirski,7,Open Seas Doctrine,M13009
 13121,Foreign Minister,Jozef Targowski,7,Apologetic Clerk,kaiserreich jtargowski
-13010,Chief of Air Force,Józef Zajac,7,Air Superiority Doctrine,M13010
+13010,Chief of Air Force,JÃ³zef Zajac,7,Air Superiority Doctrine,M13010
 13055,Foreign Minister,Leopold Skulski,7,iron fisted brute,kaiserreich lskulski
 13034,Head of Government,Leopold Skulski,7,Happy Amateur,kaiserreich lskulski
 13172,Chief of Air Force,Ludomil Rayski,7,Army Aviation Doctrine,M13134
@@ -124,7 +124,7 @@ POL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 13044,Head of Government,Stanislaw Cat-Mackiewicz,7,Flamboyant Tough Guy,kaiserreich smackiewicz
 13070,Minister of Armament,Stanislaw Szeptycki,7,Military Entrepreneur,kaiserreich sszeptycki
 13108,Chief of Staff,Tadeusz Rozwadowski,7,School of Mass Combat,kaiserreich trozwadowski
-13105,Chief of Staff,Wac³aw Stachiewicz,7,School of Fire Support,M13115
+13105,Chief of Staff,WacÂ³aw Stachiewicz,7,School of Fire Support,M13115
 13062,Minister of Armament,Waclaw Paszkowski,7,Military Entrepreneur,kaiserreich WaclawPaszkowski
 13165,Chief of Air Force,Wladyslaw Kalkus,7,Air Superiority Doctrine,M13136
 13008,Chief of Army,Wladyslaw Sikorski,7,Guns and Butter Doctrine,M13043
@@ -137,19 +137,19 @@ POL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 13013,Head of Government,Archbishop A. Kakowski,8,Flamboyant Tough Guy,kaiserreich akakowski
 13147,Foreign Minister,Archbishop A. Sapieha,8,Ideological Crusader,kaiserreich asapieha
 13016,Minister of Security,Bishop S. Adamski,8,Silent Lawyer,kaiserreich sadamski
-13120,Chief of Army,Józef Haller von Hallenburg,8,Guns and Butter Doctrine,hallenburg
-13107,Chief of Staff,Józef Haller von Hallenburg,8,School of Fire Support,hallenburg
+13120,Chief of Army,JÃ³zef Haller von Hallenburg,8,Guns and Butter Doctrine,hallenburg
+13107,Chief of Staff,JÃ³zef Haller von Hallenburg,8,School of Fire Support,hallenburg
 13153,Head of Military Intelligence,Ottokar Brzoza-Brzezina,8,Logistics Specialist,kaiserreich ottokar brzoza-brzezina
-13032,Head of Government,Adam Doboszyñski,9,Flamboyant Tough Guy,kaiserreich adoboszynski
+13032,Head of Government,Adam DoboszyÃ±ski,9,Flamboyant Tough Guy,kaiserreich adoboszynski
 13092,Head of Military Intelligence,Feliks Koneczny,9,Technical Specialist,M13108
 13047,Foreign Minister,Jedrzej Giertych,9,Ideological Crusader,M13067
 13109,Minister of Armament,Jerzy Zdziechowski,9,Resource Industrialist,kaiserreich jzdziechowski
-13117,Chief of Army,Marian Januszajtis-¯egota,9,elastic defence doctrine,kaiserreich mjanuszajtiszegota
-13110,Chief of Staff,Marian Januszajtis-¯egota,9,School of Psychology,kaiserreich mjanuszajtiszegota
-13167,Head of Government,Marian Januszajtis-¯egota,9,Old General,kaiserreich mjanuszajtiszegota
+13117,Chief of Army,Marian Januszajtis-Â¯egota,9,elastic defence doctrine,kaiserreich mjanuszajtiszegota
+13110,Chief of Staff,Marian Januszajtis-Â¯egota,9,School of Psychology,kaiserreich mjanuszajtiszegota
+13167,Head of Government,Marian Januszajtis-Â¯egota,9,Old General,kaiserreich mjanuszajtiszegota
 13077,Minister of Security,Mieczyslaw Trajdos,9,Silent Lawyer,M13101
 13111,Minister of Armament,Roman Rybarski,9,Administrative Genius,kaiserreich rrybarski
-13113,Minister of Security,Seweryn Czetwertynski,9,Crooked Kleptocrat,kaiserreich sczetwertyñski
+13113,Minister of Security,Seweryn Czetwertynski,9,Crooked Kleptocrat,kaiserreich sczetwertyÃ±ski
 13061,Minister of Armament,Stanislaw Grabski,9,laissez-faire capitalist,kaiserreich sgrabski
 13033,Head of Government,Tadeusz Bielecki,9,Backroom Backstabber,M13051
 13075,Minister of Security,Tadeusz Bielecki,9,Prince of Terror,M13051

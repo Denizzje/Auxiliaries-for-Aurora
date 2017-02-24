@@ -7,12 +7,12 @@ BOL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 43147,Minister of Security,Juan Lechin Oquendo,0,Back Stabber,M43025
 43164,Head of Military Intelligence,Werner Guttenberg,0,Logistics Specialist,M43123
 43123,Minister of Armament,Werner Guttenberg,0,Strategic Air Proponent,M43123
-43219,Chief of Air Force,Alberto Saralegui Sanchéz,1,Vertical Envelopment Doctrine,M43030
+43219,Chief of Air Force,Alberto Saralegui SanchÃ©z,1,Vertical Envelopment Doctrine,M43030
 43205,Chief of Navy,Daniel Sanchez Bustamante,1,Base Control Doctrine,M43023
 43093,Foreign Minister,Daniel Sanchez Bustamante,1,Iron Fisted Brute,M43023
 43060,Head of Government,Guillermo Lora,1,Happy Amateur,M43021
 43238,Head of Government,Gustavo Navarro-Marof,1,Ambitious Union Boss,BOL_gustavo_navarro_marof
-43244,Head of Government,José Aguirre Gainsborg,1,Political Protege,BOL_jose_aguirre_gainsborg
+43244,Head of Government,JosÃ© Aguirre Gainsborg,1,Political Protege,BOL_jose_aguirre_gainsborg
 43193,Chief of Army,Roberto Hinojosa,1,Guns and Butter Doctrine,M43024
 43206,Chief of Navy,Roberto Hinojosa,1,Open Seas Doctrine,M43024
 43178,Chief of Staff,Roberto Hinojosa,1,School of Psychology,M43024
@@ -33,13 +33,13 @@ BOL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 43057,Head of Government,Eusebio Ayala,2,Ambitious Union Boss,M43040
 43116,Minister of Armament,Eusebio Ayala,2,Battle Fleet Proponent,M43040
 43146,Minister of Security,Gunnar Mendoza Loza,2,Compassionate Gentleman,M43146
-43177,Chief of Staff,Gustavo Chacón Morales,2,School of Defence,M43090
-43090,Foreign Minister,Gustavo Chacón Morales,2,The Cloak N Dagger Schemer,M43090
-43236,Head of Government,José Antonio Arze y Arze,2,Silent Workhorse,BOL_jose_antonio_arze_y_arze
-43176,Chief of Staff,José Pastor Baldiviseo,2,School of Mass Combat,M43167
-43091,Foreign Minister,José Pinto Sanchez,2,Iron Fisted Brute,M43091
+43177,Chief of Staff,Gustavo ChacÃ³n Morales,2,School of Defence,M43090
+43090,Foreign Minister,Gustavo ChacÃ³n Morales,2,The Cloak N Dagger Schemer,M43090
+43236,Head of Government,JosÃ© Antonio Arze y Arze,2,Silent Workhorse,BOL_jose_antonio_arze_y_arze
+43176,Chief of Staff,JosÃ© Pastor Baldiviseo,2,School of Mass Combat,M43167
+43091,Foreign Minister,JosÃ© Pinto Sanchez,2,Iron Fisted Brute,M43091
 43203,Chief of Navy,Julian Montellano Carrasco,2,Base Control Doctrine,M43056
-43054,Head of Government,Rafael Franco Rafél,2,Naive Optimist,M43033
+43054,Head of Government,Rafael Franco RafÃ©l,2,Naive Optimist,M43033
 43230,Head of Government,Victor Paz Estenssoro,2,Ambitious Union Boss,Kaiserreich Victor Paz
 43087,Foreign Minister,Victor Paz Estenssorro,2,Biased Intellectual,M43042
 43059,Head of Government,Victor Paz Estenssorro,2,Corporate Suit,M43042
@@ -63,7 +63,7 @@ BOL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 43165,Head of Military Intelligence,Luis Guachalla Solares,3,Political Specialist,M43066
 43142,Minister of Security,Luis Guachalla Solares,3,Back Stabber,M43066
 43181,Chief of Army,Mamerto Urriolagoitia Harriague,3,Guns and Butter Doctrine,M43129
-43226,Foreign Minister,Nuflo Chavez Ortíz,3,Iron Fisted Brute,M42226
+43226,Foreign Minister,Nuflo Chavez OrtÃ­z,3,Iron Fisted Brute,M42226
 43149,Head of Military Intelligence,Victor Paz Estenssorro,3,Political Specialist,M43042
 43208,Chief of Air Force,Walter Guevera,3,Naval Aviation Doctrine,M43096
 43101,Minister of Armament,Adolfo Costa du Reis,4,Military Entrepreneur,M43101
@@ -80,9 +80,9 @@ BOL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 43098,Minister of Armament,Francesco Pierini,4,Tank Proponent,M43071
 43009,Chief of Navy,Gil Ibarra Juarez,4,Indirect Approach Doctrine,M43009
 43008,Chief of Army,Hans Kundt,4,Decisive Battle Doctrine,M43008
-43209,Chief of Air Force,José Maria Gutierrez,4,Army Aviation Doctrine,M43003
-43003,Foreign Minister,José Maria Gutierrez,4,Iron Fisted Brute,M43003
-43150,Head of Military Intelligence,José Maria Gutierrez,4,Industrial Specialist,M43003
+43209,Chief of Air Force,JosÃ© Maria Gutierrez,4,Army Aviation Doctrine,M43003
+43003,Foreign Minister,JosÃ© Maria Gutierrez,4,Iron Fisted Brute,M43003
+43150,Head of Military Intelligence,JosÃ© Maria Gutierrez,4,Industrial Specialist,M43003
 43069,Foreign Minister,Jose Tejada Sorzano,4,Great Compromiser,M43001
 43002,Head of Government,Jose Tejada Sorzano,4,Smiling Oilman,M43001
 43211,Chief of Air Force,Julian Montellano Carrasco,4,Air Superiority Doctrine,M43056
@@ -90,7 +90,7 @@ BOL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 43103,Minister of Armament,Julian Montellano Carrasco,4,Administrative Genius,M43056
 43129,Minister of Security,Mamerto Urriolagoitia Harriague,4,Prince of Terror,M43129
 43004,Minister of Armament,Moritz Hochschild,4,Laissez-Faire Capitalist,M43004
-43070,Foreign Minister,Rafael Franco Rafél,4,General Staffer,M43033
+43070,Foreign Minister,Rafael Franco RafÃ©l,4,General Staffer,M43033
 43182,Chief of Army,Rodolfo Montalvo Ruiz,4,Elastic Defence Doctrine,M43182
 43126,Minister of Security,Salvator Morales Jauregi,4,Man of the People,M43126
 43252,Head of Government,Tomas Monje Gutierrez,4,Naive Optimist,M43039
@@ -117,23 +117,23 @@ BOL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 43053,Head of Government,Enrique Hertzog Garaizabal,6,Silent Workhorse,BOL_enrique_hertzog
 43133,Minister of Security,Fabian Vaca Chavez,6,Prince of Terror,M43082
 43200,Chief of Navy,Guillermo Arancha Basutto,6,Indirect Approach Doctrine,M43200
-43077,Foreign Minister,Hugo Ballivián Rojas,6,General Staffer,M43077
-43227,Head of Government,Hugo Ballivián Rojas,6,Old General,M43077
-43212,Chief of Air Force,José Santos Quinteros,6,Army Aviation Doctrine,M43005
-43131,Minister of Security,José Santos Quinteros,6,Compassionate Gentleman,M43005
+43077,Foreign Minister,Hugo BalliviÃ¡n Rojas,6,General Staffer,M43077
+43227,Head of Government,Hugo BalliviÃ¡n Rojas,6,Old General,M43077
+43212,Chief of Air Force,JosÃ© Santos Quinteros,6,Army Aviation Doctrine,M43005
+43131,Minister of Security,JosÃ© Santos Quinteros,6,Compassionate Gentleman,M43005
 43156,Head of Military Intelligence,Juan Lopez y Lopez,6,Logistics Specialist,M43156
 43213,Chief of Air Force,Mario Torres,6,Vertical Envelopment Doctrine,M43014
 43107,Minister of Armament,Mario Torres,6,Corrupt Kleptocrat,M43014
-43251,Head of Government,Néstor Guillén Olmos,6,Smiling Oilman,M43035
-43102,Minister of Armament,Néstor Guillén Olmos,6,Resource Industrialist,M43035
-43171,Chief of Staff,Rafael Franco Rafél,6,School of Fire Support,M43033
+43251,Head of Government,NÃ©stor GuillÃ©n Olmos,6,Smiling Oilman,M43035
+43102,Minister of Armament,NÃ©stor GuillÃ©n Olmos,6,Resource Industrialist,M43035
+43171,Chief of Staff,Rafael Franco RafÃ©l,6,School of Fire Support,M43033
 43052,Head of Government,Simon I. Patino,6,Corporate Suit,M43038
 43155,Head of Military Intelligence,Simon I. Patino,6,Industrial Specialist,M43038
 43106,Minister of Armament,Simon I. Patino,6,Resource Industrialist,M43038
 43078,Foreign Minister,Alberto Ostria Gutierrez,7,Apologetic Clerk,M43075
 43113,Minister of Armament,Alberto Ostria Gutierrez,7,Air to Ground Proponent,M43075
 43137,Minister of Security,Alberto Ostria Gutierrez,7,Back Stabber,M43075
-43256,Head of Government,Alfredo Ovando Candía,7,Old General,BOL_alfredo_ovando_candia
+43256,Head of Government,Alfredo Ovando CandÃ­a,7,Old General,BOL_alfredo_ovando_candia
 43174,Chief of Staff,Carlos Blanco Galindo,7,School of Psychology,M43134
 43079,Foreign Minister,Eduardo Anze Matienzo,7,The Cloak N Dagger Schemer,M43076
 43187,Chief of Army,Enrique Pe?aranda del Castillo,7,Static Defence Doctrine,BOL_enrique_penaranda
@@ -142,22 +142,22 @@ BOL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 43083,Foreign Minister,Fabian Vaca Chavez,7,Biased Intellectual,M43082
 43160,Head of Military Intelligence,Fabian Vaca Chavez,7,Naval Intelligence Specialist,M43082
 43110,Minister of Armament,Fabian Vaca Chavez,7,Air to Sea Proponent,M43082
-43111,Minister of Armament,Hugo Ballivián Rojas,7,Infantry Proponent,M43077
+43111,Minister of Armament,Hugo BalliviÃ¡n Rojas,7,Infantry Proponent,M43077
 43215,Chief of Air Force,Jorge Jordan,7,Carpet Bombing Doctrine,M43020
 43063,Head of Government,Jorge Patinos,7,Corporate Suit,M43063
 43114,Minister of Armament,Jorge Patinos,7,Resource Industrialist,M43063
-43157,Head of Military Intelligence,José Santos Quinteros,7,Dismal Enigma,M43005
+43157,Head of Military Intelligence,JosÃ© Santos Quinteros,7,Dismal Enigma,M43005
 43201,Chief of Navy,Luis Arandos Villa,7,Power Projection Doctrine,M43019
 43135,Minister of Security,Moritz Hochschild,7,Compassionate Gentleman,M43004
 43136,Minister of Security,Simon I. Patino,7,Crime Fighter,M43038
-43080,Foreign Minister,Tomas Manuel Elío,7,Great Compromiser,M43072
+43080,Foreign Minister,Tomas Manuel ElÃ­o,7,Great Compromiser,M43072
 43159,Head of Military Intelligence,Alberto Ostria Gutierrez,8,Dismal Enigma,M43075
 43218,Chief of Air Force,Bernardino Bilbao Rioja,8,Army Aviation Doctrine,M43010
 43233,Head of Government,Bernardino Bilbao Rioja,8,Old Airmarshal,M43010
 43099,Minister of Armament,Bernardino Bilbao Rioja,8,Air to Ground Proponent,M43010
 43175,Chief of Staff,Carlos Altamirano,8,School of Fire Support,M43006
-43065,Head of Government,Edwin Möller,8,Corporate Suit,M43015
-43139,Minister of Security,Edwin Möller,8,Prince of Terror,M43015
+43065,Head of Government,Edwin MÃ¶ller,8,Corporate Suit,M43015
+43139,Minister of Security,Edwin MÃ¶ller,8,Prince of Terror,M43015
 43216,Chief of Air Force,Fabian Vaca Chavez,8,Naval Aviation Doctrine,M43082
 43085,Foreign Minister,German Butron,8,Ideological Crusader,M43011
 43064,Head of Government,German Butron,8,Old General,M43011
@@ -169,6 +169,6 @@ BOL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 43081,Foreign Minister,Juan Mechin,8,The Cloak N Dagger Schemer,M43013
 43158,Head of Military Intelligence,Juan Sanjines,8,Industrial Specialist,M43016
 43189,Chief of Army,Mariano Baptista,8,Armoured Spearhead Doctrine,M43018
-43250,Head of Government,Mário Gutiérrez-Gutiérrez,8,Political Protege,BOL_mario_gutierrez_gutierrez
-43240,Head of Government,Óscar Únzaga de la Vega,8,Silent Workhorse,BOL_oscar_unzaga
+43250,Head of Government,MÃ¡rio GutiÃ©rrez-GutiÃ©rrez,8,Political Protege,BOL_mario_gutierrez_gutierrez
+43240,Head of Government,Ã“scar Ãšnzaga de la Vega,8,Silent Workhorse,BOL_oscar_unzaga
 43084,Foreign Minister,Simon I. Patino,8,The Cloak N Dagger Schemer,M43038

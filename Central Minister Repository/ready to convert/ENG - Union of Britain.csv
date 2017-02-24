@@ -11,7 +11,10 @@ ENG,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Foreign Minister,Denis Healey,0,Iron Fisted Brute,kaiserreich healey
 ,Head of Government,Denis Healey,0,Smiling Oilman,kaiserreich healey
 ,Minister of Armament,Denis Healey,0,Administrative Genius,kaiserreich healey
-,Foreign Minister,Denis Nowell Pritt ,0,Apologetic Clerk,kaiserreich dpritt
+,Foreign Minister,Denis Nowell Pritt,0,Apologetic Clerk,kaiserreich dpritt
+,Chief of Army,Eric Blair,0,Guns and Butter Doctrine,kaiserreich ericblair
+,Head of Government,Eric Blair,0,Reformist Soldierhog,kaiserreich ericblair
+,Minister of Security,Eric Blair,0,Compassionate Gentleman,kaiserreich ericblair
 ,Foreign Minister,Ezra Pound,0,Biased Intellectual,kaiserreich pound
 ,Foreign Minister,George Bernard Shaw,0,The Cloak N Dagger Schemer,kaiserreich shaw
 ,Minister of Security,Henry Williamson,0,Compassionate Gentleman,kaiserreich williamson
@@ -43,113 +46,110 @@ ENG,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Head of Government,William Joyce,0,Backroom Backstabber,kaiserreich joyce
 ,Minister of Security,William Joyce,0,Prince of Terror,kaiserreich joyce
 ,Minister of Armament,William Rust,0,Infantry Proponent,M1079
-,Chief of Army,Eric Blair,0,Guns and Butter Doctrine,kaiserreich ericblair
-,Head of Government,Eric Blair,0,Reformist Soldierhog,kaiserreich ericblair
-,Minister of Security,Eric Blair,0,Compassionate Gentleman,kaiserreich ericblair
-,Chief of Army,Bill Alexander,1,Static Defence Doctrine,kaiserreich bill
-,Minister of Security,Cecil Dudgeon,1,Compassionate Gentleman,kaiserreich dudgeon
-,Minister of Armament,Cecil L'Estrange Malone,1,Air to Sea Proponent,kaiserreich malone
-,Foreign Minister,David Kirkwood,1,Apologetic Clerk,kaiserreich davidkirkwood
-,Minister of Armament,David Kirkwood,1,Infantry Proponent,kaiserreich davidkirkwood
-,Head of Military Intelligence,Emanuel Shinwell,1,Industrial Specialist,kaiserreich shinwell
-,Foreign Minister,Eric Hobsbawm,1,Biased Intellectual,kaiserreich erichobsbawm
-,Foreign Minister,Ethel MacDonald,1,Biased Intellectual,kaiserreich emacdonald
-,Head of Military Intelligence,Fenner Brockway,1,Political Specialist,kaiserreich fenner
-,Minister of Armament,Frank Horrabin,1,Construction Magnate,kaiserreich horrabin
-,Minister of Security,Harold Nicolson,1,Crime Fighter,kaiserreich hnicolson
-,Minister of Security,Helen Crawfurd,1,Crime Fighter,kaiserreich helencrawfurd
-,Minister of Security,Hugh MacDiarmid,1,Compassionate Gentleman,kaiserreich macdiarmid
-,Head of Government,J.B. Priestley,1,Naive Optimist,kaiserreich_UK_J_B_Priestley
-,Minister of Armament,Jack Gaster,1,Submarine Proponent,M1077
-,Minister of Armament,Jack Jones,1,Corrupt Kleptocrat,kaiserreich jackjones
-,Head of Government,Jack Jones,1,Flamboyant Tough Guy,kaiserreich jackjones
-,Head of Government,Jenny Hamilton Patrick,1,Happy Amateur,kaiserreich jhamilton
-,Foreign Minister,Jim Callaghan,1,Biased Intellectual,kaiserreich callaghan
-,Head of Government,Jim Callaghan,1,Ambitious Union Boss,kaiserreich callaghan
-,Minister of Armament,Margaret Bondfield,1,Balanced Budget Economy,kaiserreich bondfield
-,Foreign Minister,Mary Agnes Hamilton,1,Great Compromiser,kaiserreich mhamilton
-,Head of Military Intelligence,Ness Edwards,1,Political Specialist,kaiserreich edwards
-,Foreign Minister,Niclas y Glais,1,Great Compromiser,kaiserreich glais
-,Head of Government,Niclas y Glais,1,Flamboyant Tough Guy,kaiserreich glais
-,Head of Military Intelligence,Niclas y Glais,1,Political Specialist,kaiserreich glais
-,Head of Government,Oswald Mosley,1,Flamboyant Tough Guy,kaiserreich mosley1
-,Foreign Minister,Rajani Palme Dutt,1,Biased Intellectual,kaiserreich dutt
-,Head of Military Intelligence,Raymond Postgate,1,Industrial Specialist,kaiserreich postgate
-,Foreign Minister,Robert Forgan,1,Ideological Crusader,kaiserreich forgan
-,Minister of Armament,S.O. Davies,1,Steel Magnate,kaiserreich sodavies
-,Minister of Armament,Sanny Sloan,1,Construction Magnate,kaiserreich sanny
-,Foreign Minister,Saunders Lewis,1,Ideological Crusader,kaiserreich saunders
-,Minister of Security,Thomas Johnson,1,Compassionate Gentleman,kaiserreich tjohnson
-,Chief of Staff,Tom Wintringham,1,School of Mass Combat,kaiserreich twitt
-,Head of Government,Tom Wintringham,1,Old General,kaiserreich twitt
-,Head of Government,Tony Benn,1,Silent Workhorse,kaiserreich tonybenn
-,Minister of Armament,Tony Benn,1,Resource Industrialist,kaiserreich tonybenn
-,Minister of Security,Tony Benn,1,Man of the People,kaiserreich tonybenn
-,Minister of Security,Wilfrid Whiteley,1,Man of the People,kaiserreich whiteley
-,Head of Government,William Gallacher,1,Silent Workhorse,kaiserreich gallacher
-,Head of Military Intelligence,William Gallacher,1,Industrial Specialist,kaiserreich gallacher
-,Head of Military Intelligence,William John Brown,1,Political Specialist,kaiserreich william brown
-,Chief of Navy,A.V. Alexander,2,Indirect Approach Doctrine,kaiserreich alexander
-,Minister of Armament,Abe Moffat,2,Tank Proponent,kaiserreich moffat
-,Chief of Army,Alan Brooke,2,Decisive Battle Doctrine,kaiserreich brooke
-,Chief of Navy,Andrew Cunningham,2,Power Projection Doctrine,kaiserreich cunningham
-,Head of Government,Annie Kenney,2,Flamboyant Tough Guy,Kaiserreich Anne Kenney
-,Minister of Armament,Annie Kenney,2,Administrative Genius,Kaiserreich Anne Kenney
-,Head of Military Intelligence,Anthony Blunt,2,Political Specialist,kaiserreich ablunt
-,Chief of Staff,Archibald Nye,2,School of Mass Combat,M1122
-,Head of Government,Arthur Greenwood,2,Naive Optimist,kaiserreich greenwood
-,Chief of Air Force,Arthur Harris,2,Carpet Bombing Doctrine,kaiserreich harris
-,Head of Government,Arthur Horner,2,Ambitious Union Boss,kaiserreich arthurhorner
-,Head of Military Intelligence,Arthur Horner,2,Logistics Specialist,kaiserreich arthurhorner
-,Minister of Armament,Arthur MacManus,2,Construction Magnate,kaiserreich macmanus
-,Head of Government,Barbara Castle,2,Political Protege,kaiserreich bcastle
-,Minister of Armament,Barbara Castle,2,Keynesian Economy,kaiserreich bcastle
-,Minister of Security,Barbara Castle,2,Crime Fighter,kaiserreich bcastle
-,Chief of Army,Bernard Montgomery,2,Armoured Spearhead Doctrine,kaiserreich monty
-,Chief of Staff,Bernard Montgomery,2,School of Manoeuvre,kaiserreich monty
-,Head of Government,Christabel Pankhurst,2,Ambitious Union Boss,kaiserreich pankhurst
-,Head of Government,Clement Attlee,2,Silent Workhorse,kaiserreich attlee
-,Minister of Armament,Clement Attlee,2,Administrative Genius,kaiserreich attlee
-,Foreign Minister,Clifford Allen,2,Apologetic Clerk,kaiserreich clifford
-,Foreign Minister,Dave Springhall,2,Iron Fisted Brute,kaiserreich springhall
-,Foreign Minister,Elizabeth Andrews,2,Apologetic Clerk,Kaiserreich elizabeth andrews
-,Minister of Armament,Ellen Wilkinson,2,Reformer,kaiserreich wilkinson
-,Foreign Minister,Ernest Bevin,2,The Cloak N Dagger Schemer,kaiserreich bevin
-,Chief of Navy,Fred Copeman,2,Indirect Approach Doctrine,M1029
-,Chief of Staff,Frederick Bellenger,2,School of Psychology,kaiserreich bellenger
-,Head of Government,G.D.H. Cole,2,Naive Optimist,kaiserreich cole
-,Head of Government,Harold Wilson,2,Ambitious Union Boss,kaiserreich hwilson
-,Chief of Navy,Harry Pollitt,2,Decisive Naval Battle Doctrine,kaiserreich pollitt1
-,Head of Government,Harry Pollitt,2,Ambitious Union Boss,kaiserreich pollittdesk
-,Minister of Security,Herbert Morrison,2,Man of the People,kaiserreich morrison
-,Chief of Air Force,Hugh Dowding,2,Air Superiority Doctrine,L1435
-,Foreign Minister,Ian Mikardo,2,Ideological Crusader,kaiserreich mikardo
-,Minister of Armament,J.R. Clynes,2,Keynesian Economy,kaiserreich clynes
-,Foreign Minister,James Maxton,2,Biased Intellectual,kaiserreich jamesmaxton
-,Head of Government,James Maxton,2,Backroom Backstabber,kaiserreich jamesmaxton
-,Minister of Security,John MacCormick,2,Prince of Terror,kaiserreich maccormick
-,Minister of Security,John Platts-Mills,2,Silent Lawyer,kaiserreich plattsmills
-,Minister of Armament,Konnie Zilliacus,2,Air Superiority Proponent,kaiserreich konnie
-,Head of Government,Lewis Jones,2,Ambitious Union Boss,kaiserreich lewisjones
-,Minister of Security,Lewis Valentine,2,Man of the People,kaiserreich valentine
-,Minister of Security,Margaret Cole,2,Crime Fighter,kaiserreich mcole
-,Chief of Army,Nicholas Mosley,2,Commando Doctrine Army,kaiserreich nmosley
-,Head of Government,Nye Bevan,2,Flamboyant Tough Guy,Kaiserreich Nye Bevan
-,Head of Military Intelligence,Nye Bevan,2,Dismal Enigma,Kaiserreich Nye Bevan
-,Minister of Armament,Nye Bevan,2,Administrative Genius,Kaiserreich Nye Bevan
-,Minister of Security,Nye Bevan,2,Health and Safety,Kaiserreich Nye Bevan
-,Foreign Minister,Oliver Brown,2,Iron Fisted Brute,kaiserreich obrown
-,Head of Military Intelligence,Patrick Dollan,2,Political Specialist,kaiserreich dollan
-,Minister of Security,Patrick Dollan,2,Crime Fighter,kaiserreich dollan
-,Minister of Armament,Philip Snowden,2,Mixed Economy,kaiserreich philipsnowden
-,Minister of Security,Rhys Davies,2,Compassionate Gentleman,kaiserreich davies
-,Chief of Army,Richard O'Connor,2,Armoured Spearhead Doctrine,L1237
-,Minister of Armament,Robert McIntyre,2,Planned Economy Proponent,kaiserreich mcintyre
-,Head of Government,Stafford Cripps,2,Silent Workhorse,kaiserreich cripps
-,Minister of Armament,Stafford Cripps,2,Keynesian Economy,kaiserreich cripps
-,Head of Government,Tom Mann,2,Ambitious Union Boss,kaiserreich tommann
-,Chief of Air Force,William Wedgewood Benn,2,Air Superiority Doctrine,kaiserreich williamwedgewoodbenn
-,Minister of Armament,William Weir,2,Air to Ground Proponent,kaiserreich williamweir
+,Chief of Navy,A.V. Alexander,1,Indirect Approach Doctrine,kaiserreich alexander
+,Minister of Armament,Abe Moffat,1,Tank Proponent,kaiserreich moffat
+,Chief of Army,Alan Brooke,1,Decisive Battle Doctrine,kaiserreich brooke
+,Chief of Navy,Andrew Cunningham,1,Power Projection Doctrine,kaiserreich cunningham
+,Head of Government,Annie Kenney,1,Flamboyant Tough Guy,Kaiserreich Anne Kenney
+,Minister of Armament,Annie Kenney,1,Administrative Genius,Kaiserreich Anne Kenney
+,Head of Military Intelligence,Anthony Blunt,1,Political Specialist,kaiserreich ablunt
+,Chief of Staff,Archibald Nye,1,School of Mass Combat,M1122
+,Head of Government,Arthur Greenwood,1,Naive Optimist,kaiserreich greenwood
+,Chief of Air Force,Arthur Harris,1,Carpet Bombing Doctrine,kaiserreich harris
+,Head of Government,Arthur Horner,1,Ambitious Union Boss,kaiserreich arthurhorner
+,Head of Military Intelligence,Arthur Horner,1,Logistics Specialist,kaiserreich arthurhorner
+,Minister of Armament,Arthur MacManus,1,Construction Magnate,kaiserreich macmanus
+,Head of Government,Barbara Castle,1,Political Protege,kaiserreich bcastle
+,Minister of Armament,Barbara Castle,1,Keynesian Economy,kaiserreich bcastle
+,Minister of Security,Barbara Castle,1,Crime Fighter,kaiserreich bcastle
+,Chief of Army,Bernard Montgomery,1,Armoured Spearhead Doctrine,kaiserreich monty
+,Chief of Staff,Bernard Montgomery,1,School of Manoeuvre,kaiserreich monty
+,Head of Government,Christabel Pankhurst,1,Ambitious Union Boss,kaiserreich pankhurst
+,Head of Government,Clement Attlee,1,Silent Workhorse,kaiserreich attlee
+,Minister of Armament,Clement Attlee,1,Administrative Genius,kaiserreich attlee
+,Foreign Minister,Clifford Allen,1,Apologetic Clerk,kaiserreich clifford
+,Foreign Minister,Dave Springhall,1,Iron Fisted Brute,kaiserreich springhall
+,Foreign Minister,Elizabeth Andrews,1,Apologetic Clerk,Kaiserreich elizabeth andrews
+,Minister of Armament,Ellen Wilkinson,1,Reformer,kaiserreich wilkinson
+,Foreign Minister,Ernest Bevin,1,The Cloak N Dagger Schemer,kaiserreich bevin
+,Chief of Navy,Fred Copeman,1,Indirect Approach Doctrine,M1029
+,Chief of Staff,Frederick Bellenger,1,School of Psychology,kaiserreich bellenger
+,Head of Government,G.D.H. Cole,1,Naive Optimist,kaiserreich cole
+,Head of Government,Harold Wilson,1,Ambitious Union Boss,kaiserreich hwilson
+,Chief of Navy,Harry Pollitt,1,Decisive Naval Battle Doctrine,kaiserreich pollitt1
+,Head of Government,Harry Pollitt,1,Ambitious Union Boss,kaiserreich pollittdesk
+,Minister of Security,Herbert Morrison,1,Man of the People,kaiserreich morrison
+,Chief of Air Force,Hugh Dowding,1,Air Superiority Doctrine,L1435
+,Foreign Minister,Ian Mikardo,1,Ideological Crusader,kaiserreich mikardo
+,Minister of Armament,J.R. Clynes,1,Keynesian Economy,kaiserreich clynes
+,Foreign Minister,James Maxton,1,Biased Intellectual,kaiserreich jamesmaxton
+,Head of Government,James Maxton,1,Backroom Backstabber,kaiserreich jamesmaxton
+,Minister of Security,John MacCormick,1,Prince of Terror,kaiserreich maccormick
+,Minister of Security,John Platts-Mills,1,Silent Lawyer,kaiserreich plattsmills
+,Minister of Armament,Konnie Zilliacus,1,Air Superiority Proponent,kaiserreich konnie
+,Head of Government,Lewis Jones,1,Ambitious Union Boss,kaiserreich lewisjones
+,Minister of Security,Lewis Valentine,1,Man of the People,kaiserreich valentine
+,Minister of Security,Margaret Cole,1,Crime Fighter,kaiserreich mcole
+,Chief of Army,Nicholas Mosley,1,Commando Doctrine Army,kaiserreich nmosley
+,Head of Government,Nye Bevan,1,Flamboyant Tough Guy,Kaiserreich Nye Bevan
+,Head of Military Intelligence,Nye Bevan,1,Dismal Enigma,Kaiserreich Nye Bevan
+,Minister of Armament,Nye Bevan,1,Administrative Genius,Kaiserreich Nye Bevan
+,Minister of Security,Nye Bevan,1,Health and Safety,Kaiserreich Nye Bevan
+,Foreign Minister,Oliver Brown,1,Iron Fisted Brute,kaiserreich obrown
+,Head of Military Intelligence,Patrick Dollan,1,Political Specialist,kaiserreich dollan
+,Minister of Security,Patrick Dollan,1,Crime Fighter,kaiserreich dollan
+,Minister of Armament,Philip Snowden,1,Mixed Economy,kaiserreich philipsnowden
+,Minister of Security,Rhys Davies,1,Compassionate Gentleman,kaiserreich davies
+,Chief of Army,Richard O'Connor,1,Armoured Spearhead Doctrine,L1237
+,Minister of Armament,Robert McIntyre,1,Planned Economy Proponent,kaiserreich mcintyre
+,Head of Government,Stafford Cripps,1,Silent Workhorse,kaiserreich cripps
+,Minister of Armament,Stafford Cripps,1,Keynesian Economy,kaiserreich cripps
+,Head of Government,Tom Mann,1,Ambitious Union Boss,kaiserreich tommann
+,Chief of Air Force,William Wedgewood Benn,1,Air Superiority Doctrine,kaiserreich williamwedgewoodbenn
+,Minister of Armament,William Weir,1,Air to Ground Proponent,kaiserreich williamweir
+,Chief of Army,Bill Alexander,2,Static Defence Doctrine,kaiserreich bill
+,Minister of Security,Cecil Dudgeon,2,Compassionate Gentleman,kaiserreich dudgeon
+,Minister of Armament,Cecil L'Estrange Malone,2,Air to Sea Proponent,kaiserreich malone
+,Foreign Minister,David Kirkwood,2,Apologetic Clerk,kaiserreich davidkirkwood
+,Minister of Armament,David Kirkwood,2,Infantry Proponent,kaiserreich davidkirkwood
+,Head of Military Intelligence,Emanuel Shinwell,2,Industrial Specialist,kaiserreich shinwell
+,Foreign Minister,Eric Hobsbawm,2,Biased Intellectual,kaiserreich erichobsbawm
+,Foreign Minister,Ethel MacDonald,2,Biased Intellectual,kaiserreich emacdonald
+,Head of Military Intelligence,Fenner Brockway,2,Political Specialist,kaiserreich fenner
+,Minister of Armament,Frank Horrabin,2,Construction Magnate,kaiserreich horrabin
+,Minister of Security,Harold Nicolson,2,Crime Fighter,kaiserreich hnicolson
+,Minister of Security,Helen Crawfurd,2,Crime Fighter,kaiserreich helencrawfurd
+,Minister of Security,Hugh MacDiarmid,2,Compassionate Gentleman,kaiserreich macdiarmid
+,Head of Government,J.B. Priestley,2,Naive Optimist,kaiserreich_UK_J_B_Priestley
+,Minister of Armament,Jack Gaster,2,Submarine Proponent,M1077
+,Head of Government,Jack Jones,2,Flamboyant Tough Guy,kaiserreich jackjones
+,Minister of Armament,Jack Jones,2,Corrupt Kleptocrat,kaiserreich jackjones
+,Head of Government,Jenny Hamilton Patrick,2,Happy Amateur,kaiserreich jhamilton
+,Foreign Minister,Jim Callaghan,2,Biased Intellectual,kaiserreich callaghan
+,Head of Government,Jim Callaghan,2,Ambitious Union Boss,kaiserreich callaghan
+,Minister of Armament,Margaret Bondfield,2,Balanced Budget Economy,kaiserreich bondfield
+,Foreign Minister,Mary Agnes Hamilton,2,Great Compromiser,kaiserreich mhamilton
+,Head of Military Intelligence,Ness Edwards,2,Political Specialist,kaiserreich edwards
+,Foreign Minister,Niclas y Glais,2,Great Compromiser,kaiserreich glais
+,Head of Government,Niclas y Glais,2,Flamboyant Tough Guy,kaiserreich glais
+,Head of Military Intelligence,Niclas y Glais,2,Political Specialist,kaiserreich glais
+,Head of Government,Oswald Mosley,2,Flamboyant Tough Guy,kaiserreich mosley1
+,Foreign Minister,Rajani Palme Dutt,2,Biased Intellectual,kaiserreich dutt
+,Head of Military Intelligence,Raymond Postgate,2,Industrial Specialist,kaiserreich postgate
+,Foreign Minister,Robert Forgan,2,Ideological Crusader,kaiserreich forgan
+,Minister of Armament,S.O. Davies,2,Steel Magnate,kaiserreich sodavies
+,Minister of Armament,Sanny Sloan,2,Construction Magnate,kaiserreich sanny
+,Foreign Minister,Saunders Lewis,2,Ideological Crusader,kaiserreich saunders
+,Minister of Security,Thomas Johnson,2,Compassionate Gentleman,kaiserreich tjohnson
+,Chief of Staff,Tom Wintringham,2,School of Mass Combat,kaiserreich twitt
+,Head of Government,Tom Wintringham,2,Old General,kaiserreich twitt
+,Head of Government,Tony Benn,2,Silent Workhorse,kaiserreich tonybenn
+,Minister of Armament,Tony Benn,2,Resource Industrialist,kaiserreich tonybenn
+,Minister of Security,Tony Benn,2,Man of the People,kaiserreich tonybenn
+,Minister of Security,Wilfrid Whiteley,2,Man of the People,kaiserreich whiteley
+,Head of Government,William Gallacher,2,Silent Workhorse,kaiserreich gallacher
+,Head of Military Intelligence,William Gallacher,2,Industrial Specialist,kaiserreich gallacher
+,Head of Military Intelligence,William John Brown,2,Political Specialist,kaiserreich william brown
 ,Head of Government,Beatrice Webb,3,Naive Optimist,kaiserreich webb2
 ,Foreign Minister,Bernard Montgomery,3,General Staffer,kaiserreich monty
 ,Foreign Minister,Ishbel MacDonald,3,Great Compromiser,kaiserreich ishbelmacdonald

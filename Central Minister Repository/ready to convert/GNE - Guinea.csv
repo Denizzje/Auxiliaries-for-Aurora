@@ -5,8 +5,8 @@ GUI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 537037,Head of Military Intelligence,Albert Liurette,1,Technical Specialist,AFR_albert_liurette
 537015,Minister of Armament,Albert Liurette,1,Theoretical Scientist,AFR_albert_liurette
 537032,Minister of Security,Albert Liurette,1,Silent Lawyer,AFR_albert_liurette
-537054,Chief of Navy,Étienne Djaument,1,Decisive Naval Battle Doctrine,Djaument
-537022,Minister of Armament,Étienne Djaument,1,Battle fleet Proponent,Djaument
+537054,Chief of Navy,Ã‰tienne Djaument,1,Decisive Naval Battle Doctrine,Djaument
+537022,Minister of Armament,Ã‰tienne Djaument,1,Battle fleet Proponent,Djaument
 537058,Chief of Air Force,Isaac Theophilus Akunna Wallace-Johnson,1,Naval Aviation Doctrine,Wallace-Johnson
 537056,Chief of Navy,Isaac Theophilus Akunna Wallace-Johnson,1,Power Projection Doctrine,Wallace-Johnson
 537027,Minister of Armament,Isaac Theophilus Akunna Wallace-Johnson,1,air to sea proponent,Wallace-Johnson
@@ -19,8 +19,8 @@ GUI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 537033,Minister of Security,Albert Margai,2,Crooked Kleptocrat,M554012
 537314,Foreign Minister,Albert Porte,2,Great Compromiser,M69033
 537313,Head of Government,Albert Porte,2,Ambitious Union Boss,M69033
-537007,Foreign Minister,Amílcar Lopes da Costa Cabral,2,Apologetic Clerk,Costa Cabral
-537035,Minister of Security,Amílcar Lopes da Costa Cabral,2,Back Stabber,Costa Cabral
+537007,Foreign Minister,AmÃ­lcar Lopes da Costa Cabral,2,Apologetic Clerk,Costa Cabral
+537035,Minister of Security,AmÃ­lcar Lopes da Costa Cabral,2,Back Stabber,Costa Cabral
 537059,Chief of Air Force,Auguste Denise,2,Air Superiority Doctrine,M533064
 537018,Minister of Armament,Auguste Denise,2,Air Superiority Proponent,M533064
 537055,Chief of Navy,Boubacar Diallo Telli,2,Open Seas Doctrine,Telli
@@ -51,7 +51,7 @@ GUI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 537017,Minister of Armament,Loffo Camara,2,Tank Proponent,Camara
 537013,Foreign Minister,Milton Margai,2,iron fisted brute,M554011
 537031,Minister of Security,Milton Margai,2,Prince of Terror,M554011
-537029,Minister of Security,Philippe Grégoire Yacé,2,Man of the People,Yacé
+537029,Minister of Security,Philippe GrÃ©goire YacÃ©,2,Man of the People,YacÃ©
 537061,Chief of Air Force,Raymond Sarif Easmon,2,Vertical Envelopment Doctrine,unknown
 537053,Chief of Navy,Raymond Sarif Easmon,2,Base Control Doctrine,unknown
 537057,Chief of Air Force,Sanak Stephens,2,Army Aviation Doctrine,M554020
@@ -67,9 +67,9 @@ GUI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 537281,Minister of Armament,Benjamin O. Davis,4,Infantry Proponent,M69007
 537309,Chief of Air Force,Benjamin O. Davis Jr.,4,Air Superiority Doctrine,L60503
 537280,Minister of Armament,Benjamin O. Davis Jr.,4,Air Superiority Proponent,L60503
-537097,Foreign Minister,Bernard Binlin Dadié,4,iron fisted brute,Dadié
-537109,Head of Military Intelligence,Bernard Binlin Dadié,4,Political Specialist,Dadié
-537107,Minister of Security,Bernard Binlin Dadié,4,Prince of Terror,Dadié
+537097,Foreign Minister,Bernard Binlin DadiÃ©,4,iron fisted brute,DadiÃ©
+537109,Head of Military Intelligence,Bernard Binlin DadiÃ©,4,Political Specialist,DadiÃ©
+537107,Minister of Security,Bernard Binlin DadiÃ©,4,Prince of Terror,DadiÃ©
 537277,Foreign Minister,Charles Dunbar Burgess King,4,Great Compromiser,CharlesDunbarBurgessKing
 537290,Minister of Security,Charles Dunbar Burgess King,4,Silent Lawyer,CharlesDunbarBurgessKing
 537275,Foreign Minister,Cornelius Bosman van Oudkarspel,4,Apologetic Clerk,unknown
@@ -138,11 +138,11 @@ GUI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 537066,Foreign Minister,Ernest Samuel Beoku-Betts,5,Apologetic Clerk,Beoku-Betts
 537063,Head of Government,Ernest Samuel Beoku-Betts,5,Flamboyant Tough Guy,Beoku-Betts
 537077,Minister of Security,Ernest Samuel Beoku-Betts,5,Man of the People,Beoku-Betts
-537087,Chief of Army,François-Joseph Amon d'Aby,5,Decisive Battle Doctrine,d'Aby
-537084,Chief of Staff,François-Joseph Amon d'Aby,5,School of Mass Combat,d'Aby
-537070,Minister of Armament,François-Joseph Amon d'Aby,5,Infantry Proponent,d'Aby
-537091,Chief of Navy,Frédéric Bruly Bouabré,5,Open Seas Doctrine,Bouabré
-537082,Head of Military Intelligence,Frédéric Bruly Bouabré,5,Naval Intelligence Specialist,Bouabré
+537087,Chief of Army,FranÃ§ois-Joseph Amon d'Aby,5,Decisive Battle Doctrine,d'Aby
+537084,Chief of Staff,FranÃ§ois-Joseph Amon d'Aby,5,School of Mass Combat,d'Aby
+537070,Minister of Armament,FranÃ§ois-Joseph Amon d'Aby,5,Infantry Proponent,d'Aby
+537091,Chief of Navy,FrÃ©dÃ©ric Bruly BouabrÃ©,5,Open Seas Doctrine,BouabrÃ©
+537082,Head of Military Intelligence,FrÃ©dÃ©ric Bruly BouabrÃ©,5,Naval Intelligence Specialist,BouabrÃ©
 537064,Foreign Minister,Humonya,5,Ideological Crusader,Madam_Humonya
 537075,Minister of Armament,Humonya,5,Corrupt Kleptocrat,Madam_Humonya
 537079,Minister of Security,Humonya,5,Crooked Kleptocrat,Madam_Humonya
@@ -215,8 +215,8 @@ GUI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 537207,Head of Military Intelligence,William Vacanarat Shadrach Tubman,6,Dismal Enigma,M69032
 537197,Minister of Armament,William Vacanarat Shadrach Tubman,6,Corrupt Kleptocrat,M69032
 537203,Minister of Security,William Vacanarat Shadrach Tubman,6,Silent Lawyer,M69032
-537179,Chief of Air Force,Abdoulaye Touré,7,Air Superiority Doctrine,Touré
-537138,Minister of Armament,Abdoulaye Touré,7,Air Superiority Proponent,Touré
+537179,Chief of Air Force,Abdoulaye TourÃ©,7,Air Superiority Doctrine,TourÃ©
+537138,Minister of Armament,Abdoulaye TourÃ©,7,Air Superiority Proponent,TourÃ©
 537167,Chief of Army,Abdul Injai,7,Guns and Butter Doctrine,Injai
 537162,Chief of Staff,Abdul Injai,7,School of Psychology,Injai
 537131,Foreign Minister,Abdul Injai,7,General Staffer,Injai
@@ -227,8 +227,8 @@ GUI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 537158,Head of Military Intelligence,Ali Dausy Wurie,7,Dismal Enigma,Wurie
 537143,Minister of Armament,Ali Dausy Wurie,7,Corrupt Kleptocrat,Wurie
 537153,Minister of Security,Ali Dausy Wurie,7,Crooked Kleptocrat,Wurie
-537180,Chief of Air Force,Alioune Dramé,7,Carpet Bombing Doctrine,unknown
-537140,Minister of Armament,Alioune Dramé,7,Strategic Air Proponent,unknown
+537180,Chief of Air Force,Alioune DramÃ©,7,Carpet Bombing Doctrine,unknown
+537140,Minister of Armament,Alioune DramÃ©,7,Strategic Air Proponent,unknown
 537174,Chief of Navy,Alpha Oumar Barry,7,Decisive Naval Battle Doctrine,Barry
 537142,Minister of Armament,Alpha Oumar Barry,7,Battle fleet Proponent,Barry
 537181,Chief of Air Force,Amadu Wurie,7,Vertical Envelopment Doctrine,M554021
@@ -272,26 +272,26 @@ GUI,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 537237,Minister of Armament,Momolu Dukuly,7,laissez-faire capitalist,LIB_momolu_dukuly
 537233,Foreign Minister,Momolu Massaquoi,7,Ideological Crusader,LIB_momolu_massaquoi
 537229,Head of Government,Momolu Massaquoi,7,Flamboyant Tough Guy,LIB_momolu_massaquoi
-537177,Chief of Air Force,N'Famara Keïta,7,Army Aviation Doctrine,unknown
-537171,Chief of Army,N'Famara Keïta,7,Elastic Defence Doctrine,unknown
-537166,Chief of Staff,N'Famara Keïta,7,School of Manoeuvre,unknown
-537146,Minister of Armament,N'Famara Keïta,7,air to ground proponent,unknown
+537177,Chief of Air Force,N'Famara KeÃ¯ta,7,Army Aviation Doctrine,unknown
+537171,Chief of Army,N'Famara KeÃ¯ta,7,Elastic Defence Doctrine,unknown
+537166,Chief of Staff,N'Famara KeÃ¯ta,7,School of Manoeuvre,unknown
+537146,Minister of Armament,N'Famara KeÃ¯ta,7,air to ground proponent,unknown
 537169,Chief of Army,Rafiji Manareh,7,Armoured Spearhead Doctrine,M554019
 537164,Chief of Staff,Rafiji Manareh,7,School of Fire Support,M554019
 537137,Minister of Armament,Rafiji Manareh,7,Tank Proponent,M554019
 537178,Chief of Air Force,Saifoulaye Diallo,7,Naval Aviation Doctrine,Diallo1
 537176,Chief of Navy,Saifoulaye Diallo,7,Power Projection Doctrine,Diallo1
 537147,Minister of Armament,Saifoulaye Diallo,7,air to sea proponent,Diallo1
-537168,Chief of Army,Sékou Sanogo,7,Decisive Battle Doctrine,Sanogo
-537163,Chief of Staff,Sékou Sanogo,7,School of Mass Combat,Sanogo
-537139,Minister of Armament,Sékou Sanogo,7,Infantry Proponent,Sanogo
+537168,Chief of Army,SÃ©kou Sanogo,7,Decisive Battle Doctrine,Sanogo
+537163,Chief of Staff,SÃ©kou Sanogo,7,School of Mass Combat,Sanogo
+537139,Minister of Armament,SÃ©kou Sanogo,7,Infantry Proponent,Sanogo
 537250,Chief of Army,Solomon Carter Fuller,7,Elastic Defence Doctrine,LIB_solomon_carter_fuller
 537248,Chief of Staff,Solomon Carter Fuller,7,School of Manoeuvre,LIB_solomon_carter_fuller
 537236,Minister of Armament,Solomon Carter Fuller,7,Military Entrepreneur,LIB_solomon_carter_fuller
 537129,Foreign Minister,Soulemayne Kante,7,Ideological Crusader,Kante
 537149,Minister of Security,Soulemayne Kante,7,Man of the People,Kante
 537125,Head of Government,Tamba Songu M'briwa,7,corporate suit,M'briwa
-537244,Head of Military Intelligence,William Wadé Harris,7,Political Specialist,LIB_william_wade_harris
-537241,Minister of Security,William Wadé Harris,7,Man of the People,LIB_william_wade_harris
+537244,Head of Military Intelligence,William WadÃ© Harris,7,Political Specialist,LIB_william_wade_harris
+537241,Minister of Security,William WadÃ© Harris,7,Man of the People,LIB_william_wade_harris
 537175,Chief of Navy,Yacine Diallo,7,Open Seas Doctrine,Diallo2
 537161,Head of Military Intelligence,Yacine Diallo,7,Naval Intelligence Specialist,Diallo2

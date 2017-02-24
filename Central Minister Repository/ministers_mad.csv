@@ -33,12 +33,12 @@ MAD,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 538032,Head of Government,Jean Ralaimongo,1936,1964,1999,1,Naive Optimist,High,MAD_jean_ralaimongo,x
 538033,Foreign Minister,Jean Jores Razafindrakoto,1936,1964,1999,7,Biased Intellectual,High,M538022,x
 538034,Foreign Minister,Ramamonjy Raherivelo,1936,1964,1999,7,Ideological Crusader,Low,MAD_ramamonjy_raherivelo,x
-538035,Foreign Minister,Félix Totolehibe,1936,1964,1999,6,Great Compromiser,High,MAD_felix_totolehibe,x
+538035,Foreign Minister,FÃ©lix Totolehibe,1936,1964,1999,6,Great Compromiser,High,MAD_felix_totolehibe,x
 538036,Foreign Minister,Pierre Jean Herbinger,1936,1964,1999,6,Apologetic Clerk,High,M538003,x
 538037,Foreign Minister,Joseph Jonah Ranaivo,1936,1964,1999,6,General Staffer,High,MAD_joseph_jonah_ranaivo,x
-538038,Foreign Minister,André Liotard,1936,1964,1999,6,Great Compromiser,Low,MAD_andre_liotard,x
+538038,Foreign Minister,AndrÃ© Liotard,1936,1964,1999,6,Great Compromiser,Low,MAD_andre_liotard,x
 538039,Foreign Minister,Albert Sylla,1936,1964,1999,4,Iron fisted brute,High,MAD_albert_sylla,x
-538040,Foreign Minister,René Lemoine,1942,1964,1999,4,Great Compromiser,High,M538021,x
+538040,Foreign Minister,RenÃ© Lemoine,1942,1964,1999,4,Great Compromiser,High,M538021,x
 538041,Foreign Minister,Jean Joseph Rabearivelo,1936,1964,1999,3,Biased Intellectual,High,MAD_jean_joseph_rabearivelo,x
 538042,Foreign Minister,Joseph Ravoahangy-Andrianavalona,1936,1964,1999,3,Ideological Crusader,High,MAD_joseph_ravoahangy_andrianavalona,x
 538043,Foreign Minister,Joseph Raseta,1936,1964,1999,2,Iron fisted brute,High,MAD_joseph_raseta,x
@@ -46,9 +46,9 @@ MAD,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 538045,Minister of Armament,Ramilison Randriamampianina,1936,1964,1999,7,Tank Proponent,Medium,M538024,x
 538046,Minister of Armament,Liva Raharison,1943,1964,1999,7,laissez-faire capitalist,Medium,M538025,x
 538047,Minister of Armament,Pierre Ramampy,1936,1964,1999,6,Resource Industrialist,Low,MAD_pierre_ramampy,x
-538048,Minister of Armament,Félix Totolehibe,1936,1964,1999,6,Corrupt Kleptocrat,High,MAD_felix_totolehibe,x
+538048,Minister of Armament,FÃ©lix Totolehibe,1936,1964,1999,6,Corrupt Kleptocrat,High,MAD_felix_totolehibe,x
 538049,Minister of Armament,Francois de Menthon,1936,1964,1999,6,Resource Industrialist,Medium,M538004,x
-538050,Minister of Armament,André Liotard,1936,1964,1999,6,Administrative Genius,Low,MAD_andre_liotard,x
+538050,Minister of Armament,AndrÃ© Liotard,1936,1964,1999,6,Administrative Genius,Low,MAD_andre_liotard,x
 538051,Minister of Armament,Paul Vibert,1941,1964,1999,4,Submarine Proponent,Medium,M538023,x
 538052,Minister of Armament,Stanislas Rakotonirina,1936,1964,1999,4,Laissez-Faire Capitalist,High,MAD_stanislas_rakotonirina,x
 538053,Minister of Armament,Ralijaona Laingo,1936,1964,1999,3,Administrative Genius,Low,MAD_ralijaona_laingo,x
@@ -72,7 +72,7 @@ MAD,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 538071,Chief of Army,Gabriel Ramanantsoa,1936,1964,1999,4,Decisive Battle Doctrine,Medium,MAD_gabriel_ramanantsoa,x
 538072,Chief of Army,Pierre de Saint-Mart,1942,1964,1999,4,Decisive Battle Doctrine,Medium,M535007,x
 538073,Chief of Navy,Olivier Randrianantenaina,1936,1964,1999,7,Decisive Naval Battle Doctrine,Medium,M538035,x
-538074,Chief of Navy,Georges de Barbezière,1936,1964,1999,6,Base Control Doctrine,Medium,M538009,x
+538074,Chief of Navy,Georges de BarbeziÃ¨re,1936,1964,1999,6,Base Control Doctrine,Medium,M538009,x
 538075,Chief of Navy,Jean-Marie Querville,1942,1964,1999,4,Open Seas Doctrine,Medium,M538034,x
 538076,Chief of Air Force,Solomon Rabemanoela,1936,1964,1999,7,Vertical Envelopment Doctrine,Medium,M538037,x
 538077,Chief of Air Force,Max Guedj,1936,1964,1999,6,Naval Aviation Doctrine,Medium,M538010,x

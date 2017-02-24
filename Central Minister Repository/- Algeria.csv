@@ -18,10 +18,10 @@ U29,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 290017,Minister of Armament,Said Boualam,1936,1964,1999,7,Infantry Proponent,Very High,Boualam,x
 290018,Minister of Armament,Ahmed Tewfik El Madani,1936,1964,1999,7,Administrative Genius,Very High,Madani,x
 290019,Minister of Armament,Krim Belkacem,1942,1964,1999,7,Tank Proponent,Very High,Belkacem,x
-290020,Minister of Armament,SaÔd Mohammedi,1936,1964,1999,7,air to ground proponent,Very High,Mohammedi,x
+290020,Minister of Armament,Sa√Ød Mohammedi,1936,1964,1999,7,air to ground proponent,Very High,Mohammedi,x
 290021,Minister of Armament,Saad Dahlab,1938,1964,1999,7,air to sea proponent,Very High,Dahlab,x
 290022,Minister of Armament,Sheikh Hamada,1936,1964,1999,7,Submarine Proponent,Very High,unknown,x
-290023,Minister of Armament,Ahmed BoughËra El Ouafi,1936,1964,1999,7,Battle fleet Proponent,Very High,Ouafi,x
+290023,Minister of Armament,Ahmed Bough√®ra El Ouafi,1936,1964,1999,7,Battle fleet Proponent,Very High,Ouafi,x
 290024,Minister of Armament,El Hadj M'Hamed El Anka,1936,1964,1999,7,Strategic Air Proponent,Very High,Anka,x
 290025,Minister of Armament,Mohamed Ygerbuchen,1936,1964,1999,7,Air Superiority Proponent,Very High,unknown,x
 290026,Minister of Armament,Mohammed Dib,1940,1964,1999,7,Theoretical Scientist,Very High,Dib,x
@@ -45,20 +45,20 @@ U29,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 290044,Chief of Staff,Messali Hadj,1936,1964,1999,7,School of Mass Combat,Very High,AFR_messali_hadj,x
 290045,Chief of Staff,Said Boualam,1936,1964,1999,7,School of Mass Combat,Very High,Boualam,x
 290046,Chief of Staff,Krim Belkacem,1942,1964,1999,7,School of Fire Support,Very High,Belkacem,x
-290047,Chief of Staff,SaÔd Mohammedi,1936,1964,1999,7,School of Defence,Very High,Mohammedi,x
+290047,Chief of Staff,Sa√Ød Mohammedi,1936,1964,1999,7,School of Defence,Very High,Mohammedi,x
 290048,Chief of Staff,Mohamed Lamine Debaghine,1937,1964,1999,7,School of Manoeuvre,Very High,Debaghine,x
 290049,Chief of Army,Si Djilani,1936,1964,1999,7,Guns and Butter Doctrine,Very High,AFR_si_djilani,x
 290050,Chief of Army,Messali Hadj,1936,1964,1999,7,Decisive Battle Doctrine,Very High,AFR_messali_hadj,x
 290051,Chief of Army,Said Boualam,1936,1964,1999,7,Decisive Battle Doctrine,Very High,Boualam,x
 290052,Chief of Army,Krim Belkacem,1942,1964,1999,7,Armoured Spearhead Doctrine,Very High,Belkacem,x
-290053,Chief of Army,SaÔd Mohammedi,1936,1964,1999,7,Static Defence Doctrine,Very High,Mohammedi,x
+290053,Chief of Army,Sa√Ød Mohammedi,1936,1964,1999,7,Static Defence Doctrine,Very High,Mohammedi,x
 290054,Chief of Army,Mohamed Lamine Debaghine,1937,1964,1999,7,Elastic Defence Doctrine,Very High,Debaghine,x
 290055,Chief of Navy,Saad Dahlab,1938,1964,1999,7,Power Projection Doctrine,Very High,Dahlab,x
 290056,Chief of Navy,Sheikh Hamada,1936,1964,1999,7,Indirect Approach Doctrine,Very High,unknown,x
-290057,Chief of Navy,Ahmed BoughËra El Ouafi,1936,1964,1999,7,Decisive Naval Battle Doctrine,Very High,Ouafi,x
+290057,Chief of Navy,Ahmed Bough√®ra El Ouafi,1936,1964,1999,7,Decisive Naval Battle Doctrine,Very High,Ouafi,x
 290058,Chief of Navy,Jean-Elmouhoub Amrouche,1936,1964,1999,7,Open Seas Doctrine,Very High,Amrouche,x
 290059,Chief of Navy,Malek Bennabi,1936,1964,1999,7,Base Control Doctrine,Very High,Bennabi,x
-290060,Chief of Air Force,SaÔd Mohammedi,1936,1964,1999,7,Army Aviation Doctrine,Very High,Mohammedi,x
+290060,Chief of Air Force,Sa√Ød Mohammedi,1936,1964,1999,7,Army Aviation Doctrine,Very High,Mohammedi,x
 290061,Chief of Air Force,Saad Dahlab,1938,1964,1999,7,Naval Aviation Doctrine,Very High,Dahlab,x
 290062,Chief of Air Force,Malek Bennabi,1936,1964,1999,7,Vertical Envelopment Doctrine,Very High,Bennabi,x
 290063,Chief of Air Force,El Hadj M'Hamed El Anka,1936,1964,1999,7,Carpet Bombing Doctrine,Very High,Anka,x
@@ -68,8 +68,8 @@ U29,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 290067,Foreign Minister,Yussef ben-Khedda,1940,1964,1999,5,Ideological Crusader,Very High,M530025,x
 290068,Foreign Minister,Zekri Cheikh,1936,1964,1999,5,General Staffer,Very High,Cheikh,x
 290069,Foreign Minister,Mustapha Stambouli,1940,1964,1999,5,Apologetic Clerk,Very High,Stambouli,x
-290070,Foreign Minister,Bachir YellËs,1941,1964,1999,5,Great Compromiser,Very High,YellËs,x
-290071,Minister of Armament,Bachir YellËs,1941,1964,1999,5,Resource Industrialist,Very High,YellËs,x
+290070,Foreign Minister,Bachir Yell√®s,1941,1964,1999,5,Great Compromiser,Very High,Yell√®s,x
+290071,Minister of Armament,Bachir Yell√®s,1941,1964,1999,5,Resource Industrialist,Very High,Yell√®s,x
 290072,Minister of Armament,Zekri Cheikh,1936,1964,1999,5,Military Entrepreneur,Very High,Cheikh,x
 290073,Minister of Armament,Cheikh El Hasnaoui,1936,1964,1999,5,Infantry Proponent,Very High,Hasnaoui,x
 290074,Minister of Armament,Abdelkader Ben Bouali,1936,1964,1999,5,Tank Proponent,Very High,Bouali,x
@@ -78,7 +78,7 @@ U29,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 290077,Minister of Armament,Mohammed Yacine ,1940,1964,1999,5,Strategic Air Proponent,Very High,Yacine,x
 290078,Minister of Armament,Mustapha Stambouli,1940,1964,1999,5,Corrupt Kleptocrat,Very High,Stambouli,x
 290079,Minister of Security,Mustapha Stambouli,1940,1964,1999,5,Crooked Kleptocrat,Very High,Stambouli,x
-290080,Head of Military Intelligence,Bachir YellËs,1941,1964,1999,5,Industrial Specialist,Very High,YellËs,x
+290080,Head of Military Intelligence,Bachir Yell√®s,1941,1964,1999,5,Industrial Specialist,Very High,Yell√®s,x
 290081,Head of Military Intelligence,Zekri Cheikh,1936,1964,1999,5,Logistics Specialist,Very High,Cheikh,x
 290082,Head of Military Intelligence,Yussef ben-Khedda,1940,1964,1999,5,Naval Intelligence Specialist,Very High,M530025,x
 290083,Chief of Staff,Zekri Cheikh,1936,1964,1999,5,School of Psychology,Very High,Cheikh,x
@@ -96,30 +96,30 @@ U29,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 290095,Head of Government,Mouloud Feraoun,1936,1964,1999,4,naive optimist,Very High,Feraoun,x
 290096,Foreign Minister,Abane Ramdane,1940,1964,1999,4,Biased Intellectual,Very High,Ramdane,x
 290097,Foreign Minister,Ahmed Francis,1936,1964,1999,4,iron fisted brute,Very High,Francis,x
-290098,Foreign Minister,KaÔd Ahmed,1941,1964,1999,4,The Cloak N Dagger Schemer,Very High,Ahmed,x
-290099,Minister of Armament,KaÔd Ahmed,1941,1964,1999,4,Administrative Genius,Very High,Ahmed,x
-290100,Minister of Armament,Abderrahmane FarËs,1936,1964,1999,4,air to ground proponent,Very High,FarËs,x
+290098,Foreign Minister,Ka√Ød Ahmed,1941,1964,1999,4,The Cloak N Dagger Schemer,Very High,Ahmed,x
+290099,Minister of Armament,Ka√Ød Ahmed,1941,1964,1999,4,Administrative Genius,Very High,Ahmed,x
+290100,Minister of Armament,Abderrahmane Far√®s,1936,1964,1999,4,air to ground proponent,Very High,Far√®s,x
 290101,Minister of Armament,Mouloud Feraoun,1936,1964,1999,4,Air Superiority Proponent,Very High,Feraoun,x
 290102,Minister of Armament,Mohamed Boudiaf,1939,1964,1999,4,Battle fleet Proponent,Very High,Boudiaf,x
 290103,Minister of Armament,Abane Ramdane,1940,1964,1999,4,Theoretical Scientist,Very High,Ramdane,x
 290104,Minister of Armament,Ahmed Francis,1936,1964,1999,4,Laissez-Faire Capitalist,Very High,Francis,x
 290105,Minister of Security,Mohamed Boudiaf,1939,1964,1999,4,Silent Lawyer,Very High,Boudiaf,x
 290106,Minister of Security,Mohamed Khider,1936,1964,1999,4,Crime Fighter,Very High,Khider,x
-290107,Minister of Security,KaÔd Ahmed,1941,1964,1999,4,Efficient Sociopath,Very High,Ahmed,x
+290107,Minister of Security,Ka√Ød Ahmed,1941,1964,1999,4,Efficient Sociopath,Very High,Ahmed,x
 290108,Minister of Security,Mouloud Feraoun,1936,1964,1999,4,Man of the People,Very High,Feraoun,x
-290109,Minister of Security,Abderrahmane FarËs,1936,1964,1999,4,Back Stabber,Very High,FarËs,x
+290109,Minister of Security,Abderrahmane Far√®s,1936,1964,1999,4,Back Stabber,Very High,Far√®s,x
 290110,Minister of Security,Ahmed Francis,1936,1964,1999,4,Prince of Terror,Very High,Francis,x
 290111,Minister of Security,Abane Ramdane,1940,1964,1999,4,Compassionate Gentleman,Very High,Ramdane,x
-290112,Head of Military Intelligence,Abderrahmane FarËs,1936,1964,1999,4,Political Specialist,Very High,FarËs,x
+290112,Head of Military Intelligence,Abderrahmane Far√®s,1936,1964,1999,4,Political Specialist,Very High,Far√®s,x
 290113,Head of Military Intelligence,Abane Ramdane,1940,1964,1999,4,Technical Specialist,Very High,Ramdane,x
-290114,Head of Military Intelligence,KaÔd Ahmed,1941,1964,1999,4,Dismal Enigma,Very High,Ahmed,x
-290115,Chief of Staff,Abderrahmane FarËs,1936,1964,1999,4,School of Defence,Very High,FarËs,x
+290114,Head of Military Intelligence,Ka√Ød Ahmed,1941,1964,1999,4,Dismal Enigma,Very High,Ahmed,x
+290115,Chief of Staff,Abderrahmane Far√®s,1936,1964,1999,4,School of Defence,Very High,Far√®s,x
 290116,Chief of Staff,Ahmed Francis,1936,1964,1999,4,School of Manoeuvre,Very High,Francis,x
-290117,Chief of Army,Abderrahmane FarËs,1936,1964,1999,4,Static Defence Doctrine,Very High,FarËs,x
+290117,Chief of Army,Abderrahmane Far√®s,1936,1964,1999,4,Static Defence Doctrine,Very High,Far√®s,x
 290118,Chief of Army,Ahmed Francis,1936,1964,1999,4,Elastic Defence Doctrine,Very High,Francis,x
 290119,Chief of Navy,Mohamed Boudiaf,1939,1964,1999,4,Decisive Naval Battle Doctrine,Very High,Boudiaf,x
 290120,Chief of Navy,Mohamed Khider,1936,1964,1999,4,Base Control Doctrine,Very High,Khider,x
-290121,Chief of Air Force,Abderrahmane FarËs,1936,1964,1999,4,Army Aviation Doctrine,Very High,FarËs,x
+290121,Chief of Air Force,Abderrahmane Far√®s,1936,1964,1999,4,Army Aviation Doctrine,Very High,Far√®s,x
 290122,Chief of Air Force,Mohamed Khider,1936,1964,1999,4,Vertical Envelopment Doctrine,Very High,Khider,x
 290123,Chief of Air Force,Mouloud Feraoun,1936,1964,1999,4,Air Superiority Doctrine,Very High,Feraoun,x
 290124,Head of State,Amar Imache,1936,1964,1999,2,Benevolent Gentleman,Very High,AFR_amar_imache,x
@@ -130,16 +130,16 @@ U29,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 290129,Foreign Minister,Amar Imache,1936,1964,1999,2,Great Compromiser,Very High,AFR_amar_imache,x
 290130,Foreign Minister,Omar Derdour,1936,1964,1999,2,Biased Intellectual,Very High,Derdour,x
 290131,Foreign Minister,Larbi Ferhati,1936,1964,1999,2,General Staffer,Very High,Ferhati,x
-290132,Foreign Minister,Abderrahmane FarËs,1936,1964,1999,2,iron fisted brute,Very High,FarËs,x
+290132,Foreign Minister,Abderrahmane Far√®s,1936,1964,1999,2,iron fisted brute,Very High,Far√®s,x
 290133,Foreign Minister,Bachir Ben Mohamed Abdelouahab,1936,1964,1999,2,The Cloak N Dagger Schemer,Very High,Abdelouahab,x
 290134,Minister of Armament,Larbi Ferhati,1936,1964,1999,2,Military Entrepreneur,Very High,Ferhati,x
 290135,Minister of Armament,Sail Mohamed Ameriane ben Amerzaine,1936,1964,1999,1,Infantry Proponent,Very High,Amerzaine,x
-290136,Minister of Armament,Mahmoud ChÈrif,1936,1964,1999,2,Submarine Proponent,Very High,unknown,x
+290136,Minister of Armament,Mahmoud Ch√©rif,1936,1964,1999,2,Submarine Proponent,Very High,unknown,x
 290137,Minister of Armament,Mohand Arab Bessaoud,1942,1964,1999,2,Tank Proponent,Very High,Bessaoud,x
 290138,Minister of Armament,Youcef Zighoud,1941,1964,1999,2,Battle fleet Proponent,Very High,Zighoud,x
-290139,Minister of Armament,Mostefa Ben-BoulaÔd,1937,1964,1999,2,Strategic Air Proponent,Very High,Ben-BoulaÔd,x
+290139,Minister of Armament,Mostefa Ben-Boula√Ød,1937,1964,1999,2,Strategic Air Proponent,Very High,Ben-Boula√Ød,x
 290140,Minister of Armament,Ahmed ben-Bella,1936,1964,1999,2,air to ground proponent,Very High,M530028,x
-290141,Minister of Armament,TaÔeb Boulahrouf,1943,1964,1999,2,air to sea proponent,Very High,Boulahrouf,x
+290141,Minister of Armament,Ta√Øeb Boulahrouf,1943,1964,1999,2,air to sea proponent,Very High,Boulahrouf,x
 290142,Minister of Armament,Lakhdar Bentobal,1943,1964,1999,2,Air Superiority Proponent,Very High,5989,x
 290143,Minister of Armament,Omar Derdour,1936,1964,1999,2,Theoretical Scientist,Very High,Derdour,x
 290144,Minister of Armament,Amar Ouzegane,1936,1964,1999,1,Resource Industrialist,Very High,Ouzegane,x
@@ -151,7 +151,7 @@ U29,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 290150,Minister of Security,Ali Boumendjel,1939,1964,1999,2,Crime Fighter,Very High,Boumendjel,x
 290151,Minister of Security,Bachir Ben Mohamed Abdelouahab,1936,1964,1999,2,Back Stabber,Very High,Abdelouahab,x
 290152,Minister of Security,Rabah Bitat,1945,1964,1999,2,Crooked Kleptocrat,Very High,Bitat,x
-290153,Minister of Security,Abderrahmane FarËs,1936,1964,1999,2,Prince of Terror,Very High,FarËs,x
+290153,Minister of Security,Abderrahmane Far√®s,1936,1964,1999,2,Prince of Terror,Very High,Far√®s,x
 290154,Minister of Security,Ahmed Francis,1936,1964,1999,2,Man of the People,Very High,Francis,x
 290155,Minister of Security,Mohamed Khider,1936,1964,1999,2,Compassionate Gentleman,Very High,Khider,x
 290156,Head of Military Intelligence,Djamil Chirine,1936,1964,1999,2,Political Specialist,Very High,M530031,x
@@ -170,14 +170,14 @@ U29,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 290169,Chief of Army,Mohand Arab Bessaoud,1942,1964,1999,2,Armoured Spearhead Doctrine,Very High,Bessaoud,x
 290170,Chief of Army,Ahmed ben-Bella,1936,1964,1999,2,Guns and Butter Doctrine,Very High,M530028,x
 290171,Chief of Army,Larbi Ferhati,1936,1964,1999,2,Elastic Defence Doctrine,Very High,Ferhati,x
-290172,Chief of Navy,Mahmoud ChÈrif,1936,1964,1999,2,Indirect Approach Doctrine,Very High,unknown,x
+290172,Chief of Navy,Mahmoud Ch√©rif,1936,1964,1999,2,Indirect Approach Doctrine,Very High,unknown,x
 290173,Chief of Navy,Youcef Zighoud,1941,1964,1999,2,Decisive Naval Battle Doctrine,Very High,Zighoud,x
 290174,Chief of Navy,Saadi M'Barka,1936,1964,1999,2,Open Seas Doctrine,Very High,M530024,x
-290175,Chief of Navy,TaÔeb Boulahrouf,1943,1964,1999,2,Power Projection Doctrine,Very High,Boulahrouf,x
+290175,Chief of Navy,Ta√Øeb Boulahrouf,1943,1964,1999,2,Power Projection Doctrine,Very High,Boulahrouf,x
 290176,Chief of Navy,Mhamed Yazid,1943,1964,1999,2,Base Control Doctrine,Very High,unknown,x
 290177,Chief of Air Force,Ahmed ben-Bella,1936,1964,1999,2,Army Aviation Doctrine,Very High,M530028,x
-290178,Chief of Air Force,Mostefa Ben-BoulaÔd,1937,1964,1999,2,Carpet Bombing Doctrine,Very High,Ben-BoulaÔd,x
-290179,Chief of Air Force,TaÔeb Boulahrouf,1943,1964,1999,2,Naval Aviation Doctrine,Very High,Boulahrouf,x
+290178,Chief of Air Force,Mostefa Ben-Boula√Ød,1937,1964,1999,2,Carpet Bombing Doctrine,Very High,Ben-Boula√Ød,x
+290179,Chief of Air Force,Ta√Øeb Boulahrouf,1943,1964,1999,2,Naval Aviation Doctrine,Very High,Boulahrouf,x
 290180,Chief of Air Force,Mhamed Yazid,1943,1964,1999,2,Vertical Envelopment Doctrine,Very High,unknown,x
 290181,Chief of Air Force,Lakhdar Bentobal,1943,1964,1999,2,Air Superiority Doctrine,Very High,5989,x
 290182,Head of State,Shaykh Tahar ben Ammar,1936,1964,1999,3,Autocratic Charmer,Very High,M532011,x
@@ -190,16 +190,16 @@ U29,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 290189,Minister of Armament,Taieb Mehiri,1944,1964,1999,3,Battle Fleet Proponent,Very High,M532026,x
 290190,Minister of Armament,Habib Bourguiba,1936,1964,1999,3,Theoretical Scientist,Very High,M532015,x
 290191,Minister of Armament,Abdallah Farhat,1936,1964,1999,3,Submarine Proponent,Very High,M532042,x
-290192,Minister of Armament,Abdelaziz Th‚albi,1936,1964,1999,3,Administrative Genius,Very High,Th‚albi,x
+290192,Minister of Armament,Abdelaziz Th√¢albi,1936,1964,1999,3,Administrative Genius,Very High,Th√¢albi,x
 290193,Minister of Armament,Hassen Belkhodja,1936,1964,1999,3,Resource Industrialist,Very High,Belkhodja,x
 290194,Minister of Security,Bahi Ladgham,1936,1964,1999,3,Man of the People,Very High,M532020,x
-290195,Minister of Security,Abdelaziz Th‚albi,1936,1964,1999,3,Efficient Sociopath,Very High,Th‚albi,x
+290195,Minister of Security,Abdelaziz Th√¢albi,1936,1964,1999,3,Efficient Sociopath,Very High,Th√¢albi,x
 290196,Head of Military Intelligence,Habib Bourguiba,1936,1964,1999,3,Technical Specialist,Very High,M532015,x
 290197,Head of Military Intelligence,Chedli Klibi,1936,1964,1999,3,Dismal Enigma,Very High,Klibi,x
 290198,Head of Military Intelligence,Hassen Belkhodja,1936,1964,1999,3,Industrial Specialist,Very High,Belkhodja,x
-290199,Chief of Staff,HÈdi SaÔdi,1936,1964,1999,3,School of Defence,Very High,unknown,x
+290199,Chief of Staff,H√©di Sa√Ødi,1936,1964,1999,3,School of Defence,Very High,unknown,x
 290200,Chief of Staff,Habib Chatty,1936,1964,1999,3,School of Manoeuvre,Very High,Chatty,x
-290201,Chief of Army,HÈdi SaÔdi,1936,1964,1999,3,Static Defence Doctrine,Very High,unknown,x
+290201,Chief of Army,H√©di Sa√Ødi,1936,1964,1999,3,Static Defence Doctrine,Very High,unknown,x
 290202,Chief of Army,Habib Chatty,1936,1964,1999,3,elastic defence doctrine,Very High,Chatty,x
 290203,Chief of Navy,Djellouli Fares,1936,1964,1999,3,Base Control Doctrine,Very High,M532042,x
 290204,Chief of Navy,Abdallah Farhat,1936,1964,1999,3,Indirect Approach Doctrine,Very High,M532045,x

@@ -1,6 +1,6 @@
 EQA,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
 535001,Head of State,Richard Brunot,1936,1964,1999,4,Benevolent Gentleman,High,M534003,x
-535002,Head of Government,Barthelémy Boganda,1936,1964,1999,4,Naive Optimist,High,M535002,x
+535002,Head of Government,BarthelÃ©my Boganda,1936,1964,1999,4,Naive Optimist,High,M535002,x
 535003,Foreign Minister,Max de Masson de Saint-Felix,1936,1964,1999,4,Apologetic Clerk,High,M535003,x
 535004,Minister of Armament,Andre Latrille,1936,1964,1999,4,Theoretical Scientist,Medium,M533024,x
 535005,Minister of Security,Emile Possoz,1936,1964,1999,4,Efficient Sociopath,Medium,M535005,x
@@ -15,17 +15,17 @@ EQA,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 535014,Head of State,Henri Sautot,1942,1964,1999,4,Autocratic Charmer,High,M535009,x
 535015,Head of State,Jean V.L.J. Chalvet,1946,1964,1999,4,Autocratic Charmer,High,M535006,x
 535016,Head of State,David Dacko,1936,1964,1999,6,Barking Buffoon,High,M535016,x
-535017,Head of Government,Jean Bédel Bokassa,1936,1964,1999,6,Old General,High,M535017,x
+535017,Head of Government,Jean BÃ©del Bokassa,1936,1964,1999,6,Old General,High,M535017,x
 535018,Foreign Minister,Paul Appert,1942,1964,1999,4,General Staffer,High,M535018,x
-535019,Foreign Minister,Marcel Vomitendé,1936,1964,1999,6,The Cloak N Dagger Schemer,High,M535019,x
-535020,Minister of Armament,Aimé Lepercq,1942,1964,1999,4,Administrative Genius,Medium,M535020,x
-535021,Minister of Armament,Marcellus Briandé,1936,1964,1999,6,Resource Industrialist,Medium,M535021,x
+535019,Foreign Minister,Marcel VomitendÃ©,1936,1964,1999,6,The Cloak N Dagger Schemer,High,M535019,x
+535020,Minister of Armament,AimÃ© Lepercq,1942,1964,1999,4,Administrative Genius,Medium,M535020,x
+535021,Minister of Armament,Marcellus BriandÃ©,1936,1964,1999,6,Resource Industrialist,Medium,M535021,x
 535022,Minister of Security,Felix Leclerc,1941,1964,1999,4,Silent Lawyer,Medium,M535022,x
 535023,Minister of Security,Albert Idohou,1936,1964,1999,6,Back Stabber,Medium,M535023,x
 535024,Head of Military Intelligence,Edmond Magendie,1943,1964,1999,4,Logistics Specialist,Medium,M535024,x
 535025,Head of Military Intelligence,Paul Appert,1936,1964,1999,6,Political Specialist,Medium,M535018,x
 535026,Chief of Staff,Dominique Kosseyo,1936,1964,1999,6,School of Defence,Medium,M535026,x
-535027,Chief of Army,Jean Bédel Bokassa,1936,1964,1999,6,Guns and Butter Doctrine,Medium,M535017,x
+535027,Chief of Army,Jean BÃ©del Bokassa,1936,1964,1999,6,Guns and Butter Doctrine,Medium,M535017,x
 535028,Chief of Navy,Hylette Mangard,1936,1964,1999,6,Base Control Doctrine,Medium,M535028,x
 535029,Chief of Air Force,Ernest Pruvost,1942,1964,1999,4,Army Aviation Doctrine,Medium,M535029,x
 535030,Chief of Air Force,Emmanuel Bagindre,1936,1964,1999,6,Naval Aviation Doctrine,Medium,M535030,x

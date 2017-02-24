@@ -1,7 +1,7 @@
 VIC,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-57145,Minister of Armament,André Philip,3,Resource Industrialist,vic_andrphlp
-57146,Minister of Security,Édouard Depreux,3,Crime Fighter,vic_edurdpr
+57145,Minister of Armament,AndrÃ© Philip,3,Resource Industrialist,vic_andrphlp
+57146,Minister of Security,Ã‰douard Depreux,3,Crime Fighter,vic_edurdpr
 57124,Minister of Armament,Emile Borel,3,Administrative Genius,kai_vicembr
 57126,Minister of Security,Jean Hennessy,3,Crime Fighter,kai_vicjnhns
 57144,Foreign Minister,Louis Jacquinot,3,Apologetic Clerk,vic_lusjcqn
@@ -14,13 +14,13 @@ VIC,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 57143,Head of Government,Pierre Mendes France,3,Silent Workhorse,vic_prrmndsfr
 57127,Head of Military Intelligence,Vincent de Moro-Giafferi,3,Political Specialist,kai_vicvcdmrg
 57100,Foreign Minister,Albert Sarraut,4,Great Compromiser,VICSar
-57112,Minister of Security,André Salvat,4,Crime Fighter,M528036
+57112,Minister of Security,AndrÃ© Salvat,4,Crime Fighter,M528036
 57141,Head of Government,Antoine Pinay,4,Happy Amateur,vic_antpnnya
 57107,Head of Government,Damien Comte de Martel,4,Ambitious Union Boss,M528002
 57102,Head of Military Intelligence,Damien Comte de Martel,4,Logistics Specialist,M528002
-57092,Head of Government,Édouard Herriot,4,Silent Workhorse,VICEdo
-57026,Minister of Security,Édouard Herriot,4,Silent Lawyer,VICEdo
-57105,Chief of Navy,François Carré de Lusançay,4,Base Control Doctrine,M528009
+57092,Head of Government,Ã‰douard Herriot,4,Silent Workhorse,VICEdo
+57026,Minister of Security,Ã‰douard Herriot,4,Silent Lawyer,VICEdo
+57105,Chief of Navy,FranÃ§ois CarrÃ© de LusanÃ§ay,4,Base Control Doctrine,M528009
 57140,Minister of Armament,Francois de Menthon,4,Laissez-Faire Capitalist,vic_frcsdmth
 57104,Chief of Army,Gabriel Puaux,4,Armoured Spearhead Doctrine,M528008
 57109,Head of Government,Gabriel Puaux,4,Silent Workhorse,M528008
@@ -33,9 +33,9 @@ VIC,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 57101,Head of Military Intelligence,Laurent Eynac,4,Industrial Specialist,VICEyn
 57117,Chief of Navy,Louis Finet,4,Indirect Approach Doctrine,M529058
 57081,Minister of Armament,Maurice Palmade,4,Resource Industrialist,VICPal
-57082,Minister of Security,René Besse,4,Crime Fighter,VICBes
-57142,Foreign Minister,René Pleven,4,Ideological Crusader,M2090
-57089,Minister of Armament,René Renoult,4,Laissez-Faire Capitalist,VICRen
+57082,Minister of Security,RenÃ© Besse,4,Crime Fighter,VICBes
+57142,Foreign Minister,RenÃ© Pleven,4,Ideological Crusader,M2090
+57089,Minister of Armament,RenÃ© Renoult,4,Laissez-Faire Capitalist,VICRen
 57111,Head of Government,Yves Chataigneau,4,Corporate Suit,M528020
 57106,Minister of Security,Yves Morandat,4,Crooked Kleptocrat,M528005
 57087,Chief of Air Force,Antonin Brocard,5,Air Superiority Doctrine,VICBro
@@ -45,8 +45,8 @@ VIC,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 57071,Head of Government,Robert Schumann,5,Naive Optimist,M2088
 57069,Minister of Armament,Robert Schumann,5,Resource Industrialist,M2088
 57091,Chief of Army,Alphonse Juin,6,Decisive Battle Doctrine,VICJui
-57079,Chief of Staff,Antoine Béthouart,6,School of Psychology,VICAnt
-57090,Chief of Navy,François Piétri,6,Indirect Approach Doctrine,VICPie
+57079,Chief of Staff,Antoine BÃ©thouart,6,School of Psychology,VICAnt
+57090,Chief of Navy,FranÃ§ois PiÃ©tri,6,Indirect Approach Doctrine,VICPie
 57068,Foreign Minister,George Bidault,6,General Staffer,M2039
 57115,Chief of Air Force,Henri Amiel,6,Vertical Envelopment Doctrine,M528007
 57118,Foreign Minister,Jacques Baumel,6,Iron Fisted Brute,M529032
@@ -62,11 +62,11 @@ VIC,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 57137,Foreign Minister,Pierre Pflimlin,6,The Cloak N Dagger Schemer,vic_prrflmr
 57136,Head of Government,Pierre Pflimlin,6,Flamboyant Tough Guy,vic_prrflmr
 57138,Minister of Armament,Pierre-Henri Teitgen,6,Resource Industrialist,vic_prrhnrttg
-57080,Minister of Security,Théodore Steeg,6,Compassionate Gentleman,VICSte
+57080,Minister of Security,ThÃ©odore Steeg,6,Compassionate Gentleman,VICSte
 57014,Foreign Minister,Albert Thomas,7,The Cloak N Dagger Schemer,M57014
 57018,Foreign Minister,Arne Leroy,7,Great Compromiser,M57018
 57085,Chief of Staff,Bernard Serrigny,7,School of Defence,VICSer
-57013,Foreign Minister,Charles André Weiss,7,Iron Fisted Brute,M57013
+57013,Foreign Minister,Charles AndrÃ© Weiss,7,Iron Fisted Brute,M57013
 57056,Chief of Staff,Charles de Gaulle,7,School of Manoeuvre,M2027
 57054,Head of Government,Charles de Gaulle,7,Old General,M2027
 57055,Minister of Armament,Charles de Gaulle,7,Tank Proponent,M2027
@@ -74,7 +74,7 @@ VIC,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 57067,Head of Government,Charles Huntzinger,7,Political Protege,M57007
 57035,Chief of Army,Eugene Bridoux,7,Decisive Battle Doctrine,M57034
 57034,Chief of Staff,Eugene Bridoux,7,School of Mass Combat,M57034
-57066,Head of Government,François de la Rocque,7,Old General,kaiserreich francoisdelarocque
+57066,Head of Government,FranÃ§ois de la Rocque,7,Old General,kaiserreich francoisdelarocque
 57016,Foreign Minister,Gabriel Hanoteaux,7,Ideological Crusader,M57016
 57064,Chief of Navy,Georges Thierry d'Argenlieu,7,Power Projection Doctrine,L24173
 57040,Head of Military Intelligence,Gouffre de Lapradelle,7,Industrial Specialist,M57031
@@ -93,7 +93,7 @@ VIC,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 57002,Head of Government,Jean-Francois Darlan,7,Old Admiral,M57002
 57025,Minister of Security,Jean-Francois Darlan,7,Back Stabber,M57002
 57010,Chief of Air Force,Jean Marie Bergeret,7,Army Aviation Doctrine,M57010
-57005,Minister of Security,Joseph Barthélemy,7,Silent Lawyer,M57005
+57005,Minister of Security,Joseph BarthÃ©lemy,7,Silent Lawyer,M57005
 57093,Chief of Navy,Marie-Jean-Lucien Lacaze,7,Indirect Approach Doctrine,VICLac
 57020,Minister of Armament,Marie-Jean-Lucien Lacaze,7,Battle Fleet Proponent,VICLac
 57004,Minister of Armament,Marius Berliet,7,Industrialiser,M57004
@@ -109,19 +109,19 @@ VIC,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 57062,Chief of Staff,Philippe de Hauteclocque,7,School of Manoeuvre,L24116
 57131,Head of Government,Pierre Pujo,7,Silent Workhorse,kai_vicprpj
 57030,Minister of Security,Raphael Alibert,7,Crime Fighter,M57030
-57006,Head of Military Intelligence,René Bousquet,7,Technical Specialist,M57006
-57029,Minister of Security,René Bousquet,7,Compassionate Gentleman,M57006
-57088,Chief of Air Force,René Paul Fonck,7,Air Superiority Doctrine,VICFon
+57006,Head of Military Intelligence,RenÃ© Bousquet,7,Technical Specialist,M57006
+57029,Minister of Security,RenÃ© Bousquet,7,Compassionate Gentleman,M57006
+57088,Chief of Air Force,RenÃ© Paul Fonck,7,Air Superiority Doctrine,VICFon
 57021,Minister of Armament,Robert Haas,7,Laissez-Faire Capitalist,M57021
 57022,Minister of Armament,Stephane Auphan,7,Air to Sea Proponent,M57022
 57019,Minister of Armament,Tulio Franco Franco,7,Resource Industrialist,M57019
-57046,Head of Military Intelligence,André Dewavrin,8,Political Specialist,kaiserreich AndreDewavrin
+57046,Head of Military Intelligence,AndrÃ© Dewavrin,8,Political Specialist,kaiserreich AndreDewavrin
 57060,Head of Government,Charles Maurras,8,Flamboyant Tough Guy,kaiserreich_maurras
-57047,Minister of Armament,Édouard Branly,8,Theoretical Scientist,kaiserreich eduoardbranly
-57147,Foreign Minister,Édouard de Castelnau,8,General Staffer,Kaiserreich Castelnau
-57045,Minister of Security,Eugène Deloncle,8,Efficient Sociopath,kaiserreich deloncle2
-57044,Minister of Armament,Eugène Schueller,8,Resource Industrialist,kaiserreich eugeneschueller
-57048,Chief of Army,François de la Rocque,8,Guns and Butter Doctrine,kaiserreich francoisdelarocque
+57047,Minister of Armament,Ã‰douard Branly,8,Theoretical Scientist,kaiserreich eduoardbranly
+57147,Foreign Minister,Ã‰douard de Castelnau,8,General Staffer,Kaiserreich Castelnau
+57045,Minister of Security,EugÃ¨ne Deloncle,8,Efficient Sociopath,kaiserreich deloncle2
+57044,Minister of Armament,EugÃ¨ne Schueller,8,Resource Industrialist,kaiserreich eugeneschueller
+57048,Chief of Army,FranÃ§ois de la Rocque,8,Guns and Butter Doctrine,kaiserreich francoisdelarocque
 57077,Head of Military Intelligence,Henri d'Astier de La Vigerie,8,Logistics Specialist,VICVig
 57050,Chief of Air Force,Jean Mermoz,8,Army Aviation Doctrine,kaiserreich JeanMermoz
 57049,Chief of Staff,Louis Franchet d'Esperey,8,School of Psychology,Kaiserreich d'Esperey

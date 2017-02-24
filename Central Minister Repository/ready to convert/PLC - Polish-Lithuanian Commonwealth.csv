@@ -44,7 +44,7 @@ U00,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 921000,Minister of Armament,Jan Piekalkiewicz,4,Administrative Genius,M13065
 921055,Head of Military Intelligence,Kazimierz Bartel,4,Political Specialist,M13105
 920999,Minister of Armament,Marian Zyndram-Koscialkowski,4,Infantry Proponent,M13002
-921026,Minister of Security,Mykolas Sleževièius,4,Crime Fighter,M28085
+921026,Minister of Security,Mykolas SleÅ¾eviÃ¨ius,4,Crime Fighter,M28085
 920945,Head of Government,Stanislaw Mikolajczyk,4,Ambitious Union Boss,M13046
 921010,Minister of Armament,Adam Krzyzanowski,5,laissez-faire capitalist,kaiserreich akrzyzankowski
 920974,Foreign Minister,Aleksander Lednicki,5,Biased Intellectual,kaiserreich alednicki
@@ -92,7 +92,7 @@ U00,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 920918,Chief of Navy,Jerzy Swirski,7,Open Seas Doctrine,M13009
 921073,Chief of Staff,Jonas Cernius,7,School of Manoeuvre,M28014
 921004,Minister of Armament,Jonas Smilgevicius,7,laissez-faire capitalist,kaiserreich jsmilgevicius
-920919,Chief of Air Force,Józef Zajac,7,Air Superiority Doctrine,M13010
+920919,Chief of Air Force,JÃ³zef Zajac,7,Air Superiority Doctrine,M13010
 920984,Foreign Minister,Juozas Urbsys,7,General Staffer,M28058
 921121,Chief of Air Force,Ludomil Rayski,7,Army Aviation Doctrine,M13134
 921052,Head of Military Intelligence,Marian Rejewski,7,Technical Specialist,kaiserreich MarianRejewski
@@ -108,15 +108,15 @@ U00,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 921031,Minister of Security,Zdzislaw Lubomirski,7,Compassionate Gentleman,kaiserreich zlubomirski
 920980,Foreign Minister,Archbishop A. Sapieha,8,Ideological Crusader,kaiserreich asapieha
 920917,Chief of Army,Stasys Rastikis,8,Elastic Defence Doctrine,M28008
-920953,Head of Government,Adam Doboszyñski,9,Flamboyant Tough Guy,kaiserreich adoboszynski
+920953,Head of Government,Adam DoboszyÃ±ski,9,Flamboyant Tough Guy,kaiserreich adoboszynski
 921054,Head of Military Intelligence,Feliks Koneczny,9,Technical Specialist,M13108
 920981,Foreign Minister,Jedrzej Giertych,9,Ideological Crusader,M13067
 921007,Minister of Armament,Jerzy Zdziechowski,9,Resource Industrialist,kaiserreich jzdziechowski
-921093,Chief of Army,Marian Januszajtis-¯egota,9,elastic defence doctrine,kaiserreich mjanuszajtiszegota
-921074,Chief of Staff,Marian Januszajtis-¯egota,9,School of Psychology,kaiserreich mjanuszajtiszegota
+921093,Chief of Army,Marian Januszajtis-Â¯egota,9,elastic defence doctrine,kaiserreich mjanuszajtiszegota
+921074,Chief of Staff,Marian Januszajtis-Â¯egota,9,School of Psychology,kaiserreich mjanuszajtiszegota
 921035,Minister of Security,Mieczyslaw Trajdos,9,Silent Lawyer,M13101
 921008,Minister of Armament,Roman Rybarski,9,Administrative Genius,kaiserreich rrybarski
-921034,Minister of Security,Seweryn Czetwertynski,9,Crooked Kleptocrat,kaiserreich sczetwertyñski
+921034,Minister of Security,Seweryn Czetwertynski,9,Crooked Kleptocrat,kaiserreich sczetwertyÃ±ski
 920954,Head of Government,Tadeusz Bielecki,9,Backroom Backstabber,M13051
 921036,Minister of Security,Tadeusz Bielecki,9,Prince of Terror,M13051
 920982,Foreign Minister,Zygmunt Berezowski,9,iron fisted brute,kaiserreich zberezowski

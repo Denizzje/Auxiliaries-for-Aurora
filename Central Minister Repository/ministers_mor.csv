@@ -61,9 +61,9 @@ MOR,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 531059,Chief of Air Force,Mohammed Medbouh,1947,1964,1999,7,Air Superiority Doctrine,Very High,KRMedbouh,X
 531060,Chief of Air Force,Ahmed Skirej,1936,1964,1999,7,Carpet Bombing Doctrine,Very High,Skirej,X
 531061,Chief of Air Force,Abd al-Rahman ibn Zaydan,1936,1964,1999,7,Vertical Envelopment Doctrine,Very High,unknown,X
-531062,Head of State,Léon Soltane,1936,1964,1999,1,Die-hard Reformer,Very High,unknown,X
+531062,Head of State,LÃ©on Soltane,1936,1964,1999,1,Die-hard Reformer,Very High,unknown,X
 531063,Head of State,Abdallah Ibrahim,1938,1964,1999,2,Weary Stiffneck,Very High,KRAibrahim,X
-531064,Head of Government,Léon Soltane,1936,1964,1999,1,Ambitious Union Boss,Very High,unknown,X
+531064,Head of Government,LÃ©on Soltane,1936,1964,1999,1,Ambitious Union Boss,Very High,unknown,X
 531065,Head of Government,Ali Yata,1940,1964,1999,1,Naive Optimist,Very High,Yata,X
 531066,Head of Government,Abdallah Ibrahim,1938,1964,1999,2,Flamboyant Tough Guy,Very High,KRAibrahim,X
 531067,Head of Government,Mehdi ben-Barka,1940,1964,1999,2,Smiling Oilman,Very High,M531016,X
@@ -161,7 +161,7 @@ MOR,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 531159,Foreign Minister,Abdelkrim al-Khattabi,1936,1964,1999,4,The Cloak N Dagger Schemer,Very High,al-Khattabi,X
 531160,Minister of Armament,Abdelhadi Tazi,1941,1964,1999,4,Administrative Genius,Very High,Tazi,X
 531161,Minister of Armament,Abdallah al-Jirari ,1936,1964,1999,4,Air to Ground Proponent,Very High,unknown,X
-531162,Minister of Armament,Houcine Ben Bouchaïb,1938,1964,1999,4,Air Superiority Proponent,Very High,Bouchaïb,X
+531162,Minister of Armament,Houcine Ben BouchaÃ¯b,1938,1964,1999,4,Air Superiority Proponent,Very High,BouchaÃ¯b,X
 531163,Minister of Armament,Abdallah Guennoun,1936,1964,1999,4,Battle Fleet Proponent,Very High,Guennoun,X
 531164,Minister of Armament,Mohammed Boujendar,1936,1964,1999,4,Theoretical Scientist,Very High,unknown,X
 531165,Minister of Armament,Mohammed Aziz Lahbabi,1942,1964,1999,4,Laissez-Faire Capitalist,Very High,unknown,X
@@ -180,6 +180,6 @@ MOR,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 531178,Chief of Navy,Said Hajji,1936,1964,1999,4,Base Control Doctrine,Very High,Hajji,X
 531179,Chief of Air Force,Abdallah al-Jirari ,1936,1964,1999,4,Army Aviation Doctrine,Very High,unknown,X
 531180,Chief of Air Force,Said Hajji,1936,1964,1999,4,Vertical Envelopment Doctrine,Very High,Hajji,X
-531181,Chief of Air Force,Houcine Ben Bouchaïb,1938,1964,1999,4,Air Superiority Doctrine,Very High,Bouchaïb,X
+531181,Chief of Air Force,Houcine Ben BouchaÃ¯b,1938,1964,1999,4,Air Superiority Doctrine,Very High,BouchaÃ¯b,X
 531182,Head of State,Under German Administration,1963,1964,1999,7,Weary Stiffneck,Very High,kai_gercoladmi,X
 531183,Head of State,Under German Administration,1963,1964,1999,6,Weary Stiffneck,Very High,kai_gercoladmi,X

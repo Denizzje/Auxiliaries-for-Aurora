@@ -1,13 +1,13 @@
 U01,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
 41023,Foreign Minister,Calixto Aroyo Tabaorda,1,Great Compromiser,M41023
-41024,Minister of Armament,RamÛn Menendez S˙ris,1,Infantry Proponent,M41024
+41024,Minister of Armament,Ram√≥n Menendez S√∫ris,1,Infantry Proponent,M41024
 41059,Minister of Armament,Carlos Neves Ochoa,2,Submarine Proponent,M41059
 41049,Foreign Minister,Emilio Frugoni,2,The Cloak N Dagger Schemer,M41021
 41022,Head of Government,Emilio Frugoni,2,Ambitious Union Boss,M41021
 41075,Head of Military Intelligence,James McFarlane Rubio,2,Industrial Specialist,M41075
-41025,Minister of Security,Jes˙s Menendez S˙ris,2,Back Stabber,M41025
-41098,Chief of Air Force,Manuel Redondo Galv·n,2,Vertical Envelopment Doctrine,M41098
+41025,Minister of Security,Jes√∫s Menendez S√∫ris,2,Back Stabber,M41025
+41098,Chief of Air Force,Manuel Redondo Galv√°n,2,Vertical Envelopment Doctrine,M41098
 41038,Head of Government,A. Dres Gustavo,3,Happy Amateur,M41032
 41062,Minister of Security,A. Dres Gustavo,3,Prince of Terror,M41032
 41094,Chief of Air Force,Alvaro Ledon Gutierrez,3,Air Superiority Doctrine,M41030
@@ -15,11 +15,11 @@ U01,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 41040,Head of Government,Baltasar Brun,3,Old Admiral,M41034
 41082,Chief of Army,Cantido Quintio Reyes,3,Static Defence Doctrine,M41077
 41077,Chief of Staff,Cantido Quintio Reyes,3,School of Defence,M41077
-41056,Minister of Armament,Carlos Jackson UrribÈ,3,Battle Fleet Proponent,M41009
+41056,Minister of Armament,Carlos Jackson Urrib√©,3,Battle Fleet Proponent,M41009
 41090,Chief of Navy,Carlos Neves Ochoa,3,Indirect Approach Doctrine,M41059
-41092,Chief of Navy,Claudio Vio ValdÈz,3,Open Seas Doctrine,M41092
+41092,Chief of Navy,Claudio Vio Vald√©z,3,Open Seas Doctrine,M41092
 41048,Foreign Minister,Eduardo Rodriguez Larreta,3,Great Compromiser,M41048
-41071,Head of Military Intelligence,Enrique Isoba ¡lvarez,3,Technical Specialist,M41026
+41071,Head of Military Intelligence,Enrique Isoba √Ålvarez,3,Technical Specialist,M41026
 41096,Chief of Air Force,Ernesto Sanchez Elizondo,3,Army Aviation Doctrine,M41057
 41073,Head of Military Intelligence,Hippolito Gallinal,3,Logistics Specialist,M41073
 41067,Minister of Security,Jose Pedro Varela,3,Crime Fighter,M41067
@@ -27,25 +27,25 @@ U01,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 41052,Minister of Armament,Leopoldo C. Agorio,3,Theoretical Scientist,M41052
 41088,Chief of Navy,Rafael Marques Ayala,3,Base Control Doctrine,M41029
 41046,Foreign Minister,Washington Beltran,3,Ideological Crusader,M41046
-41097,Chief of Air Force,A. MartÌn de la Flores,4,Naval Aviation Doctrine,M41091
-41091,Chief of Navy,A. MartÌn de la Flores,4,Power Projection Doctrine,M41091
+41097,Chief of Air Force,A. Mart√≠n de la Flores,4,Naval Aviation Doctrine,M41091
+41091,Chief of Navy,A. Mart√≠n de la Flores,4,Power Projection Doctrine,M41091
 41065,Minister of Security,Alberto Dominguez Campora,4,Prince of Terror,M41065
 41066,Minister of Security,Andres Pacheco,4,Efficient Sociopath,M41066
 41102,Head of Government,Andres Trueba,4,Flamboyant Tough Guy,M41074
 41074,Head of Military Intelligence,Andres Trueba,4,Technical Specialist,M41074
 41106,Head of Government,Arturo Lezama Bagez,4,Happy Amateur,unknown
-41085,Chief of Army,Eleazar DÌaz Caminate,4,Decisive Battle Doctrine,M41085
+41085,Chief of Army,Eleazar D√≠az Caminate,4,Decisive Battle Doctrine,M41085
 41057,Minister of Armament,Ernesto Sanchez Elizondo,4,Air Superiority Proponent,M41057
-41047,Foreign Minister,JosÈ Serrato,4,Apologetic Clerk,M41047
+41047,Foreign Minister,Jos√© Serrato,4,Apologetic Clerk,M41047
 41058,Minister of Armament,Julio Cesar Grauer,4,Resource Industrialist,M41058
 41079,Chief of Staff,Julio Cesar Vadora,4,School of Psychology,M41027
 41042,Head of Government,Luis Conrado Batlle Beres,4,Naive Optimist,M41036
 41041,Head of Government,Tomas Beretta Gandolfo,4,Flamboyant Tough Guy,M41035
-41110,Head of Government,Alberto FermÌn ZubirÌa,5,Silent Workhorse,unknown
-41089,Chief of Navy,Francisco SuarÈz Villablanco,5,Open Seas Doctrine,M41089
+41110,Head of Government,Alberto Ferm√≠n Zubir√≠a,5,Silent Workhorse,unknown
+41089,Chief of Navy,Francisco Suar√©z Villablanco,5,Open Seas Doctrine,M41089
 41045,Foreign Minister,Hector Alberto Gerona,5,Iron Fisted Brute,M41045
 41083,Chief of Army,Hector Lopez Camara,5,Guns and Butter Doctrine,M41083
-41055,Minister of Armament,Joaquin Garcia SanchÈz,5,Air to Ground Proponent,M41055
+41055,Minister of Armament,Joaquin Garcia Sanch√©z,5,Air to Ground Proponent,M41055
 41039,Head of Government,Juan de Amezaga,5,Corporate Suit,M41033
 41078,Chief of Staff,Juan Franki Franque,5,School of Manoeuvre,M41078
 41072,Head of Military Intelligence,Julio Escalona Vasquez,5,Dismal Enigma,M41072
@@ -55,34 +55,34 @@ U01,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 41043,Foreign Minister,Alberto Guani,6,The Cloak N Dagger Schemer,M41043
 41037,Head of Government,Alfredo Baldomir,6,Old General,M41004
 41108,Head of Government,Benito Nardone Cetrulo,6,Corporate Suit,URU_benito_nardone_cetrulo
-41104,Head of Government,Daniel Fern·ndez Crespo,6,Naive Optimist,URU_daniel_fernandez_crespo
+41104,Head of Government,Daniel Fern√°ndez Crespo,6,Naive Optimist,URU_daniel_fernandez_crespo
 41081,Chief of Army,Enrico Amancias Rodriguez,6,Elastic Defence Doctrine,M41081
 41070,Head of Military Intelligence,Enrique Moutisch,6,Industrial Specialist,M41070
 41061,Minister of Security,Horacio Arredondo,6,Man of the People,M41061
 41054,Minister of Armament,Jorge Elio Mendoza,6,Infantry Proponent,M41008
-41069,Head of Military Intelligence,Julio T. FernandÈz,6,Technical Specialist,M41069
+41069,Head of Military Intelligence,Julio T. Fernand√©z,6,Technical Specialist,M41069
 41101,Head of Government,Luis Giannattasio Finocchetti,6,Silent Workhorse,URU_luis_giannattasio
-41112,Head of Government,MartÌn Recaredo Echegoyen,6,Naive Optimist,URU_martin_recaredo_echegoyen
-41093,Chief of Air Force,ValentÌn Gomez,6,Carpet Bombing Doctrine,M41051
-41051,Minister of Armament,ValentÌn Gomez,6,Strategic Air Proponent,M41051
+41112,Head of Government,Mart√≠n Recaredo Echegoyen,6,Naive Optimist,URU_martin_recaredo_echegoyen
+41093,Chief of Air Force,Valent√≠n Gomez,6,Carpet Bombing Doctrine,M41051
+41051,Minister of Armament,Valent√≠n Gomez,6,Strategic Air Proponent,M41051
 41004,Minister of Armament,Alfredo Baldomir,7,Military Entrepreneur,M41004
 41068,Head of Military Intelligence,Antonio de Lara Rivas,7,Industrial Specialist,M41068
-41009,Chief of Navy,Carlos Jackson UrribÈ,7,Decisive Naval Battle Doctrine,M41009
-41010,Chief of Air Force,Cosme AlvarÈz Berisso,7,Air Superiority Doctrine,M41010
-41006,Head of Military Intelligence,Cristiano Piraguy TrellÈs,7,Logistics Specialist,M41006
+41009,Chief of Navy,Carlos Jackson Urrib√©,7,Decisive Naval Battle Doctrine,M41009
+41010,Chief of Air Force,Cosme Alvar√©z Berisso,7,Air Superiority Doctrine,M41010
+41006,Head of Military Intelligence,Cristiano Piraguy Trell√©s,7,Logistics Specialist,M41006
 41002,Head of Government,Gabriel Terra,7,Smiling Oilman,M41001
 41005,Minister of Security,Heinz Glockenberger,7,Prince of Terror,M41005
-41050,Minister of Armament,Ignacio JustÈ Morales,7,laissez-faire capitalist,M41050
+41050,Minister of Armament,Ignacio Just√© Morales,7,laissez-faire capitalist,M41050
 41008,Chief of Army,Jorge Eloi Mendoza,7,Static Defence Doctrine,M41008
-41003,Foreign Minister,JosÈ Espalter,7,Iron Fisted Brute,M41003
+41003,Foreign Minister,Jos√© Espalter,7,Iron Fisted Brute,M41003
 41007,Chief of Staff,Manuel Heinz Azpurua,7,School of Fire Support,M41007
-41060,Minister of Security,Paulo Ortega FruscÌ,7,Back Stabber,M41060
-41014,Minister of Armament,Abelardo DÌaz Alvarez,8,Infantry Proponent,M41014
-41012,Head of Government,Abelardo MartÌnez,8,Old Admiral,M41011
+41060,Minister of Security,Paulo Ortega Frusc√≠,7,Back Stabber,M41060
+41014,Minister of Armament,Abelardo D√≠az Alvarez,8,Infantry Proponent,M41014
+41012,Head of Government,Abelardo Mart√≠nez,8,Old Admiral,M41011
 41020,Chief of Air Force,Francisco Castilla Paredes,8,Army Aviation Doctrine,M41020
 41019,Chief of Navy,Hector Bonilla Gomez,8,Base Control Doctrine,M41019
 41016,Head of Military Intelligence,Lui Soro Contioni,8,Industrial Specialist,M41016
-41013,Foreign Minister,LuÌs Santiago Reguera,8,The Cloak N Dagger Schemer,M41013
-41015,Minister of Security,Roberto Acosta DÌez,8,Crime Fighter,M41015
-41018,Chief of Army,Teo BucardÌ Ramos,8,Elastic Defence Doctrine,M41017
-41017,Chief of Staff,Teo BucardÌ Ramos,8,School of Manoeuvre,M41017
+41013,Foreign Minister,Lu√≠s Santiago Reguera,8,The Cloak N Dagger Schemer,M41013
+41015,Minister of Security,Roberto Acosta D√≠ez,8,Crime Fighter,M41015
+41018,Chief of Army,Teo Bucard√≠ Ramos,8,Elastic Defence Doctrine,M41017
+41017,Chief of Staff,Teo Bucard√≠ Ramos,8,School of Manoeuvre,M41017

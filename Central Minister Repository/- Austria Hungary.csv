@@ -1,10 +1,10 @@
 U24,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
 29500,Head of State,S.K.u.K.M. Otto I von Habsburg,1936,1964,1999,7,young kaiser,High,kaiserreich ottoivh,x
-29501,Head of Government,O. Lˆwenfels-Aarengau,1936,1964,1999,7,Naive Optimist,High,M23048,x
-29502,Foreign Minister,O. Lˆwenfels-Aarengau,1936,1964,1999,7,General Staffer,High,M23048,x
+29501,Head of Government,O. L√∂wenfels-Aarengau,1936,1964,1999,7,Naive Optimist,High,M23048,x
+29502,Foreign Minister,O. L√∂wenfels-Aarengau,1936,1964,1999,7,General Staffer,High,M23048,x
 29503,Minister of Armament,T. Winkler-Kreuth-Mautner,1936,1964,1999,7,laissez-faire capitalist,High,M23067,x
 29504,Minister of Security,W. Ehrenburg von Loetitz,1936,1964,1999,7,Efficient Sociopath,High,M23082,x
-29505,Head of Military Intelligence,Kalm·n Szell,1936,1964,1999,7,Political Specialist,Medium,M23093,x
+29505,Head of Military Intelligence,Kalm√°n Szell,1936,1964,1999,7,Political Specialist,Medium,M23093,x
 29506,Chief of Staff,Karl Kirchbach,1936,1964,1999,8,School of Defence,High,MKirchbach,x
 29507,Chief of Army,Erzherzog Friedrich,1936,1964,1999,8,Guns and Butter Doctrine,High,MErzFriedrich,x
 29508,Chief of Navy,Janko Vukovic,1936,1964,1999,7,Decisive Naval Battle Doctrine,Very High,MVukovic,x
@@ -17,9 +17,9 @@ U24,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 29515,Head of Military Intelligence,Wilhelm Gebauer,1936,1964,1999,8,Logistics Specialist,Medium,M23006,x
 29516,Chief of Staff,Alfred von Jansa,1936,1964,1999,8,School of Defence,Medium,M23007,x
 29517,Chief of Army,Wilhelm Zehner,1936,1964,1999,8,Elastic Defence Doctrine,High,M23008,x
-29518,Chief of Navy,Paul von HegedÅE,1936,1964,1999,8,Decisive Naval Battle Doctrine,High,M23009,x
-29519,Chief of Air Force,Alexander Lˆhr,1936,1964,1999,9,Army Aviation Doctrine,Medium,M23010,x
-29520,Head of State,Josef BÅEckel,1936,1964,1999,8,Insignificant Layman,High,M23042,x
+29518,Chief of Navy,Paul von Heged¬ÅE,1936,1964,1999,8,Decisive Naval Battle Doctrine,High,M23009,x
+29519,Chief of Air Force,Alexander L√∂hr,1936,1964,1999,9,Army Aviation Doctrine,Medium,M23010,x
+29520,Head of State,Josef B¬ÅEckel,1936,1964,1999,8,Insignificant Layman,High,M23042,x
 29521,Head of State,Arthur Seyss-Inquart,1936,1964,1999,9,Die-hard Reformer,High,M23011,x
 29522,Head of State,Karl Renner,1936,1964,1999,6,Benevolent Gentleman,High,M23021,x
 29523,Head of State,Leopold Figl,1936,1964,1999,3,Pig-headed Isolationist,High,M23045,x
@@ -28,8 +28,8 @@ U24,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 29526,Head of Government,Albert Mendsdorff-Pouilly,1936,1964,1999,8,Happy Amateur,High,M23049,x
 29527,Head of Government,Edmund Glaise-Horstenau,1936,1964,1999,9,Old General,High,M23050,x
 29528,Head of Government,Wilhelm Wolff,1936,1964,1999,9,Flamboyant Tough Guy,High,M23013,x
-29529,Head of Government,Ludwig HÅegerth,1936,1964,1999,6,Corporate Suit,High,M23052,x
-29530,Head of Government,Adolf Sch‰rf,1936,1964,1999,3,Naive Optimist,High,M23022,x
+29529,Head of Government,Ludwig H¬Åegerth,1936,1964,1999,6,Corporate Suit,High,M23052,x
+29530,Head of Government,Adolf Sch√§rf,1936,1964,1999,3,Naive Optimist,High,M23022,x
 29531,Head of Government,Willi Frank,1936,1964,1999,1,Happy Amateur,High,M23035,x
 29532,Head of Government,Josef Teufl,1936,1964,1999,0,Backroom Backstabber,High,M23047,x
 29533,Foreign Minister,Guido Schmidt,1936,1964,1999,8,The Cloak N Dagger Schemer,High,M23057,x
@@ -39,20 +39,20 @@ U24,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 29537,Foreign Minister,Edmund Glaise-Horstenau,1936,1964,1999,9,General Staffer,Medium,M23061,x
 29538,Foreign Minister,Karl Gruber,1936,1964,1999,5,Biased Intellectual,Low,M23023,x
 29539,Foreign Minister,Leopold Figl,1936,1964,1999,5,Great Compromiser,Medium,M23045,x
-29540,Foreign Minister,Adolf Sch‰rf,1936,1964,1999,5,Biased Intellectual,Medium,M23022,x
+29540,Foreign Minister,Adolf Sch√§rf,1936,1964,1999,5,Biased Intellectual,Medium,M23022,x
 29541,Foreign Minister,Alfred Klahr,1936,1964,1999,1,Ideological Crusader,High,M23033,x
 29542,Foreign Minister,Willi Frank,1936,1964,1999,0,Iron Fisted Brute,Medium,M23035,x
 29543,Minister of Armament,Albert Mendsdorff-Pouilly,1936,1964,1999,7,Administrative Genius,Medium,M23049,x
 29544,Minister of Armament,Josef Dobretsberger,1936,1964,1999,8,laissez-faire capitalist,High,M23069,x
-29545,Minister of Armament,Paul von HegedÅe,1936,1964,1999,8,Battle Fleet Proponent,High,M23009,x
+29545,Minister of Armament,Paul von Heged¬Åe,1936,1964,1999,8,Battle Fleet Proponent,High,M23009,x
 29546,Minister of Armament,Rudolf Neumayr,1936,1964,1999,9,Resource Industrialist,Medium,M23014,x
-29547,Minister of Armament,Hans Fischbˆck,1936,1964,1999,9,Military Entrepreneur,High,M23072,x
+29547,Minister of Armament,Hans Fischb√∂ck,1936,1964,1999,9,Military Entrepreneur,High,M23072,x
 29548,Minister of Armament,Alfred Maleta,1936,1964,1999,9,Tank Proponent,Medium,M23073,x
 29549,Minister of Armament,Eduard Heinl,1936,1964,1999,5,Theoretical Scientist,Medium,M23024,x
 29550,Minister of Armament,Karl Gruber,1936,1964,1999,5,Air Superiority Proponent,Low,M23023,x
 29551,Minister of Armament,Karl Renner,1936,1964,1999,6,Strategic Air Proponent,Low,M23021,x
 29552,Minister of Armament,Karl Tuppy,1936,1964,1999,3,Corrupt Kleptocrat,Low,M23077,x
-29553,Minister of Armament,Fritz Stˆckinger,1936,1964,1999,3,Air to Ground Proponent,High,M23078,x
+29553,Minister of Armament,Fritz St√∂ckinger,1936,1964,1999,3,Air to Ground Proponent,High,M23078,x
 29554,Minister of Armament,Ludwig Huelgerth,1936,1964,1999,3,Air to Sea Proponent,Medium,M23052,x
 29555,Minister of Armament,Robert Winterstein,1936,1964,1999,1,Submarine Proponent,Medium,M23025,x
 29556,Minister of Armament,Erwin Puschmann,1936,1964,1999,0,Infantry Proponent,Medium,M23034,x
@@ -69,7 +69,7 @@ U24,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 29567,Head of Military Intelligence,Constantin Dumba,1936,1964,1999,8,Naval Intelligence Specialist,Medium,M23084,x
 29568,Head of Military Intelligence,Karl Eglseer,1936,1964,1999,8,Logistics Specialist,High,M23095,x
 29569,Head of Military Intelligence,Wilhelm Wolff,1936,1964,1999,9,Technical Specialist,High,M23013,x
-29570,Head of Military Intelligence,Alexander Lˆhr,1936,1964,1999,9,Dismal Enigma,Medium,M23010,x
+29570,Head of Military Intelligence,Alexander L√∂hr,1936,1964,1999,9,Dismal Enigma,Medium,M23010,x
 29571,Head of Military Intelligence,Robert Winterstein,1936,1964,1999,6,Technical Specialist,High,M23025,x
 29572,Head of Military Intelligence,Julius Raab,1936,1964,1999,6,Industrial Specialist,Medium,M23004,x
 29573,Head of Military Intelligence,Franz Sebek,1936,1964,1999,3,Political Specialist,High,M23036,x
@@ -81,7 +81,7 @@ U24,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 29579,Chief of Staff,Alfred Hubicki,1936,1964,1999,9,School of Psychology,Medium,M23107,x
 29580,Chief of Staff,Eugen Beyer,1936,1964,1999,9,School of Fire Support,Medium,M23018,x
 29581,Chief of Staff,Wilhelm Zehner,1936,1964,1999,6,School of Mass Combat,High,M23008,x
-29582,Chief of Staff,Adolf Sch‰rf,1936,1964,1999,3,School of Fire Support,Medium,M23022,x
+29582,Chief of Staff,Adolf Sch√§rf,1936,1964,1999,3,School of Fire Support,Medium,M23022,x
 29583,Chief of Staff,Ferdinand Strasser,1936,1964,1999,1,School of Manoeuvre,High,M23037,x
 29584,Chief of Army,Eric von Klopfenburg,1936,1964,1999,7,Static Defence Doctrine,High,M23039,x
 29585,Chief of Army,O. Meixner von Zweienstamm,1936,1964,1999,8,Guns and Butter Doctrine,Medium,M23103,x
@@ -94,9 +94,9 @@ U24,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 29592,Chief of Navy,Robert Winterstein,1936,1964,1999,6,Indirect Approach Doctrine,Medium,M23025,x
 29593,Chief of Navy,Eric von Klopfenburg,1936,1964,1999,1,Open Seas Doctrine,High,M23039,x
 29594,Chief of Navy,Josef Teufl,1936,1964,1999,0,Base Control Doctrine,Medium,M23047,x
-29595,Chief of Air Force,W. Ehrenburg von LÅEtitz,1936,1964,1999,7,Army Aviation Doctrine,High,M23082,x
-29596,Chief of Air Force,Otto Schˆbel,1936,1964,1999,8,Vertical Envelopment Doctrine,High,M23030,x
-29597,Chief of Air Force,Josef BÅEckel,1936,1964,1999,9,Carpet Bombing Doctrine,High,M23042,x
+29595,Chief of Air Force,W. Ehrenburg von L¬ÅEtitz,1936,1964,1999,7,Army Aviation Doctrine,High,M23082,x
+29596,Chief of Air Force,Otto Sch√∂bel,1936,1964,1999,8,Vertical Envelopment Doctrine,High,M23030,x
+29597,Chief of Air Force,Josef B¬ÅEckel,1936,1964,1999,9,Carpet Bombing Doctrine,High,M23042,x
 29598,Chief of Air Force,Julius Yllam,1936,1964,1999,6,Air Superiority Doctrine,Low,M23040,x
 29599,Chief of Air Force,Egon Berger-Waldenegg,1936,1964,1999,6,Carpet Bombing Doctrine,High,M23003,x
 29600,Head of Military Intelligence,Kurt Schuschnigg,1936,1964,1999,8,Political Specialist,Undying,M23002,x
@@ -105,154 +105,154 @@ U24,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 29603,Chief of Air Force,Artur Breycha-Vauthier,1936,1964,1999,1,Naval Aviation Doctrine,Low,M23136,x
 29604,Foreign Minister,Alfred von Arbengau,1936,1964,1999,7,Biased Intellectual,Very High,kaiserreich AlfredRappaportvA,x
 29605,Minister of Security,Michael Hainisch,1936,1964,1999,8,Compassionate Gentleman,Very High,kaiserreich hainisch,x
-29606,Head of Military Intelligence,Alois Schˆnburg-Hartenstein,1936,1964,1999,8,Logistics Specialist,Very High,kaiserreich schonburghartenstein2,x
+29606,Head of Military Intelligence,Alois Sch√∂nburg-Hartenstein,1936,1964,1999,8,Logistics Specialist,Very High,kaiserreich schonburghartenstein2,x
 29607,Chief of Staff,Eugen von Habsburg-Lothringen ,1936,1964,1999,7,School of Fire Support,Very High,kaiserreich archdukeeugen,x
 29608,Chief of Navy,Franz von Keil,1950,1964,1999,7,Indirect Approach Doctrine,Very High,none,x
 29609,Chief of Air Force,Benno von Fernbrugg,1936,1964,1999,7,Army Aviation Doctrine,Very High,kaiserreich fernbrugg,x
-29610,Chief of Army,Eduard von Bˆhm-Ermolli,1936,1964,1999,8,static defence doctrine,Very High,kaiserreich bohmermolli,x
-29611,Chief of Staff,Eduard von Bˆhm-Ermolli,1936,1964,1999,8,School of Mass Combat,Very High,kaiserreich bohmermolli,x
+29610,Chief of Army,Eduard von B√∂hm-Ermolli,1936,1964,1999,8,static defence doctrine,Very High,kaiserreich bohmermolli,x
+29611,Chief of Staff,Eduard von B√∂hm-Ermolli,1936,1964,1999,8,School of Mass Combat,Very High,kaiserreich bohmermolli,x
 29612,Head of Military Intelligence,Ernst Kaltenbrunner,1936,1964,1999,9,Logistics Specialist,High,M138,x
 29613,Chief of Staff,Julius Ringel,1944,1964,1999,7,School of Manoeuvre,Medium,M169,x
 29614,Chief of Army,Julius Ringel,1942,1964,1999,7,Guns and Butter Doctrine,Medium,M169,x
 29615,Minister of Security,Arthur Seyss-Inquart,1943,1964,1999,9,Silent Lawyer,Very High,M58,x
 29616,Foreign Minister,Arthur Seyss-Inquart,1945,1964,1999,9,Iron Fisted Brute,Very High,M58,x
-29617,Head of State,MiklÛs Horthy de Nagyb·nya,1936,1964,1999,8,Resigned Generalissimo,High,M21001,x
-29618,Head of Government,Gyula Gˆmbˆs de Jakfa,1936,1964,1999,8,Flamboyant Tough Guy,High,M21002,x
-29619,Foreign Minister,K·lm·n K·nya,1936,1964,1999,8,Great Compromiser,Medium,M21003,x
-29620,Minister of Armament,TihamÈr Fabinyi,1936,1964,1999,8,Military Entrepreneur,Medium,M21004,x
-29621,Minister of Security,MiklÛs Kozma,1936,1964,1999,8,Prince of Terror,Medium,M21005,x
-29622,Head of Military Intelligence,Gyula Gˆmbˆs de Jakfa,1936,1964,1999,8,Political Specialist,High,M21002,x
-29623,Chief of Staff,Gust·v Henneyey,1936,1964,1999,8,School of Mass Combat,High,M21007,x
-29624,Chief of Army,Istv·n Shvoy,1936,1964,1999,8,Decisive Battle Doctrine,Medium,M21008,x
-29625,Chief of Navy,MiklÛs Horthy de Nagyb·nya,1936,1964,1999,8,Decisive Naval Battle Doctrine,Medium,M21001,x
-29626,Chief of Air Force,L·szlÛ Tomor,1936,1964,1999,8,Air Superiority Doctrine,Medium,M21010,x
-29627,Head of State,Ferenc Sz·lasi,1936,1964,1999,9,Powerhungry Demagogue,High,M21021,x
-29628,Head of State,MiklÛs Horthy de Nagyb·nya,1936,1964,1999,9,Resigned Generalissimo,High,M21001,x
+29617,Head of State,Mikl√≥s Horthy de Nagyb√°nya,1936,1964,1999,8,Resigned Generalissimo,High,M21001,x
+29618,Head of Government,Gyula G√∂mb√∂s de Jakfa,1936,1964,1999,8,Flamboyant Tough Guy,High,M21002,x
+29619,Foreign Minister,K√°lm√°n K√°nya,1936,1964,1999,8,Great Compromiser,Medium,M21003,x
+29620,Minister of Armament,Tiham√©r Fabinyi,1936,1964,1999,8,Military Entrepreneur,Medium,M21004,x
+29621,Minister of Security,Mikl√≥s Kozma,1936,1964,1999,8,Prince of Terror,Medium,M21005,x
+29622,Head of Military Intelligence,Gyula G√∂mb√∂s de Jakfa,1936,1964,1999,8,Political Specialist,High,M21002,x
+29623,Chief of Staff,Gust√°v Henneyey,1936,1964,1999,8,School of Mass Combat,High,M21007,x
+29624,Chief of Army,Istv√°n Shvoy,1936,1964,1999,8,Decisive Battle Doctrine,Medium,M21008,x
+29625,Chief of Navy,Mikl√≥s Horthy de Nagyb√°nya,1936,1964,1999,8,Decisive Naval Battle Doctrine,Medium,M21001,x
+29626,Chief of Air Force,L√°szl√≥ Tomor,1936,1964,1999,8,Air Superiority Doctrine,Medium,M21010,x
+29627,Head of State,Ferenc Sz√°lasi,1936,1964,1999,9,Powerhungry Demagogue,High,M21021,x
+29628,Head of State,Mikl√≥s Horthy de Nagyb√°nya,1936,1964,1999,9,Resigned Generalissimo,High,M21001,x
 29629,Head of State,S.K.u.K.H. Otto I von Habsburg,1936,1964,1999,7,young kaiser,High,kaiserreich ottoivh,x
-29630,Head of State,K·roly Peyer,1936,1964,1999,3,Insignificant Layman,High,M21045,x
-29631,Head of State,Zolt·n Tildy,1936,1964,1999,6,Autocratic Charmer,High,M21011,x
-29632,Head of State,Zolt·n Tildy,1936,1964,1999,0,Autocratic Charmer,High,M21011,x
-29633,Head of State,BÈla ZsedÈnyi,1936,1964,1999,0,Stern Imperialist,High,M21031,x
-29634,Head of State,L·szÛ Rajk,1936,1964,1999,0,Autocratic Charmer,High,M21035,x
-29635,Head of State,M·ty·s R·kosi,1936,1964,1999,0,Powerhungry Demagogue,High,M21032,x
-29636,Head of Government,Dˆme SztÛjay,1936,1964,1999,9,Happy Amateur,High,M21051,x
-29637,Head of Government,Jenˆ R·cz,1936,1964,1999,9,Political Protege,High,M21022,x
-29638,Head of Government,K. Dar·nyi de Pusztaszentgyˆrgyi,1936,1964,1999,8,Smiling Oilman,High,M21053,x
-29639,Head of Government,BÈla ImrÈdy de Omoravia,1936,1964,1999,8,Corporate Suit,High,M21024,x
-29640,Head of Government,P·l Teleki de Szek,1936,1964,1999,8,Naive Optimist,High,M21055,x
-29641,Head of Government,L·szlÛ B·rdossy,1936,1964,1999,8,Silent Workhorse,High,M21056,x
-29642,Head of Government,M. K·llay de Nagy-KallÛ,1936,1964,1999,8,Happy Amateur,High,M21057,x
-29643,Head of Government,GÈza Lakatos,1936,1964,1999,8,Old General,High,M21058,x
-29644,Head of Government,BÈla MiklÛs de DalnÛk,1936,1964,1999,7,Corporate Suit,High,M21059,x
-29645,Head of Government,Karoly Barth· von D·lnokfalva,1936,1964,1999,7,Old General,High,M21060,x
-29646,Head of Government,Arp·d Szakasits,1936,1964,1999,3,Happy Amateur,High,M21061,x
-29647,Head of Government,Zolt·n Tildy,1936,1964,1999,6,Silent Workhorse,High,M21011,x
+29630,Head of State,K√°roly Peyer,1936,1964,1999,3,Insignificant Layman,High,M21045,x
+29631,Head of State,Zolt√°n Tildy,1936,1964,1999,6,Autocratic Charmer,High,M21011,x
+29632,Head of State,Zolt√°n Tildy,1936,1964,1999,0,Autocratic Charmer,High,M21011,x
+29633,Head of State,B√©la Zsed√©nyi,1936,1964,1999,0,Stern Imperialist,High,M21031,x
+29634,Head of State,L√°sz√≥ Rajk,1936,1964,1999,0,Autocratic Charmer,High,M21035,x
+29635,Head of State,M√°ty√°s R√°kosi,1936,1964,1999,0,Powerhungry Demagogue,High,M21032,x
+29636,Head of Government,D√∂me Szt√≥jay,1936,1964,1999,9,Happy Amateur,High,M21051,x
+29637,Head of Government,Jen√∂ R√°cz,1936,1964,1999,9,Political Protege,High,M21022,x
+29638,Head of Government,K. Dar√°nyi de Pusztaszentgy√∂rgyi,1936,1964,1999,8,Smiling Oilman,High,M21053,x
+29639,Head of Government,B√©la Imr√©dy de Omoravia,1936,1964,1999,8,Corporate Suit,High,M21024,x
+29640,Head of Government,P√°l Teleki de Szek,1936,1964,1999,8,Naive Optimist,High,M21055,x
+29641,Head of Government,L√°szl√≥ B√°rdossy,1936,1964,1999,8,Silent Workhorse,High,M21056,x
+29642,Head of Government,M. K√°llay de Nagy-Kall√≥,1936,1964,1999,8,Happy Amateur,High,M21057,x
+29643,Head of Government,G√©za Lakatos,1936,1964,1999,8,Old General,High,M21058,x
+29644,Head of Government,B√©la Mikl√≥s de Daln√≥k,1936,1964,1999,7,Corporate Suit,High,M21059,x
+29645,Head of Government,Karoly Barth√° von D√°lnokfalva,1936,1964,1999,7,Old General,High,M21060,x
+29646,Head of Government,Arp√°d Szakasits,1936,1964,1999,3,Happy Amateur,High,M21061,x
+29647,Head of Government,Zolt√°n Tildy,1936,1964,1999,6,Silent Workhorse,High,M21011,x
 29648,Head of Government,Ferenc Nagy,1936,1964,1999,6,Happy Amateur,High,M21012,x
-29649,Head of Government,L·szlÛ Rajk,1936,1964,1999,0,Flamboyant Tough Guy,High,M21035,x
-29650,Head of Government,M·tyas R·kosi,1936,1964,1999,0,Backroom Backstabber,High,M21032,x
-29651,Foreign Minister,Dˆme SztÛjay,1936,1964,1999,9,Ideological Crusader,Medium,M21051,x
-29652,Foreign Minister,G·bor KemÈny,1936,1964,1999,9,Great Compromiser,Medium,M21067,x
-29653,Foreign Minister,BÈla ImrÈdy de Omoravia,1936,1964,1999,8,Ideological Crusader,Medium,M21024,x
-29654,Foreign Minister,Istv·n Cs·ky,1936,1964,1999,8,The Cloak N Dagger Schemer,Medium,M21070,x
-29655,Foreign Minister,L·szlÛ B·rdossy,1936,1964,1999,8,Iron Fisted Brute,Medium,M21056,x
-29656,Foreign Minister,Gust·v Henneyey,1936,1964,1999,8,General Staffer,High,M21007,x
+29649,Head of Government,L√°szl√≥ Rajk,1936,1964,1999,0,Flamboyant Tough Guy,High,M21035,x
+29650,Head of Government,M√°tyas R√°kosi,1936,1964,1999,0,Backroom Backstabber,High,M21032,x
+29651,Foreign Minister,D√∂me Szt√≥jay,1936,1964,1999,9,Ideological Crusader,Medium,M21051,x
+29652,Foreign Minister,G√°bor Kem√©ny,1936,1964,1999,9,Great Compromiser,Medium,M21067,x
+29653,Foreign Minister,B√©la Imr√©dy de Omoravia,1936,1964,1999,8,Ideological Crusader,Medium,M21024,x
+29654,Foreign Minister,Istv√°n Cs√°ky,1936,1964,1999,8,The Cloak N Dagger Schemer,Medium,M21070,x
+29655,Foreign Minister,L√°szl√≥ B√°rdossy,1936,1964,1999,8,Iron Fisted Brute,Medium,M21056,x
+29656,Foreign Minister,Gust√°v Henneyey,1936,1964,1999,8,General Staffer,High,M21007,x
 29657,Foreign Minister,Edgar Keksz,1936,1964,1999,7,Iron Fisted Brute,Medium,M21073,x
 29658,Foreign Minister,Endre Bajcsy-Zsilinszky,1936,1964,1999,7,General Staffer,Medium,M21074,x
-29659,Foreign Minister,Arp·d Szakasits,1936,1964,1999,3,Biased Intellectual,High,M21061,x
+29659,Foreign Minister,Arp√°d Szakasits,1936,1964,1999,3,Biased Intellectual,High,M21061,x
 29660,Foreign Minister,Francois Deak,1936,1964,1999,6,Apologetic Clerk,Medium,M21076,x
 29661,Foreign Minister,Ferenc Nagy,1936,1964,1999,6,Great Compromiser,High,M21012,x
-29662,Foreign Minister,J·nos Gyˆngyˆsi,1936,1964,1999,6,Great Compromiser,Medium,M21013,x
-29663,Foreign Minister,Erik Moln·r,1936,1964,1999,0,Ideological Crusader,Medium,M21079,x
+29662,Foreign Minister,J√°nos Gy√∂ngy√∂si,1936,1964,1999,6,Great Compromiser,Medium,M21013,x
+29663,Foreign Minister,Erik Moln√°r,1936,1964,1999,0,Ideological Crusader,Medium,M21079,x
 29664,Foreign Minister,Matta Zalka,1936,1964,1999,0,General Staffer,Medium,M21037,x
-29665,Foreign Minister,L·szlÛ Rajk,1936,1964,1999,0,Iron Fisted Brute,Medium,M21035,x
-29666,Minister of Armament,Jenˆ R·cz,1936,1964,1999,9,laissez-faire capitalist,Medium,M21022,x
-29667,Minister of Armament,Bela ImrÈdy de Omoravia,1936,1964,1999,8,Infantry Proponent,Medium,M21024,x
-29668,Minister of Armament,Lajos RemÈnyi-Schneller,1936,1964,1999,8,Administrative Genius,Medium,M21084,x
+29665,Foreign Minister,L√°szl√≥ Rajk,1936,1964,1999,0,Iron Fisted Brute,Medium,M21035,x
+29666,Minister of Armament,Jen√∂ R√°cz,1936,1964,1999,9,laissez-faire capitalist,Medium,M21022,x
+29667,Minister of Armament,Bela Imr√©dy de Omoravia,1936,1964,1999,8,Infantry Proponent,Medium,M21024,x
+29668,Minister of Armament,Lajos Rem√©nyi-Schneller,1936,1964,1999,8,Administrative Genius,Medium,M21084,x
 29669,Minister of Armament,Laszlo Endre,1936,1964,1999,8,Strategic Air Proponent,Medium,M21085,x
-29670,Minister of Armament,Imre Oltv·nyi,1936,1964,1999,7,Administrative Genius,Medium,M21086,x
+29670,Minister of Armament,Imre Oltv√°nyi,1936,1964,1999,7,Administrative Genius,Medium,M21086,x
 29671,Minister of Armament,Edgar Keksz,1936,1964,1999,7,Corrupt Kleptocrat,Medium,M21073,x
 29672,Minister of Armament,Etienne de Winchkler,1936,1964,1999,7,Resource Industrialist,Medium,M21088,x
-29673,Minister of Armament,Reszˆ Kastner,1936,1964,1999,3,Administrative Genius,Medium,M21089,x
+29673,Minister of Armament,Resz√∂ Kastner,1936,1964,1999,3,Administrative Genius,Medium,M21089,x
 29674,Minister of Armament,Albert Apponyi,1936,1964,1999,6,Strategic Air Proponent,Medium,M21090,x
 29675,Minister of Armament,Miklos Olgyay,1936,1964,1999,6,Resource Industrialist,Medium,M21014,x
-29676,Minister of Armament,BÈla ZsedÈnyi,1936,1964,1999,0,Infantry Proponent,High,M21031,x
-29677,Minister of Armament,Ernˆ Gerˆ,1936,1964,1999,0,Resource Industrialist,Medium,M21093,x
-29678,Minister of Armament,Zolt·n Vas,1936,1964,1999,0,Military Entrepreneur,Medium,M21034,x
+29676,Minister of Armament,B√©la Zsed√©nyi,1936,1964,1999,0,Infantry Proponent,High,M21031,x
+29677,Minister of Armament,Ern√∂ Ger√∂,1936,1964,1999,0,Resource Industrialist,Medium,M21093,x
+29678,Minister of Armament,Zolt√°n Vas,1936,1964,1999,0,Military Entrepreneur,Medium,M21034,x
 29679,Minister of Security,Andor Jaross,1936,1964,1999,9,Prince of Terror,Medium,M21025,x
-29680,Minister of Security,G·bor Vajna,1936,1964,1999,9,Man of the People,Medium,M21096,x
-29681,Minister of Security,K. Dar·nyi de Pusztaszentgyˆrgyi,1936,1964,1999,8,Back Stabber,Medium,M21053,x
-29682,Minister of Security,P·l Teleki de Szek,1936,1964,1999,8,Compassionate Gentleman,Low,M21055,x
+29680,Minister of Security,G√°bor Vajna,1936,1964,1999,9,Man of the People,Medium,M21096,x
+29681,Minister of Security,K. Dar√°nyi de Pusztaszentgy√∂rgyi,1936,1964,1999,8,Back Stabber,Medium,M21053,x
+29682,Minister of Security,P√°l Teleki de Szek,1936,1964,1999,8,Compassionate Gentleman,Low,M21055,x
 29683,Minister of Security,Ferenc Keresztes-Fischer,1936,1964,1999,8,Silent Lawyer,High,M21100,x
-29684,Minister of Security,M. K·llay de Nagy-KallÛ,1936,1964,1999,8,Man of the People,Medium,M21057,x
-29685,Minister of Security,Kalm·n Szell,1936,1964,1999,8,Crime Fighter,Medium,M21103,x
+29684,Minister of Security,M. K√°llay de Nagy-Kall√≥,1936,1964,1999,8,Man of the People,Medium,M21057,x
+29685,Minister of Security,Kalm√°n Szell,1936,1964,1999,8,Crime Fighter,Medium,M21103,x
 29686,Minister of Security,Edgar Keksz,1936,1964,1999,7,Crooked Kleptocrat,Medium,M21073,x
 29687,Minister of Security,Laszlo Baky,1936,1964,1999,7,Crime Fighter,Medium,M21105,x
 29688,Minister of Security,Jozsef Revay,1936,1964,1999,3,Crime Fighter,Medium,M21107,x
-29689,Minister of Security,JÛzsef SzÈll,1936,1964,1999,6,Efficient Sociopath,Medium,M21108,x
-29690,Minister of Security,MiklÛs Bonczos,1936,1964,1999,6,Silent Lawyer,Medium,M21109,x
+29689,Minister of Security,J√≥zsef Sz√©ll,1936,1964,1999,6,Efficient Sociopath,Medium,M21108,x
+29690,Minister of Security,Mikl√≥s Bonczos,1936,1964,1999,6,Silent Lawyer,Medium,M21109,x
 29691,Minister of Security,Mihaly Farkas,1936,1964,1999,0,Prince of Terror,Medium,M21110,x
-29692,Minister of Security,L·szlÛ Rajk,1936,1964,1999,0,Crime Fighter,Medium,M21035,x
-29693,Minister of Security,M·ty·s R·kosi,1936,1964,1999,0,Crooked Kleptocrat,Very High,M21032,x
+29692,Minister of Security,L√°szl√≥ Rajk,1936,1964,1999,0,Crime Fighter,Medium,M21035,x
+29693,Minister of Security,M√°ty√°s R√°kosi,1936,1964,1999,0,Crooked Kleptocrat,Very High,M21032,x
 29694,Minister of Security,Imre Nagy,1936,1964,1999,0,Back Stabber,Medium,M21113,x
 29695,Minister of Security,Ferenc Erdei,1936,1964,1999,0,Compassionate Gentleman,Medium,M21114,x
 29696,Head of Military Intelligence,Ferenc Rajniss,1936,1964,1999,9,Dismal Enigma,Medium,M21115,x
 29697,Head of Military Intelligence,Andor Jaross,1936,1964,1999,9,Political Specialist,Medium,M21025,x
-29698,Head of Military Intelligence,Rezsˆ Andorka,1936,1964,1999,8,Technical Specialist,Medium,M21117,x
-29699,Head of Military Intelligence,Mihaly Ujv·ri,1936,1964,1999,8,Logistics Specialist,High,M21118,x
-29700,Head of Military Intelligence,Andr·s Z·kÛ,1936,1964,1999,8,Political Specialist,Medium,M21119,x
-29701,Head of Military Intelligence,K·d·r Gyula,1936,1964,1999,8,Dismal Enigma,Medium,M21120,x
+29698,Head of Military Intelligence,Rezs√∂ Andorka,1936,1964,1999,8,Technical Specialist,Medium,M21117,x
+29699,Head of Military Intelligence,Mihaly Ujv√°ri,1936,1964,1999,8,Logistics Specialist,High,M21118,x
+29700,Head of Military Intelligence,Andr√°s Z√°k√≥,1936,1964,1999,8,Political Specialist,Medium,M21119,x
+29701,Head of Military Intelligence,K√°d√°r Gyula,1936,1964,1999,8,Dismal Enigma,Medium,M21120,x
 29702,Head of Military Intelligence,Edgar Keksz,1936,1964,1999,7,Naval Intelligence Specialist,Medium,M21073,x
 29703,Head of Military Intelligence,Ferenc Keresztes-Fischer,1936,1964,1999,7,Industrial Specialist,Medium,M21100,x
-29704,Head of Military Intelligence,K·roly Peyer,1936,1964,1999,3,Industrial Specialist,Low,M21045,x
-29705,Head of Military Intelligence,Zolt·n Tildy,1936,1964,1999,6,Dismal Enigma,Medium,M21011,x
-29706,Head of Military Intelligence,JÛzsef SzÈll,1936,1964,1999,6,Political Specialist,Medium,M21108,x
-29707,Head of Military Intelligence,Ernˆ Gerˆ,1936,1964,1999,0,Logistics Specialist,Medium,M21093,x
-29708,Head of Military Intelligence,L·szlÛ Rajk,1936,1964,1999,0,Political Specialist,Medium,M21035,x
+29704,Head of Military Intelligence,K√°roly Peyer,1936,1964,1999,3,Industrial Specialist,Low,M21045,x
+29705,Head of Military Intelligence,Zolt√°n Tildy,1936,1964,1999,6,Dismal Enigma,Medium,M21011,x
+29706,Head of Military Intelligence,J√≥zsef Sz√©ll,1936,1964,1999,6,Political Specialist,Medium,M21108,x
+29707,Head of Military Intelligence,Ern√∂ Ger√∂,1936,1964,1999,0,Logistics Specialist,Medium,M21093,x
+29708,Head of Military Intelligence,L√°szl√≥ Rajk,1936,1964,1999,0,Political Specialist,Medium,M21035,x
 29709,Chief of Staff,Lajos Csatay von Csatai,1936,1964,1999,9,School of Manoeuvre,Medium,M21128,x
-29710,Chief of Staff,K·rolyi Beregffy,1936,1964,1999,9,School of Manoeuvre,Medium,M21129,x
-29711,Chief of Staff,Karoly Barth· von D·lnokfalva,1936,1964,1999,8,School of Psychology,Medium,M21060,x
+29710,Chief of Staff,K√°rolyi Beregffy,1936,1964,1999,9,School of Manoeuvre,Medium,M21129,x
+29711,Chief of Staff,Karoly Barth√° von D√°lnokfalva,1936,1964,1999,8,School of Psychology,Medium,M21060,x
 29712,Chief of Staff,Vilmos Nagy,1936,1964,1999,8,School of Defence,Medium,M21132,x
-29713,Chief of Staff,SandÛr Szurmay,1936,1964,1999,8,School of Fire Support,Medium,M21133,x
-29714,Chief of Staff,Vilmos Rˆder,1936,1964,1999,7,School of Fire Support,Medium,M21135,x
-29715,Chief of Staff,J·nos Vˆrˆs,1936,1964,1999,6,School of Manoeuvre,Medium,M21017,x
+29713,Chief of Staff,Sand√≥r Szurmay,1936,1964,1999,8,School of Fire Support,Medium,M21133,x
+29714,Chief of Staff,Vilmos R√∂der,1936,1964,1999,7,School of Fire Support,Medium,M21135,x
+29715,Chief of Staff,J√°nos V√∂r√∂s,1936,1964,1999,6,School of Manoeuvre,Medium,M21017,x
 29716,Chief of Staff,Matta Zalka,1936,1964,1999,0,School of Psychology,Medium,M21037,x
 29717,Chief of Army,Lajos Csatay von Csatai,1936,1964,1999,9,Armoured Spearhead Doctrine,Medium,M21128,x
-29718,Chief of Army,K·rolyi Beregffy,1936,1964,1999,9,Guns and Butter Doctrine,Medium,M21129,x
+29718,Chief of Army,K√°rolyi Beregffy,1936,1964,1999,9,Guns and Butter Doctrine,Medium,M21129,x
 29719,Chief of Army,Henrik Werth,1936,1964,1999,8,Static Defence Doctrine,Medium,M21142,x
 29720,Chief of Army,Edgar Keksz,1936,1964,1999,8,Guns and Butter Doctrine,Medium,M21073,x
-29721,Chief of Army,GÈza Lakatos,1936,1964,1999,8,Elastic Defence Doctrine,Low,M21058,x
-29722,Chief of Army,BÈla MiklÛs de DalnÛk,1936,1964,1999,7,Static Defence Doctrine,Medium,M21059,x
-29723,Chief of Army,HugÛ SÛnyi,1936,1964,1999,7,Decisive Battle Doctrine,Medium,M21146,x
+29721,Chief of Army,G√©za Lakatos,1936,1964,1999,8,Elastic Defence Doctrine,Low,M21058,x
+29722,Chief of Army,B√©la Mikl√≥s de Daln√≥k,1936,1964,1999,7,Static Defence Doctrine,Medium,M21059,x
+29723,Chief of Army,Hug√≥ S√≥nyi,1936,1964,1999,7,Decisive Battle Doctrine,Medium,M21146,x
 29724,Chief of Army,Gabor Sziszkalatay,1936,1964,1999,3,Guns and Butter Doctrine,Medium,M21136,x
 29725,Chief of Army,Ferenc Szombathelyi,1936,1964,1999,6,Static Defence Doctrine,High,M21148,x
-29726,Chief of Army,J·nos Vˆrˆs,1936,1964,1999,6,Elastic Defence Doctrine,Medium,M21017,x
+29726,Chief of Army,J√°nos V√∂r√∂s,1936,1964,1999,6,Elastic Defence Doctrine,Medium,M21017,x
 29727,Chief of Army,Nikolaj Berzin,1936,1964,1999,0,Decisive Battle Doctrine,Medium,M21038,x
 29728,Chief of Navy,Sandor Csia,1936,1964,1999,9,Base Control Doctrine,Medium,M21151,x
 29729,Chief of Navy,Edgar Keksz,1936,1964,1999,7,Base Control Doctrine,Medium,M21073,x
 29730,Chief of Navy,Otto I Habsburg,1936,1964,1999,7,Indirect Approach Doctrine,High,M21044,x
-29731,Chief of Navy,Reszˆ Kastner,1936,1964,1999,3,Base Control Doctrine,High,M21089,x
+29731,Chief of Navy,Resz√∂ Kastner,1936,1964,1999,3,Base Control Doctrine,High,M21089,x
 29732,Chief of Navy,Francois Deak,1936,1964,1999,6,Power Projection Doctrine,High,M21076,x
-29733,Chief of Navy,K·lm·n Hardy,1936,1964,1999,0,Decisive Naval Battle Doctrine,Medium,M21039,x
+29733,Chief of Navy,K√°lm√°n Hardy,1936,1964,1999,0,Decisive Naval Battle Doctrine,Medium,M21039,x
 29734,Chief of Air Force,Sandor Maguarosy,1936,1964,1999,9,Army Aviation Doctrine,Medium,M21030,x
-29735,Chief of Air Force,Ferenc Sz·lasi,1936,1964,1999,9,Naval Aviation Doctrine,Medium,M21021,x
+29735,Chief of Air Force,Ferenc Sz√°lasi,1936,1964,1999,9,Naval Aviation Doctrine,Medium,M21021,x
 29736,Chief of Air Force,Ferenc Feketehalmy-Czeydner,1936,1964,1999,8,Army Aviation Doctrine,Medium,M21161,x
-29737,Chief of Air Force,Gyˆrghyi De Brody,1936,1964,1999,8,Vertical Envelopment Doctrine,Medium,M21040,x
-29738,Chief of Air Force,K·lm·n Ternegg-Ratz,1936,1964,1999,7,Army Aviation Doctrine,Medium,M21163,x
+29737,Chief of Air Force,Gy√∂rghyi De Brody,1936,1964,1999,8,Vertical Envelopment Doctrine,Medium,M21040,x
+29738,Chief of Air Force,K√°lm√°n Ternegg-Ratz,1936,1964,1999,7,Army Aviation Doctrine,Medium,M21163,x
 29739,Chief of Air Force,Ferenc Keresztes-Fischer,1936,1964,1999,7,Air Superiority Doctrine,High,M21100,x
 29740,Chief of Air Force,Edgar Keksz,1936,1964,1999,3,Air Superiority Doctrine,Medium,M21073,x
-29741,Chief of Air Force,BÈla R·kosi,1936,1964,1999,6,Vertical Envelopment Doctrine,Medium,M21020,x
-29742,Chief of Air Force,Gyˆrghyi De Brody,1936,1964,1999,0,Air Superiority Doctrine,Medium,M21040,x
-29743,Head of State,MiklÛs Horthy de Nagyb·nya,1936,1964,1999,6,Resigned Generalissimo,High,M21001,x
-29744,Foreign Minister,Ferenc Sz·lasi,1936,1964,1999,9,Iron Fisted Brute,Medium,M21021,x
+29741,Chief of Air Force,B√©la R√°kosi,1936,1964,1999,6,Vertical Envelopment Doctrine,Medium,M21020,x
+29742,Chief of Air Force,Gy√∂rghyi De Brody,1936,1964,1999,0,Air Superiority Doctrine,Medium,M21040,x
+29743,Head of State,Mikl√≥s Horthy de Nagyb√°nya,1936,1964,1999,6,Resigned Generalissimo,High,M21001,x
+29744,Foreign Minister,Ferenc Sz√°lasi,1936,1964,1999,9,Iron Fisted Brute,Medium,M21021,x
 29745,Head of Military Intelligence,Sandor Csia,1936,1964,1999,9,Industrial Specialist,Medium,M21151,x
 29746,Chief of Army,Ferenc Feketehalmy-Czeydner,1936,1964,1999,9,Elastic Defence Doctrine,Medium,M21161,x
-29747,Head of State,GÈza Lakatos,1936,1964,1999,7,Resigned Generalissimo,High,M21058,x
+29747,Head of State,G√©za Lakatos,1936,1964,1999,7,Resigned Generalissimo,High,M21058,x
 29748,Chief of Staff,Gabor Sziszkalatay,1936,1964,1999,0,School of Psychology,Medium,M21136,x
 29749,Head of Government,Ferenc Keresztes-Fischer,1936,1964,1999,8,Happy Amateur,High,M21100,x
-29750,Foreign Minister,P·l Teleki de Szek,1936,1964,1999,8,Great Compromiser,High,M21055,x
+29750,Foreign Minister,P√°l Teleki de Szek,1936,1964,1999,8,Great Compromiser,High,M21055,x
 29751,Foreign Minister,Ferenc Keresztes-Fischer,1936,1964,1999,8,Apologetic Clerk,High,M21100,x
-29752,Foreign Minister,M. K·llay de Nagy-KallÛ,1936,1964,1999,8,General Staffer,High,M21057,x
-29753,Foreign Minister,Jenˆ Ghyczy,1936,1964,1999,8,Apologetic Clerk,High,M21179,x
+29752,Foreign Minister,M. K√°llay de Nagy-Kall√≥,1936,1964,1999,8,General Staffer,High,M21057,x
+29753,Foreign Minister,Jen√∂ Ghyczy,1936,1964,1999,8,Apologetic Clerk,High,M21179,x
 29754,Head of State,Oskar Kokoschka ,1936,1964,1999,9,Powerhungry Demagogue,High,kaiserreich OskarKokoschka ,x
 29755,Head of Government,Oskar Kokoschka ,1936,1964,1999,9,Happy Amateur,High,kaiserreich OskarKokoschka ,x
 29756,Chief of Staff,Oskar Kokoschka ,1936,1964,1999,9,School of Mass Combat,High,kaiserreich OskarKokoschka ,x
@@ -262,4 +262,4 @@ U24,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 29760,Head of State,S.K.u.K.M. Maria II von Romanov,1936,1964,1999,8,russian aristocrat,High,kaiserreich mariaII,x
 29761,Head of State,S.K.u.K.M. Otto I von Habsburg,1936,1964,1999,6,young kaiser,High,kaiserreich ottoivh,x
 29762,Head of State,S.K.u.K.M. Karl I,1914,1934,1935,7,Die-hard Reformer,High,3515,X
-29763,Head of Government,Heinrich Lammasch (A)/Wekerle S·ndor (H),1914,1934,1935,8,Naive Optimist,Very High,lammasch_werk_u24,X
+29763,Head of Government,Heinrich Lammasch (A)/Wekerle S√°ndor (H),1914,1934,1935,8,Naive Optimist,Very High,lammasch_werk_u24,X

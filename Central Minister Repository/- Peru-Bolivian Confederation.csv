@@ -1,6 +1,6 @@
 U27,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
 790701,Head of State,Oscar Benavides Larrea,1936,1964,1999,7,Resigned Generalissimo,High,M39001,x
-790702,Head of Government,Luis Miguel Sánchez Cerro,1936,1964,1999,8,Old General,High,Kaiserreich Luis Miguel Sánchez Cerro,x
+790702,Head of Government,Luis Miguel SÃ¡nchez Cerro,1936,1964,1999,8,Old General,High,Kaiserreich Luis Miguel SÃ¡nchez Cerro,x
 790703,Foreign Minister,Alberto Ulloa Sotomayor,1936,1964,1999,7,Iron Fisted Brute,Medium,M39003,x
 790704,Minister of Armament,Ernesto Scroth,1936,1964,1999,7,Battle Fleet Proponent,Medium,M39004,x
 790705,Minister of Security,Luis Sanchez Cerro,1936,1964,1999,7,Back Stabber,Medium,M39005,x
@@ -11,7 +11,7 @@ U27,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 790710,Chief of Air Force,Paul de Beaudiez,1936,1964,1999,7,Army Aviation Doctrine,Medium,M39010,x
 790711,Head of State,Oscar Benavides Larrea,1936,1964,1999,6,Resigned Generalissimo,High,M39001,x
 790712,Head of State,Manuel Prado y Ugarteche,1939,1964,1999,6,Autocratic Charmer,High,M39032,x
-790713,Head of State,José Bustamante y Rivero,1945,1964,1999,5,Benevolent Gentleman,High,M39033,x
+790713,Head of State,JosÃ© Bustamante y Rivero,1945,1964,1999,5,Benevolent Gentleman,High,M39033,x
 790714,Head of State,Augusto Leguia Swayne,1936,1964,1999,2,Powerhungry Demagogue,High,M39034,x
 790715,Head of State,Reynaldo Vinatea,1939,1964,1999,3,Barking Buffoon,High,M39035,x
 790716,Head of State,Eloy G. Ureta,1939,1964,1999,3,Resigned Generalissimo,High,M39036,x
@@ -21,9 +21,9 @@ U27,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 790720,Head of Government,Oscar Miro Quesada,1939,1964,1999,3,Silent Workhorse,High,M39040,x
 790721,Head of Government,Manuel Cisneros Sanchez,1944,1964,1999,5,Political Protege,High,M39041,x
 790722,Head of Government,Julio Tello East,1945,1964,1999,4,Smiling Oilman,High,M39042,x
-790723,Head of Government,Enrique García Sayan,1945,1964,1999,5,Flamboyant Tough Guy,High,M39043,x
+790723,Head of Government,Enrique GarcÃ­a Sayan,1945,1964,1999,5,Flamboyant Tough Guy,High,M39043,x
 790724,Head of Government,David S. Ocampo,1945,1964,1999,3,Ambitious Union Boss,High,M39044,x
-790725,Head of Government,Rafel Belaunde Díez,1946,1964,1999,5,Naive Optimist,High,M39045,x
+790725,Head of Government,Rafel Belaunde DÃ­ez,1946,1964,1999,5,Naive Optimist,High,M39045,x
 790726,Head of Government,Julio Portugal Montero,1947,1964,1999,5,Silent Workhorse,High,M39046,x
 790727,Foreign Minister,Carlos Concha,1936,1964,1999,6,Apologetic Clerk,Medium,M39047,x
 790728,Foreign Minister,Rafael Escardo,1936,1964,1999,3,General Staffer,Medium,M39048,x
@@ -32,102 +32,102 @@ U27,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 790731,Foreign Minister,Adolfo Solf y Muro,1940,1964,1999,6,The Cloak N Dagger Schemer,High,M39039,x
 790732,Foreign Minister,Manuel Gallagher,1944,1964,1999,6,General Staffer,High,M39052,x
 790733,Foreign Minister,Manuel Gallagher,1945,1964,1999,4,Biased Intellectual,High,M39052,x
-790734,Foreign Minister,Javier Correa Elías,1945,1964,1999,5,Iron Fisted Brute,High,M39054,x
+790734,Foreign Minister,Javier Correa ElÃ­as,1945,1964,1999,5,Iron Fisted Brute,High,M39054,x
 790735,Foreign Minister,Oscar Miro Quesada,1945,1964,1999,3,The Cloak N Dagger Schemer,Medium,M39040,x
-790736,Foreign Minister,Enrique García Sayan,1946,1964,1999,5,The Cloak N Dagger Schemer,Medium,M39043,x
+790736,Foreign Minister,Enrique GarcÃ­a Sayan,1946,1964,1999,5,The Cloak N Dagger Schemer,Medium,M39043,x
 790737,Foreign Minister,Manuel Prado y Ugarteche,1947,1964,1999,3,Apologetic Clerk,Medium,M39032,x
-790738,Minister of Armament,José Julio Bravo,1936,1964,1999,6,Submarine Proponent,High,M39058,x
+790738,Minister of Armament,JosÃ© Julio Bravo,1936,1964,1999,6,Submarine Proponent,High,M39058,x
 790739,Minister of Armament,Luis Sanchez Cerro,1938,1964,1999,6,Infantry Proponent,Medium,M39005,x
-790740,Minister of Armament,Teófilo Iglesias,1936,1964,1999,3,Tank Proponent,High,M39060,x
+790740,Minister of Armament,TeÃ³filo Iglesias,1936,1964,1999,3,Tank Proponent,High,M39060,x
 790741,Minister of Armament,Augusto Leguia Swayne,1936,1964,1999,6,Administrative Genius,High,M39034,x
-790742,Minister of Armament,Manuel Vásquez Díaz,1939,1964,1999,3,Air to Ground Proponent,High,M39062,x
+790742,Minister of Armament,Manuel VÃ¡squez DÃ­az,1939,1964,1999,3,Air to Ground Proponent,High,M39062,x
 790743,Minister of Armament,David S. Ocampo,1939,1964,1999,3,Military Entrepreneur,Medium,M39044,x
 790744,Minister of Armament,Eduardo Rebagliati Martins,1941,1964,1999,6,Military Entrepreneur,High,M39064,x
 790745,Minister of Armament,David Dasso,1942,1964,1999,6,laissez-faire capitalist,High,M39065,x
-790746,Minister of Armament,Oscar Trelles Montés,1943,1964,1999,6,Submarine Proponent,Medium,M39066,x
+790746,Minister of Armament,Oscar Trelles MontÃ©s,1943,1964,1999,6,Submarine Proponent,Medium,M39066,x
 790747,Minister of Armament,Julio Portugal Montero,1944,1964,1999,5,Theoretical Scientist,Medium,M39046,x
-790748,Minister of Armament,Benjamín Roca,1944,1964,1999,5,Theoretical Scientist,High,M39068,x
-790749,Minister of Armament,Alberto Roque Saldías,1945,1964,1999,5,Battle Fleet Proponent,Medium,M39069,x
+790748,Minister of Armament,BenjamÃ­n Roca,1944,1964,1999,5,Theoretical Scientist,High,M39068,x
+790749,Minister of Armament,Alberto Roque SaldÃ­as,1945,1964,1999,5,Battle Fleet Proponent,Medium,M39069,x
 790750,Minister of Armament,Guillermo Almenara Irigoyen,1945,1964,1999,5,Administrative Genius,Medium,M39070,x
-790751,Minister of Armament,Luis Ramírez Ortiz,1946,1964,1999,3,Infantry Proponent,Medium,M39071,x
-790752,Minister of Armament,Rómulo Ferrero,1946,1964,1999,5,Laissez-Faire Capitalist,Medium,M39072,x
+790751,Minister of Armament,Luis RamÃ­rez Ortiz,1946,1964,1999,3,Infantry Proponent,Medium,M39071,x
+790752,Minister of Armament,RÃ³mulo Ferrero,1946,1964,1999,5,Laissez-Faire Capitalist,Medium,M39072,x
 790753,Minister of Armament,Constantino Carvallo,1947,1964,1999,3,Strategic Air Proponent,Medium,M39024,x
 790754,Minister of Armament,Ernesto Scroth,1947,1964,1999,3,Battle Fleet Proponent,Medium,M39004,x
-790755,Minister of Security,Benigno Ballón Farfán,1936,1964,1999,6,Crooked Kleptocrat,Medium,M39075,x
+790755,Minister of Security,Benigno BallÃ³n FarfÃ¡n,1936,1964,1999,6,Crooked Kleptocrat,Medium,M39075,x
 790756,Minister of Security,Eleodoro Romero,1937,1964,1999,6,Silent Lawyer,Medium,M39076,x
 790757,Minister of Security,Victor N. Benavente,1936,1964,1999,3,Silent Lawyer,Medium,M39077,x
-790758,Minister of Security,Antonio Rodríguez Ramírez,1939,1964,1999,3,Compassionate Gentleman,Medium,M39079,x
+790758,Minister of Security,Antonio RodrÃ­guez RamÃ­rez,1939,1964,1999,3,Compassionate Gentleman,Medium,M39079,x
 790759,Minister of Security,Luis A. Flores,1940,1964,1999,6,Prince of Terror,Low,M39015,x
 790760,Minister of Security,Carlos Berninzon,1942,1964,1999,6,Compassionate Gentleman,Low,M39081,x
-790761,Minister of Security,Guillermo Landa Arisueño,1944,1964,1999,5,Man of the People,Medium,M39082,x
+790761,Minister of Security,Guillermo Landa ArisueÃ±o,1944,1964,1999,5,Man of the People,Medium,M39082,x
 790762,Minister of Security,Augusto Leguia Swayne,1945,1964,1999,4,Man of the People,High,M39034,x
-790763,Minister of Security,Juan Cortés Azar,1945,1964,1999,5,Back Stabber,Medium,M39025,x
-790764,Minister of Security,Maximó Silva,1945,1964,1999,3,Crime Fighter,Medium,M39085,x
-790765,Minister of Security,Juan F. Guabloche Rodrígues,1946,1964,1999,5,Prince of Terror,Medium,M39086,x
-790766,Minister of Security,Ildefonso Ballón Beltrán,1947,1964,1999,3,Efficient Sociopath,Medium,M39087,x
-790767,Head of Military Intelligence,Horacio Patiño Cruzatti,1936,1964,1999,6,Naval Intelligence Specialist,Medium,M39088,x
+790763,Minister of Security,Juan CortÃ©s Azar,1945,1964,1999,5,Back Stabber,Medium,M39025,x
+790764,Minister of Security,MaximÃ³ Silva,1945,1964,1999,3,Crime Fighter,Medium,M39085,x
+790765,Minister of Security,Juan F. Guabloche RodrÃ­gues,1946,1964,1999,5,Prince of Terror,Medium,M39086,x
+790766,Minister of Security,Ildefonso BallÃ³n BeltrÃ¡n,1947,1964,1999,3,Efficient Sociopath,Medium,M39087,x
+790767,Head of Military Intelligence,Horacio PatiÃ±o Cruzatti,1936,1964,1999,6,Naval Intelligence Specialist,Medium,M39088,x
 790768,Head of Military Intelligence,Alberto Ayala y Lacroix,1936,1964,1999,3,Dismal Enigma,Medium,M39089,x
-790769,Head of Military Intelligence,Benigno Ballón Farfán,1939,1964,1999,6,Dismal Enigma,Medium,M39075,x
+790769,Head of Military Intelligence,Benigno BallÃ³n FarfÃ¡n,1939,1964,1999,6,Dismal Enigma,Medium,M39075,x
 790770,Head of Military Intelligence,Juan Bautista de Lavalle,1942,1964,1999,6,Industrial Specialist,Medium,M39091,x
-790771,Head of Military Intelligence,Alfredo Alvarez Calderón,1943,1964,1999,6,Technical Specialist,Medium,M39092,x
+790771,Head of Military Intelligence,Alfredo Alvarez CalderÃ³n,1943,1964,1999,6,Technical Specialist,Medium,M39092,x
 790772,Head of Military Intelligence,Miguel Montero y Tirado,1939,1964,1999,3,Political Specialist,Medium,M39093,x
 790773,Head of Military Intelligence,Jorge T. de la Flor,1944,1964,1999,5,Industrial Specialist,Medium,M39094,x
 790774,Head of Military Intelligence,Enrique Torres Gonzalez,1945,1964,1999,4,Political Specialist,Medium,M39095,x
-790775,Head of Military Intelligence,Juan F. Guabloche Rodrígues,1945,1964,1999,5,Dismal Enigma,Medium,M39086,x
+790775,Head of Military Intelligence,Juan F. Guabloche RodrÃ­gues,1945,1964,1999,5,Dismal Enigma,Medium,M39086,x
 790776,Head of Military Intelligence,Riccardo Barrea Laos,1945,1964,1999,3,Technical Specialist,Medium,M39097,x
 790777,Head of Military Intelligence,Armando Montes de Peralta,1946,1964,1999,5,Logistics Specialist,Medium,M39026,x
 790778,Head of Military Intelligence,Bernardo Palacios y Montecinos,1947,1964,1999,3,Technical Specialist,Medium,M39016,x
-790779,Chief of Staff,Luis Sánchez Cerro,1939,1964,1999,6,School of Mass Combat,Medium,M39102,x
+790779,Chief of Staff,Luis SÃ¡nchez Cerro,1939,1964,1999,6,School of Mass Combat,Medium,M39102,x
 790780,Chief of Staff,Bernardo Palacios y Montecinos,1939,1964,1999,3,School of Fire Support,Medium,M39016,x
 790781,Chief of Staff,Riccardo P. Godoy,1944,1964,1999,5,School of Manoeuvre,Medium,M39104,x
 790782,Chief of Staff,Fortunato Quesada Larrea,1945,1964,1999,5,School of Defence,Medium,M39106,x
-790783,Chief of Staff,Juan Poncé Diaz,1945,1964,1999,3,School of Psychology,Medium,M39027,x
+790783,Chief of Staff,Juan PoncÃ© Diaz,1945,1964,1999,3,School of Psychology,Medium,M39027,x
 790784,Chief of Staff,Alberto Hurtado Abadia,1947,1964,1999,3,School of Defence,Medium,M39108,x
 790785,Chief of Army,Oscar Gilardi,1936,1964,1999,3,Static Defence Doctrine,Low,M39006,x
 790786,Chief of Army,Luis Saenz Diaz,1939,1964,1999,6,Elastic Defence Doctrine,Medium,M39111,x
 790787,Chief of Army,Eloy G. Ureta,1939,1964,1999,3,Guns and Butter Doctrine,Medium,M39036,x
 790788,Chief of Army,Eduardo Montero Rojas,1944,1964,1999,5,Armoured Spearhead Doctrine,Medium,M39113,x
-790789,Chief of Army,Vladimiro Lopéz Trigoso,1945,1964,1999,5,Decisive Battle Doctrine,Medium,M39028,x
+790789,Chief of Army,Vladimiro LopÃ©z Trigoso,1945,1964,1999,5,Decisive Battle Doctrine,Medium,M39028,x
 790790,Chief of Army,Rafael Escardo,1947,1964,1999,3,Elastic Defence Doctrine,Low,M39048,x
-790791,Chief of Navy,Alberto Roque Saldías,1939,1964,1999,6,Indirect Approach Doctrine,Medium,M39069,x
+790791,Chief of Navy,Alberto Roque SaldÃ­as,1939,1964,1999,6,Indirect Approach Doctrine,Medium,M39069,x
 790792,Chief of Navy,Manuel R. Nieto,1939,1964,1999,3,Open Seas Doctrine,Medium,M39120,x
-790793,Chief of Navy,José de la Riva Agüero,1941,1964,1999,6,Base Control Doctrine,Medium,M39011,x
+790793,Chief of Navy,JosÃ© de la Riva AgÃ¼ero,1941,1964,1999,6,Base Control Doctrine,Medium,M39011,x
 790794,Chief of Navy,Nicolas Lindley Lopez,1944,1964,1999,5,Decisive Naval Battle Doctrine,Low,M39019,x
-790795,Chief of Navy,Luis Navarreté,1945,1964,1999,5,Power Projection Doctrine,High,M39124,x
-790796,Chief of Navy,Juan Poncé Diaz,1945,1964,1999,3,Base Control Doctrine,Medium,M39027,x
+790795,Chief of Navy,Luis NavarretÃ©,1945,1964,1999,5,Power Projection Doctrine,High,M39124,x
+790796,Chief of Navy,Juan PoncÃ© Diaz,1945,1964,1999,3,Base Control Doctrine,Medium,M39027,x
 790797,Chief of Navy,Felipe Tudela,1947,1964,1999,3,Open Seas Doctrine,Medium,M39013,x
 790798,Chief of Air Force,Victor Solano,1939,1964,1999,6,Army Aviation Doctrine,High,M39129,x
 790799,Chief of Air Force,Romulo Frias,1939,1964,1999,3,Air Superiority Doctrine,High,M39130,x
 790800,Chief of Air Force,Manuel Montero y Tirada,1943,1964,1999,6,Naval Aviation Doctrine,Medium,M39131,x
 790801,Chief of Air Force,Fernando M. Quesada Blanco,1944,1964,1999,5,Carpet Bombing Doctrine,Medium,M39020,x
-790802,Chief of Air Force,Luis Navarreté,1945,1964,1999,5,Naval Aviation Doctrine,High,M39124,x
+790802,Chief of Air Force,Luis NavarretÃ©,1945,1964,1999,5,Naval Aviation Doctrine,High,M39124,x
 790803,Chief of Air Force,Alberto Lopez Flores,1945,1964,1999,3,Vertical Envelopment Doctrine,Medium,M39030,x
 790804,Chief of Air Force,Eduardo Cantabria Gomez,1947,1964,1999,3,Army Aviation Doctrine,Medium,M39023,x
 790805,Head of Government,Alberto Rey de Castro,1936,1964,1999,6,Old General,High,M39137,x
-790806,Head of Government,José Alcamora,1947,1964,1999,5,Corporate Suit,High,M39138,x
+790806,Head of Government,JosÃ© Alcamora,1947,1964,1999,5,Corporate Suit,High,M39138,x
 790807,Foreign Minister,Cesar de la Fuente,1936,1964,1999,6,General Staffer,Medium,L260004,x
-790808,Head of State,José de la Riva Agüero,1936,1964,1999,8,Stern Imperialist,High,M39011,x
-790809,Head of Government,José de la Riva Agüero,1936,1964,1999,8,Old Admiral,High,M39011,x
+790808,Head of State,JosÃ© de la Riva AgÃ¼ero,1936,1964,1999,8,Stern Imperialist,High,M39011,x
+790809,Head of Government,JosÃ© de la Riva AgÃ¼ero,1936,1964,1999,8,Old Admiral,High,M39011,x
 790810,Foreign Minister,Felipe Tudela,1936,1964,1999,8,The Cloak N Dagger Schemer,Medium,M39013,x
 790811,Head of State,Lodovico Rovino Morales,1936,1964,1999,0,Benevolent Gentleman,High,M39021,x
 790812,Head of Government,Lodovico Rovino Morales,1936,1964,1999,0,old airmarshal,High,M39021,x
 790813,Foreign Minister,Eduardo Cantabria Gomez,1936,1964,1999,1,Great Compromiser,Medium,M39023,x
 790814,Head of State,Manuel Odria Amoretti,1948,1964,1999,7,Resigned Generalissimo,High,L260017,x
-790815,Head of Government,Alberto Roque Saldías,1947,1964,1999,6,Old Admiral,High,M39069,x
+790815,Head of Government,Alberto Roque SaldÃ­as,1947,1964,1999,6,Old Admiral,High,M39069,x
 790816,Head of Government,Armando Reveredo Iglesias,1948,1964,1999,5,old airmarshal,High,M39142,x
-790817,Head of Government,Alberto Zenon Agüero,1948,1964,1999,7,Old General,High,L260016,x
-790818,Chief of Staff,Alberto Zenon Agüero,1948,1964,1999,6,School of Psychology,Medium,L260016,x
+790817,Head of Government,Alberto Zenon AgÃ¼ero,1948,1964,1999,7,Old General,High,L260016,x
+790818,Chief of Staff,Alberto Zenon AgÃ¼ero,1948,1964,1999,6,School of Psychology,Medium,L260016,x
 790819,Chief of Staff,Nicolas Lindley Lopez,1950,1964,1999,7,School of Manoeuvre,Medium,L260036,x
 790820,Chief of Army,Manuel Odria Amoretti,1948,1964,1999,6,Elastic Defence Doctrine,Medium,L260017,x
 790821,Chief of Army,Riccardo Perez Godoy,1950,1964,1999,7,Armoured Spearhead Doctrine,Medium,L260020,x
 790822,Minister of Armament,Armando Reveredo Iglesias,1950,1964,1999,6,Military Entrepreneur,Medium,M39142,x
-790823,Minister of Security,Rocas Sanchez Mapás,1951,1964,1999,7,Efficient Sociopath,Low,M39149,x
-790824,Head of State,Luis Miguel Sánchez Cerro,1936,1964,1999,8,Benevolent Gentleman,High,Kaiserreich Luis Miguel Sánchez Cerro,x
+790823,Minister of Security,Rocas Sanchez MapÃ¡s,1951,1964,1999,7,Efficient Sociopath,Low,M39149,x
+790824,Head of State,Luis Miguel SÃ¡nchez Cerro,1936,1964,1999,8,Benevolent Gentleman,High,Kaiserreich Luis Miguel SÃ¡nchez Cerro,x
 790825,Head of State,Jose Tejada Sorzano,1936,1964,1999,4,Weary Stiffneck,High,M43001,x
 790826,Head of Government,Jose Tejada Sorzano,1936,1964,1999,4,Smiling Oilman,High,M43001,x
-790827,Foreign Minister,José Maria Gutierrez,1936,1964,1999,4,Iron Fisted Brute,High,M43003,x
+790827,Foreign Minister,JosÃ© Maria Gutierrez,1936,1964,1999,4,Iron Fisted Brute,High,M43003,x
 790828,Minister of Armament,Moritz Hochschild,1936,1964,1999,4,laissez-faire capitalist,Medium,M43004,x
-790829,Minister of Security,José Santos Quinteros,1936,1964,1999,4,Compassionate Gentleman,High,M43005,x
+790829,Minister of Security,JosÃ© Santos Quinteros,1936,1964,1999,4,Compassionate Gentleman,High,M43005,x
 790830,Head of Military Intelligence,Carlos Altamirano,1936,1964,1999,4,Dismal Enigma,Medium,M43006,x
 790831,Chief of Staff,Gualberto Villarroel Lopez,1936,1964,1999,4,School of Fire Support,Very Low,M43007,x
 790832,Chief of Army,Hans Kundt,1936,1964,1999,4,Decisive Battle Doctrine,Medium,M43008,x
@@ -135,9 +135,9 @@ U27,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 790834,Chief of Air Force,Hector Bilbao Roja,1936,1964,1999,4,Army Aviation Doctrine,Medium,M43010,x
 790835,Head of State,Enrique Finot,1936,1964,1999,3,Pig-headed Isolationist,High,M43031,x
 790836,Head of State,German Busch Beccera,1937,1964,1999,3,Popular Figurehead,High,M43032,x
-790837,Head of State,Rafael Franco Rafél,1936,1964,1999,4,Benevolent Gentleman,High,M43033,x
+790837,Head of State,Rafael Franco RafÃ©l,1936,1964,1999,4,Benevolent Gentleman,High,M43033,x
 790838,Head of State,Waldo Belmonte Pool,1938,1964,1999,4,Insignificant Layman,High,M43034,x
-790839,Head of State,Néstor Guillén Olmos,1944,1964,1999,4,Autocratic Charmer,High,M43035,x
+790839,Head of State,NÃ©stor GuillÃ©n Olmos,1944,1964,1999,4,Autocratic Charmer,High,M43035,x
 790840,Head of State,Abadon Saavedra Mallea,1936,1964,1999,6,Stern Imperialist,High,M43036,x
 790841,Head of State,Carlos Quintanilla Quiroga,1938,1964,1999,6,Resigned Generalissimo,High,M43037,x
 790842,Head of State,Simon I. Patino,1940,1964,1999,6,Powerhungry Demagogue,High,M43038,x
@@ -149,14 +149,14 @@ U27,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 790848,Head of State,Daniel Sanchez Bustamante,1936,1964,1999,0,Autocratic Charmer,High,M43023,x
 790849,Head of State,Enrique Penaranda Castillo,1939,1964,1999,7,Stern Imperialist,High,M43045,x
 790850,Head of State,German Butron,1936,1964,1999,8,Resigned Generalissimo,High,M43011,x
-790851,Head of State,Edwin Möller,1944,1964,1999,8,Popular Figurehead,High,M43015,x
+790851,Head of State,Edwin MÃ¶ller,1944,1964,1999,8,Popular Figurehead,High,M43015,x
 790852,Head of Government,David Toro Ruilova,1936,1964,1999,2,Old General,High,M43048,x
 790853,Head of Government,German Busch Beccera,1937,1964,1999,3,Naive Optimist,High,M43032,x
 790854,Head of Government,Abadon Saavedra Mallea,1936,1964,1999,6,Flamboyant Tough Guy,High,M43036,x
 790855,Head of Government,Carlos Quintanilla Quiroga,1938,1964,1999,6,Old General,High,M43037,x
 790856,Head of Government,Simon I. Patino,1940,1964,1999,6,Corporate Suit,High,M43038,x
 790857,Head of Government,Enrique Hertzog Garaizabal,1945,1964,1999,6,Silent Workhorse,High,M43053,x
-790858,Head of Government,Rafael Franco Rafél,1936,1964,1999,2,Naive Optimist,High,M43033,x
+790858,Head of Government,Rafael Franco RafÃ©l,1936,1964,1999,2,Naive Optimist,High,M43033,x
 790859,Head of Government,Waldo Belmonte Pool,1939,1964,1999,4,Happy Amateur,High,M43034,x
 790860,Head of Government,Julian Montellano Carrasco,1944,1964,1999,4,Political Protege,High,M43056,x
 790861,Head of Government,Eusebio Ayala,1936,1964,1999,2,Ambitious Union Boss,High,M43040,x
@@ -167,30 +167,30 @@ U27,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 790866,Head of Government,Enrique Penaranda Castillo,1938,1964,1999,7,Flamboyant Tough Guy,High,M43045,x
 790867,Head of Government,Jorge Patinos,1943,1964,1999,7,Corporate Suit,High,M43063,x
 790868,Head of Government,German Butron,1936,1964,1999,8,Old General,High,M43011,x
-790869,Head of Government,Edwin Möller,1944,1964,1999,8,Corporate Suit,High,M43015,x
+790869,Head of Government,Edwin MÃ¶ller,1944,1964,1999,8,Corporate Suit,High,M43015,x
 790870,Foreign Minister,Luis Guachalla Solares,1936,1964,1999,3,Great Compromiser,High,M43066,x
 790871,Foreign Minister,Enrique Baldivieso Aparicio,1937,1964,1999,3,General Staffer,Medium,M43067,x
 790872,Foreign Minister,Carlos Salinas Aramayo,1938,1964,1999,3,The Cloak N Dagger Schemer,Medium,M43068,x
 790873,Foreign Minister,Jose Tejada Sorzano,1936,1964,1999,4,Great Compromiser,Medium,M43001,x
-790874,Foreign Minister,Rafael Franco Rafél,1936,1964,1999,4,General Staffer,Medium,M43033,x
+790874,Foreign Minister,Rafael Franco RafÃ©l,1936,1964,1999,4,General Staffer,Medium,M43033,x
 790875,Foreign Minister,Francesco Pierini,1938,1964,1999,4,Biased Intellectual,Medium,M43071,x
-790876,Foreign Minister,Tomas Manuel Elío,1943,1964,1999,4,Great Compromiser,Low,M43072,x
+790876,Foreign Minister,Tomas Manuel ElÃ­o,1943,1964,1999,4,Great Compromiser,Low,M43072,x
 790877,Foreign Minister,Enrique Hertzog Garaizabal,1946,1964,1999,4,Apologetic Clerk,Medium,M43053,x
 790878,Foreign Minister,Abadon Saavedra Mallea,1936,1964,1999,6,Apologetic Clerk,High,M43036,x
-790879,Foreign Minister,Hugo Ballivián Rojas,1947,1964,1999,6,General Staffer,Medium,M43077,x
+790879,Foreign Minister,Hugo BalliviÃ¡n Rojas,1947,1964,1999,6,General Staffer,Medium,M43077,x
 790880,Foreign Minister,Alberto Ostria Gutierrez,1939,1964,1999,7,Apologetic Clerk,Medium,M43075,x
 790881,Foreign Minister,Eduardo Anze Matienzo,1942,1964,1999,7,The Cloak N Dagger Schemer,High,M43076,x
-790882,Foreign Minister,Tomas Manuel Elío,1943,1964,1999,7,Great Compromiser,Low,M43072,x
+790882,Foreign Minister,Tomas Manuel ElÃ­o,1943,1964,1999,7,Great Compromiser,Low,M43072,x
 790883,Foreign Minister,Juan Mechin,1936,1964,1999,8,The Cloak N Dagger Schemer,High,M43013,x
 790884,Foreign Minister,Fabian Vaca Chavez,1940,1964,1999,7,Biased Intellectual,Low,M43082,x
 790885,Foreign Minister,Simon I. Patino,1939,1964,1999,8,The Cloak N Dagger Schemer,Medium,M43038,x
 790886,Foreign Minister,German Butron,1944,1964,1999,8,Ideological Crusader,Low,M43011,x
 790887,Foreign Minister,Alberto Diez de Medina,1936,1964,1999,2,Biased Intellectual,Medium,M43086,x
 790888,Foreign Minister,Victor Paz Estenssorro,1936,1964,1999,2,Biased Intellectual,Medium,M43042,x
-790889,Foreign Minister,José Franz Tamayo,1936,1964,1999,2,Ideological Crusader,Medium,M43088,x
+790889,Foreign Minister,JosÃ© Franz Tamayo,1936,1964,1999,2,Ideological Crusader,Medium,M43088,x
 790890,Foreign Minister,Enrique Baldivieso Aparicio,1936,1964,1999,2,General Staffer,Medium,M43067,x
-790891,Foreign Minister,Gustavo Chacón Morales,1936,1964,1999,2,The Cloak N Dagger Schemer,Medium,M43090,x
-790892,Foreign Minister,José Pinto Sanchez,1936,1964,1999,2,Iron Fisted Brute,Medium,M43091,x
+790891,Foreign Minister,Gustavo ChacÃ³n Morales,1936,1964,1999,2,The Cloak N Dagger Schemer,Medium,M43090,x
+790892,Foreign Minister,JosÃ© Pinto Sanchez,1936,1964,1999,2,Iron Fisted Brute,Medium,M43091,x
 790893,Foreign Minister,Aniceto Solares,1936,1964,1999,2,Great Compromiser,Medium,M43092,x
 790894,Foreign Minister,Daniel Sanchez Bustamante,1936,1964,1999,1,Iron Fisted Brute,Low,M43023,x
 790895,Foreign Minister,Roberto Hinojosa,1936,1964,1999,1,Apologetic Clerk,High,M43024,x
@@ -199,7 +199,7 @@ U27,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 790898,Minister of Armament,Hector Bilbao Roja,1939,1964,1999,4,Air to Ground Proponent,Medium,M43010,x
 790899,Minister of Armament,Abadon Saavedra Mallea,1940,1964,1999,4,Air to Sea Proponent,High,M43036,x
 790900,Minister of Armament,Adolfo Costa du Reis,1941,1964,1999,4,Military Entrepreneur,Medium,M43101,x
-790901,Minister of Armament,Néstor Guillén Olmos,1943,1964,1999,4,Resource Industrialist,Medium,M43035,x
+790901,Minister of Armament,NÃ©stor GuillÃ©n Olmos,1943,1964,1999,4,Resource Industrialist,Medium,M43035,x
 790902,Minister of Armament,Julian Montellano Carrasco,1946,1964,1999,4,Administrative Genius,Medium,M43056,x
 790903,Minister of Armament,Abadon Saavedra Mallea,1939,1964,1999,6,Theoretical Scientist,Medium,M43036,x
 790904,Minister of Armament,Simon I. Patino,1940,1964,1999,6,Resource Industrialist,Medium,M43038,x
@@ -207,7 +207,7 @@ U27,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 790906,Minister of Armament,David Toro Ruilova,1940,1964,1999,7,Corrupt Kleptocrat,Medium,M43048,x
 790907,Minister of Armament,Carlos Salinas Aramayo,1941,1964,1999,7,Military Entrepreneur,Medium,M43068,x
 790908,Minister of Armament,Fabian Vaca Chavez,1942,1964,1999,7,Air to Sea Proponent,Low,M43082,x
-790909,Minister of Armament,Hugo Ballivián Rojas,1943,1964,1999,7,Infantry Proponent,Medium,M43077,x
+790909,Minister of Armament,Hugo BalliviÃ¡n Rojas,1943,1964,1999,7,Infantry Proponent,Medium,M43077,x
 790910,Minister of Armament,Mario Torres,1936,1964,1999,8,Corrupt Kleptocrat,High,M43014,x
 790911,Minister of Armament,Alberto Ostria Gutierrez,1938,1964,1999,7,Air to Ground Proponent,Medium,M43075,x
 790912,Minister of Armament,Jorge Patinos,1940,1964,1999,7,Resource Industrialist,Medium,M43063,x
@@ -220,14 +220,14 @@ U27,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 790919,Minister of Armament,Victor Paz Estenssorro,1947,1964,1999,2,Resource Industrialist,Medium,M43042,x
 790920,Minister of Armament,Roberto Hinojosa,1936,1964,1999,1,Infantry Proponent,High,M43024,x
 790921,Minister of Armament,Werner Guttenberg,1936,1964,1999,0,Strategic Air Proponent,Medium,M43123,x
-790922,Minister of Security,José Franz Tamayo,1936,1964,1999,3,Crime Fighter,Medium,M43088,x
+790922,Minister of Security,JosÃ© Franz Tamayo,1936,1964,1999,3,Crime Fighter,Medium,M43088,x
 790923,Minister of Security,Florian Zambrana,1938,1964,1999,3,Efficient Sociopath,Low,M43125,x
 790924,Minister of Security,Salvator Morales Jauregi,1936,1964,1999,4,Man of the People,Medium,M43126,x
 790925,Minister of Security,Felix A. Arromayo,1939,1964,1999,4,Silent Lawyer,Medium,M43127,x
 790926,Minister of Security,Carlos Salinas Aramayo,1943,1964,1999,4,Back Stabber,Medium,M43068,x
 790927,Minister of Security,Mamerto Urriolagitea Harriaque,1946,1964,1999,4,Prince of Terror,Medium,M43129,x
 790928,Minister of Security,Felix A. Arromayo,1936,1964,1999,6,Silent Lawyer,Medium,M43127,x
-790929,Minister of Security,José Santos Quinteros,1939,1964,1999,6,Compassionate Gentleman,High,M43005,x
+790929,Minister of Security,JosÃ© Santos Quinteros,1939,1964,1999,6,Compassionate Gentleman,High,M43005,x
 790930,Minister of Security,Eduardo Anze Matienzo,1944,1964,1999,6,Crooked Kleptocrat,High,M43076,x
 790931,Minister of Security,Fabian Vaca Chavez,1945,1964,1999,6,Prince of Terror,Low,M43082,x
 790932,Minister of Security,Carlos Blanco Galindo,1947,1964,1999,6,Crooked Kleptocrat,Medium,M43134,x
@@ -235,7 +235,7 @@ U27,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 790934,Minister of Security,Simon I. Patino,1940,1964,1999,7,Crime Fighter,Medium,M43038,x
 790935,Minister of Security,Alberto Ostria Gutierrez,1942,1964,1999,7,Back Stabber,Medium,M43075,x
 790936,Minister of Security,Carlos Salinas Aramayo,1943,1964,1999,7,Prince of Terror,Medium,M43068,x
-790937,Minister of Security,Edwin Möller,1936,1964,1999,8,Prince of Terror,High,M43015,x
+790937,Minister of Security,Edwin MÃ¶ller,1936,1964,1999,8,Prince of Terror,High,M43015,x
 790938,Minister of Security,Victor Paz Estenssorro,1936,1964,1999,2,Man of the People,Medium,M43042,x
 790939,Minister of Security,Luis Guachalla Solares,1936,1964,1999,2,Back Stabber,High,M43066,x
 790940,Minister of Security,Walter Guevera,1936,1964,1999,2,Prince of Terror,High,M43096,x
@@ -244,14 +244,14 @@ U27,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 790943,Minister of Security,Gunnar Mendoza Loza,1947,1964,1999,2,Compassionate Gentleman,Medium,M43146,x
 790944,Minister of Security,Juan Lechin Oquendo,1936,1964,1999,0,Back Stabber,Medium,M43025,x
 790945,Head of Military Intelligence,Victor Paz Estenssorro,1936,1964,1999,3,Political Specialist,Medium,M43042,x
-790946,Head of Military Intelligence,José Maria Gutierrez,1936,1964,1999,4,Industrial Specialist,High,M43003,x
+790946,Head of Military Intelligence,JosÃ© Maria Gutierrez,1936,1964,1999,4,Industrial Specialist,High,M43003,x
 790947,Head of Military Intelligence,Francesco Pierini,1943,1964,1999,4,Political Specialist,Medium,M43071,x
 790948,Head of Military Intelligence,Aniceto Solares,1946,1964,1999,4,Dismal Enigma,Medium,M43092,x
 790949,Head of Military Intelligence,Carlos Victor Arramayo,1936,1964,1999,6,Technical Specialist,Very High,M43068,x
 790950,Head of Military Intelligence,Eduardo Anze Matienzo,1939,1964,1999,6,Political Specialist,High,M43076,x
 790951,Head of Military Intelligence,Simon I. Patino,1944,1964,1999,6,Industrial Specialist,Medium,M43038,x
 790952,Head of Military Intelligence,Juan Lopez y Lopez,1945,1964,1999,6,Logistics Specialist,Medium,M43156,x
-790953,Head of Military Intelligence,José Santos Quinteros,1940,1964,1999,7,Dismal Enigma,High,M43005,x
+790953,Head of Military Intelligence,JosÃ© Santos Quinteros,1940,1964,1999,7,Dismal Enigma,High,M43005,x
 790954,Head of Military Intelligence,Juan Sanjines,1936,1964,1999,8,Industrial Specialist,Medium,M43016,x
 790955,Head of Military Intelligence,Alberto Ostria Gutierrez,1943,1964,1999,8,Dismal Enigma,Medium,M43075,x
 790956,Head of Military Intelligence,Fabian Vaca Chavez,1943,1964,1999,7,Naval Intelligence Specialist,Medium,M43082,x
@@ -263,13 +263,13 @@ U27,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 790962,Chief of Staff,German Busch Beccera,1936,1964,1999,3,School of Manoeuvre,Low,M43032,x
 790963,Chief of Staff,Waldo Belmonte Pool,1936,1964,1999,4,School of Psychology,Medium,M43034,x
 790964,Chief of Staff,Carlos Quintanilla Quiroga,1936,1964,1999,6,School of Defence,Medium,M43037,x
-790965,Chief of Staff,Rafael Franco Rafél,1940,1964,1999,6,School of Fire Support,Medium,M43033,x
+790965,Chief of Staff,Rafael Franco RafÃ©l,1940,1964,1999,6,School of Fire Support,Medium,M43033,x
 790966,Chief of Staff,Tomas Monje Gutierrez,1947,1964,1999,6,School of Mass Combat,Very High,M43039,x
 790967,Chief of Staff,Enrique Penaranda Castillo,1940,1964,1999,7,School of Mass Combat,Medium,M43045,x
 790968,Chief of Staff,Carlos Blanco Galindo,1942,1964,1999,7,School of Psychology,Medium,M43134,x
 790969,Chief of Staff,Carlos Altamirano,1936,1964,1999,8,School of Fire Support,High,M43006,x
-790970,Chief of Staff,José Pastor Baldiviseo,1936,1964,1999,2,School of Mass Combat,Medium,M43167,x
-790971,Chief of Staff,Gustavo Chacón Morales,1936,1964,1999,2,School of Defence,Medium,M43090,x
+790970,Chief of Staff,JosÃ© Pastor Baldiviseo,1936,1964,1999,2,School of Mass Combat,Medium,M43167,x
+790971,Chief of Staff,Gustavo ChacÃ³n Morales,1936,1964,1999,2,School of Defence,Medium,M43090,x
 790972,Chief of Staff,Roberto Hinojosa,1936,1964,1999,1,School of Psychology,High,M43024,x
 790973,Chief of Staff,Gunnar Mendoza Loza,1936,1964,1999,0,School of Mass Combat,Medium,M43146,x
 790974,Chief of Army,David Toro Ruilova,1936,1964,1999,3,Decisive Battle Doctrine,High,M43048,x
@@ -296,26 +296,26 @@ U27,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 790995,Chief of Navy,Roberto Hinojosa,1936,1964,1999,1,Open Seas Doctrine,High,M43024,x
 790996,Chief of Air Force,David Toro Ruilova,1936,1964,1999,3,Air Superiority Doctrine,Medium,M43048,x
 790997,Chief of Air Force,Walter Guevera,1937,1964,1999,3,Naval Aviation Doctrine,High,M43096,x
-790998,Chief of Air Force,José Maria Gutierrez,1936,1964,1999,4,Army Aviation Doctrine,High,M43003,x
+790998,Chief of Air Force,JosÃ© Maria Gutierrez,1936,1964,1999,4,Army Aviation Doctrine,High,M43003,x
 790999,Chief of Air Force,Francesco Pierini,1943,1964,1999,4,Naval Aviation Doctrine,Medium,M43071,x
 791000,Chief of Air Force,Julian Montellano Carrasco,1946,1964,1999,4,Air Superiority Doctrine,Medium,M43056,x
-791001,Chief of Air Force,José Santos Quinteros,1936,1964,1999,6,Army Aviation Doctrine,High,M43005,x
+791001,Chief of Air Force,JosÃ© Santos Quinteros,1936,1964,1999,6,Army Aviation Doctrine,High,M43005,x
 791002,Chief of Air Force,Mario Torres,1944,1964,1999,6,Vertical Envelopment Doctrine,High,M43014,x
 791003,Chief of Air Force,Alberto Ostria Gutierrez,1947,1964,1999,6,Air Superiority Doctrine,Medium,M43075,x
 791004,Chief of Air Force,Jorge Jordan,1940,1964,1999,7,Carpet Bombing Doctrine,Low,M43020,x
 791005,Chief of Air Force,Fabian Vaca Chavez,1936,1964,1999,8,Naval Aviation Doctrine,Medium,M43082,x
 791006,Chief of Air Force,Enrique Baldivieso Aparicio,1936,1964,1999,2,Army Aviation Doctrine,Medium,M43067,x
 791007,Chief of Air Force,Hector Bilbao Roja,1936,1964,1999,2,Army Aviation Doctrine,Medium,M43010,x
-791008,Chief of Air Force,Alberto Saralegui Sanchéz,1936,1964,1999,1,Vertical Envelopment Doctrine,Medium,M43030,x
-791009,Head of State,Edwin Möller,1944,1964,1999,7,Popular Figurehead,High,M43015,x
+791008,Chief of Air Force,Alberto Saralegui SanchÃ©z,1936,1964,1999,1,Vertical Envelopment Doctrine,Medium,M43030,x
+791009,Head of State,Edwin MÃ¶ller,1944,1964,1999,7,Popular Figurehead,High,M43015,x
 791010,Chief of Army,Tomas Monje Gutierrez,1944,1964,1999,7,Armoured Spearhead Doctrine,Very High,M43039,x
 791011,Head of State,Enrique Hertzog Garaizabal,1947,1964,1999,6,Barking Buffoon,High,M43053,x
 791012,Head of State,Mamerto Urriolagitea Harriaque,1949,1964,1999,5,Autocratic Charmer,High,M43129,x
-791013,Head of State,Hugo Ballivián Rojas,1951,1964,1999,4,Resigned Generalissimo,High,M43077,x
+791013,Head of State,Hugo BalliviÃ¡n Rojas,1951,1964,1999,4,Resigned Generalissimo,High,M43077,x
 791014,Head of Government,Hernan Silas Zuazo,1952,1964,1999,3,Ambitious Union Boss,High,M43225,x
-791015,Foreign Minister,Nuflo Chavez Ortíz,1952,1964,1999,3,Iron Fisted Brute,Medium,M42226,x
-791016,Head of Government,Hugo Ballivián Rojas,1951,1964,1999,4,Old General,Very High,M43077,x
+791015,Foreign Minister,Nuflo Chavez OrtÃ­z,1952,1964,1999,3,Iron Fisted Brute,Medium,M42226,x
+791016,Head of Government,Hugo BalliviÃ¡n Rojas,1951,1964,1999,4,Old General,Very High,M43077,x
 791017,Head of State,Alfonso Gumucio Reyes,1936,1964,1999,2,Popular Figurehead,High,Kaiserreich Alfonso Gumucio Reyes,x
-791018,Head of State,Hernán Siles Zuazo,1936,1964,1999,4,Benevolent Gentleman,High,Kaiserreich Hernán Siles Zuazo,x
+791018,Head of State,HernÃ¡n Siles Zuazo,1936,1964,1999,4,Benevolent Gentleman,High,Kaiserreich HernÃ¡n Siles Zuazo,x
 791019,Head of Government,Victor Paz Estenssoro,1936,1964,1999,4,Ambitious Union Boss,High,Kaiserreich Victor Paz,x
 791020,Head of State,Daniel Salamanca Urey,1936,1964,1999,4,Benevolent Gentleman,High,Kaiserreich Daniel Salamanca Urey,x

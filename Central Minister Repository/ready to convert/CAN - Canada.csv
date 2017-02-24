@@ -83,7 +83,7 @@ CAN,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 45159,Minister of Security,John Diefenbaker,6,Man of the People,CAN_Diefenbaker
 45111,Chief of Army,John Murchie,6,Armoured Spearhead Doctrine,M45102
 45102,Chief of Staff,John Murchie,6,School of Fire Support,M45102
-45123,Chief of Air Force,Joseph Roméo Vachon,6,Air Superiority Doctrine,M45123
+45123,Chief of Air Force,Joseph RomÃ©o Vachon,6,Air Superiority Doctrine,M45123
 45088,Head of Military Intelligence,Maurice Pope,6,Political Specialist,M45088
 45043,Foreign Minister,R.B. Bennett,6,Iron Fisted Brute,M45036
 45036,Head of Government,R.B. Bennett,6,Silent Workhorse,M45036
@@ -127,8 +127,8 @@ CAN,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 45062,Minister of Armament,Pierre Gagnon,7,Resource Industrialist,M45062
 45077,Minister of Security,Pierre Gagnon,7,Crime Fighter,M45062
 45075,Minister of Security,Pierre St. Pierre,7,Man of the People,M45075
-45092,Head of Military Intelligence,René St. Pierre,7,Industrial Specialist,M45061
-45061,Minister of Armament,René St. Pierre,7,Battle Fleet Proponent,M45061
+45092,Head of Military Intelligence,RenÃ© St. Pierre,7,Industrial Specialist,M45061
+45061,Minister of Armament,RenÃ© St. Pierre,7,Battle Fleet Proponent,M45061
 45059,Minister of Armament,Tasker Cook,7,Industrialiser,M45059
 45076,Minister of Security,Thomas Adams,7,Compassionate Gentleman,M45076
 45145,Chief of Air Force,William Avery Bishop,7,Air Superiority Doctrine,L52099

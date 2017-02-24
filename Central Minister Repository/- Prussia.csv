@@ -1,11 +1,11 @@
 U14,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
 12500,Head of State,Hermann von Kuhl,1936,1964,1999,7,Resigned Generalissimo,Medium,PRUKuh,x
 12501,Head of Government,Ewald von Lochow,1936,1964,1999,7,Old General,Medium,PRUEwa,x
-12502,Foreign Minister,Richard von Kühlmann,1936,1964,1999,7,Ideological Crusader,Medium,PRURic,x
+12502,Foreign Minister,Richard von KÃ¼hlmann,1936,1964,1999,7,Ideological Crusader,Medium,PRURic,x
 12503,Minister of Armament,Karl Heinrich Emil Becker,1936,1964,1999,7,Military Entrepreneur,Medium,PRUKar,x
 12504,Minister of Security,Walter von Unruh,1936,1964,1999,7,Back Stabber,Medium,PRUUnr,x
 12505,Head of Military Intelligence,Walter Nicolai,1936,1964,1999,7,Logistics Specialist,Medium,PRUNic,x
-12506,Chief of Staff,Günther von Kluge,1936,1964,1999,9,School of Mass Combat,Medium,Gunther_von_Kluge,x
+12506,Chief of Staff,GÃ¼nther von Kluge,1936,1964,1999,9,School of Mass Combat,Medium,Gunther_von_Kluge,x
 12507,Chief of Army,Heinz Guderian,1936,1964,1999,8,Armoured Spearhead Doctrine,Medium,Heinz_Guderian,x
 12508,Chief of Navy,Walther Hennecke,1936,1964,1999,8,Decisive Naval Battle Doctrine,Medium,Walther_Hennecke,x
 12509,Chief of Air Force,Arthur Greiser,1936,1964,1999,8,Army Aviation Doctrine,Medium,Arthur_Greiser,x
@@ -18,7 +18,7 @@ U14,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 12518,Head of Government,Helmut Herzfeld,1936,1964,1999,2,Political Protege,Medium,John Heartfield,x
 12519,Foreign Minister,Gerhart Eisler,1936,1964,1999,1,General Staffer,Medium,Gerhart Eisler,x
 12520,Minister of Armament,Jakob Kaiser,1936,1964,1999,1,Military Entrepreneur,High,Jakob Kaiser,x
-12521,Minister of Security,Willi Münzenberg,1936,1964,1999,1,Back Stabber,Medium,Willi Münzenberg,x
+12521,Minister of Security,Willi MÃ¼nzenberg,1936,1964,1999,1,Back Stabber,Medium,Willi MÃ¼nzenberg,x
 12522,Head of Military Intelligence,Ernst Thalmann,1936,1964,1999,1,Industrial Specialist,High,Ernst Thalmann,x
 12523,Chief of Staff,Xaver Sattler,1936,1964,1999,1,School of Fire Support,High,L507227,x
 12524,Chief of Army,Hans Kahle,1936,1964,1999,1,Decisive Battle Doctrine,Very High,M28,x

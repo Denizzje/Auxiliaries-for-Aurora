@@ -21,12 +21,12 @@ CON,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 574005,Minister of Security,Alexander Duala Bell,7,Man of the People,Kaiserreich AlexanderBell
 574004,Minister of Armament,August Stauch,7,Resource Industrialist,Kaiserreichstauch
 574032,Chief of Navy,Dominik Mbonyumutwa,7,Power Projection Doctrine,M574032
-574044,Chief of Army,Ernst Jünger,7,Decisive Battle Doctrine,Kaiserreichjunger2
-574007,Chief of Staff,Ernst Jünger,7,School of Manoeuvre,Kaiserreichjunger2
-574047,Foreign Minister,Ernst Jünger,7,Biased Intellectual,Kaiserreichjunger2
-574037,Head of Government,Ernst Jünger,7,Flamboyant Tough Guy,Kaiserreichjunger2
-574024,Head of Military Intelligence,Franz Köhl,7,Dismal Enigma,Kaiserreich Franz Köhl
-574029,Chief of Army,Hans Hädicke,7,Static Defence Doctrine,Kaiserreich Hädicke
+574044,Chief of Army,Ernst JÃ¼nger,7,Decisive Battle Doctrine,Kaiserreichjunger2
+574007,Chief of Staff,Ernst JÃ¼nger,7,School of Manoeuvre,Kaiserreichjunger2
+574047,Foreign Minister,Ernst JÃ¼nger,7,Biased Intellectual,Kaiserreichjunger2
+574037,Head of Government,Ernst JÃ¼nger,7,Flamboyant Tough Guy,Kaiserreichjunger2
+574024,Head of Military Intelligence,Franz KÃ¶hl,7,Dismal Enigma,Kaiserreich Franz KÃ¶hl
+574029,Chief of Army,Hans HÃ¤dicke,7,Static Defence Doctrine,Kaiserreich HÃ¤dicke
 574026,Chief of Staff,Heinrich Kirchheim,7,School of Defence,Kaiserreich HeinrichKirchheim
 574002,Head of Government,Heinrich Schnee,7,Naive Optimist,kaiserreich_HeinrichSchnee
 574008,Chief of Army,Hermann Detzner,7,Guns and Butter Doctrine,kaiserreichdetzner
@@ -42,7 +42,7 @@ CON,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 574018,Minister of Armament,Zacharias Lewala,7,Laissez-Faire Capitalist,Kaiserreich Lewala
 574009,Chief of Navy,Max von Looff,8,Indirect Approach Doctrine,kaiserreichvonloof
 574028,Chief of Army,Sepp Dietrich,8,Armoured Spearhead Doctrine,L496
-574048,Chief of Air Force,Hermann Göring,9,Carpet Bombing Doctrine,M10
-574036,Minister of Armament,Hermann Göring,9,Air to Ground Proponent,Kaiserreich Göring
+574048,Chief of Air Force,Hermann GÃ¶ring,9,Carpet Bombing Doctrine,M10
+574036,Minister of Armament,Hermann GÃ¶ring,9,Air to Ground Proponent,Kaiserreich GÃ¶ring
 574003,Foreign Minister,Joachim von Ribbentrop,9,Iron Fisted Brute,M55
 574043,Minister of Security,Theodor Eicke,9,Prince of Terror,kaiserreichhippel

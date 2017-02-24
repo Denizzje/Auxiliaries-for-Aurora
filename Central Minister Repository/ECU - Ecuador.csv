@@ -1,82 +1,82 @@
 ECU,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
-40001,Head of State,Federico P·ez Chiriboaga,1936,1964,1999,4,Stern Imperialist,High,M40001,x
-40002,Head of Government,Federico P·ez Chiriboaga,1936,1964,1999,4,Flamboyant Tough Guy,High,M40001,x
+40001,Head of State,Federico P√°ez Chiriboaga,1936,1964,1999,4,Stern Imperialist,High,M40001,x
+40002,Head of Government,Federico P√°ez Chiriboaga,1936,1964,1999,4,Flamboyant Tough Guy,High,M40001,x
 40003,Foreign Minister,Alberto Larrea Chiriboaga,1936,1964,1999,4,Apologetic Clerk,Medium,M40003,x
 40004,Minister of Armament,Fabian Del Castello,1936,1964,1999,4,laissez-faire capitalist,Medium,M40004,x
 40005,Minister of Security,Davide Flores,1936,1964,1999,4,Crime Fighter,Medium,M40005,x
-40006,Head of Military Intelligence,Aurelio Mosquera Narv·ez,1936,1964,1999,4,Logistics Specialist,Medium,M40006,x
+40006,Head of Military Intelligence,Aurelio Mosquera Narv√°ez,1936,1964,1999,4,Logistics Specialist,Medium,M40006,x
 40007,Chief of Staff,Benigno Andrade Flores,1936,1964,1999,4,School of Defence,Very Low,M40007,x
-40008,Chief of Army,Alberto EnrÌquez Gallo,1936,1964,1999,6,Decisive Battle Doctrine,Low,M40008,x
+40008,Chief of Army,Alberto Enr√≠quez Gallo,1936,1964,1999,6,Decisive Battle Doctrine,Low,M40008,x
 40009,Chief of Navy,Juan Ramon Castro,1936,1964,1999,4,Open Seas Doctrine,Medium,M40009,x
 40010,Chief of Air Force,Cosme Renella Barbatto,1936,1964,1999,4,Army Aviation Doctrine,Medium,M40010,x
-40031,Head of State,Gustavo Becerra P·z,1936,1964,1999,2,Insignificant Layman,High,M40021,x
+40031,Head of State,Gustavo Becerra P√°z,1936,1964,1999,2,Insignificant Layman,High,M40021,x
 40032,Head of State,Enrique Gil Gilbert,1940,1964,1999,2,Autocratic Charmer,High,M40023,x
-40033,Head of State,JosÈ MarÌa Velasco Ibarra,1941,1964,1999,3,Benevolent Gentleman,High,M40033,x
-40034,Head of State,Camillo Ponce EnrÌquez,1947,1964,1999,6,Popular Figurehead,High,M40034,x
-40035,Head of State,Aurelio Mosquera Narv·ez,1938,1964,1999,4,Die-hard Reformer,High,M40006,x
-40036,Head of State,AndrÈs de CÛrdova Nieto,1939,1964,1999,4,Weary Stiffneck,High,M40036,x
+40033,Head of State,Jos√© Mar√≠a Velasco Ibarra,1941,1964,1999,3,Benevolent Gentleman,High,M40033,x
+40034,Head of State,Camillo Ponce Enr√≠quez,1947,1964,1999,6,Popular Figurehead,High,M40034,x
+40035,Head of State,Aurelio Mosquera Narv√°ez,1938,1964,1999,4,Die-hard Reformer,High,M40006,x
+40036,Head of State,Andr√©s de C√≥rdova Nieto,1939,1964,1999,4,Weary Stiffneck,High,M40036,x
 40037,Head of State,Antonio Pons Campuzano,1944,1964,1999,4,Autocratic Charmer,High,M40037,x
 40038,Head of State,Carlos Arosemena Tola,1947,1964,1999,6,Resigned Generalissimo,High,M40038,x
 40039,Head of State,Juan de Diaz Mera,1937,1964,1999,6,Popular Figurehead,High,M40015,x
 40041,Head of State,Isidro Ayora Cueva,1945,1964,1999,6,Barking Buffoon,High,M40041,x
 40042,Head of State,Carlos M. Larrea,1946,1964,1999,6,Insignificant Layman,High,M40042,x
-40043,Head of State,Gilberto EnrÌquez Gallo,1937,1964,1999,7,Resigned Generalissimo,High,M40008,x
+40043,Head of State,Gilberto Enr√≠quez Gallo,1937,1964,1999,7,Resigned Generalissimo,High,M40008,x
 40044,Head of State,Manuel Borrero Gonzalez,1938,1964,1999,7,Stern Imperialist,High,M40044,x
 40045,Head of State,Julio Moreno Pe?aherrera,1940,1964,1999,7,Autocratic Charmer,High,M40045,x
 40046,Head of State,Benigno Andrade Flores,1941,1964,1999,7,Resigned Generalissimo,High,M40007,x
-40047,Head of State,Julio SalÈm Gallegos,1944,1964,1999,3,Resigned Generalissimo,High,M40047,x
+40047,Head of State,Julio Sal√©m Gallegos,1944,1964,1999,3,Resigned Generalissimo,High,M40047,x
 40048,Head of State,Carlos Mancheno Cajas,1947,1964,1999,7,Pig-headed Isolationist,High,M40048,x
-40049,Head of Government,Gustavo Becerra P·z,1937,1964,1999,2,Ambitious Union Boss,High,M40021,x
+40049,Head of Government,Gustavo Becerra P√°z,1937,1964,1999,2,Ambitious Union Boss,High,M40021,x
 40050,Head of Government,Enrique Gil Gilbert,1940,1964,1999,2,Political Protege,High,M40023,x
-40051,Head of Government,JosÈ MarÌa Velasco Ibarra,1941,1964,1999,3,Ambitious Union Boss,High,M40033,x
-40052,Head of Government,Camillo Ponce EnrÌquez,1947,1964,1999,6,Corporate Suit,High,M40034,x
-40053,Head of Government,Aurelio Mosquera Narv·ez,1938,1964,1999,4,Backroom Backstabber,High,M40006,x
-40054,Head of Government,AndrÈs de CÛrdova Nieto,1939,1964,1999,4,Happy Amateur,High,M40036,x
+40051,Head of Government,Jos√© Mar√≠a Velasco Ibarra,1941,1964,1999,3,Ambitious Union Boss,High,M40033,x
+40052,Head of Government,Camillo Ponce Enr√≠quez,1947,1964,1999,6,Corporate Suit,High,M40034,x
+40053,Head of Government,Aurelio Mosquera Narv√°ez,1938,1964,1999,4,Backroom Backstabber,High,M40006,x
+40054,Head of Government,Andr√©s de C√≥rdova Nieto,1939,1964,1999,4,Happy Amateur,High,M40036,x
 40055,Head of Government,Antonio Pons Campuzano,1944,1964,1999,4,Naive Optimist,High,M40037,x
 40056,Head of Government,Carlos Arosemena Tola,1947,1964,1999,6,old airmarshal,High,M40038,x
 40057,Head of Government,Juan de Diaz Mera,1937,1964,1999,6,Corporate Suit,High,M40015,x
 40059,Head of Government,Isidro Ayora Cueva,1944,1964,1999,6,Political Protege,High,M40041,x
 40060,Head of Government,Carlos M. Larrea,1946,1964,1999,6,Naive Optimist,High,M40042,x
-40061,Head of Government,Gilberto EnrÌquez Gallo,1937,1964,1999,7,Old General,High,M40008,x
+40061,Head of Government,Gilberto Enr√≠quez Gallo,1937,1964,1999,7,Old General,High,M40008,x
 40062,Head of Government,Manuel Borrero Gonzalez,1938,1964,1999,7,Political Protege,High,M40044,x
 40063,Head of Government,Julio Moreno Pe?aherrera,1940,1964,1999,7,Old Admiral,High,M40045,x
 40064,Head of Government,Benigno Andrade Flores,1941,1964,1999,7,Old General,High,M40007,x
-40065,Head of Government,Julio SalÈm Gallegos,1944,1964,1999,3,Old General,High,M40047,x
+40065,Head of Government,Julio Sal√©m Gallegos,1944,1964,1999,3,Old General,High,M40047,x
 40066,Head of Government,Carlos Mancheno Cajas,1947,1964,1999,7,Smiling Oilman,High,M40048,x
 40067,Foreign Minister,Enrique Gil Gilbert,1937,1964,1999,2,Great Compromiser,Medium,M40023,x
-40068,Foreign Minister,JosÈ MarÌa Velasco Ibarra,1940,1964,1999,3,Apologetic Clerk,Medium,M40068,x
-40069,Foreign Minister,Camillo Ponce EnrÌquez,1944,1964,1999,6,Iron Fisted Brute,High,M40034,x
+40068,Foreign Minister,Jos√© Mar√≠a Velasco Ibarra,1940,1964,1999,3,Apologetic Clerk,Medium,M40068,x
+40069,Foreign Minister,Camillo Ponce Enr√≠quez,1944,1964,1999,6,Iron Fisted Brute,High,M40034,x
 40070,Foreign Minister,Juan Vicente Trujillo,1945,1964,1999,3,The Cloak N Dagger Schemer,High,M40070,x
-40071,Foreign Minister,Gustavo Becerra P·z,1947,1964,1999,2,Ideological Crusader,Very Low,M40021,x
-40072,Foreign Minister,JosÈ Benitez Aparacio,1939,1964,1999,4,Iron Fisted Brute,Medium,M40072,x
+40071,Foreign Minister,Gustavo Becerra P√°z,1947,1964,1999,2,Ideological Crusader,Very Low,M40021,x
+40072,Foreign Minister,Jos√© Benitez Aparacio,1939,1964,1999,4,Iron Fisted Brute,Medium,M40072,x
 40074,Foreign Minister,Miquel Andramonte,1940,1964,1999,4,Apologetic Clerk,Medium,M40074,x
 40075,Foreign Minister,Antonio Pons Campuzano,1947,1964,1999,4,The Cloak N Dagger Schemer,Medium,M40037,x
 40077,Foreign Minister,Rafael Vasco?ez,1941,1964,1999,6,Iron Fisted Brute,Medium,M40077,x
 40078,Foreign Minister,Riccardo Orespo Ordo?ez,1942,1964,1999,6,Great Compromiser,Medium,M40078,x
-40079,Foreign Minister,Francisco Guarderas PÈrez,1943,1964,1999,6,Ideological Crusader,Medium,M40079,x
+40079,Foreign Minister,Francisco Guarderas P√©rez,1943,1964,1999,6,Ideological Crusader,Medium,M40079,x
 40080,Foreign Minister,Juan de Diaz Mera,1944,1964,1999,6,The Cloak N Dagger Schemer,Medium,M40015,x
 40081,Foreign Minister,Luis Bossano,1937,1964,1999,7,Ideological Crusader,Medium,M40081,x
 40083,Foreign Minister,Benigno Andrade Flores,1941,1964,1999,7,General Staffer,Medium,M40007,x
-40084,Minister of Armament,JosÈ MarÌa Velasco Ibarra,1937,1964,1999,3,Infantry Proponent,Medium,M40068,x 
-40085,Minister of Armament,NeptalÌ Bonifaz Asc·subi,1940,1964,1999,6,Administrative Genius,Medium,M40028,x
+40084,Minister of Armament,Jos√© Mar√≠a Velasco Ibarra,1937,1964,1999,3,Infantry Proponent,Medium,M40068,x 
+40085,Minister of Armament,Neptal√≠ Bonifaz Asc√°subi,1940,1964,1999,6,Administrative Genius,Medium,M40028,x
 40086,Minister of Armament,Carlos Arosemena Tola,1941,1964,1999,6,laissez-faire capitalist,High,M40038,x
 40087,Minister of Armament,Nicolas Delgado,1947,1964,1999,3,Tank Proponent,Medium,M40024,x
-40088,Minister of Armament,Aurelio Mosquera Narv·ez,1938,1964,1999,4,Battle Fleet Proponent,High,M40006,x
+40088,Minister of Armament,Aurelio Mosquera Narv√°ez,1938,1964,1999,4,Battle Fleet Proponent,High,M40006,x
 40089,Minister of Armament,Antonio Pons Campuzano,1939,1964,1999,4,Corrupt Kleptocrat,Medium,M40037,x
-40090,Minister of Armament,Federico P·ez Chiriboaga,1936,1964,1999,4,Air to Sea Proponent,Medium,M40001,x
+40090,Minister of Armament,Federico P√°ez Chiriboaga,1936,1964,1999,4,Air to Sea Proponent,Medium,M40001,x
 40091,Minister of Armament,Miquel Andramonte,1944,1964,1999,4,Air Superiority Proponent,Medium,M40074,x
 40092,Minister of Armament,Fabian Del Castello,1937,1964,1999,6,laissez-faire capitalist,Medium,M40004,x
 40093,Minister of Armament,Juan de Diaz Mera,1938,1964,1999,6,Corrupt Kleptocrat,Medium,M40015,x
 40094,Minister of Armament,Galo Plaza Lasso,1940,1964,1999,5,Resource Industrialist,High,M40094,x
 40095,Minister of Armament,Julio Moreno Pe?aherrera,1943,1964,1999,6,Theoretical Scientist,High,M40045,x
 40096,Minister of Armament,Isidro Ayora Cueva,1945,1964,1999,6,Submarine Proponent,Medium,M40041,x
-40097,Minister of Armament,Carlos Arroyo del RÌo,1947,1964,1999,4,Air to Ground Proponent,Medium,M40040,x
+40097,Minister of Armament,Carlos Arroyo del R√≠o,1947,1964,1999,4,Air to Ground Proponent,Medium,M40040,x
 40098,Minister of Armament,Gustave Uriarte,1937,1964,1999,7,Corrupt Kleptocrat,Low,M40014,x
 40099,Minister of Armament,Carlos M. Larrea,1940,1964,1999,7,Administrative Genius,Medium,M40042,x
 40100,Minister of Security,Carlos Guevara,1937,1964,1999,3,Man of the People,High,M40100,x
 40101,Minister of Security,Juan Vicente Trujillo,1941,1964,1999,3,Efficient Sociopath,High,M40070,x
-40102,Minister of Security,JosÈ MarÌa Velasco Ibarra,1945,1964,1999,3,Back Stabber,Medium,M40068,x 
-40103,Minister of Security,Alberto Montalvo PÈrez,1937,1964,1999,4,Back Stabber,Medium,M40103,x
+40102,Minister of Security,Jos√© Mar√≠a Velasco Ibarra,1945,1964,1999,3,Back Stabber,Medium,M40068,x 
+40103,Minister of Security,Alberto Montalvo P√©rez,1937,1964,1999,4,Back Stabber,Medium,M40103,x
 40104,Minister of Security,Gustavo Las Salas,1941,1964,1999,4,Crime Fighter,Medium,M40104,x
 40105,Minister of Security,Antonio Pons Machado,1937,1964,1999,6,Silent Lawyer,Low,M40105,x
 40106,Minister of Security,Carlos Arosemena Tola,1941,1964,1999,6,Compassionate Gentleman,High,M40038,x
@@ -85,8 +85,8 @@ ECU,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 40109,Minister of Security,Juan de Diaz Mera,1947,1964,1999,6,Crooked Kleptocrat,Medium,M40015,x
 40110,Minister of Security,Manuel Borrero Gonzalez,1937,1964,1999,7,Compassionate Gentleman,Medium,M40044,x
 40111,Minister of Security,Julio Moreno Pe?aherrera,1938,1964,1999,7,Man of the People,High,M40045,x
-40112,Minister of Security,Camillo Ponce EnrÌquez,1947,1964,1999,6,Crooked Kleptocrat,High,M40034,x
-40113,Head of Military Intelligence,Gustavo Becerra P·z,1937,1964,1999,2,Technical Specialist,Medium,M40021,x
+40112,Minister of Security,Camillo Ponce Enr√≠quez,1947,1964,1999,6,Crooked Kleptocrat,High,M40034,x
+40113,Head of Military Intelligence,Gustavo Becerra P√°z,1937,1964,1999,2,Technical Specialist,Medium,M40021,x
 40114,Head of Military Intelligence,Nicolas Delgado,1941,1964,1999,2,Naval Intelligence Specialist,Low,M40024,x
 40115,Head of Military Intelligence,Carlos Mancheno Cajas,1945,1964,1999,3,Dismal Enigma,Low,M40048,x
 40116,Head of Military Intelligence,Alberto Larrea Chiriboaga,1938,1964,1999,4,Logistics Specialist,Medium,M40003,x
@@ -95,56 +95,56 @@ ECU,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 40119,Head of Military Intelligence,Ramon Baquerizo Davila,1947,1964,1999,4,Dismal Enigma,Medium,M40119,x
 40120,Head of Military Intelligence,Carlos M. Larrea,1937,1964,1999,6,Naval Intelligence Specialist,Medium,M40042,x
 40121,Head of Military Intelligence,Rafael Vasco?ez,1940,1964,1999,6,Technical Specialist,Medium,M40077,x
-40122,Head of Military Intelligence,Francisco Guarderas PÈrez,1945,1964,1999,6,Political Specialist,Medium,M40079,x
-40123,Head of Military Intelligence,Aurelio Mosquera Narv·ez,1938,1964,1999,7,Logistics Specialist,Medium,M40006,x
+40122,Head of Military Intelligence,Francisco Guarderas P√©rez,1945,1964,1999,6,Political Specialist,Medium,M40079,x
+40123,Head of Military Intelligence,Aurelio Mosquera Narv√°ez,1938,1964,1999,7,Logistics Specialist,Medium,M40006,x
 40124,Head of Military Intelligence,Guillermo Freire Posso,1944,1964,1999,7,Industrial Specialist,Medium,M40016,x
 40125,Head of Military Intelligence,Carlos Mancheno Cajas,1947,1964,1999,7,Dismal Enigma,Low,M40048,x
 40126,Chief of Staff,Luis Larrea Alba,1937,1964,1999,6,School of Psychology,Low,M40027,x
-40127,Chief of Staff,Julio SalÈm Gallegos,1944,1964,1999,3,School of Fire Support,High,M40047,x
-40129,Chief of Staff,Alberto EnrÌquez Gallo,1938,1964,1999,6,School of Manoeuvre,Low,M40008,x
+40127,Chief of Staff,Julio Sal√©m Gallegos,1944,1964,1999,3,School of Fire Support,High,M40047,x
+40129,Chief of Staff,Alberto Enr√≠quez Gallo,1938,1964,1999,6,School of Manoeuvre,Low,M40008,x
 40130,Chief of Staff,Ramon Baquerizo Davila,1939,1964,1999,4,School of Fire Support,Medium,M40119,x
 40131,Chief of Staff,Juan de Diaz Mera,1937,1964,1999,6,School of Psychology,Medium,M40015,x
 40133,Chief of Staff,Carlos M. Larrea,1945,1964,1999,6,School of Fire Support,Medium,M40042,x
 40135,Chief of Staff,Hugo Endara Pe?aherrera,1940,1964,1999,7,School of Manoeuvre,Medium,M40019,x
 40136,Chief of Staff,Guillermo Freire Posso,1944,1964,1999,7,School of Mass Combat,Medium,M40016,x
 40137,Chief of Staff,Carlos Mancheno Cajas,1947,1964,1999,7,School of Fire Support,Low,M40048,x
-40138,Chief of Army,NeptalÌ Bonifaz Asc·subi,1937,1964,1999,6,Guns and Butter Doctrine,Medium,M40028,x
+40138,Chief of Army,Neptal√≠ Bonifaz Asc√°subi,1937,1964,1999,6,Guns and Butter Doctrine,Medium,M40028,x
 40139,Chief of Army,Ramon Baquerizo Davila,1941,1964,1999,3,Static Defence Doctrine,Medium,M40139,x
 40140,Chief of Army,Carlos Hidalgo Garcia,1945,1964,1999,3,Armoured Spearhead Doctrine,Medium,M40140,x
 40143,Chief of Army,Rodolfo Larrea Alba,1947,1964,1999,6,Static Defence Doctrine,Low,M40027,x
 40148,Chief of Army,Luis Cabrera Sevilla,1940,1964,1999,7,Armoured Spearhead Doctrine,Medium,M40018,x
 40149,Chief of Army,Juan Pablo Martinez Iguarte,1947,1964,1999,7,Elastic Defence Doctrine,Medium,M40149,x
-40150,Chief of Navy,Gustavo Becerra P·z,1937,1964,1999,2,Base Control Doctrine,Medium,M40021,x
+40150,Chief of Navy,Gustavo Becerra P√°z,1937,1964,1999,2,Base Control Doctrine,Medium,M40021,x
 40151,Chief of Navy,Jorge Escobedo Duarte,1945,1964,1999,3,Open Seas Doctrine,Medium,M40151,x
 40153,Chief of Navy,Hugo Endara Pe?aherrera,1941,1964,1999,4,Indirect Approach Doctrine,Medium,M40019,x
 40155,Chief of Navy,Ramon Moran Valverde,1943,1964,1999,6,Base Control Doctrine,Medium,M40155,x
 40156,Chief of Navy,Hugo Endara Pe?aherrera,1937,1964,1999,7,Indirect Approach Doctrine,Medium,M40019,x
 40157,Chief of Navy,Jorge Escobedo Duarte,1944,1964,1999,7,Open Seas Doctrine,Medium,M40151,x
 40158,Chief of Air Force,Juan Bayardo Tobar,1937,1964,1999,2,Carpet Bombing Doctrine,Medium,M40030,x
-40162,Chief of Air Force,Julio SalÈm Gallegos,1937,1964,1999,6,Air Superiority Doctrine,High,M40047,x
-40163,Chief of Air Force,Ramon Castro JÌjon,1937,1964,1999,7,Air Superiority Doctrine,Medium,M40020,x
+40162,Chief of Air Force,Julio Sal√©m Gallegos,1937,1964,1999,6,Air Superiority Doctrine,High,M40047,x
+40163,Chief of Air Force,Ramon Castro J√≠jon,1937,1964,1999,7,Air Superiority Doctrine,Medium,M40020,x
 40165,Chief of Army,Uriarte Fanquil del Ponte,1939,1964,1999,4,Elastic Defence Doctrine,Low,M40142,x
-40168,Head of State,Carlos Arroyo del RÌo,1939,1964,1999,4,Powerhungry Demagogue,High,M40040,x
-40169,Head of Government,Carlos Arroyo del RÌo,1939,1964,1999,4,Flamboyant Tough Guy,High,M40040,x
-40170,Head of State,Mariano Su·rez Veintimilla,1947,1964,1999,6,Benevolent Gentleman,High,M40168,x
-40171,Head of Government,Mariano Su·rez Veintimilla,1939,1964,1999,4,Happy Amateur,High,M40168,x
+40168,Head of State,Carlos Arroyo del R√≠o,1939,1964,1999,4,Powerhungry Demagogue,High,M40040,x
+40169,Head of Government,Carlos Arroyo del R√≠o,1939,1964,1999,4,Flamboyant Tough Guy,High,M40040,x
+40170,Head of State,Mariano Su√°rez Veintimilla,1947,1964,1999,6,Benevolent Gentleman,High,M40168,x
+40171,Head of Government,Mariano Su√°rez Veintimilla,1939,1964,1999,4,Happy Amateur,High,M40168,x
 40172,Foreign Minister,Alberto Larrea Chiriboaga,1936,1964,1999,7,The Cloak N Dagger Schemer,Medium,M40003,x
 40174,Foreign Minister,Julio Topar Donoso,1941,1964,1999,6,General Staffer,Medium,M40082,x
-40175,Foreign Minister,Francisco Guarderas PÈrez,1944,1964,1999,3,Great Compromiser,Medium,M40079,x
+40175,Foreign Minister,Francisco Guarderas P√©rez,1944,1964,1999,3,Great Compromiser,Medium,M40079,x
 40015,Minister of Security,Juan de Diaz Mera,1936,1964,1999,7,Crooked Kleptocrat,Medium,M40015,x
 40176,Head of State,Galo Plaza Lasso,1948,1964,1999,5,Insignificant Layman,High,M40094,x
 40177,Head of Government,Galo Plaza Lasso,1948,1964,1999,5,Silent Workhorse,High,M40094,x
-40178,Head of State,NeptalÌ Bonifaz Asc·subi,1937,1964,1999,6,Die-hard Reformer,Medium,M40028,x
-40179,Head of Government,NeptalÌ Bonifaz Asc·subi,1937,1964,1999,6,Naive Optimist,Medium,M40028,x
+40178,Head of State,Neptal√≠ Bonifaz Asc√°subi,1937,1964,1999,6,Die-hard Reformer,Medium,M40028,x
+40179,Head of Government,Neptal√≠ Bonifaz Asc√°subi,1937,1964,1999,6,Naive Optimist,Medium,M40028,x
 40180,Head of State,Alfredo Baquerizo Moreno,1936,1964,1999,5,Die-hard Reformer,Medium,ECU_alfredo_baquerizo_moreno,x
 40181,Head of Government,Alfredo Baquerizo Moreno,1936,1964,1999,5,Silent Workhorse,Medium,ECU_alfredo_baquerizo_moreno,x
-40182,Head of State,Alberto EnrÌquez Gallo,1938,1964,1999,6,Weary Stiffneck,Low,M40008,x
-40183,Head of Government,Alberto EnrÌquez Gallo,1938,1964,1999,6,Happy Amateur,Low,M40008,x
+40182,Head of State,Alberto Enr√≠quez Gallo,1938,1964,1999,6,Weary Stiffneck,Low,M40008,x
+40183,Head of Government,Alberto Enr√≠quez Gallo,1938,1964,1999,6,Happy Amateur,Low,M40008,x
 40184,Head of State,Clemente Yerovi Indaburu,1938,1964,1999,6,Popular Figurehead,Low,ECU_clemente_yerovi_indaburu,x
 40185,Head of Government,Clemente Yerovi Indaburu,1938,1964,1999,6,flamboyant tough guy,Low,ECU_clemente_yerovi_indaburu,x
 40186,Head of State,Luis Larrea Alba,1937,1964,1999,6,Resigned Generalissimo,Low,M40027,x
 40187,Head of Government,Luis Larrea Alba,1937,1964,1999,6,Old General,Low,M40027,x
 40188,Head of State,Carlos Julio Arosemena Monroy,1937,1964,1999,4,Pig-headed Isolationist,Low,ECU_carlos_julio_arosemena_monroy,x
 40189,Head of Government,Carlos Julio Arosemena Monroy,1937,1964,1999,4,Silent Workhorse,Low,ECU_carlos_julio_arosemena_monroy,x
-40190,Head of State,Sixto Dur·n BallÈn,1960,1964,1999,6,Die-hard Reformer,Low,ECU_sixto_ballen,x
-40191,Head of Government,Sixto Dur·n BallÈn,1960,1964,1999,6,Corporate Suit,Low,ECU_sixto_ballen,x
+40190,Head of State,Sixto Dur√°n Ball√©n,1960,1964,1999,6,Die-hard Reformer,Low,ECU_sixto_ballen,x
+40191,Head of Government,Sixto Dur√°n Ball√©n,1960,1964,1999,6,Corporate Suit,Low,ECU_sixto_ballen,x

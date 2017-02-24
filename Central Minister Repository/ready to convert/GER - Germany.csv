@@ -3,15 +3,15 @@ GER,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Minister of Armament,Albert Kuntz,0,Resource Industrialist,M105
 ,Chief of Staff,Erich Weinert,0,School of Psychology,M152
 ,Head of Military Intelligence,Erich Weinert,0,Logistics Specialist,M152
-,Head of Government,Ernst Thälmann,0,Backroom Backstabber,M22
-,Head of Military Intelligence,Ernst Thälmann,0,Industrial Specialist,M22
+,Head of Government,Ernst ThÃ¤lmann,0,Backroom Backstabber,M22
+,Head of Military Intelligence,Ernst ThÃ¤lmann,0,Industrial Specialist,M22
 ,Head of Government,Ernst Toller,0,Ambitious Union Boss,M25
 ,Minister of Security,Ernst Toller,0,Man of the People,M25
 ,Chief of Staff,Ernst Wollweber,0,School of Mass Combat,M27
 ,Head of Military Intelligence,Ernst Wollweber,0,Industrial Specialist,M27
 ,Chief of Navy,Fritz Scheelen,0,Base Control Doctrine,M29
 ,Chief of Army,Hans Kahle,0,Decisive Battle Doctrine,M28
-,Head of Military Intelligence,Heinrich Müller,0,Political Specialist,M26
+,Head of Military Intelligence,Heinrich MÃ¼ller,0,Political Specialist,M26
 ,Foreign Minister,Helmet Herzfelde,0,Ideological Crusader,M23
 ,Foreign Minister,Helmut Herzfelde,0,Ideological Crusader,M23
 ,Minister of Security,Julius Leber,0,Compassionate Gentleman,M133
@@ -48,8 +48,8 @@ GER,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Minister of Armament,Albert Einstein,5,Theoretical Scientist,kaiserreich alberteinstein
 ,Head of Military Intelligence,Dr. Otto Gessler,5,Technical Specialist,kaiserreich ottogessler
 ,Minister of Armament,Dr. Otto Gessler,5,Corrupt Kleptocrat,kaiserreich ottogessler
-,Chief of Navy,Erich Köhler,5,Base Control Doctrine,M506035
-,Head of Government,Franz Blücher,5,Political Protege,M506012
+,Chief of Navy,Erich KÃ¶hler,5,Base Control Doctrine,M506035
+,Head of Government,Franz BlÃ¼cher,5,Political Protege,M506012
 ,Minister of Armament,Franz Etzel,5,Bank President,M506004
 ,Minister of Armament, Elisabeth Schwarzhaupt,5,Man of the People,M506004
 ,Minister of Security,Gustav Heinemann,5,Man of the People,M130
@@ -60,7 +60,7 @@ GER,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Chief of Air Force,Herrmann Ehlers,5,Naval Aviation Doctrine,M506038
 ,Chief of Air Force,Josef Kammhuber,5,Army Aviation Doctrine,L448
 ,Chief of Staff,Josef Kammhuber,5,School of Psychology,L448
-,Chief of Army,Karl Heinrich Lübke,5,Guns and Butter Doctrine,M506033
+,Chief of Army,Karl Heinrich LÃ¼bke,5,Guns and Butter Doctrine,M506033
 ,Minister of Security,Reinhold Maier,5,Compassionate Gentleman,M506024
 ,Foreign Minister,Theodor Heuss,5,Apologetic Clerk,M38
 ,Head of State,Theodor Heuss,5,Die-hard Reformer,M38
@@ -68,17 +68,17 @@ GER,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Head of Government,Walther von Rathenau,5,Corporate Suit,kaiserreich walthervonrathennau
 ,Head of State,Walther von Rathenau,5,Benevolent Gentleman,kaiserreich walthervonrathennau
 ,Minister of Armament,Walther von Rathenau,5,Administrative Genius,kaiserreich walthervonrathennau
-,Head of Government,Wilhelm Külz,5,Ambitious Union Boss,kaiserreich wilhelmkuelz
+,Head of Government,Wilhelm KÃ¼lz,5,Ambitious Union Boss,kaiserreich wilhelmkuelz
 ,Foreign Minister,Wilhelm Roepke,5,Biased Intellectual,kaiserreich wilhelmroepke
 ,Head of Government,Adam Stegerwald,6,Ambitious Union Boss,kaiserreich adamstegerwald
 ,Head of State,Adam Stegerwald,6,Die-hard Reformer,kaiserreich adamstegerwald
 ,Minister of Armament,Adam Stegerwald,6,Laissez-Faire Capitalist,kaiserreich adamstegerwald
-,Chief of Air Force,Alfred Bülowius,6,Air Superiority Doctrine,L431
+,Chief of Air Force,Alfred BÃ¼lowius,6,Air Superiority Doctrine,L431
 ,Foreign Minister,Constantin von Neurath,6,Great Compromiser,M3
 ,Chief of Navy,Erich Bey,6,Open Seas Doctrine,M200
 ,Chief of Air Force,Franz Josef Strauss,6,Vertical Envelopment Doctrine,M506027
 ,Head of Military Intelligence,Franz Josef Strauss,6,Industrial Specialist,M506027
-,Minister of Armament,Fritz Schäffer,6,Laissez-Faire Capitalist,M103
+,Minister of Armament,Fritz SchÃ¤ffer,6,Laissez-Faire Capitalist,M103
 ,Head of Government,Georg von Hertling,6,Backroom Backstabber,3437
 ,Minister of Security,Gustav Heinemann,6,Silent Lawyer,M130
 ,Head of Military Intelligence,Hans Dohnanyi,6,Political Specialist,M248
@@ -87,9 +87,9 @@ GER,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Head of Military Intelligence,Hans Gisevius,6,Dismal Enigma,M247
 ,Chief of Army,Hans Speidel,6,Decisive Battle Doctrine,M170
 ,Chief of Staff,Hans Speidel,6,School of Mass Combat,M170
-,Head of Government,Heinrich Brüning,6,Silent Workhorse,kaiserreich heinrichbruning
-,Head of State,Heinrich Brüning,6,Weary Stiffneck,kaiserreich heinrichbruning
-,Minister of Armament,Heinrich Brüning,6,Balanced Budget Economy,kaiserreich heinrichbruning
+,Head of Government,Heinrich BrÃ¼ning,6,Silent Workhorse,kaiserreich heinrichbruning
+,Head of State,Heinrich BrÃ¼ning,6,Weary Stiffneck,kaiserreich heinrichbruning
+,Minister of Armament,Heinrich BrÃ¼ning,6,Balanced Budget Economy,kaiserreich heinrichbruning
 ,Minister of Security,Helmuth von Moltke,6,Compassionate Gentleman,M246
 ,Chief of Navy,Herrmann Mootz,6,Indirect Approach Doctrine,L506297
 ,Minister of Security,Karl Arnold,6,Crime Fighter,M129
@@ -149,20 +149,20 @@ GER,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Minister of Security,Fritz von Schulenburg,7,Compassionate Gentleman,M126
 ,Head of Military Intelligence,Georg Hansen,7,Technical Specialist,M147
 ,Minister of Armament,Georg Thomas,7,Theoretical Scientist,M98
-,Chief of Army,Georg von Bruchmüller,7,Elastic Defence Doctrine,Kaiserreich Bruchmüller
+,Chief of Army,Georg von BruchmÃ¼ller,7,Elastic Defence Doctrine,Kaiserreich BruchmÃ¼ller
 ,Head of State,Gerd von Rundstedt,7,Resigned Generalissimo,Rundstedt
-,Chief of Army,Günther von Kluge,7,Decisive Battle Doctrine,L311
+,Chief of Army,GÃ¼nther von Kluge,7,Decisive Battle Doctrine,L311
 ,Chief of Navy,Gustav Kieseritzky,7,Base Control Doctrine,M199
 ,Minister of Armament,Gustav Krupp,7,Steel Magnate,M251
 ,Head of Military Intelligence,Hans Oster,7,Political Specialist,M146
 ,Minister of Armament,Hans von Blumenthal,7,Battle Fleet Proponent,kaiserreich HansvonBlumenthal
 ,Head of Military Intelligence,Heinrich Albert,7,Political Specialist,Kaiserreich Heinrich Albert
-,Head of Government,Heinrich Brüning,7,Silent Workhorse,kaiserreich heinrichbruning
-,Minister of Security,Heinrich Müller,7,Efficient Sociopath,M26
+,Head of Government,Heinrich BrÃ¼ning,7,Silent Workhorse,kaiserreich heinrichbruning
+,Minister of Security,Heinrich MÃ¼ller,7,Efficient Sociopath,M26
 ,Chief of Staff,Heinz Guderian,7,School of Manoeuvre,M157
 ,Minister of Armament,Heinz Guderian,7,Reformer,M157
 ,Minister of Security,Henning von Tresckow,7,Crime Fighter,M127
-,Chief of Air Force,Hermann Köhl,7,Army Aviation Doctrine,Kaiserreich hermann koehl
+,Chief of Air Force,Hermann KÃ¶hl,7,Army Aviation Doctrine,Kaiserreich hermann koehl
 ,Head of Military Intelligence,Hjalmar Schacht,7,Industrial Specialist,M14
 ,Minister of Armament,Hjalmar Schacht,7,Bank President,M14
 ,Foreign Minister,Johann Schwerin von Krosigk,7,Apologetic Clerk,M49
@@ -204,7 +204,7 @@ GER,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Minister of Armament,Walter Gropius,7,Administrative Genius,GER_Gropius
 ,Head of Military Intelligence,Walter Nicolai,7,Political Specialist,kaiserreichwalternicolai
 ,Minister of Security,Walter Schellenberg,7,Efficient Sociopath,M124
-,Chief of Army,Walter von Lüttwitz,7,Decisive Battle Doctrine,M185
+,Chief of Army,Walter von LÃ¼ttwitz,7,Decisive Battle Doctrine,M185
 ,Chief of Navy,Walter Warzecha,7,Indirect Approach Doctrine,L891
 ,Chief of Staff,Walther von Seydlitz-Kurzbach,7,School of Manoeuvre,L251
 ,Chief of Army,Werner von Fritsch,7,Armoured Spearhead Doctrine,M8
@@ -216,7 +216,7 @@ GER,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Minister of Security,Wilhelm von Gayl,7,Secret Police Chief,M15
 ,Foreign Minister,Wilhelm Waetzoldt,7,Apologetic Clerk,M66
 ,Chief of Air Force,Albert Kesselring,8,Vertical Envelopment Doctrine,M207
-,Chief of Navy,Alfred Saalwächter,8,Open Seas Doctrine,M195
+,Chief of Navy,Alfred SaalwÃ¤chter,8,Open Seas Doctrine,M195
 ,Minister of Security,Arthur Axmann,8,Man of the People,M120
 ,Minister of Security,Arthur Nebe,8,Secret Police Chief,M119
 ,Chief of Army,August Von Mackensen,8,Decisive Battle Doctrine,kaiserreich mackensenvonaugust
@@ -227,16 +227,16 @@ GER,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Chief of Staff,Erich Hoepner,8,School of Fire Support,M18
 ,Chief of Army,Fedor von Bock,8,Decisive Battle Doctrine,M182
 ,Head of Military Intelligence,Ferdinand von Bredow,8,Political Specialist,kaiserreichferdinandvonbredow
-,Minister of Security,Franz Gürtner,8,Silent Lawyer,M223
+,Minister of Security,Franz GÃ¼rtner,8,Silent Lawyer,M223
 ,Chief of Staff,Franz Halder,8,School of Fire Support,M155
 ,Minister of Armament,Fritz Tornow,8,Military Entrepreneur,M94
 ,Minister of Security,Hans Frank,8,Prince of Terror,M227
 ,Chief of Army,Hans von Seeckt,8,Static Defence Doctrine,kaiserreich hansvonseeckt2
 ,Chief of Staff,Hans von Seeckt,8,School of Psychology,kaiserreich hansvonseeckt2
 ,Chief of Navy,Hans-Georg von Friedeburg,8,Open Seas Doctrine,M93
-,Chief of Army,Hans-Jürgen von Arnim,8,Static Defence Doctrine,L272
-,Minister of Armament,Hans-Jürgen von Blumenthal,8,Reformer,GER_von Blumenthal
-,Minister of Security,Hans-Jürgen von Blumenthal,8,Compassionate Gentleman,GER_von Blumenthal
+,Chief of Army,Hans-JÃ¼rgen von Arnim,8,Static Defence Doctrine,L272
+,Minister of Armament,Hans-JÃ¼rgen von Blumenthal,8,Reformer,GER_von Blumenthal
+,Minister of Security,Hans-JÃ¼rgen von Blumenthal,8,Compassionate Gentleman,GER_von Blumenthal
 ,Head of State,Hjalmar Schacht,8,Pig-headed Isolationist,M14
 ,Chief of Air Force,Karl Koller,8,Army Aviation Doctrine,M205
 ,Chief of Army,Kurt von Hammerstein-Equord,8,Guns and Butter Doctrine,M175
@@ -267,20 +267,20 @@ GER,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,Chief of Staff,Hans Krebs,9,School of Defence,M158
 ,Head of Military Intelligence,Hans-Georg von Friedeburg,9,Naval Intelligence Specialist,M93
 ,Minister of Armament,Hans-Georg von Friedeburg,9,Submarine Proponent,M93
-,Chief of Air Force,Hans-Jürgen Stumpff,9,Army Aviation Doctrine,L471
+,Chief of Air Force,Hans-JÃ¼rgen Stumpff,9,Army Aviation Doctrine,L471
 ,Foreign Minister,Heinrich Class,9,Ideological Crusader,GER_Heinrich Class
 ,Head of Government,Heinrich Class,9,Flamboyant Tough Guy,GER_Heinrich Class
 ,Minister of Armament,Heinrich Class,9,Planned Economy Proponent,GER_Heinrich Class
-,Minister of Security,Heinrich Müller,9,Prince of Terror,M26
+,Minister of Security,Heinrich MÃ¼ller,9,Prince of Terror,M26
 ,Head of Government,Hermann Ehrhardt,9,Old Admiral,GER_Ehrhardt
 ,Head of Military Intelligence,Hermann Ehrhardt,9,Naval Intelligence Specialist,GER_Ehrhardt
 ,Minister of Security,Hermann Ehrhardt,9,Prince of Terror,GER_Ehrhardt
-,Minister of Armament,Hermann Göring,9,Air to Ground Proponent,M10
+,Minister of Armament,Hermann GÃ¶ring,9,Air to Ground Proponent,M10
 ,Chief of Air Force,Hugo Sperrle,9,Carpet Bombing Doctrine,M203
 ,Foreign Minister,Joachim von Ribbentrop,9,Iron Fisted Brute,M55
-,Chief of Navy,Karl Dönitz,9,Indirect Approach Doctrine,M32
-,Head of State,Karl Dönitz,9,Resigned Generalissimo,M32
-,Minister of Armament,Karl Dönitz,9,Submarine Proponent,M32
+,Chief of Navy,Karl DÃ¶nitz,9,Indirect Approach Doctrine,M32
+,Head of State,Karl DÃ¶nitz,9,Resigned Generalissimo,M32
+,Minister of Armament,Karl DÃ¶nitz,9,Submarine Proponent,M32
 ,Minister of Security,Karl Hanke,9,Back Stabber,M113
 ,Minister of Armament,Karl Otto Saur,9,Military Entrepreneur,M89
 ,Chief of Navy,Kurt Freiwald,9,Base Control Doctrine,M194

@@ -8,8 +8,8 @@ MEX,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 36186,Chief of Army,Joaquin Amaro Dominguez,0,Decisive Battle Doctrine,M3605
 36121,Minister of Security,Joaquin Amaro Dominguez,0,Back Stabber,M36075
 36102,Minister of Armament,Luis L. Leon,0,military entrepreneur,MEX_Leon
-36207,Head of Government,Luis NapoleÛn Morones,0,Ambitious Union Boss,MEX_Morones
-36203,Minister of Armament,Luis NapoleÛn Morones,0,Corrupt Kleptocrat,MEX_Morones
+36207,Head of Government,Luis Napole√≥n Morones,0,Ambitious Union Boss,MEX_Morones
+36203,Minister of Armament,Luis Napole√≥n Morones,0,Corrupt Kleptocrat,MEX_Morones
 36101,Minister of Armament,Marte R. Gomez,0,Bank President,MEX_Marte
 36147,Head of Military Intelligence,Narciso Bassols Garcia,0,Logistics Specialist,MEX_Bassols
 36051,Head of Government,Pascual Ortiz Rubio,0,Silent Workhorse,MEX_Rubio
@@ -18,19 +18,19 @@ MEX,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 36005,Head of Military Intelligence,Plutarco Elias Calles,0,Political Specialist,Calles
 36099,Minister of Armament,Saturnino Cedillo Martinez,0,Military Entrepreneur,MEX_Saturnino
 36129,Minister of Security,Tomas Garrido Canabal,0,Prince of Terror,MEX_Canabal
-36049,Head of Government,AgustÌn Olachea AvilÈ,1,old airmarshal,Aviles
+36049,Head of Government,Agust√≠n Olachea Avil√©,1,old airmarshal,Aviles
 36197,Chief of Navy,Alfredo Serratos Amador,1,Power Projection Doctrine,unknown
 36073,Foreign Minister,Alfredo Serratos Amador,1,Apologetic Clerk,unknown
 36128,Minister of Security,Alfredo Serratos Amador,1,Crime Fighter,unknown
-36209,Head of Government,Amalia Gonz·lez Caballero,1,Naive Optimist,MEX_Amalia
+36209,Head of Government,Amalia Gonz√°lez Caballero,1,Naive Optimist,MEX_Amalia
 36163,Chief of Staff,Andres Figueroa,1,School of Fire Support,M36073
 36098,Minister of Armament,Dolores Santapiavo,1,Air to Ground Proponent,M36071
 36001,Head of Government,Emiliano Zapata,1,reformist soldierHoG,Zapata
 36126,Minister of Security,Francisco Gonzalez Vega,1,Silent Lawyer,MEX_GonzalesVega
 36097,Minister of Armament,Francisco I. Casian,1,Administrative Genius,M36024
 36184,Chief of Army,Genovevo de la O,1,static defence doctrine,6073
-36183,Chief of Army,Gildardo MagaÒa Cerda,1,Guns and Butter Doctrine,MEX_Gildardo
-36072,Foreign Minister,Gildardo MagaÒa Cerda,1,Great Compromiser,MEX_Gildardo
+36183,Chief of Army,Gildardo Maga√±a Cerda,1,Guns and Butter Doctrine,MEX_Gildardo
+36072,Foreign Minister,Gildardo Maga√±a Cerda,1,Great Compromiser,MEX_Gildardo
 36008,Chief of Navy,Heriberto Jara Corona,1,Base Control Doctrine,Corona
 36164,Chief of Staff,Ignacio L. Pesqueira,1,School of Manoeuvre,MEX_Pesqueira
 36003,Minister of Armament,Luis Cabrera,1,Industrialiser,MEX_CabreraLobato
@@ -59,9 +59,9 @@ MEX,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 36093,Minister of Armament,Francisco J. Mujica,2,Infantry Proponent,MEX_Mujica
 36180,Chief of Army,Francisco U. Benavides,2,Armoured Spearhead Doctrine,M36005
 36119,Minister of Security,Francisco U. Benavides,2,Man of the People,M36005
-36009,Chief of Air Force,Gustavo Salinas CamiÒa,2,Naval Aviation Doctrine,M36010
+36009,Chief of Air Force,Gustavo Salinas Cami√±a,2,Naval Aviation Doctrine,M36010
 36193,Chief of Navy,Hector Meixueiro,2,Open Seas Doctrine,M36009
-36142,Head of Military Intelligence,JosÈ Aguilar y Maya,2,Political Specialist,MEX_Maya
+36142,Head of Military Intelligence,Jos√© Aguilar y Maya,2,Political Specialist,MEX_Maya
 36091,Minister of Armament,Jose Manuel Puig Casauranc,2,Theoretical Scientist,M36063
 36161,Chief of Staff,Julian Medina Castillo,2,School of Fire Support,7258
 36069,Foreign Minister,Manuel Tello Baurraud,2,Great Compromiser,MEX_Barraud
@@ -76,7 +76,7 @@ MEX,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 36096,Minister of Armament,Primo Villa Michel,2,Resource Industrialist,MEX_Primo
 36095,Minister of Armament,Rafael Buelna,2,military entrepreneur,8332
 36090,Minister of Armament,Roberto G. Maqueo,2,Battle Fleet Proponent,M36062
-36177,Chief of Army,Adri·n Castrejon,3,Guns and Butter Doctrine,MEX_Castrejon
+36177,Chief of Army,Adri√°n Castrejon,3,Guns and Butter Doctrine,MEX_Castrejon
 36089,Minister of Armament,Alberto J. Pani,3,Bank President,903
 36117,Minister of Security,Alberto J. Pani,3,Crooked Kleptocrat,903
 36191,Chief of Navy,Alberto J. Pawling,3,Indirect Approach Doctrine,unknown
@@ -98,16 +98,16 @@ MEX,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 36157,Chief of Staff,Pablo Quiroga Escamillo,3,School of Mass Combat,M36008
 36118,Minister of Security,Roque Estrada Reynoso,3,Compassionate Gentleman,MEX_RoqueReynoso
 36175,Chief of Army,Salvador Alvarado,3,Static Defence Doctrine,MEX_Alvarado
-36192,Chief of Navy,SerafÌn M. Robles Morales,3,Base Control Doctrine,MEX_Serafin
-36088,Minister of Armament,SerafÌn M. Robles Morales,3,military entrepreneur,MEX_Serafin
+36192,Chief of Navy,Seraf√≠n M. Robles Morales,3,Base Control Doctrine,MEX_Serafin
+36088,Minister of Armament,Seraf√≠n M. Robles Morales,3,military entrepreneur,MEX_Serafin
 36176,Chief of Army,Timoteo Sanchez,3,Decisive Battle Doctrine,8350
-36041,Head of Government,Antonio DÌaz Soto y Gama,4,Silent Workhorse,MEX_Gama
-36138,Head of Military Intelligence,Antonio DÌaz Soto y Gama,4,Political Specialist,MEX_Gama
+36041,Head of Government,Antonio D√≠az Soto y Gama,4,Silent Workhorse,MEX_Gama
+36138,Head of Military Intelligence,Antonio D√≠az Soto y Gama,4,Political Specialist,MEX_Gama
 36083,Minister of Armament,Efrain Buenrostro Ochoa,4,Industrialiser,MEX_Ochoa
-36082,Minister of Armament,Ernesto Madero FarÌas,4,laissez-faire capitalist,MEX_MaderoFarias
+36082,Minister of Armament,Ernesto Madero Far√≠as,4,laissez-faire capitalist,MEX_MaderoFarias
 36114,Minister of Security,Genaro Estrada,4,Compassionate Gentleman,M36074
 36115,Minister of Security,Genaro G. Vazquez,4,Crime Fighter,MEX_Genaro
-36174,Chief of Army,Jesus AgustÌn Castro,4,elastic defence doctrine,7231
+36174,Chief of Army,Jesus Agust√≠n Castro,4,elastic defence doctrine,7231
 36063,Foreign Minister,Candido Aguilar Vargas,5,General Staffer,923
 36190,Chief of Navy,Eduardo Hay,5,Open Seas Doctrine,MEX_Hay
 36155,Chief of Staff,Eduardo Hay,5,school of defence,MEX_Hay
@@ -118,13 +118,13 @@ MEX,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 36154,Chief of Staff,Francisco L. Urquizo,5,school of defence,MEX_Urquizo
 36064,Foreign Minister,Hilario Medina,5,Apologetic Clerk,6657
 36065,Foreign Minister,Jaime Torres Bodet,5,Biased Intellectual,M36052
-36156,Chief of Staff,Marcelino GarcÌa Barragan,5,School of Psychology,MEX_Barragan
+36156,Chief of Staff,Marcelino Garc√≠a Barragan,5,School of Psychology,MEX_Barragan
 36038,Head of Government,Aaron Saenz,6,Happy Amateur,MEX_Aaron
-36113,Minister of Security,Alberto V·zquez del Mercado,6,Silent Lawyer,MEX_Mercado
+36113,Minister of Security,Alberto V√°zquez del Mercado,6,Silent Lawyer,MEX_Mercado
 36060,Foreign Minister,Alesso Melecio,6,Biased Intellectual,M36053
 36040,Head of Government,Daniel Cosio Villegas,6,Corporate Suit,MEX_Villegas
 36085,Minister of Armament,Daniel Cosio Villegas,6,Resource Industrialist,MEX_Villegas
-36199,Chief of Air Force,Eduardo Aldasoro Su·rez,6,Air Superiority Doctrine,MEX_Aldosoro
+36199,Chief of Air Force,Eduardo Aldasoro Su√°rez,6,Air Superiority Doctrine,MEX_Aldosoro
 36111,Minister of Security,Enrique C. del Rio,6,Compassionate Gentleman,M36017
 36189,Chief of Navy,Enrique Panizio Vargas,6,Open Seas Doctrine,M36115
 36086,Minister of Armament,Florentino Santana,6,laissez-faire capitalist,M36067
@@ -143,9 +143,9 @@ MEX,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 36152,Chief of Staff,Enrique C. del Rio,7,School of Psychology,M36017
 36058,Foreign Minister,Francisco R. Serrano,7,General Staffer,M36057
 36080,Minister of Armament,Francisco R. Serrano,7,Resource Industrialist,M36057
-36170,Chief of Army,Jacinto Blas TreviÒo Gonz·lez,7,static defence doctrine,MEX_Trevino
-36036,Head of Government,Jacinto Blas TreviÒo Gonz·lez,7,Old General,MEX_Trevino
-36135,Head of Military Intelligence,Jacinto Blas TreviÒo Gonz·lez,7,Logistics Specialist,MEX_Trevino
+36170,Chief of Army,Jacinto Blas Trevi√±o Gonz√°lez,7,static defence doctrine,MEX_Trevino
+36036,Head of Government,Jacinto Blas Trevi√±o Gonz√°lez,7,Old General,MEX_Trevino
+36135,Head of Military Intelligence,Jacinto Blas Trevi√±o Gonz√°lez,7,Logistics Specialist,MEX_Trevino
 36131,Head of Military Intelligence,Jesus Garza Siller,7,Logistics Specialist,M36016
 36033,Head of Government,Juan Andreu Almazan,7,Happy Amateur,M36014
 36035,Head of Government,Luis Calderon Vega,7,pragmatic statesman,MEX_Vega
@@ -164,21 +164,21 @@ MEX,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 36031,Head of Government,Enrique Goroztieta Velarde,8,Respected War Hero,MEX_Gorostiera
 36107,Minister of Security,Felix Maragano Flores,8,Back Stabber,M36082
 36151,Chief of Staff,Jesus Ballestreros Miranda,8,School of Manoeuvre,M36100
-36167,Chief of Army,Jes˙s Degollado GuÌzar,8,static defence doctrine,MEX_Guizar
-36104,Minister of Security,JosÈ Reyes Vega,8,Efficient Sociopath,MEX_ReyesVega
+36167,Chief of Army,Jes√∫s Degollado Gu√≠zar,8,static defence doctrine,MEX_Guizar
+36104,Minister of Security,Jos√© Reyes Vega,8,Efficient Sociopath,MEX_ReyesVega
 36081,Minister of Armament,Juan Andreu Almazan,8,Corrupt Kleptocrat,M36014
 36106,Minister of Security,Juan Andrew Almazan,8,Crooked Kleptocrat,M36014
 36030,Head of Government,Luis G. Quintana,8,Political Protege,M36012
 36076,Minister of Armament,Luis G. Quintana,8,Military Entrepreneur,M36012
-36056,Foreign Minister,Luis MarÌa Martinez y Rodriguez,8,Apologetic Clerk,MEX_LuisMaria
+36056,Foreign Minister,Luis Mar√≠a Martinez y Rodriguez,8,Apologetic Clerk,MEX_LuisMaria
 36079,Minister of Armament,Manuel C. Michel,8,Administrative Genius,MEX_ManuelMichel
 36150,Chief of Staff,Maximino Avila Camacho,8,School of Mass Combat,MEX_Maximino
 36108,Minister of Security,Maximino Avila Camacho,8,Crooked Kleptocrat,MEX_Maximino
 36077,Minister of Armament,Miguel Palomar y Vizcarra,8,Resource Industrialist,MEX_Palomar
 36078,Minister of Armament,Pastor Castro Tinoco,8,Industrialiser,MEX_Pastor
-36055,Foreign Minister,Pazcual DÌaz Barreto,8,Great Compromiser,MEX_DiazBarreto
-36149,Chief of Staff,Rene Capistr·n Garza,8,School of Mass Combat,MEX_Rene
-36032,Head of Government,Rene Capistr·n Garza,8,Naive Optimist,MEX_Rene
+36055,Foreign Minister,Pazcual D√≠az Barreto,8,Great Compromiser,MEX_DiazBarreto
+36149,Chief of Staff,Rene Capistr√°n Garza,8,School of Mass Combat,MEX_Rene
+36032,Head of Government,Rene Capistr√°n Garza,8,Naive Optimist,MEX_Rene
 36105,Minister of Security,Salvador Abascal,8,Back Stabber,MEX_Salvador
 36130,Head of Military Intelligence,Alfonso Junco,9,Industrial Specialist,MEX_Junco
 36054,Foreign Minister,Gustavo Molina Font,9,The Cloak N Dagger Schemer,unknown

@@ -1,6 +1,6 @@
 EST,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
-26001,Head of State,Konstantin Päts,1936,1964,1999,7,Barking Buffoon,High,M26001,x
-26002,Head of Government,Konstantin Päts,1936,1964,1999,7,Happy Amateur,High,M26001,x
+26001,Head of State,Konstantin PÃ¤ts,1936,1964,1999,7,Barking Buffoon,High,M26001,x
+26002,Head of Government,Konstantin PÃ¤ts,1936,1964,1999,7,Happy Amateur,High,M26001,x
 26003,Foreign Minister,Julius Seljamaa,1936,1964,1999,7,The Cloak N Dagger Schemer,Medium,M26003,x
 26004,Minister of Armament,Karl Selter,1936,1964,1999,7,Administrative Genius,Medium,M26004,x
 26005,Minister of Security,Kaarel Eenpalu,1936,1964,1999,7,Crime Fighter,Medium,M26005,x
@@ -10,15 +10,15 @@ EST,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 26009,Chief of Navy,Voldemar Mere,1936,1964,1999,7,Open Seas Doctrine,Medium,M26009,x
 26010,Chief of Air Force,Richard Tomberg,1936,1964,1999,7,Army Aviation Doctrine,Medium,M26010,x
 26031,Head of State,August Rei,1936,1964,1999,5,Popular Figurehead,High,M26031,x
-26032,Head of State,Jüri Uluots,1940,1964,1999,5,Die-hard Reformer,High,M26032,x
-26034,Head of State,Hjalmar Mäe,1936,1964,1999,8,Insignificant Layman,High,M26011,x
+26032,Head of State,JÃ¼ri Uluots,1940,1964,1999,5,Die-hard Reformer,High,M26032,x
+26034,Head of State,Hjalmar MÃ¤e,1936,1964,1999,8,Insignificant Layman,High,M26011,x
 26035,Head of State,Karl Sigismund Litzmann,1941,1964,1999,9,Resigned Generalissimo,High,M26035,x
 26036,Head of State,Johannes Vares-Barbaruse,1936,1964,1999,0,Powerhungry Demagogue,High,M26021,x
-26037,Head of Government,Jüri Uluots,1936,1964,1999,5,Smiling Oilman,High,M26032,x
+26037,Head of Government,JÃ¼ri Uluots,1936,1964,1999,5,Smiling Oilman,High,M26032,x
 26038,Head of Government,Otto Tief,1940,1964,1999,5,Happy Amateur,High,M26038,x
 26039,Head of Government,Kaarel Liidak,1944,1964,1999,5,Political Protege,High,M26039,x
 26041,Head of Government,Kaarel Eenpalu,1938,1964,1999,7,Ambitious Union Boss,High,M26005,x
-26042,Head of Government,Hjalmar Mäe,1936,1964,1999,9,Flamboyant Tough Guy,High,M26011,x
+26042,Head of Government,Hjalmar MÃ¤e,1936,1964,1999,9,Flamboyant Tough Guy,High,M26011,x
 26043,Head of Government,Johannes Vares-Barbaruse,1936,1964,1999,0,Silent Workhorse,High,M26021,x
 26044,Head of Government,Johannes Lauristin,1939,1964,1999,0,Happy Amateur,High,M26044,x
 26045,Head of Government,Oskar Sepre,1940,1964,1999,0,Silent Workhorse,High,M26044,x
@@ -28,20 +28,20 @@ EST,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 26049,Foreign Minister,Kaarel Liidak,1944,1964,1999,5,Iron Fisted Brute,High,M26039,x
 26050,Foreign Minister,Friedrich Karl Akel,1936,1964,1999,7,General Staffer,Medium,M26050,x
 26051,Foreign Minister,Karl Selter,1938,1964,1999,7,Biased Intellectual,Medium,M26004,x
-26052,Foreign Minister,Hjalmar Mäe,1936,1964,1999,9,Iron Fisted Brute,Medium,M26011,x
+26052,Foreign Minister,Hjalmar MÃ¤e,1936,1964,1999,9,Iron Fisted Brute,Medium,M26011,x
 26053,Foreign Minister,Johannes Lauristin,1936,1964,1999,0,Apologetic Clerk,Medium,M26044,x
 26054,Foreign Minister,Nigol Andresen,1940,1964,1999,0,Iron Fisted Brute,Medium,M26023,x
 26055,Foreign Minister,Hans Kruus,1944,1964,1999,0,Ideological Crusader,Medium,M26055,x
 26056,Minister of Armament,Leo Sepp,1936,1964,1999,5,Resource Industrialist,Medium,M26056,x
-26057,Minister of Armament,Hugo Pärtelpoeg,1944,1964,1999,5,Laissez-Faire Capitalist,Medium,M26057,x
+26057,Minister of Armament,Hugo PÃ¤rtelpoeg,1944,1964,1999,5,Laissez-Faire Capitalist,Medium,M26057,x
 26059,Minister of Armament,Otto Tief,1938,1964,1999,7,Corrupt Kleptocrat,Low,M26038,x
-26060,Minister of Armament,Konstantin Päts,1939,1964,1999,7,Administrative Genius,Very High,M26001,x
+26060,Minister of Armament,Konstantin PÃ¤ts,1939,1964,1999,7,Administrative Genius,Very High,M26001,x
 26061,Minister of Armament,Alfred Vendt,1936,1964,1999,8,Military Entrepreneur,Medium,M26014,x
 26062,Minister of Armament,Juhan Narma-Nihtig,1936,1964,1999,0,Resource Industrialist,Medium,M26024,x
 26063,Minister of Armament,Paul Keerdo,1940,1964,1999,0,Corrupt Kleptocrat,Medium,M26063,x
 26064,Minister of Armament,Nikolaus Pilankor,1944,1964,1999,0,Military Entrepreneur,Medium,M26064,x
 26065,Minister of Security,Richard Veermaa,1936,1964,1999,5,Silent Lawyer,Medium,M26065,x
-26066,Minister of Security,August Jürima,1939,1964,1999,5,Crooked Kleptocrat,Medium,M26066,x
+26066,Minister of Security,August JÃ¼rima,1939,1964,1999,5,Crooked Kleptocrat,Medium,M26066,x
 26067,Minister of Security,Johannes Klesment,1944,1964,1999,5,Compassionate Gentleman,Medium,M26067,x
 26069,Minister of Security,Julius Seljamaa,1938,1964,1999,7,Prince of Terror,Medium,M26003,x
 26070,Minister of Security,Oskar Angelus,1936,1964,1999,9,Prince of Terror,Medium,M26015,x
@@ -50,7 +50,7 @@ EST,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 26073,Minister of Security,Maksim Unt,1939,1964,1999,0,Prince of Terror,Medium,M26025,x
 26074,Minister of Security,Boris Kumm,1940,1964,1999,0,Efficient Sociopath,Medium,M26074,x
 26075,Minister of Security,Aleksander Rusev,1944,1964,1999,0,Back Stabber,Medium,M26075,x
-26076,Head of Military Intelligence,Jüri Uluots,1936,1964,1999,5,Industrial Specialist,Medium,M26032,x
+26076,Head of Military Intelligence,JÃ¼ri Uluots,1936,1964,1999,5,Industrial Specialist,Medium,M26032,x
 26077,Head of Military Intelligence,August Rei,1944,1964,1999,5,Political Specialist,Medium,M26031,x
 26079,Head of Military Intelligence,Oskar Angelus,1936,1964,1999,9,Logistics Specialist,Medium,M26015,x
 26080,Head of Military Intelligence,Oskar Sepre,1936,1964,1999,0,Dismal Enigma,Medium,M26044,x
@@ -70,6 +70,6 @@ EST,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 26098,Chief of Air Force,Leo Sepp,1936,1964,1999,5,Carpet Bombing Doctrine,Medium,M26056,x
 26100,Chief of Air Force,Juhan Tuuling,1936,1964,1999,9,Army Aviation Doctrine,Medium,M26018,x
 26101,Chief of Air Force,Oskar Eiriksson,1936,1964,1999,0,Carpet Bombing Doctrine,Medium,M26030,x
-26102,Head of Government,Jüri Uluots,1939,1964,1999,7,Smiling Oilman,High,M26032,x
+26102,Head of Government,JÃ¼ri Uluots,1939,1964,1999,7,Smiling Oilman,High,M26032,x
 26103,Head of State,Boris Kumm,1946,1964,1999,0,Pig-headed Isolationist,High,M26074,x
 26104,Chief of Navy,Oskar Eiriksson,1946,1964,1999,0,Open Seas Doctrine,Medium,M26030,x
