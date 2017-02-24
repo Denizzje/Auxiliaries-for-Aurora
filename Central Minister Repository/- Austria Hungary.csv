@@ -106,7 +106,7 @@ U24,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 29604,Foreign Minister,Alfred von Arbengau,1936,1964,1999,7,Biased Intellectual,Very High,kaiserreich AlfredRappaportvA,x
 29605,Minister of Security,Michael Hainisch,1936,1964,1999,8,Compassionate Gentleman,Very High,kaiserreich hainisch,x
 29606,Head of Military Intelligence,Alois Schönburg-Hartenstein,1936,1964,1999,8,Logistics Specialist,Very High,kaiserreich schonburghartenstein2,x
-29607,Chief of Staff,Eugen von Habsburg-Lothringen ,1936,1964,1999,7,School of Fire Support,Very High,kaiserreich archdukeeugen,x
+29607,Chief of Staff,Eugen von Habsburg-Lothringen,1936,1964,1999,7,School of Fire Support,Very High,kaiserreich archdukeeugen,x
 29608,Chief of Navy,Franz von Keil,1950,1964,1999,7,Indirect Approach Doctrine,Very High,none,x
 29609,Chief of Air Force,Benno von Fernbrugg,1936,1964,1999,7,Army Aviation Doctrine,Very High,kaiserreich fernbrugg,x
 29610,Chief of Army,Eduard von Böhm-Ermolli,1936,1964,1999,8,static defence doctrine,Very High,kaiserreich bohmermolli,x
@@ -253,9 +253,9 @@ U24,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 29751,Foreign Minister,Ferenc Keresztes-Fischer,1936,1964,1999,8,Apologetic Clerk,High,M21100,x
 29752,Foreign Minister,M. Kállay de Nagy-Kalló,1936,1964,1999,8,General Staffer,High,M21057,x
 29753,Foreign Minister,Jenö Ghyczy,1936,1964,1999,8,Apologetic Clerk,High,M21179,x
-29754,Head of State,Oskar Kokoschka ,1936,1964,1999,9,Powerhungry Demagogue,High,kaiserreich OskarKokoschka ,x
-29755,Head of Government,Oskar Kokoschka ,1936,1964,1999,9,Happy Amateur,High,kaiserreich OskarKokoschka ,x
-29756,Chief of Staff,Oskar Kokoschka ,1936,1964,1999,9,School of Mass Combat,High,kaiserreich OskarKokoschka ,x
+29754,Head of State,Oskar Kokoschka,1936,1964,1999,9,Powerhungry Demagogue,High,kaiserreich OskarKokoschka,x
+29755,Head of Government,Oskar Kokoschka,1936,1964,1999,9,Happy Amateur,High,kaiserreich OskarKokoschka,x
+29756,Chief of Staff,Oskar Kokoschka,1936,1964,1999,9,School of Mass Combat,High,kaiserreich OskarKokoschka,x
 29757,Head of State,Felix zu Schwarzenberg,1936,1964,1999,7,Autocratic Charmer,High,kaiserreich fvschwarzenberg,x
 29758,Minister of Armament,Felix zu Schwarzenberg,1936,1964,1999,7,laissez-faire capitalist,High,kaiserreich fvschwarzenberg,x
 29759,Head of State,S.K.u.K.M. Maria II von Romanov,1936,1964,1999,6,russian aristocrat,High,kaiserreich mariaII,x

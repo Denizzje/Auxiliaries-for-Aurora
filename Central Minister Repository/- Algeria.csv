@@ -75,7 +75,7 @@ U29,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 290074,Minister of Armament,Abdelkader Ben Bouali,1936,1964,1999,5,Tank Proponent,Very High,Bouali,x
 290075,Minister of Armament,Ali Benouna,1936,1964,1999,5,air to sea proponent,Very High,Benouna,x
 290076,Minister of Armament,Mouloud Mammeri,1937,1964,1999,5,Submarine Proponent,Very High,Mammeri,x
-290077,Minister of Armament,Mohammed Yacine ,1940,1964,1999,5,Strategic Air Proponent,Very High,Yacine,x
+290077,Minister of Armament,Mohammed Yacine,1940,1964,1999,5,Strategic Air Proponent,Very High,Yacine,x
 290078,Minister of Armament,Mustapha Stambouli,1940,1964,1999,5,Corrupt Kleptocrat,Very High,Stambouli,x
 290079,Minister of Security,Mustapha Stambouli,1940,1964,1999,5,Crooked Kleptocrat,Very High,Stambouli,x
 290080,Head of Military Intelligence,Bachir Yellès,1941,1964,1999,5,Industrial Specialist,Very High,Yellès,x
@@ -91,7 +91,7 @@ U29,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 290090,Chief of Navy,Mouloud Mammeri,1937,1964,1999,5,Indirect Approach Doctrine,Very High,Mammeri,x
 290091,Chief of Navy,Yussef ben-Khedda,1940,1964,1999,5,Open Seas Doctrine,Very High,M530025,x
 290092,Chief of Air Force,Ali Benouna,1936,1964,1999,5,Naval Aviation Doctrine,Very High,Benouna,x
-290093,Chief of Air Force,Mohammed Yacine ,1940,1964,1999,5,Carpet Bombing Doctrine,Very High,Yacine,x
+290093,Chief of Air Force,Mohammed Yacine,1940,1964,1999,5,Carpet Bombing Doctrine,Very High,Yacine,x
 290094,Head of State,Ahmed Francis,1936,1964,1999,4,popular figurehead,Very High,Francis,x
 290095,Head of Government,Mouloud Feraoun,1936,1964,1999,4,naive optimist,Very High,Feraoun,x
 290096,Foreign Minister,Abane Ramdane,1940,1964,1999,4,Biased Intellectual,Very High,Ramdane,x

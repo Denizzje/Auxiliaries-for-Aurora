@@ -160,7 +160,7 @@ MOR,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 531158,Foreign Minister,Malika al-Fassi,1939,1964,1999,4,Iron Fisted Brute,Very High,al-Fassi,X
 531159,Foreign Minister,Abdelkrim al-Khattabi,1936,1964,1999,4,The Cloak N Dagger Schemer,Very High,al-Khattabi,X
 531160,Minister of Armament,Abdelhadi Tazi,1941,1964,1999,4,Administrative Genius,Very High,Tazi,X
-531161,Minister of Armament,Abdallah al-Jirari ,1936,1964,1999,4,Air to Ground Proponent,Very High,unknown,X
+531161,Minister of Armament,Abdallah al-Jirari,1936,1964,1999,4,Air to Ground Proponent,Very High,unknown,X
 531162,Minister of Armament,Houcine Ben Bouchaïb,1938,1964,1999,4,Air Superiority Proponent,Very High,Bouchaïb,X
 531163,Minister of Armament,Abdallah Guennoun,1936,1964,1999,4,Battle Fleet Proponent,Very High,Guennoun,X
 531164,Minister of Armament,Mohammed Boujendar,1936,1964,1999,4,Theoretical Scientist,Very High,unknown,X
@@ -173,12 +173,12 @@ MOR,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Per
 531171,Head of Military Intelligence,Mohammed Boujendar,1936,1964,1999,4,Technical Specialist,Very High,unknown,X
 531172,Head of Military Intelligence,Abdelkrim al-Khattabi,1936,1964,1999,4,Dismal Enigma,Very High,al-Khattabi,X
 531173,Chief of Staff,Mohammed Ben Brahim Assarraj,1936,1964,1999,4,School of Defence,Very High,unknown,X
-531174,Chief of Staff,Abdallah al-Jirari ,1936,1964,1999,4,School of Manoeuvre,Very High,unknown,X
+531174,Chief of Staff,Abdallah al-Jirari,1936,1964,1999,4,School of Manoeuvre,Very High,unknown,X
 531175,Chief of Army,Mohammed Ben Brahim Assarraj,1936,1964,1999,4,Static Defence Doctrine,Very High,unknown,X
-531176,Chief of Army,Abdallah al-Jirari ,1936,1964,1999,4,Elastic Defence Doctrine,Very High,unknown,X
+531176,Chief of Army,Abdallah al-Jirari,1936,1964,1999,4,Elastic Defence Doctrine,Very High,unknown,X
 531177,Chief of Navy,Abdallah Guennoun,1936,1964,1999,4,Decisive Naval Battle Doctrine,Very High,Guennoun,X
 531178,Chief of Navy,Said Hajji,1936,1964,1999,4,Base Control Doctrine,Very High,Hajji,X
-531179,Chief of Air Force,Abdallah al-Jirari ,1936,1964,1999,4,Army Aviation Doctrine,Very High,unknown,X
+531179,Chief of Air Force,Abdallah al-Jirari,1936,1964,1999,4,Army Aviation Doctrine,Very High,unknown,X
 531180,Chief of Air Force,Said Hajji,1936,1964,1999,4,Vertical Envelopment Doctrine,Very High,Hajji,X
 531181,Chief of Air Force,Houcine Ben Bouchaïb,1938,1964,1999,4,Air Superiority Doctrine,Very High,Bouchaïb,X
 531182,Head of State,Under German Administration,1963,1964,1999,7,Weary Stiffneck,Very High,kai_gercoladmi,X
