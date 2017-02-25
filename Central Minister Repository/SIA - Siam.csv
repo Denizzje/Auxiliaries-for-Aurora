@@ -1,130 +1,79 @@
 SIA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-x,Foreign Minister,Krachang Tularak,0,ideological crusader,
-x,Head of Government,Song Noppakul,0,ambitious union boss,
-x,Minister of Armament,Thawin Udol,0,air superiority proponent,
-x,Minister of Armament,Chamlong Daorueang,1,planned economy proponent,
-x,Minister of Security,Chao Phraya Srithammathibet,1,compassionate gentleman,
-x,Head of Military Intelligence,Duen Bunnag,1,technical specialist,
-x,Minister of Armament,Phraya Sartsphonkhan,1,tank proponent,
-x,Head of Government,Prasert Eiwchai,1,happy amateur,
-x,Foreign Minister,Sanguan Tularak,1,iron fisted brute,
-x,Minister of Security,Thongin Phuripat,1,man of the people,
-x,Minister of Security,Jarun Suebsang,2,crime fighter,
-x,Foreign Minister,Luang Praditmanutham,2,the cloak n dagger schemer,
-x,Head of Government,Luang Praditmanutham,2,political protege,
-x,Head of Military Intelligence,Luang Praditmanutham,2,political specialist,
-x,Minister of Armament,Phraya Sornyutthaseni,2,u boat proponent,
-x,Head of Military Intelligence,Thawan Thamrongnawasawat,2,naval intelligence specialist,
-x,Minister of Security,Thawan Thamrongnawasawat,2,efficient sociopath,
-,Minister of Security,Buddhadasa Bhikkhu,3,Man of the People,SIA_buddhadasa
-x,Foreign Minister,Direk Chainam,3,biased intellectual,
-x,Head of Government,Direk Chainam,3,naive optimist,
-x,Minister of Security,Phraya Tepvitunpahun Saruttabodhi,3,man of the people,
-,Foreign Minister,Pridi Phanomyong,3,Great Compromiser,M62005
-,Head of Government,Pridi Phanomyong,3,Silent Workhorse,M62005
-x,Minister of Armament,Purachat Chaiyakon,3,industrialiser,
-x,Head of Military Intelligence,Tiang Sirikhanth,3,dismal enigma,
-x,Minister of Security,Luang Chawengsaksongkhram,4,back stabber,
-x,Head of Government,Phraya Phaholpholphayuhasena,4,old general,
-x,Minister of Armament,Chao Phraya Wongsanupraphan,5,laissez faire capitalist,
-,Head of Military Intelligence,Chuang Chawengsangsongkram,5,Dismal Enigma,M62081
-,Foreign Minister,Direk Phajayanama,5,Great Compromiser,M62014
-,Chief of Staff,Jiri Wichitsongkram,5,School of Manoeuvre,M62094
-,Head of Government,Kuang Abhayavongsa,5,Silent Workhorse,M62036
-,Minister of Armament,Kuang Abhayavongsa,5,Infantry Proponent,M62036
-,Chief of Navy,Luang Chamnanarthayutha,5,Base Control Doctrine,M62105
-,Chief of Navy,Mahidol Adulyadej,5,Indirect Approach Doctrine,SIA_mahidol
-,Minister of Armament,Mahidol Adulyadej,5,Submarine Proponent,SIA_mahidol
-x,Foreign Minister,Phra Sasphithayayut,5,general staffer,
-x,Head of Government,Phra Sasphithayayut,5,old general,
-,Chief of Air Force,Phra Silpasakrakorn,5,Vertical Envelopment Doctrine,M62110
-,Chief of Army,Phraya Chitnasongkhla,5,Decisive Battle Doctrine,M62026
-,Minister of Armament,Phraya Preechacholayudha,5,Submarine Proponent,M62019
-,Head of Military Intelligence,A.G. Ellis,6,Technical Specialist,M62016
-,Minister of Armament,A.G. Ellis,6,Theoretical Scientist,M62016
-,Chief of Staff,Chit Munsilpa Sinadyodharaksa,6,School of Defence,M62079
-,Minister of Security,Chit Munsilpa Sinadyodharaksa,6,Prince of Terror,M62079
-,Minister of Armament,Direk Phajayanama,6,Laissez-Faire Capitalist,M62014
-x,Minister of Armament,Khun Charoenworrarat,6,military entrepreneur,
-,Head of Government,Luang Phibunsongkhram,6,BAckroom Backstabber,M62007
-x,Minister of Security,Luang Adulyadejarat,6,secret police chief,
-x,Head of Military Intelligence,Luang Karjsongkhram,6,logistics specialist,
-,Head of Government,Phot Bhahalyodin,6,Happy Amateur,M62002
-,Minister of Security,Phot Bhahalyodin,6,Crime Fighter,M62002
-,Head of Military Intelligence,Phraya Chitnasongkhla,6,Political Specialist,M62026
-,Chief of Navy,Phraya Preechacholayudha,6,Indirect Approach Doctrine,M62019
-,Chief of Air Force,Phraya Thayarnpikart,6,Air Superiority Doctrine,M62063
-,Minister of Armament,Phya Burinavarasth,6,Resource Industrialist,M62059
-,Foreign Minister,Pote Sarasin,6,Great Compromiser,M62114
-x,Foreign Minister,Seni Pramoj,6,great compromiser,
-x,Head of Government,Seni Pramoj,6,backroom backstabber,
-,Foreign Minister,Seni Pramoja,6,Ideological Crusader,M62012
-,Head of Government,Seni Pramoja,6,Corporate Suit,M62012
-,Minister of Security,Seni Pramoja,6,Compassionate Gentleman,M62012
-,Minister of Armament,Serm Khrishnamra,6,Air Superiority Proponent,M62057
-,Chief of Army,Sindhu Kamalanavin,6,Elastic Defence Doctrine,M62017
-,Foreign Minister,Thawee Punyaketu,6,General Staffer,M62015
-,Head of Government,Thawee Punyaketu,6,Smiling Oilman,M62015
-,Minister of Security,Thawee Punyaketu,6,Man of the People,M62015
-,Foreign Minister,Atthakitti Banomyong,7,Biased Intellectual,M62047
-,Minister of Security,Bung Suphachahlasai,7,Compassionate Gentleman,M62083
-,Minister of Security,Chuang Chawengsangsongkram,7,Silent Lawyer,M62081
-,Minister of Security,Chuei Maghaviphulaya,7,Efficient Sociopath,M62072
-,Foreign Minister,Ha Samptasiri,7,Apologetic Clerk,M62003
-,Minister of Security,Ha Samptasiri,7,Back Stabber,M62003
-x,Head of Military Intelligence,Kitiyakara Voralaksana,7,industrial specialist,
-,Head of Government,Kuang Abhayavongsa,7,Silent Workhorse,M62036
-,Chief of Air Force,Luang Kajsongkram,7,Army Aviation Doctrine,M62111
-,Chief of Army,Luang Phibunsongkhram,7,Guns and Butter Doctrine,M62007
-,Chief of Staff,Luang Phibunsongkhram,7,School of Mass Combat,M62007
-,Minister of Armament,Luang Sinthusongkhramchai,7,Air to Sea Proponent,M62069
-x,Minister of Armament,Narisara Nuwattiwong,7,resource industrialist,
-x,Minister of Security,Paribatra Sukhumbhand,7,crime fighter,
-,Minister of Armament,Phao Peeralert,7,laissez-faire capitalist,M62024
-,Head of Government,Phot Bhahalyodin,7,Happy Amateur,M62002
-,Minister of Armament,Phot Bhahalyodin,7,Corrupt Kleptocrat,M62002
-,Chief of Air Force,Phra Vechayanrangsarit,7,Army Aviation Doctrine,M62010
-,Chief of Air Force,Phraya Chalermarkiart,7,Carpet Bombing Doctrine,M62061
-x,Minister of Armament,Phraya Komarnkullamontri,7,infantry proponent,
-x,Head of Government,Phraya Manopakorn Nitithada,7,corporate suit,
-,Minister of Armament,Phraya Thayarnpikart,7,Air Superiority Proponent,M62063
-,Chief of Navy,Phraya Wichcitcholathai,7,Decisive Naval Battle Doctrine,M62055
-,Minister of Armament,Phraya Wichcitcholathai,7,Battle Fleet Proponent,M62055
-,Minister of Armament,Phya Bidadhkosha,7,Administrative Genius,M62054
-x,Head of Government,Prajadhipok,7,silent workhorse,
-,Head of Military Intelligence,Serm Khrishnamra,7,Industrial Specialist,M62057
-,Chief of Staff,Sindhu Kamalanavin,7,School of Psychology,M62017
-,Chief of Staff,Suk Nakrob,7,School of Fire Support,M62095
-,Chief of Army,Thawi Bunyaket,7,Guns and Butter Doctrine,M62098
-,Chief of Navy,Thawon Thamrongnawasawat,7,Open Seas Doctrine,M62029
-,Chief of Staff,Thawon Thamrongnawasawat,7,School of Manoeuvre,M62029
-,Foreign Minister,Thawon Thamrongnawasawat,7,The Cloak N Dagger Schemer,M62029
-,Head of Government,Thawon Thamrongnawasawat,7,Political Protege,M62029
-,Minister of Security,Thawon Thamrongnawasawat,7,Crime Fighter,M62029
-,Chief of Army,Tianliang Huntrakool,7,Armoured Spearhead Doctrine,M62051
-,Foreign Minister,Tianliang Huntrakool,7,Apologetic Clerk,M62051
-,Minister of Armament,Tianliang Huntrakool,7,Tank Proponent,M62051
-x,Foreign Minister,Traitotphrapan Tevakul,7,apologetic clerk,
-x,Head of Government,Boworadet Kritsadakorn,8,local tyrant,
-,Minister of Armament,H.R.H. Prince Charoon,8,Military Entrepreneur,M62060
-,Foreign Minister,Luang Phibunsongkhram,8,General Staffer,M62007
-,Head of Government,Luang Phibunsongkhram,8,Old General,M62007
-,Head of Military Intelligence,Luang Phibunsongkhram,8,Logistics Specialist,M62007
-,Minister of Security,Luang Phibunsongkhram,8,Efficient Sociopath,M62007
-,Chief of Air Force,Luang Sinthusongkhramchai,8,Naval Aviation Doctrine,M62069
-,Chief of Staff,Mangkon Phromyothi,8,School of Mass Combat,M62025
-,Chief of Army,Manphya Khanphialong,8,Static Defence Doctrine,M62097
-,Minister of Armament,Phra Vechayanrangsarit,8,Air to Ground Proponent,M62010
-,Minister of Armament,Phraya Chalermarkiart,8,Strategic Air Proponent,M62061
-,Foreign Minister,Phraya Chitnasongkhla,8,Apologetic Clerk,M62026
-x,Minister of Security,Phraya Udompong Pensawat,8,silent lawyer,
-,Chief of Navy,Sawat Phutianands,8,Power Projection Doctrine,M62086
-,Head of Military Intelligence,Sawat Phutianands,8,Naval Intelligence Specialist,M62086
-,Minister of Security,Srisena Sampatisiri,8,Silent Lawyer,M62075
-x,Minister of Armament,Suppayokkasem,8,corrupt kleptocrat,
-,Foreign Minister,Wichit Wichitwathakarn,8,Ideological Crusader,M62044
-x,Head of Military Intelligence,Luang Wichitwathakan,9,dismal enigma,
-x,Minister of Security,Phao Sriyanond sec npo,9,prince of terror,
-x,Minister of Security,Phraya Chasanyabodhi Sriboribarn,9,compassionate gentleman,
-x,Head of Government,Plaek Khittasangkha,9,reformist soldier,
+x,Head of Government,Boworadet Kritsadakorn,8,local tyrant,Boworadet_Kritsadakorn
+m,Chief of Army,Boworadet Kritsadakorn,8,Guns and Butter Doctrine,Boworadet_Kritsadakorn
+m,Chief of Staff,Boworadet Kritsadakorn,8,School of Mass Combat,Boworadet_Kritsadakorn
+x,Minister of Armament,Chamlong Daorueang,1,planned economy proponent,Chamlong_Daorueang
+x,Minister of Security,Chao Phraya Srithammathibet,1,compassionate gentleman,Chao_Phraya_Srithammathibet
+x,Minister of Armament,Chao Phraya Wongsanupraphan,5,laissez faire capitalist,Chao_Phraya_Wongsanupraphan
+x,Foreign Minister,Direk Chainam,3,biased intellectual,Direk_Chainam
+x,Head of Government,Direk Chainam,3,naive optimist,Direk_Chainam
+x,Head of Military Intelligence,Duen Bunnag,1,technical specialist,Duen_Bunnag
+x,Minister of Security,Jarun Suebsang,2,crime fighter,Jarun_Suebsang
+x,Minister of Armament,Khun Charoenworrarat,6,military entrepreneur,Khun_Charoenworrarat
+x,Head of Military Intelligence,Kitiyakara Voralaksana,7,industrial specialist,Kitiyakara_Voralaksana
+x,Foreign Minister,Krachang Tularak,0,ideological crusader,Krachang_Tularak
+x,Minister of Security,Luang Adulyadejarat,6,secret police chief,Luang_Adulyadejarat
+m,Chief of Army,Luang Adulyadejarat,6,Guns and Butter Doctrine,Luang_Adulyadejarat
+m,Chief of Air Force,Luang Athuekthewadet,1,Naval Aviation Doctrine,Luang_Athuekthewadet
+x,Minister of Security,Luang Chawengsaksongkhram,4,back stabber,Luang_Chawengsaksongkhram
+m,Chief of Army,Luang Chumnarnyutthasart,3,Guns and Butter Doctrine,Luang_Chumnarnyutthasart
+x,Head of Military Intelligence,Luang Karjsongkhram,6,logistics specialist,Luang_Karjsongkhram
+m,Chief of Army,Luang Kriengsakpichit,6,Elastic Defence Doctrine,Luang_Kriengsakpichit
+m,Chief of Army,Luang Phibunsongkhram,9,Guns and Butter Doctrine,Luang_Phibunsongkhram
+x,Foreign Minister,Luang Praditmanutham,2,the cloak n dagger schemer,Luang_Praditmanutham
+x,Head of Government,Luang Praditmanutham,2,political protege,Luang_Praditmanutham
+x,Head of Military Intelligence,Luang Praditmanutham,2,political specialist,Luang_Praditmanutham
+m,Chief of Army,Luang Seriroengrit,2,Static Defence Doctrine,Luang_Seriroengrit
+m,Chief of Navy,Luang Sinthusongkhramchai,3,Indirect Approach Doctrine,Luang_Sinthusongkhramchai
+m,Chief of Navy,Luang Supachalasai,5,Decisive Naval Battle Doctrine,Luang_Supachalasai
+m,Chief of Air Force,Luang Thewaruekpanluek,0,Vertical Envelopment Doctrine,Luang_Thewaruekpanluek
+m,Chief of Air Force,Luang Wechayanrangsarit,9,Carpet Bombing Doctrine,Luang_Wechayanrangsarit
+x,Head of Military Intelligence,Luang Wichitwathakan,9,dismal enigma,Luang_Wichitwathakan
+x,Minister of Armament,Narisara Nuwattiwong,7,resource industrialist,Narisara_Nuwattiwong
+x,Minister of Security,Paribatra Sukhumbhand,7,crime fighter,Paribatra_Sukhumbhand
+x,Minister of Security,Phao Sriyanond,9,prince of terror,Phao_Sriyanond
+x,Foreign Minister,Phra Sasphithayayut,5,general staffer,Phra_Sasphithayayut
+x,Head of Government,Phra Sasphithayayut,5,old general,Phra_Sasphithayayut
+m,Chief of Army,Phra Sasphithayayut,5,Base Control Doctrine,Phra_Sasphithayayut
+m,Chief of Air Force,Phra Veharsayarnsilpasit,7,Army Aviation Doctrine,Phra_Veharsayarnsilpasit
+m,Chief of Air Force,Phraya Chalermarkart,7,Air Superiority Doctrine,Phraya_Chalermarkart
+x,Minister of Security,Phraya Chasanyabodhi Sriboribarn,9,compassionate gentleman,Phraya_Chasanyabodhi_Sriboribarn
+x,Minister of Armament,Phraya Komarnkullamontri,7,infantry proponent,Phraya_Komarnkullamontri
+x,Head of Government,Phraya Manopakorn Nitithada,7,corporate suit,Phraya_Manopakorn_Nitithada
+x,Head of Government,Phraya Phaholpholphayuhasena,4,old general,Phraya_Phaholpholphayuhasena
+m,Chief of Army,Phraya Phaholpholphayuhasena,4,Elastic Defence Doctrine,Phraya_Phaholpholphayuhasena
+m,Chief of Staff,Phraya Phaholpholphayuhasena,4,School of Manoeuvre,Phraya_Phaholpholphayuhasena
+m,Chief of Navy,Phraya Preechachollayut,6,Base Control Doctrine,Phraya_Preechachollayut
+m,Chief of Army,Phraya Ritthi-akkhaney,9,Decisive Battle Doctrine,Phraya_Ritthi-akkhaney
+m,Chief of Staff,Phraya Ritthi-akkhaney,9,School of Manoeuvre,Phraya_Ritthi-akkhaney
+x,Minister of Armament,Phraya Sartsphonkhan,1,tank proponent,Phraya_Sartsphonkhan
+m,Chief of Army,Phraya Songsuradet,1,Decisive Battle Doctrine,Phraya_Songsuradet
+m,Chief of Staff,Phraya Songsuradet,4,School of Defence,Phraya_Songsuradet
+x,Minister of Armament,Phraya Sornyutthaseni,2,u boat proponent,Phraya_Sornyutthaseni
+m,Chief of Army,Phraya Sri Sitthisongkram,7,Decisive Battle Doctrine,Phraya_Sri_Sitthisongkram
+m,Chief of Staff,Phraya Sri Sitthisongkram,7,School of Fire Support,Phraya_Sri_Sitthisongkram
+m,Chief of Army,Phraya Surapanthaseni,3,Armoured Spearhead Doctrine,Phraya_Surapanthaseni
+m,Chief of Staff,Phraya Surapanthaseni,6,School of Psychology,Phraya_Surapanthaseni
+m,Chief of Air Force,Phraya Tayarnpikart,7,Army Aviation Doctrine,Phraya_Tayarnpikart
+x,Minister of Security,Phraya Tepvitunpahun Saruttabodhi,3,man of the people,Phraya_Tepvitunpahun_Saruttabodhi
+x,Minister of Security,Phraya Udompong Pensawat,8,silent lawyer,Phraya_Udompong_Pensawat
+m,Chief of Navy,Phraya Wicharnchakkrit,9,Open Seas Doctrine,Phraya_Wicharnchakkrit
+m,Chief of Navy,Phraya Wichitchollatee,0,Power Projection Doctrine,Phraya_Wichitchollatee
+x,Head of Government,Plaek Khittasangkha,9,reformist soldier,Plaek_Khittasangkha
+x,Head of Government,King Prajadhipok,7,silent workhorse,Prajadhipok
+x,Head of Government,Prasert Eiwchai,1,happy amateur,Prasert_Eiwchai
+x,Minister of Armament,Purachat Chaiyakon,3,industrialiser,Purachat_Chaiyakon
+m,Chief of Air Force,Purachat Chaiyakon,3,Vertical Envelopment Doctrine,Purachat_Chaiyakon
+x,Foreign Minister,Sanguan Tularak,1,iron fisted brute,Sanguan_Tularak
+x,Foreign Minister,Seni Pramoj,6,great compromiser,Seni_Pramoj
+x,Head of Government,Seni Pramoj,6,backroom backstabber,Seni_Pramoj
+x,Head of Government,Song Noppakul,0,ambitious union boss,Song_Noppakul
+x,Minister of Armament,Suppayokkasem,8,corrupt kleptocrat,Suppayokkasem
+x,Head of Military Intelligence,Thawan Thamrongnawasawat,2,naval intelligence specialist,Thawan_Thamrongnawasawat
+x,Minister of Security,Thawan Thamrongnawasawat,2,efficient sociopath,Thawan_Thamrongnawasawat
+m,Chief of Navy,Thawan Thamrongnawasawat,2,Indirect Approach Doctrine,Thawan_Thamrongnawasawat
+x,Minister of Armament,Thawin Udol,0,air superiority proponent,Thawin_Udol
+x,Minister of Security,Thongin Phuripat,1,man of the people,Thongin_Phuripat
+x,Head of Military Intelligence,Tiang Sirikhanth,3,dismal enigma,Tiang_Sirikhanth
+x,Foreign Minister,Traitotphrapan Tevakul,7,apologetic clerk,Traitotphrapan_Tevakul
