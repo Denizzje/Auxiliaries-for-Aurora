@@ -1,87 +1,87 @@
 YEM,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-93004,Head of Government,Yahya al Hamid,7,Smiling Oilman,M93001
-93005,Head of Government,Ahmad bin Yahya,7,Backroom Backstabber,M93004
-93006,Head of Government,Mustafa Sati Bey,8,Silent Workhorse,SatiBey
-93007,Foreign Minister,Yahya al Hamid,7,General Staffer,M93001
-93008,Foreign Minister,Ahmad bin Yahya,7,The Cloak N Dagger Schemer,M93004
-93009,Foreign Minister,Husain bin Yahya,7,General Staffer,unknown
-93010,Foreign Minister,Abdu'llah bin Yahya,8,The Cloak N Dagger Schemer,unknown
-93011,Foreign Minister,Ali bin Yahya,7,Great Compromiser,unknown
-93012,Foreign Minister,Yahya bin Yahya,7,Iron fisted Brute,unknown
-93013,Minister of Armament,Yahya al Hamid,7,Military Entrepreneur,M93001
-93014,Minister of Armament,Ahmad bin Yahya,7,Tank Proponent,M93004
-93015,Minister of Armament,Hasan bin Yahya,7,Infantry Proponent,unknown
-93016,Minister of Armament,Husain bin Yahya,7,Military Entrepreneur,unknown
-93017,Minister of Armament,Ibrahim bin Yahya,8,Battle fleet Proponent,unknown
-93018,Minister of Armament,Abbas bin Yahya,8,Submarine Proponent,unknown
-93019,Minister of Armament,Muhsin bin Yahya,7,Strategic Air Proponent,unknown
-93020,Minister of Armament,Sati al-Husri,8,Air Superiority Proponent,unknown
-93021,Minister of Armament,Mutahir bin Yahya,7,Air to Ground Proponent,unknown
-93022,Minister of Armament,Qasim bin Yahya,7,Air to Sea Proponent,unknown
-93023,Minister of Armament,Abdu'llah bin Yahya,8,Tank Proponent,unknown
-93024,Minister of Security,Yahya al Hamid,7,Prince of Terror,M93001
-93025,Minister of Security,Ahmad bin Yahya,7,Back Stabber,M93004
-93026,Minister of Security,Husain bin Yahya,7,Prince of Terror,unknown
-93027,Minister of Security,Abdu'llah bin Yahya,8,Back Stabber,unknown
-93028,Minister of Security,Ali bin Yahya,7,Man of the People,unknown
-93029,Minister of Security,Yahya bin Yahya,7,Efficient Sociopath,unknown
-93030,Head of Military Intelligence,Yahya al Hamid,7,Logistics Specialist,M93001
-93031,Head of Military Intelligence,Ahmad bin Yahya,7,Dismal Enigma,M93004
-93032,Head of Military Intelligence,Husain bin Yahya,7,Logistics Specialist,unknown
-93033,Head of Military Intelligence,Abdu'llah bin Yahya,8,Dismal Enigma,unknown
-93034,Head of Military Intelligence,Ismail bin Yahya,8,Naval Intelligence Specialist,unknown
-93035,Chief of Staff,Yahya al Hamid,7,School of Defence,M93001
-93036,Chief of Staff,Ahmad bin Yahya,7,School of Fire Support,M93004
-93037,Chief of Staff,Husain bin Yahya,7,School of Defence,unknown
-93038,Chief of Staff,Hasan bin Yahya,7,School of Mass Combat,unknown
-93039,Chief of Staff,Ali bin Yahya,7,School of Psychology,unknown
-93040,Chief of Staff,Mutahir bin Yahya,7,School of Manoeuvre,unknown
-93041,Chief of Staff,Abdu'llah bin Yahya,8,School of Fire Support,unknown
-93042,Chief of Army,Yahya al Hamid,7,Static Defence Doctrine,M93001
-93043,Chief of Army,Ahmad bin Yahya,7,Armoured Spearhead Doctrine,M93004
-93044,Chief of Army,Husain bin Yahya,7,Static Defence Doctrine,unknown
-93045,Chief of Army,Hasan bin Yahya,7,Decisive Battle Doctrine,unknown
-93046,Chief of Army,Ali bin Yahya,7,Guns and Butter Doctrine,unknown
-93047,Chief of Army,Mutahir bin Yahya,7,Elastic Defence Doctrine,unknown
-93048,Chief of Army,Abdu'llah bin Yahya,8,Armoured Spearhead Doctrine,unknown
-93049,Chief of Navy,Yahya bin Yahya,7,Base Control Doctrine,unknown
-93050,Chief of Navy,Ibrahim bin Yahya,8,Decisive Naval Battle Doctrine,unknown
-93051,Chief of Navy,Ismail bin Yahya,8,Open Seas Doctrine,unknown
-93052,Chief of Navy,Qasim bin Yahya,7,Power Projection Doctrine,unknown
-93053,Chief of Navy,Abbas bin Yahya,8,Indirect Approach Doctrine,unknown
-93054,Chief of Air Force,Yahya bin Yahya,7,Vertical Envelopment Doctrine,unknown
-93055,Chief of Air Force,Muhsin bin Yahya,7,Carpet Bombing Doctrine,unknown
-93056,Chief of Air Force,Sati al-Husri,8,Air Superiority Doctrine,unknown
-93057,Chief of Air Force,Mutahir bin Yahya,7,Army Aviation Doctrine,unknown
-93058,Chief of Air Force,Qasim bin Yahya,7,Naval Aviation Doctrine,unknown
-93061,Head of Government,Hahmoud Al-Jaifi,6,Silent Workhorse,unknown
-93062,Head of Government,Ahmad Muhammad Numan,6,Flamboyant Tough Guy,unknown
-93063,Foreign Minister,Ahmad Muhammad Numan,6,ideological crusader,unknown
-93064,Foreign Minister,Hahmoud Al-Jaifi,6,biased intellectual,unknown
-93065,Minister of Armament,Ahmad Muhammad Numan,6,resource industrialist,unknown
-93066,Minister of Armament,Hahmoud Al-Jaifi,6,theoretical scientist,unknown
-93067,Minister of Security,Ahmad Muhammad Numan,6,compassionate gentleman,unknown
-93068,Minister of Security,Hahmoud Al-Jaifi,6,silent lawyer,unknown
-93069,Head of Military Intelligence,Ahmad Muhammad Numan,6,industrial specialist,unknown
-93070,Head of Military Intelligence,Hahmoud Al-Jaifi,6,technical specialist,unknown
-93073,Head of Government,Salih Saeed Ba-Amer,2,Ambitious Union Boss,unknown
-93074,Head of Government,Qahtan Muhammad al-Shaabi,2,Naive Optimist,unknown
 93075,Foreign Minister,Qahtan Muhammad al-Shaabi,2,great compromiser,unknown
-93076,Foreign Minister,Salih Saeed Ba-Amer,2,ideological crusader,unknown
-93077,Minister of Armament,Qahtan Muhammad al-Shaabi,2,administrative genius,unknown
-93078,Minister of Armament,Salih Saeed Ba-Amer,2,resource industrialist,unknown
-93079,Minister of Security,Qahtan Muhammad al-Shaabi,2,man of the people,unknown
-93080,Minister of Security,Salih Saeed Ba-Amer,2,efficient sociopath,unknown
+93074,Head of Government,Qahtan Muhammad al-Shaabi,2,Naive Optimist,unknown
 93081,Head of Military Intelligence,Qahtan Muhammad al-Shaabi,2,political specialist,unknown
+93077,Minister of Armament,Qahtan Muhammad al-Shaabi,2,administrative genius,unknown
+93079,Minister of Security,Qahtan Muhammad al-Shaabi,2,man of the people,unknown
+93076,Foreign Minister,Salih Saeed Ba-Amer,2,ideological crusader,unknown
+93073,Head of Government,Salih Saeed Ba-Amer,2,Ambitious Union Boss,unknown
 93082,Head of Military Intelligence,Salih Saeed Ba-Amer,2,industrial specialist,unknown
-93084,Head of Government,Abdul Rahman Yahya Al-Eryani,3,old general,Al-Eryani
-93085,Foreign Minister,Abdul Rahman Yahya Al-Eryani,3,general staffer,Al-Eryani
-93086,Minister of Security,Abdul Rahman Yahya Al-Eryani,3,prince of terror,Al-Eryani
-93087,Chief of Staff,Abdullah al-Sallal,3,School of Defence,al-Sallal
+93078,Minister of Armament,Salih Saeed Ba-Amer,2,resource industrialist,unknown
+93080,Minister of Security,Salih Saeed Ba-Amer,2,efficient sociopath,unknown
 93088,Chief of Army,Abdul Rahman Yahya Al-Eryani,3,Guns and Butter Doctrine,Al-Eryani
+93085,Foreign Minister,Abdul Rahman Yahya Al-Eryani,3,general staffer,Al-Eryani
+93084,Head of Government,Abdul Rahman Yahya Al-Eryani,3,old general,Al-Eryani
+93086,Minister of Security,Abdul Rahman Yahya Al-Eryani,3,prince of terror,Al-Eryani
 93089,Chief of Army,Abdullah al-Sallal,3,Static Defence Doctrine,al-Sallal
-93090,Chief of Navy,Qadhi Abdullah al-Hajjri,3,indirect approach doctrine,unknown
+93087,Chief of Staff,Abdullah al-Sallal,3,School of Defence,al-Sallal
+93093,Chief of Air Force,Ali Halukeh,3,Vertical Envelopment Doctrine,M93027
 93091,Chief of Navy,Hassan al-Amri,3,decisive naval battle doctrine,unknown
 93092,Chief of Air Force,Qadhi Abdullah al-Hajjri,3,naval aviation doctrine,unknown
-93093,Chief of Air Force,Ali Halukeh,3,Vertical Envelopment Doctrine,M93027
+93090,Chief of Navy,Qadhi Abdullah al-Hajjri,3,indirect approach doctrine,unknown
+93063,Foreign Minister,Ahmad Muhammad Numan,6,ideological crusader,unknown
+93062,Head of Government,Ahmad Muhammad Numan,6,Flamboyant Tough Guy,unknown
+93069,Head of Military Intelligence,Ahmad Muhammad Numan,6,industrial specialist,unknown
+93065,Minister of Armament,Ahmad Muhammad Numan,6,resource industrialist,unknown
+93067,Minister of Security,Ahmad Muhammad Numan,6,compassionate gentleman,unknown
+93064,Foreign Minister,Hahmoud Al-Jaifi,6,biased intellectual,unknown
+93061,Head of Government,Hahmoud Al-Jaifi,6,Silent Workhorse,unknown
+93070,Head of Military Intelligence,Hahmoud Al-Jaifi,6,technical specialist,unknown
+93066,Minister of Armament,Hahmoud Al-Jaifi,6,theoretical scientist,unknown
+93068,Minister of Security,Hahmoud Al-Jaifi,6,silent lawyer,unknown
+93043,Chief of Army,Ahmad bin Yahya,7,Armoured Spearhead Doctrine,M93004
+93036,Chief of Staff,Ahmad bin Yahya,7,School of Fire Support,M93004
+93008,Foreign Minister,Ahmad bin Yahya,7,The Cloak N Dagger Schemer,M93004
+93005,Head of Government,Ahmad bin Yahya,7,Backroom Backstabber,M93004
+93031,Head of Military Intelligence,Ahmad bin Yahya,7,Dismal Enigma,M93004
+93014,Minister of Armament,Ahmad bin Yahya,7,Tank Proponent,M93004
+93025,Minister of Security,Ahmad bin Yahya,7,Back Stabber,M93004
+93046,Chief of Army,Ali bin Yahya,7,Guns and Butter Doctrine,unknown
+93039,Chief of Staff,Ali bin Yahya,7,School of Psychology,unknown
+93011,Foreign Minister,Ali bin Yahya,7,Great Compromiser,unknown
+93028,Minister of Security,Ali bin Yahya,7,Man of the People,unknown
+93045,Chief of Army,Hasan bin Yahya,7,Decisive Battle Doctrine,unknown
+93038,Chief of Staff,Hasan bin Yahya,7,School of Mass Combat,unknown
+93015,Minister of Armament,Hasan bin Yahya,7,Infantry Proponent,unknown
+93044,Chief of Army,Husain bin Yahya,7,Static Defence Doctrine,unknown
+93037,Chief of Staff,Husain bin Yahya,7,School of Defence,unknown
+93009,Foreign Minister,Husain bin Yahya,7,General Staffer,unknown
+93032,Head of Military Intelligence,Husain bin Yahya,7,Logistics Specialist,unknown
+93016,Minister of Armament,Husain bin Yahya,7,Military Entrepreneur,unknown
+93026,Minister of Security,Husain bin Yahya,7,Prince of Terror,unknown
+93055,Chief of Air Force,Muhsin bin Yahya,7,Carpet Bombing Doctrine,unknown
+93019,Minister of Armament,Muhsin bin Yahya,7,Strategic Air Proponent,unknown
+93057,Chief of Air Force,Mutahir bin Yahya,7,Army Aviation Doctrine,unknown
+93047,Chief of Army,Mutahir bin Yahya,7,Elastic Defence Doctrine,unknown
+93040,Chief of Staff,Mutahir bin Yahya,7,School of Manoeuvre,unknown
+93021,Minister of Armament,Mutahir bin Yahya,7,Air to Ground Proponent,unknown
+93058,Chief of Air Force,Qasim bin Yahya,7,Naval Aviation Doctrine,unknown
+93052,Chief of Navy,Qasim bin Yahya,7,Power Projection Doctrine,unknown
+93022,Minister of Armament,Qasim bin Yahya,7,Air to Sea Proponent,unknown
+93042,Chief of Army,Yahya al Hamid,7,Static Defence Doctrine,M93001
+93035,Chief of Staff,Yahya al Hamid,7,School of Defence,M93001
+93007,Foreign Minister,Yahya al Hamid,7,General Staffer,M93001
+93004,Head of Government,Yahya al Hamid,7,Smiling Oilman,M93001
+93030,Head of Military Intelligence,Yahya al Hamid,7,Logistics Specialist,M93001
+93013,Minister of Armament,Yahya al Hamid,7,Military Entrepreneur,M93001
+93024,Minister of Security,Yahya al Hamid,7,Prince of Terror,M93001
+93054,Chief of Air Force,Yahya bin Yahya,7,Vertical Envelopment Doctrine,unknown
+93049,Chief of Navy,Yahya bin Yahya,7,Base Control Doctrine,unknown
+93012,Foreign Minister,Yahya bin Yahya,7,Iron fisted Brute,unknown
+93029,Minister of Security,Yahya bin Yahya,7,Efficient Sociopath,unknown
+93053,Chief of Navy,Abbas bin Yahya,8,Indirect Approach Doctrine,unknown
+93018,Minister of Armament,Abbas bin Yahya,8,Submarine Proponent,unknown
+93048,Chief of Army,Abdu'llah bin Yahya,8,Armoured Spearhead Doctrine,unknown
+93041,Chief of Staff,Abdu'llah bin Yahya,8,School of Fire Support,unknown
+93010,Foreign Minister,Abdu'llah bin Yahya,8,The Cloak N Dagger Schemer,unknown
+93033,Head of Military Intelligence,Abdu'llah bin Yahya,8,Dismal Enigma,unknown
+93023,Minister of Armament,Abdu'llah bin Yahya,8,Tank Proponent,unknown
+93027,Minister of Security,Abdu'llah bin Yahya,8,Back Stabber,unknown
+93050,Chief of Navy,Ibrahim bin Yahya,8,Decisive Naval Battle Doctrine,unknown
+93017,Minister of Armament,Ibrahim bin Yahya,8,Battle fleet Proponent,unknown
+93051,Chief of Navy,Ismail bin Yahya,8,Open Seas Doctrine,unknown
+93034,Head of Military Intelligence,Ismail bin Yahya,8,Naval Intelligence Specialist,unknown
+93006,Head of Government,Mustafa Sati Bey,8,Silent Workhorse,SatiBey
+93056,Chief of Air Force,Sati al-Husri,8,Air Superiority Doctrine,unknown
+93020,Minister of Armament,Sati al-Husri,8,Air Superiority Proponent,unknown

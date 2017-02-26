@@ -1,44 +1,44 @@
 SYR,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-528021,Head of Government,Shukri al-Kuwaitli,4,Backroom Backstabber,M528015
-528022,Head of Government,Khalid al Azm,4,Flamboyant Tough Guy,M528063
-528023,Head of Government,Hussein al-Zaim,4,Old General,M528047
-528024,Head of Government,Muhsin al Barazi,4,Silent Workhorse,M528065
-528025,Head of Government,Hassim al-Atassi,4,Happy Amateur,M528012
-528026,Head of Government,Nazim al Kudsi,4,Ambitious Union Boss,M528067
-528027,Head of Government,Hassan al Hakim,4,Smiling Oilman,M528068
-528028,Head of Government,Fawzi as Silu,4,Old General,M528061
+528058,Chief of Army,Adib al-Shishakli,4,Guns and Butter Doctrine,M528051
 528029,Head of Government,Adib al-Shishakli,4,Corporate Suit,M528051
-528033,Foreign Minister,Muhsin al Barazi,4,Apologetic Clerk,M528065
-528034,Foreign Minister,Shaykh Muhammed al-Gawzi,4,General Staffer,M528024
-528035,Foreign Minister,Lufti al-Haffar,4,Iron Fisted Brute,M528016
-528036,Foreign Minister,Saadallah al-Jabiri,4,The Cloak N Dagger Schemer,M528026
-528037,Foreign Minister,Shaykh Mustafa al-Maraghi,6,Great Compromiser,M528027
-528038,Foreign Minister,Faris al-Khouri,7,The Cloak N Dagger Schemer,M528004
 528039,Minister of Armament,Faris al-Khouri,4,Air to Ground Proponent,M528004
-528040,Minister of Armament,Shaykh Muhammed al-Shinnawi,4,Infantry Proponent,M528029
-528041,Minister of Armament,Shaykh Abd al-Alim Selim,4,Military Entrepreneur,M528030
-528042,Minister of Armament,Khalid al Azm,4,Resource Industrialist,M528063
+528056,Chief of Staff,Fawzi as Silu,4,School of Defence,M528061
+528028,Head of Government,Fawzi as Silu,4,Old General,M528061
+528027,Head of Government,Hassan al Hakim,4,Smiling Oilman,M528068
 528043,Minister of Armament,Hassan al Hakim,4,Air to Ground Proponent,M528068
-528044,Minister of Armament,Shaykh Mustafa al-Maraghi,6,Air to Ground Proponent,M528027
-528045,Minister of Armament,Yves Morandat,7,Air Superiority Proponent,M528005
-528046,Minister of Armament,Amir Mustafa al-Shihabi,7,laissez-faire capitalist,M528059
-528047,Minister of Security,Mustafa al-Atassi,4,Man of the People,M528035
-528048,Minister of Security,Nazim al Kudsi,6,Silent Lawyer,M528067
+528025,Head of Government,Hassim al-Atassi,4,Happy Amateur,M528012
+528055,Chief of Staff,Hussein al-Zaim,4,School of Mass Combat,M528047
+528023,Head of Government,Hussein al-Zaim,4,Old General,M528047
 528049,Minister of Security,Jamil Chakrura,4,Back Stabber,M528037
 528050,Minister of Security,Jean Abdel Foukha,4,Compassionate Gentleman,M528038
-528051,Minister of Security,Faris al-Khouri,6,Man of the People,M528004
-528052,Minister of Security,Shaykh Mustafa al-Maraghi,7,Back Stabber,M528027
-528053,Head of Military Intelligence,Sami Hinnawi,4,Logistics Specialist,M528076
-528054,Head of Military Intelligence,Shaykh Muhammed al-Gawzi,6,Industrial Specialist,M528024
-528055,Chief of Staff,Hussein al-Zaim,4,School of Mass Combat,M528047
-528056,Chief of Staff,Fawzi as Silu,4,School of Defence,M528061
-528057,Chief of Staff,Shaykh Muhammed al-Gawzi,6,School of Fire Support,M528024
-528058,Chief of Army,Adib al-Shishakli,4,Guns and Butter Doctrine,M528051
-528059,Chief of Army,Fawzi al-Quawugji,7,Static Defence Doctrine,M528049
-528060,Chief of Navy,Omar Abrash,4,Open Seas Doctrine,M528054
-528061,Chief of Navy,Shaykh Muhammed al-Gawzi,7,Base Control Doctrine,M528024
 528063,Chief of Air Force,Khaleed al Razi,4,Carpet Bombing Doctrine,M528077
-528064,Chief of Air Force,Hussein al-Zaim,7,Air Superiority Doctrine,M528047
-528066,Head of Government,Muhammad Kurd Ali,6,Happy Amateur,SYR_kurdali
+528022,Head of Government,Khalid al Azm,4,Flamboyant Tough Guy,M528063
+528042,Minister of Armament,Khalid al Azm,4,Resource Industrialist,M528063
+528035,Foreign Minister,Lufti al-Haffar,4,Iron Fisted Brute,M528016
+528033,Foreign Minister,Muhsin al Barazi,4,Apologetic Clerk,M528065
+528024,Head of Government,Muhsin al Barazi,4,Silent Workhorse,M528065
+528047,Minister of Security,Mustafa al-Atassi,4,Man of the People,M528035
+528026,Head of Government,Nazim al Kudsi,4,Ambitious Union Boss,M528067
+528060,Chief of Navy,Omar Abrash,4,Open Seas Doctrine,M528054
+528036,Foreign Minister,Saadallah al-Jabiri,4,The Cloak N Dagger Schemer,M528026
+528053,Head of Military Intelligence,Sami Hinnawi,4,Logistics Specialist,M528076
+528041,Minister of Armament,Shaykh Abd al-Alim Selim,4,Military Entrepreneur,M528030
+528034,Foreign Minister,Shaykh Muhammed al-Gawzi,4,General Staffer,M528024
+528040,Minister of Armament,Shaykh Muhammed al-Shinnawi,4,Infantry Proponent,M528029
+528021,Head of Government,Shukri al-Kuwaitli,4,Backroom Backstabber,M528015
+528051,Minister of Security,Faris al-Khouri,6,Man of the People,M528004
 528067,Chief of Staff,Jamil al-Ulshi,6,School of Fire Support,SYR_alushi
+528066,Head of Government,Muhammad Kurd Ali,6,Happy Amateur,SYR_kurdali
+528048,Minister of Security,Nazim al Kudsi,6,Silent Lawyer,M528067
+528057,Chief of Staff,Shaykh Muhammed al-Gawzi,6,School of Fire Support,M528024
+528054,Head of Military Intelligence,Shaykh Muhammed al-Gawzi,6,Industrial Specialist,M528024
+528037,Foreign Minister,Shaykh Mustafa al-Maraghi,6,Great Compromiser,M528027
+528044,Minister of Armament,Shaykh Mustafa al-Maraghi,6,Air to Ground Proponent,M528027
+528046,Minister of Armament,Amir Mustafa al-Shihabi,7,laissez-faire capitalist,M528059
+528038,Foreign Minister,Faris al-Khouri,7,The Cloak N Dagger Schemer,M528004
+528059,Chief of Army,Fawzi al-Quawugji,7,Static Defence Doctrine,M528049
+528064,Chief of Air Force,Hussein al-Zaim,7,Air Superiority Doctrine,M528047
+528061,Chief of Navy,Shaykh Muhammed al-Gawzi,7,Base Control Doctrine,M528024
+528052,Minister of Security,Shaykh Mustafa al-Maraghi,7,Back Stabber,M528027
+528045,Minister of Armament,Yves Morandat,7,Air Superiority Proponent,M528005

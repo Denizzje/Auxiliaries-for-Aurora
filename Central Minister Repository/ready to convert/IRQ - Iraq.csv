@@ -1,123 +1,123 @@
 IRQ,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-91002,Head of Government,Yasin Pasha al Hashimi,6,Naive Optimist,M91002
-91003,Foreign Minister,Nuri as Said,6,General Staffer,M91003
-91005,Minister of Security,Ali Abn Hussein,6,Back Stabber,M91005
-91006,Head of Military Intelligence,Yasin Pasha al Hashimi,6,Naval Intelligence Specialist,M91002
-91007,Chief of Staff,Bakr Sidqi,6,School of Defence,M91007
-91010,Chief of Air Force,Ali ben Jawad,6,Air Superiority Doctrine,M91010
-91043,Head of Government,Moussa al Alami,6,Silent Workhorse,M91043
-91044,Head of Government,Taha Pasha al Hashimi,7,Happy Amateur,M91044
-91045,Head of Government,Ragheb Nashashibi,6,Flamboyant Tough Guy,M91045
-91046,Head of Government,Azam Pasha,7,Old General,M91046
-91047,Head of Government,Jamil al Midfai,7,Smiling Oilman,M91047
-91048,Head of Government,Nuri as Said,7,Old General,M91003
-91049,Head of Government,Hamdi al Pachachi,7,Silent Workhorse,M91049
-91050,Head of Government,Salih Jabr,7,Political Protege,M91050
-91051,Head of Government,Fawsi al Kaukji,8,Flamboyant Tough Guy,M91014
-91052,Head of Government,Rashid Ali al Gaylani,8,Smiling Oilman,M91011
-91053,Head of Government,Haj Amini al Husseini,8,Backroom Backstabber,M91013
-91054,Head of Government,Hikmet Suleyman,2,Naive Optimist,M91054
-91055,Head of Government,Yahya Hamudeh,2,Backroom Backstabber,M91021
-91056,Head of Government,Tawfiq al Suweidi,2,Ambitious Union Boss,M91056
-91057,Head of Government,Arshad al Umari,2,Happy Amateur,M91027
-91058,Foreign Minister,Ragheb Nashashibi,6,Biased Intellectual,M91045
-91059,Foreign Minister,Taha Pasha al Hashimi,7,Ideological Crusader,M91044
-91060,Foreign Minister,Moussa al Alami,6,Great Compromiser,M91043
-91061,Foreign Minister,Azam Pasha,7,Apologetic Clerk,M91046
-91062,Foreign Minister,Tawfiq al Suweidi,7,Apologetic Clerk,M91056
-91064,Foreign Minister,Ali Jawdat,7,The Cloak N Dagger Schemer,M91064
-91065,Foreign Minister,Jamil al Midfai,7,Apologetic Clerk,M91047
-91066,Foreign Minister,Salih Jabr,7,Ideological Crusader,M91050
-91067,Foreign Minister,Abdallah al Damluji,7,Iron Fisted Brute,M91067
-91068,Foreign Minister,Abd al Illah al Hafiz,7,Great Compromiser,M91068
-91069,Foreign Minister,Nasrat al Farisi,7,Iron Fisted Brute,M91069
-91070,Foreign Minister,Tahsin al Askari,7,Ideological Crusader,M91070
-91071,Foreign Minister,Mahmud Subhi al Daftari,7,Apologetic Clerk,M91071
-91072,Foreign Minister,Arshad al Umari,7,General Staffer,M91027
-91073,Foreign Minister,Ahmad Abdul Baqi,7,The Cloak N Dagger Schemer,M91073
-91074,Foreign Minister,Muhammed Fadelfomali,7,Biased Intellectual,M91074
-91075,Foreign Minister,Rashid Ali al Gaylani,8,The Cloak N Dagger Schemer,M91011
-91076,Foreign Minister,Ali Mahmud al Shaykh,8,Great Compromiser,M91019
-91077,Foreign Minister,Haj Amini al Husseini,8,Ideological Crusader,M91013
-91078,Foreign Minister,Musa Bey al Shahbandar,8,Biased Intellectual,M91078
-91080,Foreign Minister,Naji al Asil,7,Ideological Crusader,M91080
-91081,Foreign Minister,Hikmet Suleyman,7,Great Compromiser,M91054
-91082,Foreign Minister,Tawfiq al Suweidi,2,Apologetic Clerk,M91056
-91083,Foreign Minister,Ali Mumtaz,2,General Staffer,M91083
-91084,Foreign Minister,Muhammed Fadelfomali,2,Biased Intellectual,M91074
-91085,Foreign Minister,Yahya Hamudeh,2,Iron Fisted Brute,M91021
-91086,Minister of Armament,Abdel Latif Salah,6,Resource Industrialist,M91086
-91087,Minister of Armament,Moussa al Alami,6,laissez-faire capitalist,M91043
-91088,Minister of Armament,Elie Mosseri,6,Administrative Genius,M91088
-91089,Minister of Armament,Nuri as Said,7,Infantry Proponent,M91003
-91090,Minister of Armament,Ya'goub Farraj,7,laissez-faire capitalist,M91090
-91091,Minister of Armament,Jamil al Midfai,7,Theoretical Scientist,M91047
-91093,Minister of Armament,Jamal Husseini,7,Air Superiority Proponent,M91093
-91094,Minister of Armament,Tawfiq al Suweidi,7,Submarine Proponent,M91056
-91095,Minister of Armament,Ali Abn Hussein,7,Corrupt Kleptocrat,M91005
-91097,Minister of Armament,Amir al Jahed,8,Military Entrepreneur,M91097
-91098,Minister of Armament,Yahya al Najif,8,Submarine Proponent,M91098
-91099,Minister of Armament,Azam Pasha,8,Infantry Proponent,M91046
-91100,Minister of Armament,Fawsi al Kaukji,8,Corrupt Kleptocrat,M91014
-91101,Minister of Armament,Khaled al Dalabeeh,2,Theoretical Scientist,M91030
-91102,Minister of Armament,Anwar Khatib,2,Strategic Air Proponent,M91024
-91104,Minister of Security,Ghulam Ali Allana,6,Compassionate Gentleman,M91104
-91105,Minister of Security,Ragheb Nashashibi,6,Crime Fighter,M91045
-91106,Minister of Security,Kamel Erekat,7,Crooked Kleptocrat,M91106
-91107,Minister of Security,Ahmad Abdul Baqi,7,Man of the People,M91073
-91108,Minister of Security,Suleiman al Taji,7,Prince of Terror,M91108
-91111,Minister of Security,Nuri as Said,7,Efficient Sociopath,M91003
-91112,Minister of Security,Jamil al Midfai,8,Crooked Kleptocrat,M91047
-91113,Minister of Security,Ali Rassakh,8,Man of the People,M91113
-91114,Minister of Security,Ahmed Amir Badi,8,Efficient Sociopath,M91114
-91115,Minister of Security,Rashid Ali al Gaylani,8,Prince of Terror,M91011
-91116,Minister of Security,Haj Amini al Husseini,8,Efficient Sociopath,M91013
-91117,Minister of Security,Anwar Khatib,2,Man of the People,M91024
-91118,Minister of Security,Hikmet Suleyman,2,Compassionate Gentleman,M91054
-91120,Head of Military Intelligence,Mohammed al Azir,6,Logistics Specialist,M91120
-91121,Head of Military Intelligence,Taha Pasha al Hashimi,6,Dismal Enigma,M91044
-91122,Head of Military Intelligence,Emil Ghoury,7,Technical Specialist,M91122
-91123,Head of Military Intelligence,Jamil al Midfai,7,Political Specialist,M91047
-91128,Head of Military Intelligence,Nuri as Said,7,Logistics Specialist,M91003
-91129,Head of Military Intelligence,Rifai al Fadel,8,Political Specialist,M91129
-91130,Head of Military Intelligence,Rashid Ali al-Gaylani,8,Dismal Enigma,M91011
-91131,Head of Military Intelligence,Azam Pasha,8,Logistics Specialist,M91046
-91132,Head of Military Intelligence,Fawsi al Kaukji,8,Industrial Specialist,M91014
-91133,Head of Military Intelligence,Taha al Ahmani,2,Industrial Specialist,M91029
-91134,Head of Military Intelligence,Abdallah Mumtaz,2,Technical Specialist,M91026
-91135,Head of Military Intelligence,Suleiman al Taji,2,Political Specialist,M91108
-91136,Head of Military Intelligence,Rifai al Fadel,2,Dismal Enigma,M91129
-91140,Chief of Staff,Nuri as-Said,7,School of Mass Combat,M91003
-91143,Chief of Staff,Fawsi al Kaukji,8,School of Fire Support,M91014
-91144,Chief of Staff,Bakr Sidqi,2,School of Defence,M91007
-91145,Chief of Staff,Arshad al Umari,2,School of Fire Support,M91027
-91147,Chief of Army,John Bagot Glubb,7,Decisive Battle Doctrine,M91124
-91149,Chief of Army,Nuri as Said,7,Armoured Spearhead Doctrine,M91003
-91151,Chief of Army,Amir al Illah,7,Static Defence Doctrine,M91035
-91153,Chief of Army,Fawsi al Kaukji,8,Static Defence Doctrine,M91014
-91155,Chief of Army,Arshad al Umari,2,Guns and Butter Doctrine,M91027
-91157,Chief of Navy,Hamdi al Pachachi,7,Decisive Naval Battle Doctrine,M91049
-91159,Chief of Navy,Jamil al Midfai,7,Indirect Approach Doctrine,M91047
-91160,Chief of Navy,Ali Mahmud al Shaykh,8,Indirect Approach Doctrine,M91019
-91162,Chief of Navy,Taha al Ahmani,2,Decisive Naval Battle Doctrine,M91029
-91165,Chief of Air Force,Amir al Illah,7,Air Superiority Doctrine,M91035
-91166,Chief of Air Force,Abdullah al-Tell,7,Naval Aviation Doctrine,M91166
-91168,Chief of Air Force,Jamil al Midfai,7,Carpet Bombing Doctrine,M91047
-91170,Chief of Air Force,Fahmi Sa'id,8,Air Superiority Doctrine,M91020
-91171,Chief of Air Force,Khaled al Dalabeeh,2,Vertical Envelopment Doctrine,M91030
-91173,Chief of Navy,Rashid Ali al-Gaylani,8,Power Projection Doctrine,M91011
-91174,Head of Government,Hikmet Suleyman,7,Naive Optimist,M91054
-91175,Head of Government,Rashid Ali al Gaylani,7,Smiling Oilman,M91011
-91176,Head of Government,Jamil al Midfai,7,Smiling Oilman,M91047
-91177,Head of Government,Nuri as Said,7,Ambitious Union Boss,M91003
-91012,Head of Government,Rashid Ali al-Gaylani,8,Smiling Oilman,M91011
 91022,Head of Government,Yahya Hamudeh,0,Backroom Backstabber,M91021
-91179,Head of Government,Muhammad as Sadr,7,Naive Optimist,M91179
-91180,Head of Government,Muzahim al Bayyaji,6,Corporate Suit,M91180
-91181,Head of Government,Ali Jawdat,7,Backroom Backstabber,M91064
-91182,Head of Government,Tawfiq al Suweidi,7,Ambitious Union Boss,M91056
-91183,Head of Government,Nurreddin Mahmud,7,Old General,M91183
+91134,Head of Military Intelligence,Abdallah Mumtaz,2,Technical Specialist,M91026
+91083,Foreign Minister,Ali Mumtaz,2,General Staffer,M91083
+91102,Minister of Armament,Anwar Khatib,2,Strategic Air Proponent,M91024
+91117,Minister of Security,Anwar Khatib,2,Man of the People,M91024
+91155,Chief of Army,Arshad al Umari,2,Guns and Butter Doctrine,M91027
+91145,Chief of Staff,Arshad al Umari,2,School of Fire Support,M91027
+91057,Head of Government,Arshad al Umari,2,Happy Amateur,M91027
+91144,Chief of Staff,Bakr Sidqi,2,School of Defence,M91007
+91054,Head of Government,Hikmet Suleyman,2,Naive Optimist,M91054
+91118,Minister of Security,Hikmet Suleyman,2,Compassionate Gentleman,M91054
+91171,Chief of Air Force,Khaled al Dalabeeh,2,Vertical Envelopment Doctrine,M91030
+91101,Minister of Armament,Khaled al Dalabeeh,2,Theoretical Scientist,M91030
+91084,Foreign Minister,Muhammed Fadelfomali,2,Biased Intellectual,M91074
+91136,Head of Military Intelligence,Rifai al Fadel,2,Dismal Enigma,M91129
+91135,Head of Military Intelligence,Suleiman al Taji,2,Political Specialist,M91108
+91162,Chief of Navy,Taha al Ahmani,2,Decisive Naval Battle Doctrine,M91029
+91133,Head of Military Intelligence,Taha al Ahmani,2,Industrial Specialist,M91029
+91082,Foreign Minister,Tawfiq al Suweidi,2,Apologetic Clerk,M91056
+91056,Head of Government,Tawfiq al Suweidi,2,Ambitious Union Boss,M91056
+91085,Foreign Minister,Yahya Hamudeh,2,Iron Fisted Brute,M91021
+91055,Head of Government,Yahya Hamudeh,2,Backroom Backstabber,M91021
 91184,Head of Government,Mustafa al Umari,5,Silent Workhorse,M91184
+91086,Minister of Armament,Abdel Latif Salah,6,Resource Industrialist,M91086
+91005,Minister of Security,Ali Abn Hussein,6,Back Stabber,M91005
+91010,Chief of Air Force,Ali ben Jawad,6,Air Superiority Doctrine,M91010
+91007,Chief of Staff,Bakr Sidqi,6,School of Defence,M91007
+91088,Minister of Armament,Elie Mosseri,6,Administrative Genius,M91088
+91104,Minister of Security,Ghulam Ali Allana,6,Compassionate Gentleman,M91104
+91120,Head of Military Intelligence,Mohammed al Azir,6,Logistics Specialist,M91120
+91060,Foreign Minister,Moussa al Alami,6,Great Compromiser,M91043
+91043,Head of Government,Moussa al Alami,6,Silent Workhorse,M91043
+91087,Minister of Armament,Moussa al Alami,6,laissez-faire capitalist,M91043
 91185,Head of Government,Muhamed Fadhel al-Jamali,6,Happy Amateur,M91185
+91180,Head of Government,Muzahim al Bayyaji,6,Corporate Suit,M91180
+91003,Foreign Minister,Nuri as Said,6,General Staffer,M91003
+91058,Foreign Minister,Ragheb Nashashibi,6,Biased Intellectual,M91045
+91045,Head of Government,Ragheb Nashashibi,6,Flamboyant Tough Guy,M91045
+91105,Minister of Security,Ragheb Nashashibi,6,Crime Fighter,M91045
+91121,Head of Military Intelligence,Taha Pasha al Hashimi,6,Dismal Enigma,M91044
+91002,Head of Government,Yasin Pasha al Hashimi,6,Naive Optimist,M91002
+91006,Head of Military Intelligence,Yasin Pasha al Hashimi,6,Naval Intelligence Specialist,M91002
+91068,Foreign Minister,Abd al Illah al Hafiz,7,Great Compromiser,M91068
+91067,Foreign Minister,Abdallah al Damluji,7,Iron Fisted Brute,M91067
+91166,Chief of Air Force,Abdullah al-Tell,7,Naval Aviation Doctrine,M91166
+91073,Foreign Minister,Ahmad Abdul Baqi,7,The Cloak N Dagger Schemer,M91073
+91107,Minister of Security,Ahmad Abdul Baqi,7,Man of the People,M91073
+91095,Minister of Armament,Ali Abn Hussein,7,Corrupt Kleptocrat,M91005
+91064,Foreign Minister,Ali Jawdat,7,The Cloak N Dagger Schemer,M91064
+91181,Head of Government,Ali Jawdat,7,Backroom Backstabber,M91064
+91165,Chief of Air Force,Amir al Illah,7,Air Superiority Doctrine,M91035
+91151,Chief of Army,Amir al Illah,7,Static Defence Doctrine,M91035
+91072,Foreign Minister,Arshad al Umari,7,General Staffer,M91027
+91061,Foreign Minister,Azam Pasha,7,Apologetic Clerk,M91046
+91046,Head of Government,Azam Pasha,7,Old General,M91046
+91122,Head of Military Intelligence,Emil Ghoury,7,Technical Specialist,M91122
+91157,Chief of Navy,Hamdi al Pachachi,7,Decisive Naval Battle Doctrine,M91049
+91049,Head of Government,Hamdi al Pachachi,7,Silent Workhorse,M91049
+91081,Foreign Minister,Hikmet Suleyman,7,Great Compromiser,M91054
+91174,Head of Government,Hikmet Suleyman,7,Naive Optimist,M91054
+91093,Minister of Armament,Jamal Husseini,7,Air Superiority Proponent,M91093
+91168,Chief of Air Force,Jamil al Midfai,7,Carpet Bombing Doctrine,M91047
+91159,Chief of Navy,Jamil al Midfai,7,Indirect Approach Doctrine,M91047
+91065,Foreign Minister,Jamil al Midfai,7,Apologetic Clerk,M91047
+91047,Head of Government,Jamil al Midfai,7,Smiling Oilman,M91047
+91176,Head of Government,Jamil al Midfai,7,Smiling Oilman,M91047
+91123,Head of Military Intelligence,Jamil al Midfai,7,Political Specialist,M91047
+91091,Minister of Armament,Jamil al Midfai,7,Theoretical Scientist,M91047
+91147,Chief of Army,John Bagot Glubb,7,Decisive Battle Doctrine,M91124
+91106,Minister of Security,Kamel Erekat,7,Crooked Kleptocrat,M91106
+91071,Foreign Minister,Mahmud Subhi al Daftari,7,Apologetic Clerk,M91071
+91179,Head of Government,Muhammad as Sadr,7,Naive Optimist,M91179
+91074,Foreign Minister,Muhammed Fadelfomali,7,Biased Intellectual,M91074
+91080,Foreign Minister,Naji al Asil,7,Ideological Crusader,M91080
+91069,Foreign Minister,Nasrat al Farisi,7,Iron Fisted Brute,M91069
+91149,Chief of Army,Nuri as Said,7,Armoured Spearhead Doctrine,M91003
+91048,Head of Government,Nuri as Said,7,Old General,M91003
+91177,Head of Government,Nuri as Said,7,Ambitious Union Boss,M91003
+91128,Head of Military Intelligence,Nuri as Said,7,Logistics Specialist,M91003
+91089,Minister of Armament,Nuri as Said,7,Infantry Proponent,M91003
+91111,Minister of Security,Nuri as Said,7,Efficient Sociopath,M91003
+91140,Chief of Staff,Nuri as-Said,7,School of Mass Combat,M91003
+91183,Head of Government,Nurreddin Mahmud,7,Old General,M91183
 91186,Head of Military Intelligence,Nurreddin Mahmud,7,Logistics Specialist,M91183
+91175,Head of Government,Rashid Ali al Gaylani,7,Smiling Oilman,M91011
+91066,Foreign Minister,Salih Jabr,7,Ideological Crusader,M91050
+91050,Head of Government,Salih Jabr,7,Political Protege,M91050
+91108,Minister of Security,Suleiman al Taji,7,Prince of Terror,M91108
+91059,Foreign Minister,Taha Pasha al Hashimi,7,Ideological Crusader,M91044
+91044,Head of Government,Taha Pasha al Hashimi,7,Happy Amateur,M91044
+91070,Foreign Minister,Tahsin al Askari,7,Ideological Crusader,M91070
+91062,Foreign Minister,Tawfiq al Suweidi,7,Apologetic Clerk,M91056
+91182,Head of Government,Tawfiq al Suweidi,7,Ambitious Union Boss,M91056
+91094,Minister of Armament,Tawfiq al Suweidi,7,Submarine Proponent,M91056
+91090,Minister of Armament,Ya'goub Farraj,7,laissez-faire capitalist,M91090
+91114,Minister of Security,Ahmed Amir Badi,8,Efficient Sociopath,M91114
+91160,Chief of Navy,Ali Mahmud al Shaykh,8,Indirect Approach Doctrine,M91019
+91076,Foreign Minister,Ali Mahmud al Shaykh,8,Great Compromiser,M91019
+91113,Minister of Security,Ali Rassakh,8,Man of the People,M91113
+91097,Minister of Armament,Amir al Jahed,8,Military Entrepreneur,M91097
+91131,Head of Military Intelligence,Azam Pasha,8,Logistics Specialist,M91046
+91099,Minister of Armament,Azam Pasha,8,Infantry Proponent,M91046
+91170,Chief of Air Force,Fahmi Sa'id,8,Air Superiority Doctrine,M91020
+91153,Chief of Army,Fawsi al Kaukji,8,Static Defence Doctrine,M91014
+91143,Chief of Staff,Fawsi al Kaukji,8,School of Fire Support,M91014
+91051,Head of Government,Fawsi al Kaukji,8,Flamboyant Tough Guy,M91014
+91132,Head of Military Intelligence,Fawsi al Kaukji,8,Industrial Specialist,M91014
+91100,Minister of Armament,Fawsi al Kaukji,8,Corrupt Kleptocrat,M91014
+91077,Foreign Minister,Haj Amini al Husseini,8,Ideological Crusader,M91013
+91053,Head of Government,Haj Amini al Husseini,8,Backroom Backstabber,M91013
+91116,Minister of Security,Haj Amini al Husseini,8,Efficient Sociopath,M91013
+91112,Minister of Security,Jamil al Midfai,8,Crooked Kleptocrat,M91047
+91078,Foreign Minister,Musa Bey al Shahbandar,8,Biased Intellectual,M91078
+91075,Foreign Minister,Rashid Ali al Gaylani,8,The Cloak N Dagger Schemer,M91011
+91052,Head of Government,Rashid Ali al Gaylani,8,Smiling Oilman,M91011
+91115,Minister of Security,Rashid Ali al Gaylani,8,Prince of Terror,M91011
+91173,Chief of Navy,Rashid Ali al-Gaylani,8,Power Projection Doctrine,M91011
+91012,Head of Government,Rashid Ali al-Gaylani,8,Smiling Oilman,M91011
+91130,Head of Military Intelligence,Rashid Ali al-Gaylani,8,Dismal Enigma,M91011
+91129,Head of Military Intelligence,Rifai al Fadel,8,Political Specialist,M91129
+91098,Minister of Armament,Yahya al Najif,8,Submarine Proponent,M91098

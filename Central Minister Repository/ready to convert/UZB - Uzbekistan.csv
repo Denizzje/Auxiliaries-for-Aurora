@@ -1,43 +1,43 @@
 UZB,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-526002,Head of Government,Akmal Ikramov,1,Naive Optimist,M526002
-526003,Foreign Minister,Fayzulla Khodzhayev,1,Iron Fisted Brute,M526003
-526004,Minister of Armament,Abduvali Muminov,1,Tank Proponent,M526004
 526005,Minister of Security,Abdudzhabar Abdurrakhmanov,1,Back Stabber,M526005
-526006,Head of Military Intelligence,Gila I. Dzhunkovskaya,1,Logistics Specialist,M526006
-526007,Chief of Staff,Teginbek Shokirov,1,School of Fire Support,M526007
 526008,Chief of Army,Abdumannob Streshnev,1,Armoured Spearhead Doctrine,M526008
-526009,Chief of Navy,Vlateslav Doronin,1,Base Control Doctrine,M526009
-526010,Chief of Air Force,Istvan M. Dzuba,1,Carpet Bombing Doctrine,M526010
-526013,Head of Government,Farqat Nurutdinov,3,Corporate Suit,M526013
-526014,Head of Government,Abdurahim Martemyanov,7,Silent Workhorse,M526014
+526004,Minister of Armament,Abduvali Muminov,1,Tank Proponent,M526004
+526002,Head of Government,Akmal Ikramov,1,Naive Optimist,M526002
 526015,Foreign Minister,Alisher Ogorodov,1,The Cloak N Dagger Schemer,M526015
-526016,Foreign Minister,Ashkar Mukhitdinov,3,Ideological Crusader,M526016
-526017,Foreign Minister,Alishaer Jemil,3,The Cloak N Dagger Schemer,M526017
-526018,Foreign Minister,Nikolay Chichagov,7,Apologetic Clerk,M526018
-526019,Foreign Minister,Alisher Ivanov,7,Great Compromiser,M526019
 526020,Minister of Armament,Bil Filipov,1,laissez-faire capitalist,M526020
+526003,Foreign Minister,Fayzulla Khodzhayev,1,Iron Fisted Brute,M526003
 526021,Minister of Armament,Gennadij Davidov,1,Air to Ground Proponent,M526021
+526006,Head of Military Intelligence,Gila I. Dzhunkovskaya,1,Logistics Specialist,M526006
+526026,Minister of Security,Innokenti Gerasimov,1,Crime Fighter,M526026
+526010,Chief of Air Force,Istvan M. Dzuba,1,Carpet Bombing Doctrine,M526010
+526032,Head of Military Intelligence,Mikhail Dubkov,1,Technical Specialist,M526032
+526027,Minister of Security,Nizam Dondukov,1,Compassionate Gentleman,M526027
+526007,Chief of Staff,Teginbek Shokirov,1,School of Fire Support,M526007
+526009,Chief of Navy,Vlateslav Doronin,1,Base Control Doctrine,M526009
+526017,Foreign Minister,Alishaer Jemil,3,The Cloak N Dagger Schemer,M526017
+526016,Foreign Minister,Ashkar Mukhitdinov,3,Ideological Crusader,M526016
+526034,Head of Military Intelligence,Avram Golitsin,3,Logistics Specialist,M526034
+526029,Minister of Security,Boris Dmitrievsky,3,Compassionate Gentleman,M526029
 526022,Minister of Armament,Fakriddin Dzhevetsky,3,Military Entrepreneur,M526022
+526013,Head of Government,Farqat Nurutdinov,3,Corporate Suit,M526013
+526037,Chief of Staff,Furkat Drachenk,3,School of Mass Combat,M526037
+526043,Chief of Air Force,Gennadij Gvornikov,3,Vertical Envelopment Doctrine,M526043
 526023,Minister of Armament,Hamid Dorodnitsyn,3,Strategic Air Proponent,M526023
+526033,Head of Military Intelligence,Ibi Dobatkin,3,Dismal Enigma,M526033
+526039,Chief of Army,Nikolay Ghukov,3,Static Defence Doctrine,M526039
+526041,Chief of Navy,Osman Dema,3,Indirect Approach Doctrine,M526041
+526028,Minister of Security,Yamin Dmitriev,3,Efficient Sociopath,M526028
+526014,Head of Government,Abdurahim Martemyanov,7,Silent Workhorse,M526014
+526019,Foreign Minister,Alisher Ivanov,7,Great Compromiser,M526019
+526044,Chief of Air Force,Babur Ipatiev,7,Air Superiority Doctrine,M526038
+526038,Chief of Staff,Babur Ipatiev,7,School of Manoeuvre,M526038
 526024,Minister of Armament,Babur Ipatiev,7,Air Superiority Proponent,M526024
 526025,Minister of Armament,Bahauddin Gorchakov,7,Military Entrepreneur,M526025
-526026,Minister of Security,Innokenti Gerasimov,1,Crime Fighter,M526026
-526027,Minister of Security,Nizam Dondukov,1,Compassionate Gentleman,M526027
-526028,Minister of Security,Yamin Dmitriev,3,Efficient Sociopath,M526028
-526029,Minister of Security,Boris Dmitrievsky,3,Compassionate Gentleman,M526029
-526030,Minister of Security,Mammaduli Dinnei,7,Silent Lawyer,M526030
-526031,Minister of Security,Salim Yevgetorv,7,Man of the People,M526031
-526032,Head of Military Intelligence,Mikhail Dubkov,1,Technical Specialist,M526032
-526033,Head of Military Intelligence,Ibi Dobatkin,3,Dismal Enigma,M526033
-526034,Head of Military Intelligence,Avram Golitsin,3,Logistics Specialist,M526034
-526035,Head of Military Intelligence,Hamza Dobrynin,7,Logistics Specialist,M526035
 526036,Head of Military Intelligence,Felix Dorozhinsky,7,Dismal Enigma,M526036
-526037,Chief of Staff,Furkat Drachenk,3,School of Mass Combat,M526037
-526038,Chief of Staff,Babur Ipatiev,7,School of Manoeuvre,M526038
-526039,Chief of Army,Nikolay Ghukov,3,Static Defence Doctrine,M526039
+526035,Head of Military Intelligence,Hamza Dobrynin,7,Logistics Specialist,M526035
+526030,Minister of Security,Mammaduli Dinnei,7,Silent Lawyer,M526030
 526040,Chief of Army,Nazhe Dudin,7,Elastic Defence Doctrine,M526040
-526041,Chief of Navy,Osman Dema,3,Indirect Approach Doctrine,M526041
+526018,Foreign Minister,Nikolay Chichagov,7,Apologetic Clerk,M526018
 526042,Chief of Navy,Salim Ibadinov,7,Open Seas Doctrine,M526042
-526043,Chief of Air Force,Gennadij Gvornikov,3,Vertical Envelopment Doctrine,M526043
-526044,Chief of Air Force,Babur Ipatiev,7,Air Superiority Doctrine,M526038
+526031,Minister of Security,Salim Yevgetorv,7,Man of the People,M526031

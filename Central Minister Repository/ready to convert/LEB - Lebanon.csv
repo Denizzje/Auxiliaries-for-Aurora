@@ -1,63 +1,63 @@
 LEB,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-529002,Head of Government,Ayoub Thabet,4,Old General,M529002
 529003,Foreign Minister,Abdallah Aref al-Yafi,4,General Staffer,M529003
-529004,Minister of Armament,Alfred Nacchache,4,Air to Ground Proponent,M529004
-529005,Minister of Security,Khaled Chehab,4,Prince of Terror,M529005
-529006,Head of Military Intelligence,Kayreddin al-Ahdab,4,Technical Specialist,M529006
-529007,Chief of Staff,Adrien Peltier,4,School of Manoeuvre,M529007
-529008,Chief of Army,Alfred Cazaud,4,Decisive Battle Doctrine,M529008
-529009,Chief of Navy,Achille Peretti,4,Power Projection Doctrine,M529009
-529015,Head of Government,Kayreddin al-Ahdab,4,Naive Optimist,M529006
-529016,Head of Government,Khaled Chehab,5,Political Protege,M529005
-529017,Head of Government,Abdallah Aref al-Yafi,5,Old Admiral,M529003
-529018,Head of Government,Abdullah Bayum,4,Silent Workhorse,M529018
-529019,Head of Government,Alfred Nacchache,4,Ambitious Union Boss,M529004
-529020,Head of Government,Ahmed Daoud,4,Corporate Suit,M529020
-529021,Head of Government,Sami as-Solh,4,Happy Amateur,M529021
-529022,Head of Government,Petro Trad,4,Smiling Oilman,M529022
-529023,Head of Government,Riad as-Solh,6,Silent Workhorse,M529023
-529024,Head of Government,Abdul Hamid Karami,6,Flamboyant Tough Guy,M529024
-529025,Head of Government,Sami as-Solh,6,Corporate Suit,M529021
-529026,Head of Government,Saader al-Munla,6,Naive Optimist,M529012
-529027,Head of Government,Riad as-Solh,6,Backroom Backstabber,M529023
-529028,Head of Government,Habib Basha el-Saed,7,Political Protege,M529028
 529029,Foreign Minister,Abdelkrim al-Khattabi,4,The Cloak N Dagger Schemer,M529029
-529030,Foreign Minister,Sami as-Solh,4,Ideological Crusader,M529021
-529031,Foreign Minister,Abdullah Bayum,6,Apologetic Clerk,M529018
-529033,Foreign Minister,Majid Arslane,6,The Cloak N Dagger Schemer,M529033
-529034,Foreign Minister,Emile Eddeh,7,Ideological Crusader,M529001
-529035,Minister of Armament,Riad as-Solh,4,Administrative Genius,M529023
-529036,Minister of Armament,Rayan Kadi,4,Tank Proponent,M529036
-529037,Minister of Armament,Khaled Chehab,6,Corrupt Kleptocrat,M529005
-529038,Minister of Armament,Ahmed Daoud,6,Infantry Proponent,M529020
-529039,Minister of Armament,Nassim Majdalany,6,Resource Industrialist,M529039
-529040,Minister of Armament,Kayreddin al-Ahdab,7,laissez-faire capitalist,M529006
 529041,Minister of Security,Abdul Hamid Karami,4,Man of the People,M529024
-529042,Minister of Security,Nassim Majdalany,4,Compassionate Gentleman,M529039
-529043,Minister of Security,Kayreddin al-Ahdab,6,Crime Fighter,M529006
-529044,Minister of Security,Kamal Jumblatt,6,Back Stabber,M529044
-529045,Minister of Security,Slimane Naoufai,6,Efficient Sociopath,M529045
-529046,Minister of Security,Ayoub Thabet,7,Compassionate Gentleman,M529002
+529018,Head of Government,Abdullah Bayum,4,Silent Workhorse,M529018
+529009,Chief of Navy,Achille Peretti,4,Power Projection Doctrine,M529009
+529007,Chief of Staff,Adrien Peltier,4,School of Manoeuvre,M529007
+529020,Head of Government,Ahmed Daoud,4,Corporate Suit,M529020
+529008,Chief of Army,Alfred Cazaud,4,Decisive Battle Doctrine,M529008
+529019,Head of Government,Alfred Nacchache,4,Ambitious Union Boss,M529004
+529004,Minister of Armament,Alfred Nacchache,4,Air to Ground Proponent,M529004
+529052,Chief of Staff,Antoine Harb,4,School of Mass Combat,M529052
+529002,Head of Government,Ayoub Thabet,4,Old General,M529002
 529047,Head of Military Intelligence,Batriark al-Amoushi,4,Dismal Enigma,M529047
 529048,Head of Military Intelligence,Fadi Ibrahim,4,Political Specialist,M529048
-529049,Head of Military Intelligence,Ayoub Thabet,6,Industrial Specialist,M529002
-529050,Head of Military Intelligence,Slimane Naoufai,6,Logistics Specialist,M529045
-529051,Head of Military Intelligence,Saader al-Munla,7,Dismal Enigma,M529012
-529052,Chief of Staff,Antoine Harb,4,School of Mass Combat,M529052
-529053,Chief of Staff,Iskander Ghanem,6,School of Defence,M529053
-529054,Chief of Staff,Nicolas Rouminatzoff,7,School of Psychology,M529054
 529055,Chief of Army,Jamil Lahoud,4,Armoured Spearhead Doctrine,M529055
-529056,Chief of Army,Fouad Chehab,6,Guns and Butter Doctrine,M529056
-529057,Chief of Army,Rashrash Azzam,7,Elastic Defence Doctrine,M529057
-529059,Chief of Navy,Nabil Jad,6,Open Seas Doctrine,M529059
-529060,Chief of Navy,Abdallah Aref al-Yafi,7,Decisive Naval Battle Doctrine,M529003
+529015,Head of Government,Kayreddin al-Ahdab,4,Naive Optimist,M529006
+529006,Head of Military Intelligence,Kayreddin al-Ahdab,4,Technical Specialist,M529006
+529005,Minister of Security,Khaled Chehab,4,Prince of Terror,M529005
+529042,Minister of Security,Nassim Majdalany,4,Compassionate Gentleman,M529039
+529022,Head of Government,Petro Trad,4,Smiling Oilman,M529022
+529036,Minister of Armament,Rayan Kadi,4,Tank Proponent,M529036
+529035,Minister of Armament,Riad as-Solh,4,Administrative Genius,M529023
+529030,Foreign Minister,Sami as-Solh,4,Ideological Crusader,M529021
+529021,Head of Government,Sami as-Solh,4,Happy Amateur,M529021
 529061,Chief of Air Force,Slimane Naoufai,4,Air Superiority Doctrine,M529045
-529063,Chief of Air Force,Petro Trad,7,Army Aviation Doctrine,M529022
+529017,Head of Government,Abdallah Aref al-Yafi,5,Old Admiral,M529003
+529016,Head of Government,Khaled Chehab,5,Political Protege,M529005
+529073,Head of Government,Saeb Sallam,5,Naive Optimist,M529073
+529024,Head of Government,Abdul Hamid Karami,6,Flamboyant Tough Guy,M529024
+529031,Foreign Minister,Abdullah Bayum,6,Apologetic Clerk,M529018
+529038,Minister of Armament,Ahmed Daoud,6,Infantry Proponent,M529020
+529049,Head of Military Intelligence,Ayoub Thabet,6,Industrial Specialist,M529002
+529056,Chief of Army,Fouad Chehab,6,Guns and Butter Doctrine,M529056
+529074,Foreign Minister,Fouad Chehab,6,General Staffer,M529056
+529071,Head of Government,Hassan al-Oweini,6,Happy Amateur,M529071
+529053,Chief of Staff,Iskander Ghanem,6,School of Defence,M529053
+529044,Minister of Security,Kamal Jumblatt,6,Back Stabber,M529044
+529043,Minister of Security,Kayreddin al-Ahdab,6,Crime Fighter,M529006
+529037,Minister of Armament,Khaled Chehab,6,Corrupt Kleptocrat,M529005
+529033,Foreign Minister,Majid Arslane,6,The Cloak N Dagger Schemer,M529033
+529059,Chief of Navy,Nabil Jad,6,Open Seas Doctrine,M529059
+529039,Minister of Armament,Nassim Majdalany,6,Resource Industrialist,M529039
+529072,Head of Government,Nazim al-Akkari,6,Smiling Oilman,M529072
+529023,Head of Government,Riad as-Solh,6,Silent Workhorse,M529023
+529027,Head of Government,Riad as-Solh,6,Backroom Backstabber,M529023
+529026,Head of Government,Saader al-Munla,6,Naive Optimist,M529012
+529025,Head of Government,Sami as-Solh,6,Corporate Suit,M529021
+529050,Head of Military Intelligence,Slimane Naoufai,6,Logistics Specialist,M529045
+529045,Minister of Security,Slimane Naoufai,6,Efficient Sociopath,M529045
+529060,Chief of Navy,Abdallah Aref al-Yafi,7,Decisive Naval Battle Doctrine,M529003
+529069,Head of Military Intelligence,Ahmad al-Husayni,7,Dismal Enigma,M529069
+529046,Minister of Security,Ayoub Thabet,7,Compassionate Gentleman,M529002
+529034,Foreign Minister,Emile Eddeh,7,Ideological Crusader,M529001
+529028,Head of Government,Habib Basha el-Saed,7,Political Protege,M529028
 529067,Foreign Minister,Hamid Faranjiyya,7,Iron Fisted Brute,M529067
 529068,Minister of Armament,Kamil Sham'un,7,laissez-faire capitalist,M529068
-529069,Head of Military Intelligence,Ahmad al-Husayni,7,Dismal Enigma,M529069
-529071,Head of Government,Hassan al-Oweini,6,Happy Amateur,M529071
-529072,Head of Government,Nazim al-Akkari,6,Smiling Oilman,M529072
-529073,Head of Government,Saeb Sallam,5,Naive Optimist,M529073
-529074,Foreign Minister,Fouad Chehab,6,General Staffer,M529056
+529040,Minister of Armament,Kayreddin al-Ahdab,7,laissez-faire capitalist,M529006
+529054,Chief of Staff,Nicolas Rouminatzoff,7,School of Psychology,M529054
+529063,Chief of Air Force,Petro Trad,7,Army Aviation Doctrine,M529022
+529057,Chief of Army,Rashrash Azzam,7,Elastic Defence Doctrine,M529057
+529051,Head of Military Intelligence,Saader al-Munla,7,Dismal Enigma,M529012
