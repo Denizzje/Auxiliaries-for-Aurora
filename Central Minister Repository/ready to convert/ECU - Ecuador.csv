@@ -1,0 +1,151 @@
+ECU,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+40067,Foreign Minister,Enrique Gil Gilbert,2,Great Compromiser,M40023
+40050,Head of Government,Enrique Gil Gilbert,2,Political Protege,M40023
+40032,Head of State,Enrique Gil Gilbert,2,Autocratic Charmer,M40023
+40150,Chief of Navy,Gustavo Becerra Páz,2,Base Control Doctrine,M40021
+40071,Foreign Minister,Gustavo Becerra Páz,2,Ideological Crusader,M40021
+40049,Head of Government,Gustavo Becerra Páz,2,Ambitious Union Boss,M40021
+40113,Head of Military Intelligence,Gustavo Becerra Páz,2,Technical Specialist,M40021
+40031,Head of State,Gustavo Becerra Páz,2,Insignificant Layman,M40021
+40158,Chief of Air Force,Juan Bayardo Tobar,2,Carpet Bombing Doctrine,M40030
+40114,Head of Military Intelligence,Nicolas Delgado,2,Naval Intelligence Specialist,M40024
+40100,Minister of Security,Carlos Guevara,3,Man of the People,M40100
+40140,Chief of Army,Carlos Hidalgo Garcia,3,Armoured Spearhead Doctrine,M40140
+40115,Head of Military Intelligence,Carlos Mancheno Cajas,3,Dismal Enigma,M40048
+40175,Foreign Minister,Francisco Guarderas Pérez,3,Great Compromiser,M40079
+40151,Chief of Navy,Jorge Escobedo Duarte,3,Open Seas Doctrine,M40151
+40068,Foreign Minister,José María Velasco Ibarra,3,Apologetic Clerk,M40068
+40051,Head of Government,José María Velasco Ibarra,3,Ambitious Union Boss,M40033
+40033,Head of State,José María Velasco Ibarra,3,Benevolent Gentleman,M40033
+40084,Minister of Armament,José María Velasco Ibarra,3,Infantry Proponent,M40068
+40102,Minister of Security,José María Velasco Ibarra,3,Back Stabber,M40068
+40070,Foreign Minister,Juan Vicente Trujillo,3,The Cloak N Dagger Schemer,M40070
+40101,Minister of Security,Juan Vicente Trujillo,3,Efficient Sociopath,M40070
+40127,Chief of Staff,Julio Salém Gallegos,3,School of Fire Support,M40047
+40065,Head of Government,Julio Salém Gallegos,3,Old General,M40047
+40047,Head of State,Julio Salém Gallegos,3,Resigned Generalissimo,M40047
+40087,Minister of Armament,Nicolas Delgado,3,Tank Proponent,M40024
+40139,Chief of Army,Ramon Baquerizo Davila,3,Static Defence Doctrine,M40139
+40003,Foreign Minister,Alberto Larrea Chiriboaga,4,Apologetic Clerk,M40003
+40116,Head of Military Intelligence,Alberto Larrea Chiriboaga,4,Logistics Specialist,M40003
+40103,Minister of Security,Alberto Montalvo Pérez,4,Back Stabber,M40103
+40054,Head of Government,Andrés de Córdova Nieto,4,Happy Amateur,M40036
+40036,Head of State,Andrés de Córdova Nieto,4,Weary Stiffneck,M40036
+40118,Head of Military Intelligence,Antonio de Quevado,4,Technical Specialist,M40118
+40075,Foreign Minister,Antonio Pons Campuzano,4,The Cloak N Dagger Schemer,M40037
+40055,Head of Government,Antonio Pons Campuzano,4,Naive Optimist,M40037
+40037,Head of State,Antonio Pons Campuzano,4,Autocratic Charmer,M40037
+40089,Minister of Armament,Antonio Pons Campuzano,4,Corrupt Kleptocrat,M40037
+40053,Head of Government,Aurelio Mosquera Narváez,4,Backroom Backstabber,M40006
+40006,Head of Military Intelligence,Aurelio Mosquera Narváez,4,Logistics Specialist,M40006
+40035,Head of State,Aurelio Mosquera Narváez,4,Die-hard Reformer,M40006
+40088,Minister of Armament,Aurelio Mosquera Narváez,4,Battle Fleet Proponent,M40006
+40007,Chief of Staff,Benigno Andrade Flores,4,School of Defence,M40007
+40169,Head of Government,Carlos Arroyo del Río,4,Flamboyant Tough Guy,M40040
+40168,Head of State,Carlos Arroyo del Río,4,Powerhungry Demagogue,M40040
+40097,Minister of Armament,Carlos Arroyo del Río,4,Air to Ground Proponent,M40040
+40189,Head of Government,Carlos Julio Arosemena Monroy,4,Silent Workhorse,ECU_carlos_julio_arosemena_monroy
+40188,Head of State,Carlos Julio Arosemena Monroy,4,Pig-headed Isolationist,ECU_carlos_julio_arosemena_monroy
+40010,Chief of Air Force,Cosme Renella Barbatto,4,Army Aviation Doctrine,M40010
+40117,Head of Military Intelligence,Davide Flores,4,Industrial Specialist,M40005
+40005,Minister of Security,Davide Flores,4,Crime Fighter,M40005
+40004,Minister of Armament,Fabian Del Castello,4,laissez-faire capitalist,M40004
+40002,Head of Government,Federico Páez Chiriboaga,4,Flamboyant Tough Guy,M40001
+40001,Head of State,Federico Páez Chiriboaga,4,Stern Imperialist,M40001
+40090,Minister of Armament,Federico Páez Chiriboaga,4,Air to Sea Proponent,M40001
+40104,Minister of Security,Gustavo Las Salas,4,Crime Fighter,M40104
+40153,Chief of Navy,Hugo Endara Peñaherrera,4,Indirect Approach Doctrine,M40019
+40072,Foreign Minister,José Benitez Aparacio,4,Iron Fisted Brute,M40072
+40009,Chief of Navy,Juan Ramon Castro,4,Open Seas Doctrine,M40009
+40171,Head of Government,Mariano Suárez Veintimilla,4,Happy Amateur,M40168
+40074,Foreign Minister,Miquel Andramonte,4,Apologetic Clerk,M40074
+40091,Minister of Armament,Miquel Andramonte,4,Air Superiority Proponent,M40074
+40130,Chief of Staff,Ramon Baquerizo Davila,4,School of Fire Support,M40119
+40119,Head of Military Intelligence,Ramon Baquerizo Davila,4,Dismal Enigma,M40119
+40165,Chief of Army,Uriarte Fanquil del Ponte,4,Elastic Defence Doctrine,M40142
+40181,Head of Government,Alfredo Baquerizo Moreno,5,Silent Workhorse,ECU_alfredo_baquerizo_moreno
+40180,Head of State,Alfredo Baquerizo Moreno,5,Die-hard Reformer,ECU_alfredo_baquerizo_moreno
+40177,Head of Government,Galo Plaza Lasso,5,Silent Workhorse,M40094
+40176,Head of State,Galo Plaza Lasso,5,Insignificant Layman,M40094
+40094,Minister of Armament,Galo Plaza Lasso,5,Resource Industrialist,M40094
+40008,Chief of Army,Alberto Enríquez Gallo,6,Decisive Battle Doctrine,M40008
+40129,Chief of Staff,Alberto Enríquez Gallo,6,School of Manoeuvre,M40008
+40183,Head of Government,Alberto Enríquez Gallo,6,Happy Amateur,M40008
+40182,Head of State,Alberto Enríquez Gallo,6,Weary Stiffneck,M40008
+40105,Minister of Security,Antonio Pons Machado,6,Silent Lawyer,M40105
+40069,Foreign Minister,Camillo Ponce Enríquez,6,Iron Fisted Brute,M40034
+40052,Head of Government,Camillo Ponce Enríquez,6,Corporate Suit,M40034
+40034,Head of State,Camillo Ponce Enríquez,6,Popular Figurehead,M40034
+40112,Minister of Security,Camillo Ponce Enríquez,6,Crooked Kleptocrat,M40034
+40056,Head of Government,Carlos Arosemena Tola,6,old airmarshal,M40038
+40038,Head of State,Carlos Arosemena Tola,6,Resigned Generalissimo,M40038
+40086,Minister of Armament,Carlos Arosemena Tola,6,laissez-faire capitalist,M40038
+40106,Minister of Security,Carlos Arosemena Tola,6,Compassionate Gentleman,M40038
+40133,Chief of Staff,Carlos M. Larrea,6,School of Fire Support,M40042
+40060,Head of Government,Carlos M. Larrea,6,Naive Optimist,M40042
+40120,Head of Military Intelligence,Carlos M. Larrea,6,Naval Intelligence Specialist,M40042
+40042,Head of State,Carlos M. Larrea,6,Insignificant Layman,M40042
+40185,Head of Government,Clemente Yerovi Indaburu,6,flamboyant tough guy,ECU_clemente_yerovi_indaburu
+40184,Head of State,Clemente Yerovi Indaburu,6,Popular Figurehead,ECU_clemente_yerovi_indaburu
+40092,Minister of Armament,Fabian Del Castello,6,laissez-faire capitalist,M40004
+40079,Foreign Minister,Francisco Guarderas Pérez,6,Ideological Crusader,M40079
+40122,Head of Military Intelligence,Francisco Guarderas Pérez,6,Political Specialist,M40079
+40059,Head of Government,Isidro Ayora Cueva,6,Political Protege,M40041
+40041,Head of State,Isidro Ayora Cueva,6,Barking Buffoon,M40041
+40096,Minister of Armament,Isidro Ayora Cueva,6,Submarine Proponent,M40041
+40108,Minister of Security,Isidro Ayora Cueva,6,Prince of Terror,M40041
+40131,Chief of Staff,Juan de Diaz Mera,6,School of Psychology,M40015
+40080,Foreign Minister,Juan de Diaz Mera,6,The Cloak N Dagger Schemer,M40015
+40057,Head of Government,Juan de Diaz Mera,6,Corporate Suit,M40015
+40039,Head of State,Juan de Diaz Mera,6,Popular Figurehead,M40015
+40093,Minister of Armament,Juan de Diaz Mera,6,Corrupt Kleptocrat,M40015
+40109,Minister of Security,Juan de Diaz Mera,6,Crooked Kleptocrat,M40015
+40095,Minister of Armament,Julio Moreno Peñaherrera,6,Theoretical Scientist,M40045
+40162,Chief of Air Force,Julio Salém Gallegos,6,Air Superiority Doctrine,M40047
+40174,Foreign Minister,Julio Topar Donoso,6,General Staffer,M40082
+40126,Chief of Staff,Luis Larrea Alba,6,School of Psychology,M40027
+40187,Head of Government,Luis Larrea Alba,6,Old General,M40027
+40186,Head of State,Luis Larrea Alba,6,Resigned Generalissimo,M40027
+40170,Head of State,Mariano Suárez Veintimilla,6,Benevolent Gentleman,M40168
+40138,Chief of Army,Neptalí Bonifaz Ascásubi,6,Guns and Butter Doctrine,M40028
+40179,Head of Government,Neptalí Bonifaz Ascásubi,6,Naive Optimist,M40028
+40178,Head of State,Neptalí Bonifaz Ascásubi,6,Die-hard Reformer,M40028
+40085,Minister of Armament,Neptalí Bonifaz Ascásubi,6,Administrative Genius,M40028
+40077,Foreign Minister,Rafael Vascoñez,6,Iron Fisted Brute,M40077
+40121,Head of Military Intelligence,Rafael Vascoñez,6,Technical Specialist,M40077
+40107,Minister of Security,Rafael Vascoñez,6,Crime Fighter,M40077
+40155,Chief of Navy,Ramon Moran Valverde,6,Base Control Doctrine,M40155
+40078,Foreign Minister,Riccardo Orespo Ordoñez,6,Great Compromiser,M40078
+40143,Chief of Army,Rodolfo Larrea Alba,6,Static Defence Doctrine,M40027
+40191,Head of Government,Sixto Durán Ballén,6,Corporate Suit,ECU_sixto_ballen
+40190,Head of State,Sixto Durán Ballén,6,Die-hard Reformer,ECU_sixto_ballen
+40172,Foreign Minister,Alberto Larrea Chiriboaga,7,The Cloak N Dagger Schemer,M40003
+40123,Head of Military Intelligence,Aurelio Mosquera Narváez,7,Logistics Specialist,M40006
+40083,Foreign Minister,Benigno Andrade Flores,7,General Staffer,M40007
+40064,Head of Government,Benigno Andrade Flores,7,Old General,M40007
+40046,Head of State,Benigno Andrade Flores,7,Resigned Generalissimo,M40007
+40099,Minister of Armament,Carlos M. Larrea,7,Administrative Genius,M40042
+40137,Chief of Staff,Carlos Mancheno Cajas,7,School of Fire Support,M40048
+40066,Head of Government,Carlos Mancheno Cajas,7,Smiling Oilman,M40048
+40125,Head of Military Intelligence,Carlos Mancheno Cajas,7,Dismal Enigma,M40048
+40048,Head of State,Carlos Mancheno Cajas,7,Pig-headed Isolationist,M40048
+40061,Head of Government,Gilberto Enríquez Gallo,7,Old General,M40008
+40043,Head of State,Gilberto Enríquez Gallo,7,Resigned Generalissimo,M40008
+40136,Chief of Staff,Guillermo Freire Posso,7,School of Mass Combat,M40016
+40124,Head of Military Intelligence,Guillermo Freire Posso,7,Industrial Specialist,M40016
+40098,Minister of Armament,Gustave Uriarte,7,Corrupt Kleptocrat,M40014
+40156,Chief of Navy,Hugo Endara Peñaherrera,7,Indirect Approach Doctrine,M40019
+40135,Chief of Staff,Hugo Endara Peñaherrera,7,School of Manoeuvre,M40019
+40157,Chief of Navy,Jorge Escobedo Duarte,7,Open Seas Doctrine,M40151
+40015,Minister of Security,Juan de Diaz Mera,7,Crooked Kleptocrat,M40015
+40149,Chief of Army,Juan Pablo Martinez Iguarte,7,Elastic Defence Doctrine,M40149
+40063,Head of Government,Julio Moreno Peñaherrera,7,Old Admiral,M40045
+40045,Head of State,Julio Moreno Peñaherrera,7,Autocratic Charmer,M40045
+40111,Minister of Security,Julio Moreno Peñaherrera,7,Man of the People,M40045
+40081,Foreign Minister,Luis Bossano,7,Ideological Crusader,M40081
+40148,Chief of Army,Luis Cabrera Sevilla,7,Armoured Spearhead Doctrine,M40018
+40062,Head of Government,Manuel Borrero Gonzalez,7,Political Protege,M40044
+40044,Head of State,Manuel Borrero Gonzalez,7,Stern Imperialist,M40044
+40110,Minister of Security,Manuel Borrero Gonzalez,7,Compassionate Gentleman,M40044
+40163,Chief of Air Force,Ramon Castro Jíjon,7,Air Superiority Doctrine,M40020

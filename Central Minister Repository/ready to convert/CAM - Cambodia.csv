@@ -1,49 +1,49 @@
 CMB,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-541003,Foreign Minister,Sisowath Monipong,4,Great Compromiser,M541003
-541004,Minister of Armament,Sisowath Monireth,4,Infantry Proponent,M541004
-541005,Minister of Security,Sisowath Youtevong,4,Silent Lawyer,M541005
-541006,Head of Military Intelligence,Son Ngoc Thanh,4,Industrial Specialist,M541006
-541016,Head of Government,Son Ngoc Thanh,4,Ambitious Union Boss,M541006
-541017,Head of Government,Sisowath Monireth,4,Political Protege,M541004
-541018,Head of Government,Sisowath Youtevong,4,Naive Optimist,M541005
-541019,Head of Government,Sisowath Watchayavong,4,Corporate Suit,M541019
-541020,Head of Government,Son Sann,6,Silent Workhorse,M541020
-541021,Head of Government,Sisowath Sirik Matak,7,Happy Amateur,M541021
 541022,Head of Government,Khieu Samphan,0,Smiling Oilman,M541022
-541023,Foreign Minister,Sisowath Monirak,4,Iron Fisted Brute,M541023
-541024,Foreign Minister,Leonel de Moustier,6,Apologetic Clerk,M541024
-541025,Foreign Minister,Phan Sina,6,Ideological Crusader,M541025
-541026,Foreign Minister,Krisan Cheda,7,General Staffer,M541026
-541027,Foreign Minister,Leng Sary,0,The Cloak N Dagger Schemer,M541027
-541029,Minister of Armament,Chai Saing Yun,4,Submarine Proponent,M541029
-541031,Minister of Armament,Sam An,6,Battle Fleet Proponent,M541031
-541032,Minister of Armament,Norodom Phanouvong,7,Tank Proponent,M541032
-541033,Minister of Armament,Nuon Chea,0,Corrupt Kleptocrat,M541033
-541035,Minister of Security,Lon Nol,4,Prince of Terror,M541035
-541036,Minister of Security,Paul Joly,6,Back Stabber,M541036
-541037,Minister of Security,Sakiwat Phirun,7,Crooked Kleptocrat,M541037
-541039,Minister of Security,Pol Pot,0,Efficient Sociopath,M541014
-541040,Head of Military Intelligence,Sisowath Watchayavong,4,Logistics Specialist,M541019
-541041,Head of Military Intelligence,Hy Weng,6,Naval Intelligence Specialist,M541041
-541042,Head of Military Intelligence,Sisowath Youtevong,7,Technical Specialist,M541005
-541043,Head of Military Intelligence,Tea Banh,0,Dismal Enigma,M541043
-541044,Chief of Staff,Norodom Sihanouk,4,School of Psychology,M541044
-541045,Chief of Staff,Chhun Lim,6,School of Fire Support,M541045
-541046,Chief of Staff,Sisowath Monireth,7,School of Manoeuvre,M541046
 541047,Chief of Staff,Kieng Vang,0,School of Mass Combat,M541047
-541049,Chief of Army,Sisowath Watchayavong,6,Elastic Defence Doctrine,M541049
-541050,Chief of Army,Lon Nol,7,Decisive Battle Doctrine,M541035
-541051,Chief of Army,Son Sen,0,Guns and Butter Doctrine,M541051
-541054,Chief of Navy,Norodom Sihanouk,7,Power Projection Doctrine,M541054
-541055,Chief of Navy,You Hok Kry,0,Base Control Doctrine,M541055
-541058,Chief of Air Force,Norodom Sihanouk,7,Carpet Bombing Doctrine,M541058
+541027,Foreign Minister,Leng Sary,0,The Cloak N Dagger Schemer,M541027
+541033,Minister of Armament,Nuon Chea,0,Corrupt Kleptocrat,M541033
+541039,Minister of Security,Pol Pot,0,Efficient Sociopath,M541014
 541059,Chief of Air Force,Proum Sokha,0,Vertical Envelopment Doctrine,M541059
+541051,Chief of Army,Son Sen,0,Guns and Butter Doctrine,M541051
+541043,Head of Military Intelligence,Tea Banh,0,Dismal Enigma,M541043
+541055,Chief of Navy,You Hok Kry,0,Base Control Doctrine,M541055
+541029,Minister of Armament,Chai Saing Yun,4,Submarine Proponent,M541029
 541060,Head of Government,Chhean Vam,4,Naive Optimist,M541060
-541061,Head of Government,Samdech Penn Nouth,4,Silent Workhorse,M541061
-541062,Head of Government,Yem Sambaur,4,Political Protege,M541062
-541063,Head of Government,Sisowath Monipong,4,Old General,M541003
-541064,Head of Government,Oum Chheang Sun,4,Happy Amateur,M541064
-541065,Head of Government,Huy Kanthoul,4,Ambitious Union Boss,M541065
 541066,Head of Government,H.R.M. Norodom Sihanouk,4,Backroom Backstabber,M541011
+541065,Head of Government,Huy Kanthoul,4,Ambitious Union Boss,M541065
+541035,Minister of Security,Lon Nol,4,Prince of Terror,M541035
+541044,Chief of Staff,Norodom Sihanouk,4,School of Psychology,M541044
+541064,Head of Government,Oum Chheang Sun,4,Happy Amateur,M541064
+541061,Head of Government,Samdech Penn Nouth,4,Silent Workhorse,M541061
+541003,Foreign Minister,Sisowath Monipong,4,Great Compromiser,M541003
+541063,Head of Government,Sisowath Monipong,4,Old General,M541003
+541023,Foreign Minister,Sisowath Monirak,4,Iron Fisted Brute,M541023
+541017,Head of Government,Sisowath Monireth,4,Political Protege,M541004
+541004,Minister of Armament,Sisowath Monireth,4,Infantry Proponent,M541004
+541019,Head of Government,Sisowath Watchayavong,4,Corporate Suit,M541019
+541040,Head of Military Intelligence,Sisowath Watchayavong,4,Logistics Specialist,M541019
+541018,Head of Government,Sisowath Youtevong,4,Naive Optimist,M541005
+541005,Minister of Security,Sisowath Youtevong,4,Silent Lawyer,M541005
 541067,Foreign Minister,Son Ngoc Thanh,4,Great Compromiser,M541067
+541016,Head of Government,Son Ngoc Thanh,4,Ambitious Union Boss,M541006
+541006,Head of Military Intelligence,Son Ngoc Thanh,4,Industrial Specialist,M541006
+541062,Head of Government,Yem Sambaur,4,Political Protege,M541062
+541045,Chief of Staff,Chhun Lim,6,School of Fire Support,M541045
+541041,Head of Military Intelligence,Hy Weng,6,Naval Intelligence Specialist,M541041
+541024,Foreign Minister,Leonel de Moustier,6,Apologetic Clerk,M541024
+541036,Minister of Security,Paul Joly,6,Back Stabber,M541036
+541025,Foreign Minister,Phan Sina,6,Ideological Crusader,M541025
+541031,Minister of Armament,Sam An,6,Battle Fleet Proponent,M541031
+541049,Chief of Army,Sisowath Watchayavong,6,Elastic Defence Doctrine,M541049
+541020,Head of Government,Son Sann,6,Silent Workhorse,M541020
+541026,Foreign Minister,Krisan Cheda,7,General Staffer,M541026
+541050,Chief of Army,Lon Nol,7,Decisive Battle Doctrine,M541035
+541032,Minister of Armament,Norodom Phanouvong,7,Tank Proponent,M541032
+541058,Chief of Air Force,Norodom Sihanouk,7,Carpet Bombing Doctrine,M541058
+541054,Chief of Navy,Norodom Sihanouk,7,Power Projection Doctrine,M541054
+541037,Minister of Security,Sakiwat Phirun,7,Crooked Kleptocrat,M541037
+541046,Chief of Staff,Sisowath Monireth,7,School of Manoeuvre,M541046
+541021,Head of Government,Sisowath Sirik Matak,7,Happy Amateur,M541021
+541042,Head of Military Intelligence,Sisowath Youtevong,7,Technical Specialist,M541005

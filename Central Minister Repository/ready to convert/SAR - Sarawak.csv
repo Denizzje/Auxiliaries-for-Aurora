@@ -1,37 +1,37 @@
 SAR,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-566007,Head of Government,Hashim Madani,7,Political Protege,M566012
-566008,Head of Government,Abang Haji Openg,6,Flamboyant Tough Guy,SAR_abang_haji_openg
-566009,Head of Government,Tuanku Bujang Tuanku Othman,5,Naive Optimist,SAR_tuanku_bujang_othman
-566010,Head of Government,Sir Oliver Wilkinson,5,Ambitious Union Boss,M566002
-566011,Head of Government,Ong Kee Hui,3,Corporate Suit,SAR_ong_kee_hui
-566012,Head of Government,Sa Ganapathy,2,Silent Workhorse,SAR_sa_ganapathy
 566013,Head of Government,Lai Tek,1,Backroom Backstabber,SAR_lai_tek
-566014,Foreign Minister,Charles John Piper,7,Iron Fisted Brute,M566004
-566015,Foreign Minister,Jugah anak Barieng,6,General Staffer,SAR_jugah_anak_barieng
-566016,Foreign Minister,Tuanku Bujang Tuanku Othman,5,Biased Intellectual,SAR_tuanku_bujang_othman
-566017,Foreign Minister,Ernest Coniston,5,Great Compromiser,M566003
-566018,Foreign Minister,Sa Ganapathy,2,Ideological Crusader,SAR_sa_ganapathy
-566019,Foreign Minister,Abang Haji Abdillah,2,Great Compromiser,SAR_abang_haji_abdillah
-566021,Minister of Armament,Abang Haji Openg,6,Military Entrepreneur,SAR_abang_haji_openg
-566022,Minister of Armament,Jugah anak Barieng,6,Infantry Proponent,SAR_jugah_anak_barieng
-566023,Minister of Armament,Charles John Piper,5,Administrative Genius,M566004
-566024,Minister of Armament,Ong Kee Hui,3,Laissez-Faire Capitalist,SAR_ong_kee_hui
-566025,Minister of Armament,Sa Ganapathy,2,Resource Industrialist,SAR_sa_ganapathy
-566026,Minister of Security,Daniel Grainger,7,Compassionate Gentleman,M566015
-566027,Minister of Security,Sir Herbert Ruddleston,5,Man of the People,M566005
-566028,Minister of Security,Abang Haji Abdillah,2,Silent Lawyer,SAR_abang_haji_abdillah
-566029,Minister of Security,Lai Tek,1,Back Stabber,SAR_lai_tek
-566030,Head of Military Intelligence,Maurice Hankey,7,Dismal Enigma,M566016
-566031,Head of Military Intelligence,Andrew Brown,5,Political Specialist,M566006
 566032,Head of Military Intelligence,Lai Tek,1,Dismal Enigma,SAR_lai_tek
-566033,Chief of Staff,Tan Sri Hussein,7,School of Psychology,M566017
-566034,Chief of Staff,Jugah anak Barieng,6,School of Mass Combat,SAR_jugah_anak_barieng
-566035,Chief of Staff,Oliver Moffatt,5,School of Manoeuvre,M566007
-566036,Chief of Army,Akhir ul-Zaman,7,Guns and Butter Doctrine,M566018
-566037,Chief of Army,Jugah anak Barieng,6,Static Defence Doctrine,SAR_jugah_anak_barieng
-566038,Chief of Army,Orville Wellesley,5,Decisive Battle Doctrine,M566008
-566039,Chief of Navy,Anwar bin Muhammed,7,Decisive Naval Battle Doctrine,M566019
-566040,Chief of Navy,Richard Evans,5,Open Seas Doctrine,M566009
-566041,Chief of Air Force,Abdullah Ahmed,7,Naval Aviation Doctrine,M566020
+566029,Minister of Security,Lai Tek,1,Back Stabber,SAR_lai_tek
+566019,Foreign Minister,Abang Haji Abdillah,2,Great Compromiser,SAR_abang_haji_abdillah
+566028,Minister of Security,Abang Haji Abdillah,2,Silent Lawyer,SAR_abang_haji_abdillah
+566018,Foreign Minister,Sa Ganapathy,2,Ideological Crusader,SAR_sa_ganapathy
+566012,Head of Government,Sa Ganapathy,2,Silent Workhorse,SAR_sa_ganapathy
+566025,Minister of Armament,Sa Ganapathy,2,Resource Industrialist,SAR_sa_ganapathy
+566011,Head of Government,Ong Kee Hui,3,Corporate Suit,SAR_ong_kee_hui
+566024,Minister of Armament,Ong Kee Hui,3,Laissez-Faire Capitalist,SAR_ong_kee_hui
+566031,Head of Military Intelligence,Andrew Brown,5,Political Specialist,M566006
+566023,Minister of Armament,Charles John Piper,5,Administrative Genius,M566004
+566017,Foreign Minister,Ernest Coniston,5,Great Compromiser,M566003
 566042,Chief of Air Force,John Barrington,5,Carpet Bombing Doctrine,M566010
+566035,Chief of Staff,Oliver Moffatt,5,School of Manoeuvre,M566007
+566038,Chief of Army,Orville Wellesley,5,Decisive Battle Doctrine,M566008
+566040,Chief of Navy,Richard Evans,5,Open Seas Doctrine,M566009
+566027,Minister of Security,Sir Herbert Ruddleston,5,Man of the People,M566005
+566010,Head of Government,Sir Oliver Wilkinson,5,Ambitious Union Boss,M566002
+566016,Foreign Minister,Tuanku Bujang Tuanku Othman,5,Biased Intellectual,SAR_tuanku_bujang_othman
+566009,Head of Government,Tuanku Bujang Tuanku Othman,5,Naive Optimist,SAR_tuanku_bujang_othman
+566008,Head of Government,Abang Haji Openg,6,Flamboyant Tough Guy,SAR_abang_haji_openg
+566021,Minister of Armament,Abang Haji Openg,6,Military Entrepreneur,SAR_abang_haji_openg
+566037,Chief of Army,Jugah anak Barieng,6,Static Defence Doctrine,SAR_jugah_anak_barieng
+566034,Chief of Staff,Jugah anak Barieng,6,School of Mass Combat,SAR_jugah_anak_barieng
+566015,Foreign Minister,Jugah anak Barieng,6,General Staffer,SAR_jugah_anak_barieng
+566022,Minister of Armament,Jugah anak Barieng,6,Infantry Proponent,SAR_jugah_anak_barieng
+566041,Chief of Air Force,Abdullah Ahmed,7,Naval Aviation Doctrine,M566020
+566036,Chief of Army,Akhir ul-Zaman,7,Guns and Butter Doctrine,M566018
+566039,Chief of Navy,Anwar bin Muhammed,7,Decisive Naval Battle Doctrine,M566019
+566014,Foreign Minister,Charles John Piper,7,Iron Fisted Brute,M566004
+566026,Minister of Security,Daniel Grainger,7,Compassionate Gentleman,M566015
+566007,Head of Government,Hashim Madani,7,Political Protege,M566012
+566030,Head of Military Intelligence,Maurice Hankey,7,Dismal Enigma,M566016
+566033,Chief of Staff,Tan Sri Hussein,7,School of Psychology,M566017

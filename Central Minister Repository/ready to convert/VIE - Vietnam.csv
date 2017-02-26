@@ -1,32 +1,32 @@
 VIE,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-542003,Foreign Minister,Tong Doc Phuong,4,The Cloak N Dagger Schemer,M542003
-542004,Minister of Armament,Nguyen Van Tam,4,Resource Industrialist,M542004
-542005,Minister of Security,Ho Dac Trung,4,Man of the People,M542005
-542018,Head of Government,Ngo Dinh Diem,7,Smiling Oilman,M542018
-542019,Head of Government,Truong Tchin,1,Backroom Backstabber,M542019
-542022,Foreign Minister,Ngo Dinh Diem,4,Iron Fisted Brute,M542018
-542023,Foreign Minister,Nguyen Van Xuan,7,Apologetic Clerk,M542023
-542024,Foreign Minister,Pham Van Dong,1,Ideological Crusader,M542024
-542025,Minister of Armament,Nguyen Van Thinh,4,Battle Fleet Proponent,M542025
-542027,Minister of Armament,Le Van Hoac,7,Theoretical Scientist,M542027
-542028,Minister of Armament,Duong Thieu Tuoc,7,Submarine Proponent,M542028
-542029,Minister of Armament,Pham Duy Thon,7,Resource Industrialist,M542029
+542047,Chief of Army,Ho Chi Minh,1,Guns and Butter Doctrine,M542047
 542030,Minister of Armament,Le Duan,1,Military Entrepreneur,M542030
-542032,Minister of Security,Tran Gia Thoai,4,Efficient Sociopath,M542032
-542033,Minister of Security,Ngo Dinh Nhu,7,Prince of Terror,M542033
-542034,Minister of Security,Duong Van Minh,7,Back Stabber,M542034
-542035,Minister of Security,The Lu,1,Silent Lawyer,M542035
-542038,Head of Military Intelligence,Pham Toc Quia,7,Dismal Enigma,M542038
-542039,Head of Military Intelligence,Phan Huy Quat,1,Political Specialist,M542039
 542040,Head of Military Intelligence,Le Thanh,1,Industrial Specialist,M542040
-542041,Chief of Staff,Leonce Jore,4,School of Fire Support,M542021
-542042,Chief of Staff,Le Quan,4,School of Mass Combat,M542042
-542043,Chief of Staff,Nguyen Huu Coo,7,School of Defence,M542043
+542055,Chief of Air Force,Nguyen Huu Tho,1,Air Superiority Doctrine,M542055
+542024,Foreign Minister,Pham Van Dong,1,Ideological Crusader,M542024
+542039,Head of Military Intelligence,Phan Huy Quat,1,Political Specialist,M542039
+542035,Minister of Security,The Lu,1,Silent Lawyer,M542035
+542052,Chief of Navy,Thrang Tun Doc,1,Power Projection Doctrine,M542052
+542019,Head of Government,Truong Tchin,1,Backroom Backstabber,M542019
+542048,Chief of Army,Vo Nguyen Giap,1,Elastic Defence Doctrine,M542048
 542044,Chief of Staff,Vo Nguyen Giap,1,School of Psychology,M542044
 542046,Chief of Army,Duong Van Minh,4,Armoured Spearhead Doctrine,M542046
-542047,Chief of Army,Ho Chi Minh,1,Guns and Butter Doctrine,M542047
-542048,Chief of Army,Vo Nguyen Giap,1,Elastic Defence Doctrine,M542048
+542005,Minister of Security,Ho Dac Trung,4,Man of the People,M542005
+542042,Chief of Staff,Le Quan,4,School of Mass Combat,M542042
+542041,Chief of Staff,Leonce Jore,4,School of Fire Support,M542021
+542022,Foreign Minister,Ngo Dinh Diem,4,Iron Fisted Brute,M542018
+542004,Minister of Armament,Nguyen Van Tam,4,Resource Industrialist,M542004
+542025,Minister of Armament,Nguyen Van Thinh,4,Battle Fleet Proponent,M542025
+542003,Foreign Minister,Tong Doc Phuong,4,The Cloak N Dagger Schemer,M542003
+542032,Minister of Security,Tran Gia Thoai,4,Efficient Sociopath,M542032
+542028,Minister of Armament,Duong Thieu Tuoc,7,Submarine Proponent,M542028
+542034,Minister of Security,Duong Van Minh,7,Back Stabber,M542034
 542051,Chief of Navy,Ho Tan Quyen,7,Indirect Approach Doctrine,M542051
-542052,Chief of Navy,Thrang Tun Doc,1,Power Projection Doctrine,M542052
-542055,Chief of Air Force,Nguyen Huu Tho,1,Air Superiority Doctrine,M542055
+542027,Minister of Armament,Le Van Hoac,7,Theoretical Scientist,M542027
+542018,Head of Government,Ngo Dinh Diem,7,Smiling Oilman,M542018
+542033,Minister of Security,Ngo Dinh Nhu,7,Prince of Terror,M542033
+542043,Chief of Staff,Nguyen Huu Coo,7,School of Defence,M542043
+542023,Foreign Minister,Nguyen Van Xuan,7,Apologetic Clerk,M542023
+542029,Minister of Armament,Pham Duy Thon,7,Resource Industrialist,M542029
+542038,Head of Military Intelligence,Pham Toc Quia,7,Dismal Enigma,M542038
