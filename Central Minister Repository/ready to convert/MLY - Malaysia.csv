@@ -1,30 +1,30 @@
-MLY;Ruling Cabinet - Start;Name;Ideology;Personality;Picturename
-
-565014;Head of Government;H.H. Ibrahim IV of Kelantan;7;Backroom Backstabber;M565014
-565015;Foreign Minister;Tan Cheng Lock;3;Great Compromiser;M565015
-565016;Foreign Minister;Hamza ul-Lail;7;The Cloak N Dagger Schemer;M565016
-565017;Minister of Armament;Abdul Rahman Shah;3;Military Entrepreneur;M565017
-565019;Minister of Armament;H.R.H. Yahya ul-Naim;7;laissez-faire capitalist;M565019
-565020;Minister of Security;Lim Yew Hock;3;Prince of Terror;M565020
-565022;Minister of Security;Tuanku Muhammed of Negri Sembilan;7;Efficient Sociopath;M565022
-565023;Minister of Security;Abdul Hamid Ahmad;7;Silent Lawyer;M565023
-565024;Head of Military Intelligence;Muhammed Yang Besar;3;Dismal Enigma;M565024
-565025;Head of Military Intelligence;Lee Kuan Yew;3;Industrial Specialist;M565025
-565027;Head of Military Intelligence;Abdul Manap bin Tolok;7;Political Specialist;M565027
-565028;Head of Military Intelligence;Idrus bin Tunka of Tampin;7;Naval Intelligence Specialist;M565028
-565029;Chief of Staff;Abdul Hamid Shah;3;School of Defence;M565029
-565030;Chief of Staff;Tun Abdul Rahman;3;School of Manoeuvre;M565030
-565031;Chief of Staff;Ibrahim al-Mansur;7;School of Mass Combat;M565031
-565032;Chief of Army;Muhib Sultan Badlishah;3;Guns and Butter Doctrine;M565032
-565035;Chief of Army;Harun Putra of Perlis;7;Armoured Spearhead Doctrine;M565035
-565036;Chief of Navy;Mohammed Rahman Ali;3;Base Control Doctrine;M565036
-565037;Chief of Navy;Syed ul-Lail of Perlis;7;Open Seas Doctrine;M565037
-565038;Chief of Air Force;Wan Suleiman;3;Carpet Bombing Doctrine;M565038
-565039;Chief of Air Force;Hisam II of Selangor;7;Naval Aviation Doctrine;M565039
-565040;Chief of Staff;Lau Yew;1;School of Mass Combat;MLY_lau_yew
-565041;Chief of Army;Lau Yew;1;Guns and Butter Doctrine;MLY_lau_yew
-565042;Minister of Security;Ibrahim bin Haji Yaacob;1;Silent Lawyer;MLY_ibrahim_yaacob
-565043;Head of Military Intelligence;Ibrahim bin Haji Yaacob;1;Political Specialist;MLY_ibrahim_yaacob
-565045;Head of Government;Yusof bin Ishak;2;Flamboyant Tough Guy;MLY_yusof_ishak
-565046;Minister of Armament;Aziz bin Ishak;2;Resource Industrialist;MLY_aziz_ishak
-565047;Minister of Security;Ishak Haji Muhammad;2;Crime Fighter;MLY_ishak_haji
+MLY,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+565043,Head of Military Intelligence,Ibrahim bin Haji Yaacob,1,Political Specialist,MLY_ibrahim_yaacob
+565042,Minister of Security,Ibrahim bin Haji Yaacob,1,Silent Lawyer,MLY_ibrahim_yaacob
+565041,Chief of Army,Lau Yew,1,Guns and Butter Doctrine,MLY_lau_yew
+565040,Chief of Staff,Lau Yew,1,School of Mass Combat,MLY_lau_yew
+565046,Minister of Armament,Aziz bin Ishak,2,Resource Industrialist,MLY_aziz_ishak
+565047,Minister of Security,Ishak Haji Muhammad,2,Crime Fighter,MLY_ishak_haji
+565045,Head of Government,Yusof bin Ishak,2,Flamboyant Tough Guy,MLY_yusof_ishak
+565029,Chief of Staff,Abdul Hamid Shah,3,School of Defence,M565029
+565017,Minister of Armament,Abdul Rahman Shah,3,Military Entrepreneur,M565017
+565025,Head of Military Intelligence,Lee Kuan Yew,3,Industrial Specialist,M565025
+565020,Minister of Security,Lim Yew Hock,3,Prince of Terror,M565020
+565036,Chief of Navy,Mohammed Rahman Ali,3,Base Control Doctrine,M565036
+565024,Head of Military Intelligence,Muhammed Yang Besar,3,Dismal Enigma,M565024
+565032,Chief of Army,Muhib Sultan Badlishah,3,Guns and Butter Doctrine,M565032
+565015,Foreign Minister,Tan Cheng Lock,3,Great Compromiser,M565015
+565030,Chief of Staff,Tun Abdul Rahman,3,School of Manoeuvre,M565030
+565038,Chief of Air Force,Wan Suleiman,3,Carpet Bombing Doctrine,M565038
+565023,Minister of Security,Abdul Hamid Ahmad,7,Silent Lawyer,M565023
+565027,Head of Military Intelligence,Abdul Manap bin Tolok,7,Political Specialist,M565027
+565014,Head of Government,H.H. Ibrahim IV of Kelantan,7,Backroom Backstabber,M565014
+565019,Minister of Armament,H.R.H. Yahya ul-Naim,7,laissez-faire capitalist,M565019
+565016,Foreign Minister,Hamza ul-Lail,7,The Cloak N Dagger Schemer,M565016
+565035,Chief of Army,Harun Putra of Perlis,7,Armoured Spearhead Doctrine,M565035
+565039,Chief of Air Force,Hisam II of Selangor,7,Naval Aviation Doctrine,M565039
+565031,Chief of Staff,Ibrahim al-Mansur,7,School of Mass Combat,M565031
+565028,Head of Military Intelligence,Idrus bin Tunka of Tampin,7,Naval Intelligence Specialist,M565028
+565037,Chief of Navy,Syed ul-Lail of Perlis,7,Open Seas Doctrine,M565037
+565022,Minister of Security,Tuanku Muhammed of Negri Sembilan,7,Efficient Sociopath,M565022

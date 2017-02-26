@@ -1,62 +1,62 @@
 INO,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-577002,Head of Government,Tjarda van Starkenborgh-Stachouwer,6,Flamboyant Tough Guy,M577002
-577003,Foreign Minister,Hubertus Van Mook,6,Biased Intellectual,M577003
-577004,Minister of Armament,Muhammad III,6,Air Superiority Proponent,M577004
-577005,Minister of Security,Fedde Schurer,6,Crime Fighter,M8113
-577006,Head of Military Intelligence,Raymond Westerling,6,Naval Intelligence Specialist,M577006
-577007,Chief of Staff,Murk Boerstra,6,School of Manoeuvre,L7802
-577008,Chief of Army,Gerardus Berenschot,6,Static Defence Doctrine,L7801
-577009,Chief of Navy,Conrad Helfrich,6,Base Control Doctrine,L7839
-577010,Chief of Air Force,Ludolph van Oyen,6,Army Aviation Doctrine,L7859
-577014,Head of Government,Muhammad Hatta,7,Political Protege,M577014
-577015,Head of Government,Muhammad Thamrin,3,Smiling Oilman,M577015
+577051,Chief of Navy,Ahmad Alimin,1,Decisive Naval Battle Doctrine,M577051
 577016,Head of Government,Amir Sjarifuddin,1,Naive Optimist,M577016
-577017,Foreign Minister,Ahmad Subandrio,7,Ideological Crusader,M577017
-577018,Foreign Minister,Hamengkubowono IX,7,The Cloak N Dagger Schemer,M577018
-577019,Foreign Minister,Sutan Sjahrir,3,Apologetic Clerk,M577019
-577020,Foreign Minister,Sukarjo Wiryopranato,3,Great Compromiser,M577020
-577021,Foreign Minister,Suryono Suripno,1,Iron Fisted Brute,M577021
-577022,Minister of Armament,Sjarifudin Prawiranegara,7,Air to Sea Proponent,M577022
-577023,Minister of Armament,Dodechismo Djuanda,7,Tank Proponent,M577023
-577024,Minister of Armament,Haji Agus Salim,7,Administrative Genius,M577024
-577025,Minister of Armament,Hamengkubuwono VIII,6,Air Superiority Proponent,M577025
-577026,Minister of Armament,Danudirjia Setiabudi,3,Infantry Proponent,M577026
-577027,Minister of Armament,Lukman Dan Sardjono,1,Military Entrepreneur,M577027
-577028,Minister of Security,D.W. Cokroaminoto,7,Prince of Terror,M577028
-577029,Minister of Security,Ngabehi van Jogakarta,6,Man of the People,M577029
-577030,Minister of Security,Arie Frederick Lasut,3,Back Stabber,M577030
-577031,Minister of Security,Adam Malik,3,Compassionate Gentleman,M577031
-577032,Minister of Security,S.M. Kartosuwirjo,1,Efficient Sociopath,M577032
 577033,Minister of Security,D.N. Aidit,1,Silent Lawyer,M577033
-577034,Head of Military Intelligence,Sudirman,7,Logistics Specialist,M577034
-577035,Head of Military Intelligence,Cipto Mangunkusomo,7,Technical Specialist,M577035
-577036,Head of Military Intelligence,Mohammed Yamin,3,Industrial Specialist,M577036
+577055,Chief of Air Force,I.M. Najoan,1,Carpet Bombing Doctrine,M577055
+577027,Minister of Armament,Lukman Dan Sardjono,1,Military Entrepreneur,M577027
+577032,Minister of Security,S.M. Kartosuwirjo,1,Efficient Sociopath,M577032
+577021,Foreign Minister,Suryono Suripno,1,Iron Fisted Brute,M577021
 577037,Head of Military Intelligence,T.N. Supratman,1,Political Specialist,M577037
-577038,Chief of Staff,Sudirman,7,School of Mass Combat,M577034
-577039,Chief of Staff,Gerardus Berenschot,6,School of Defence,L7801
-577040,Chief of Staff,Hein Ter Poorten,6,School of Fire Support,L7819
-577041,Chief of Staff,Hamid II,3,School of Psychology,M577041
 577042,Chief of Staff,Tan Malaka,1,School of Mass Combat,M577042
-577043,Chief of Army,Abdul Harris Nasution,7,Decisive Battle Doctrine,M577043
+577048,Chief of Army,Tan Malaka,2,Decisive Battle Doctrine,M577042
+577031,Minister of Security,Adam Malik,3,Compassionate Gentleman,M577031
+577030,Minister of Security,Arie Frederick Lasut,3,Back Stabber,M577030
+577026,Minister of Armament,Danudirjia Setiabudi,3,Infantry Proponent,M577026
+577041,Chief of Staff,Hamid II,3,School of Psychology,M577041
+577036,Head of Military Intelligence,Mohammed Yamin,3,Industrial Specialist,M577036
+577015,Head of Government,Muhammad Thamrin,3,Smiling Oilman,M577015
+577054,Chief of Air Force,R.M. Suryo,3,Vertical Envelopment Doctrine,M577054
+577020,Foreign Minister,Sukarjo Wiryopranato,3,Great Compromiser,M577020
+577019,Foreign Minister,Sutan Sjahrir,3,Apologetic Clerk,M577019
+577047,Chief of Army,Uyrip Sumoharjo,3,Guns and Butter Doctrine,M577047
+577050,Chief of Navy,We Yohannes,3,Indirect Approach Doctrine,M577050
+577009,Chief of Navy,Conrad Helfrich,6,Base Control Doctrine,L7839
+577005,Minister of Security,Fedde Schurer,6,Crime Fighter,M8113
+577008,Chief of Army,Gerardus Berenschot,6,Static Defence Doctrine,L7801
+577039,Chief of Staff,Gerardus Berenschot,6,School of Defence,L7801
+577025,Minister of Armament,Hamengkubuwono VIII,6,Air Superiority Proponent,M577025
 577044,Chief of Army,Hein Ter Poorten,6,Elastic Defence Doctrine,L7819
+577040,Chief of Staff,Hein Ter Poorten,6,School of Fire Support,L7819
+577003,Foreign Minister,Hubertus Van Mook,6,Biased Intellectual,M577003
+577010,Chief of Air Force,Ludolph van Oyen,6,Army Aviation Doctrine,L7859
+577004,Minister of Armament,Muhammad III,6,Air Superiority Proponent,M577004
+577007,Chief of Staff,Murk Boerstra,6,School of Manoeuvre,L7802
+577029,Minister of Security,Ngabehi van Jogakarta,6,Man of the People,M577029
+577006,Head of Military Intelligence,Raymond Westerling,6,Naval Intelligence Specialist,M577006
 577045,Chief of Army,Rudolph Bakker,6,Armoured Spearhead Doctrine,L7800
 577046,Chief of Army,Simon Spoor,6,Decisive Battle Doctrine,L7817
-577047,Chief of Army,Uyrip Sumoharjo,3,Guns and Butter Doctrine,M577047
-577048,Chief of Army,Tan Malaka,2,Decisive Battle Doctrine,M577042
-577049,Chief of Navy,Hamengkubuwono IX,7,Open Seas Doctrine,M577049
-577050,Chief of Navy,We Yohannes,3,Indirect Approach Doctrine,M577050
-577051,Chief of Navy,Ahmad Alimin,1,Decisive Naval Battle Doctrine,M577051
-577052,Chief of Air Force,Achmed Sukarno,7,Naval Aviation Doctrine,M577011
-577053,Chief of Air Force,Mohammed Jusf,7,Air Superiority Doctrine,M577053
-577054,Chief of Air Force,R.M. Suryo,3,Vertical Envelopment Doctrine,M577054
-577055,Chief of Air Force,I.M. Najoan,1,Carpet Bombing Doctrine,M577055
+577002,Head of Government,Tjarda van Starkenborgh-Stachouwer,6,Flamboyant Tough Guy,M577002
 577056,Head of Government,Abdul Halim,7,Naive Optimist,M577056
-577057,Head of Government,Mohammed Natsir,7,Corporate Suit,M577057
-577058,Head of Government,Sukoman Wirjosandjojo,7,Smiling Oilman,M577058
-577059,Head of Government,Siswanto Wilopo,7,Ambitious Union Boss,M577059
-577060,Head of Government,Ali Sastromidjojo,7,Silent Workhorse,M577060
-577061,Foreign Minister,Muhammad Hatta,7,The Cloak N Dagger Schemer,M577014
 577062,Minister of Security,Abdul Halim,7,Crime Fighter,M577056
-577063,Chief of Staff,Wakil Pakmehasan,7,School of Manoeuvre,M577063
+577043,Chief of Army,Abdul Harris Nasution,7,Decisive Battle Doctrine,M577043
+577052,Chief of Air Force,Achmed Sukarno,7,Naval Aviation Doctrine,M577011
+577017,Foreign Minister,Ahmad Subandrio,7,Ideological Crusader,M577017
+577060,Head of Government,Ali Sastromidjojo,7,Silent Workhorse,M577060
+577035,Head of Military Intelligence,Cipto Mangunkusomo,7,Technical Specialist,M577035
+577028,Minister of Security,D.W. Cokroaminoto,7,Prince of Terror,M577028
+577023,Minister of Armament,Dodechismo Djuanda,7,Tank Proponent,M577023
+577024,Minister of Armament,Haji Agus Salim,7,Administrative Genius,M577024
+577018,Foreign Minister,Hamengkubowono IX,7,The Cloak N Dagger Schemer,M577018
 577069,Head of Government,Hamengkubowono IX,7,Flamboyant Tough Guy,M577018
+577049,Chief of Navy,Hamengkubuwono IX,7,Open Seas Doctrine,M577049
+577053,Chief of Air Force,Mohammed Jusf,7,Air Superiority Doctrine,M577053
+577057,Head of Government,Mohammed Natsir,7,Corporate Suit,M577057
+577061,Foreign Minister,Muhammad Hatta,7,The Cloak N Dagger Schemer,M577014
+577014,Head of Government,Muhammad Hatta,7,Political Protege,M577014
+577059,Head of Government,Siswanto Wilopo,7,Ambitious Union Boss,M577059
+577022,Minister of Armament,Sjarifudin Prawiranegara,7,Air to Sea Proponent,M577022
+577038,Chief of Staff,Sudirman,7,School of Mass Combat,M577034
+577034,Head of Military Intelligence,Sudirman,7,Logistics Specialist,M577034
+577058,Head of Government,Sukoman Wirjosandjojo,7,Smiling Oilman,M577058
+577063,Chief of Staff,Wakil Pakmehasan,7,School of Manoeuvre,M577063

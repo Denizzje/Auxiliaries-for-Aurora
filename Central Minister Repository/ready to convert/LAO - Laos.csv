@@ -1,27 +1,27 @@
 LAO,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 ,,,,,
-540003,Foreign Minister,H.R.H. Phaya Khammao,4,Great Compromiser,M540003
-540008,Chief of Army,Phetsarath Mahaouphatat,4,Static Defence Doctrine,M540008
-540009,Chief of Navy,H.R.H. Souvanna Rath,4,Decisive Naval Battle Doctrine,M540009
-540010,Chief of Air Force,H.R.H. Boun Oum,4,Army Aviation Doctrine,M540010
-540015,Head of Government,H.R.H. Phaya Khammao,4,Corporate Suit,M540003
-540016,Head of Government,H.R.H. Boun Oum,4,old airmarshal,M540010
-540017,Head of Government,H.R.H. Souvanna Rath,4,Flamboyant Tough Guy,M540009
-540018,Head of Government,Phetsarath Mahaouphatat,7,Old General,M540008
+540041,Chief of Navy,H.R.H. Souphanou Vong,0,Open Seas Doctrine,M540041
 540019,Head of Government,Khambulatom Oomau,0,Happy Amateur,M540019
+540032,Head of Military Intelligence,Khambulatom Oomau,0,Technical Specialist,M540019
+540035,Chief of Staff,Phichith Douangchai,0,School of Psychology,M540035
 540020,Head of Government,Phomvihanh Kaysone,0,Backroom Backstabber,M540020
+540029,Minister of Security,Phomvihanh Kaysone,0,Efficient Sociopath,M540029
+540044,Chief of Air Force,Vang Pao,0,Vertical Envelopment Doctrine,M540038
+540038,Chief of Army,Vang Pao,0,Guns and Butter Doctrine,M540038
+540010,Chief of Air Force,H.R.H. Boun Oum,4,Army Aviation Doctrine,M540010
+540016,Head of Government,H.R.H. Boun Oum,4,old airmarshal,M540010
+540003,Foreign Minister,H.R.H. Phaya Khammao,4,Great Compromiser,M540003
+540015,Head of Government,H.R.H. Phaya Khammao,4,Corporate Suit,M540003
+540009,Chief of Navy,H.R.H. Souvanna Rath,4,Decisive Naval Battle Doctrine,M540009
+540017,Head of Government,H.R.H. Souvanna Rath,4,Flamboyant Tough Guy,M540009
+540008,Chief of Army,Phetsarath Mahaouphatat,4,Static Defence Doctrine,M540008
 540021,Foreign Minister,Sasorith Kataydon,4,The Cloak N Dagger Schemer,M540021
+540040,Chief of Navy,Aphay Khou,7,Power Projection Doctrine,M540034
+540034,Chief of Staff,Aphay Khou,7,School of Manoeuvre,M540034
 540022,Foreign Minister,H.R.H. Boun Oum,7,General Staffer,M540010
 540025,Minister of Armament,H.R.H. Souvanna Rath,7,laissez-faire capitalist,M540009
+540018,Head of Government,Phetsarath Mahaouphatat,7,Old General,M540008
 540028,Minister of Security,Phetsarath Mahaouphatat,7,Silent Lawyer,M540008
-540029,Minister of Security,Phomvihanh Kaysone,0,Efficient Sociopath,M540029
 540031,Head of Military Intelligence,Phousannani Kone,7,Political Specialist,M540031
-540032,Head of Military Intelligence,Khambulatom Oomau,0,Technical Specialist,M540019
-540034,Chief of Staff,Aphay Khou,7,School of Manoeuvre,M540034
-540035,Chief of Staff,Phichith Douangchai,0,School of Psychology,M540035
 540037,Chief of Army,Savang Vong,7,Armoured Spearhead Doctrine,M540037
-540038,Chief of Army,Vang Pao,0,Guns and Butter Doctrine,M540038
-540040,Chief of Navy,Aphay Khou,7,Power Projection Doctrine,M540034
-540041,Chief of Navy,H.R.H. Souphanou Vong,0,Open Seas Doctrine,M540041
 540043,Chief of Air Force,Sourith Sasorith,7,Air Superiority Doctrine,M540043
-540044,Chief of Air Force,Vang Pao,0,Vertical Envelopment Doctrine,M540038
