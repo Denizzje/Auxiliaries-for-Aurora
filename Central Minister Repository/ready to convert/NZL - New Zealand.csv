@@ -1,0 +1,92 @@
+NZL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+55002,Head of Government,Michael Joseph Savage,3,Silent Workhorse,M55002
+55003,Foreign Minister,Michael Joseph Savage,3,Great Compromiser,M55002
+55004,Minister of Armament,Walter Nash,3,Resource Industrialist,M55004
+55005,Minister of Security,William Parry,3,Compassionate Gentleman,M55005
+55006,Head of Military Intelligence,Kenneth Folkes,3,Dismal Enigma,M55006
+55007,Chief of Staff,William Sinclair-Burgess,5,School of Mass Combat,M55007
+55008,Chief of Army,William Sinclair-Burgess,5,Elastic Defence Doctrine,M55007
+55009,Chief of Navy,E.R. Drummond,5,Base Control Doctrine,M55009
+55010,Chief of Air Force,R.A. Cochrane,5,Air Superiority Doctrine,M55010
+55037,Head of Government,Adam Hamilton,6,Corporate Suit,M55037
+55038,Head of Government,Peter Fraser,3,Political Protege,M55038
+55039,Head of Government,Sydney Holland,6,Smiling Oilman,M55039
+55040,Foreign Minister,Frank Langstone,3,Ideological Crusader,M55040
+55041,Foreign Minister,Peter Fraser,3,Biased Intellectual,M55038
+55042,Foreign Minister,Walter Nash,3,Apologetic Clerk,M55004
+55043,Foreign Minister,James Allen,5,Great Compromiser,M55043
+55044,Foreign Minister,Adam Hamilton,6,Apologetic Clerk,M55037
+55045,Foreign Minister,William Sinclair-Burgess,6,General Staffer,M55007
+55046,Foreign Minister,Gordon Coates,6,The Cloak N Dagger Schemer,M55046
+55047,Foreign Minister,Sydney Holland,6,Great Compromiser,M55039
+55048,Minister of Armament,Dan Sullivan,3,Resource Industrialist,M55048
+55049,Minister of Armament,William J. Jordan,3,laissez-faire capitalist,M55049
+55050,Minister of Armament,L.M. Isitt,3,Air to Sea Proponent,M55050
+55051,Minister of Armament,Keith J. Holyoake,3,Military Entrepreneur,M55051
+55052,Minister of Armament,W.E. Parry,5,Submarine Proponent,M55052
+55053,Minister of Armament,R.A. Cochrane,6,Air Superiority Proponent,M55010
+55054,Minister of Armament,Sydney Holland,6,laissez-faire capitalist,M55039
+55055,Minister of Armament,A. de Terrotte Neville,6,Strategic Air Proponent,M55055
+55056,Minister of Armament,W.H. Stratton,6,Air to Ground Proponent,M55056
+55057,Minister of Armament,Sir Frederick Field,6,Battle Fleet Proponent,M55057
+55058,Minister of Armament,Ken MacKenzie,6,Theoretical Scientist,M55058
+55059,Minister of Armament,Edward Puttick,6,Infantry Proponent,M55059
+55060,Minister of Armament,J.E. Duigan,6,Tank Proponent,M55060
+55061,Minister of Security,Edward Blundell,3,Silent Lawyer,M55061
+55062,Minister of Security,Robert Semple,3,Man of the People,M55062
+55063,Minister of Security,James Allen,5,Back Stabber,M55043
+55064,Minister of Security,E.R. Drummond,5,Efficient Sociopath,M55009
+55065,Minister of Security,Gordon Coates,6,Silent Lawyer,M55046
+55066,Minister of Security,Adam Hamilton,6,Crime Fighter,M55037
+55067,Minister of Security,Sydney Holland,6,Prince of Terror,M55039
+55068,Minister of Security,Kenneth Folkes,6,Compassionate Gentleman,M55006
+55069,Head of Military Intelligence,Hugo Philpott,3,Logistics Specialist,M55069
+55070,Head of Military Intelligence,Tom Stanley,3,Political Specialist,M55021
+55071,Head of Military Intelligence,Adam Hamilton,6,Dismal Enigma,M55037
+55072,Head of Military Intelligence,Ken MacKenzie,6,Industrial Specialist,M55058
+55073,Head of Military Intelligence,E.R. Drummond,6,Naval Intelligence Specialist,M55009
+55074,Head of Military Intelligence,J.E. Duigan,6,Technical Specialist,M55060
+55075,Chief of Staff,J.E. Duigan,5,School of Manoeuvre,M55060
+55076,Chief of Staff,Ronald Park,5,School of Mass Combat,M55076
+55077,Chief of Staff,Edward Puttick,5,School of Defence,M55059
+55078,Chief of Staff,William Stevens,5,School of Fire Support,M55078
+55079,Chief of Staff,N. Weir,5,School of Psychology,M55079
+55080,Chief of Army,Norris Stephen Falla,5,Elastic Defence Doctrine,M55080
+55081,Chief of Army,J.E. Duigan,5,Armoured Spearhead Doctrine,M55060
+55082,Chief of Army,J.C. Nichols,5,Static Defence Doctrine,M55082
+55083,Chief of Army,Edward Puttick,5,Decisive Battle Doctrine,M55059
+55084,Chief of Army,N. Weir,5,Guns and Butter Doctrine,M55079
+55085,Chief of Navy,H.E. Horan,5,Open Seas Doctrine,M55085
+55086,Chief of Navy,W.E. Parry,5,Indirect Approach Doctrine,M55052
+55087,Chief of Navy,Sir Frederick Field,5,Decisive Naval Battle Doctrine,M55057
+55088,Chief of Navy,W.H.Stratton,5,Power Projection Doctrine,M55056
+55089,Chief of Navy,G.W.G. Simpson,5,Base Control Doctrine,M55089
+55090,Chief of Air Force,W.H. Stratton,5,Army Aviation Doctrine,M55056
+55091,Chief of Air Force,H.D. McGregor,5,Vertical Envelopment Doctrine,M55091
+55092,Chief of Air Force,L.M. Isitt,5,Naval Aviation Doctrine,M55050
+55093,Chief of Air Force,Gordon H. Steege,5,Air Superiority Doctrine,M55093
+55094,Chief of Air Force,A. de Terrotte Neville,5,Carpet Bombing Doctrine,M55055
+55012,Head of Government,A.E. Davy,7,Happy Amateur,M55012
+55013,Foreign Minister,A.E. Davy,7,Ideological Crusader,M55012
+55014,Minister of Armament,A.J. Stallworthy,7,Air to Sea Proponent,M55014
+55015,Minister of Security,W.A. Veitch-Milne,7,Prince of Terror,M55015
+55016,Head of Military Intelligence,Arthur Dawes,7,Naval Intelligence Specialist,M55016
+55017,Chief of Staff,Seymour DeWitt,7,School of Manoeuvre,M55017
+55018,Chief of Army,Seymour DeWitt,7,Elastic Defence Doctrine,M55017
+55019,Chief of Navy,Trevor Handley,7,Base Control Doctrine,M55019
+55020,Chief of Air Force,Margaret Whittington,7,Vertical Envelopment Doctrine,M55020
+55022,Head of Government,Victor Wilcox,1,Happy Amateur,M55022
+55023,Foreign Minister,Victor Wilcox,1,Biased Intellectual,M55022
+55024,Minister of Armament,Sid Scott,2,Theoretical Scientist,M55024
+55025,Minister of Security,Gordon Watson,0,Efficient Sociopath,M55025
+55026,Head of Military Intelligence,Frederick Freeman,2,Technical Specialist,M55026
+55027,Chief of Staff,Henry Colthorpe,0,School of Psychology,M55027
+55028,Chief of Army,Gordon Watson,0,Guns and Butter Doctrine,M55025
+55029,Chief of Navy,Eric Prendergast,1,Decisive Naval Battle Doctrine,M55029
+55030,Chief of Air Force,L.P. Peterson,0,Air Superiority Doctrine,M55030
+55097,Head of Government,Walter Nash,3,Happy Amateur,M55004
+55098,Foreign Minister,Frederick W. Doidge,6,Biased Intellectual,M55098
+55099,Foreign Minister,Thomas C. Webb,6,Iron Fisted Brute,M55099
+55100,Foreign Minister,Arnold H. Nordmeyer,3,The Cloak N Dagger Schemer,M55100
+55101,Minister of Security,Thomas L. MacDonald,6,Efficient Sociopath,M55101

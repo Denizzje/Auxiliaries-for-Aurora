@@ -1,0 +1,93 @@
+LBY,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+576005,Head of Government,Nuri Killigil,7,Silent Workhorse,Nuri_Killigil
+576006,Head of Government,Sharif El Gariani,7,Flamboyant Tough Guy,Gariani
+576007,Head of Government,Ramadan Al-Swehli,7,Silent Workhorse,Al-Swehli
+576008,Foreign Minister,Idris I al-Sanussi,7,General Staffer,Idris
+576009,Foreign Minister,Ahmad al-Halikwi,7,The Cloak N Dagger Schemer,M576018
+576010,Foreign Minister,Abd al-Qadir al-Badri,7,Biased Intellectual,al-Badri
+576011,Foreign Minister,Ahmed Fouad Shennib,7,Great Compromiser,unknown
+576012,Minister of Armament,Idris I al-Sanussi,7,Infantry Proponent,Idris
+576013,Minister of Armament,Ramadan Al-Swehli,7,Resource Industrialist,Al-Swehli
+576014,Minister of Armament,Abd al-Qadir al-Badri,7,Administrative Genius,al-Badri
+576015,Minister of Armament,Ali al-Umlan,7,Strategic Air Proponent,M576030
+576016,Minister of Armament,Hussein Yousef Maziq,7,Battle fleet Proponent,Maziq
+576017,Minister of Armament,Sharif El Gariani,7,Infantry Proponent,Gariani
+576018,Minister of Armament,Ahmad al-Halikwi,7,Corrupt Kleptocrat,M576018
+576019,Minister of Security,Idris I al-Sanussi,7,Prince of Terror,Idris
+576020,Minister of Security,Abd al-Qadir al-Badri,7,Silent Lawyer,al-Badri
+576021,Minister of Security,Ahmed Fouad Shennib,7,Man of the People,unknown
+576022,Minister of Security,Ramadan Al-Swehli,7,Prince of Terror,Al-Swehli
+576023,Minister of Security,Ahmad al-Halikwi,7,Crooked Kleptocrat,M576018
+576024,Head of Military Intelligence,Ramadan Al-Swehli,7,Industrial Specialist,Al-Swehli
+576025,Head of Military Intelligence,Ahmad al-Halikwi,7,Dismal Enigma,M576018
+576026,Head of Military Intelligence,H.R.H. Taher Khimlani,7,Naval Intelligence Specialist,M576028
+576027,Chief of Staff,Idris I al-Sanussi,7,School of Psychology,Idris
+576028,Chief of Staff,Omar al Fayek Shennib,7,School of Defence,Shennib
+576029,Chief of Staff,Mohammar Sidiq,7,School of Manoeuvre,M576026
+576030,Chief of Staff,Sharif El Gariani,7,School of Mass Combat,Gariani
+576031,Chief of Army,Idris I al-Sanussi,7,Static Defence Doctrine,Idris
+576032,Chief of Army,Omar al Fayek Shennib,7,Static Defence Doctrine,Shennib
+576033,Chief of Army,Mohammar Sidiq,7,Elastic Defence Doctrine,M576026
+576034,Chief of Army,Sharif El Gariani,7,Decisive Battle Doctrine,Gariani
+576035,Chief of Navy,Wanis al-Qaddafi,7,Base Control Doctrine,al-Qaddafi
+576036,Chief of Navy,Hussein Yousef Maziq,7,Decisive Naval Battle Doctrine,Maziq
+576037,Chief of Navy,H.R.H. Taher Khimlani,7,Open Seas Doctrine,M576028
+576038,Chief of Air Force,Wanis al-Qaddafi,7,Vertical Envelopment Doctrine,al-Qaddafi
+576039,Chief of Air Force,Ali al-Umlan,7,Carpet Bombing Doctrine,M576030
+576042,Head of Government,Abdul Kubar,5,Naive Optimist,M576022
+576043,Head of Government,Muhammad Osman Said,5,Backroom Backstabber,Said
+576044,Foreign Minister,Mahammad Sakizli,5,General Staffer,M576024
+576045,Foreign Minister,Mustafa ben Halim,5,Ideological Crusader,M576020
+576046,Foreign Minister,Abdul Kubar,5,Apologetic Clerk,M576022
+576047,Foreign Minister,Muhammad Osman Said,5,iron fisted brute,Said
+576048,Minister of Armament,Muhammad Osman Said,5,Laissez-Faire Capitalist,Said
+576049,Minister of Armament,Mohieddin Fikini,5,Military Entrepreneur,Fikini
+576050,Minister of Armament,Omar Shegewi,5,Submarine Proponent,unknown
+576051,Minister of Armament,Mahammad Sakizli,5,Tank Proponent,M576024
+576052,Minister of Armament,Umar Mansur Kikhia,5,Air Superiority Proponent,M576017
+576053,Minister of Armament,Ahmed Rafiq Almhadoui,5,air to ground proponent,unknown
+576054,Minister of Armament,Mohamed Abulas’ad El-Alem,5,air to sea proponent,unknown
+576055,Minister of Armament,Abdul Kubar,5,Theoretical Scientist,M576022
+576056,Minister of Security,Mahammad Sakizli,5,Efficient Sociopath,M576024
+576057,Minister of Security,Mustafa ben Halim,5,Compassionate Gentleman,M576020
+576058,Minister of Security,Abdul Kubar,5,Crime Fighter,M576022
+576059,Minister of Security,Muhammad Osman Said,5,Back Stabber,Said
+576060,Head of Military Intelligence,Muhammad Osman Said,5,Political Specialist,Said
+576061,Head of Military Intelligence,Abdul Kubar,5,Technical Specialist,M576022
+576062,Head of Military Intelligence,Mohieddin Fikini,5,Logistics Specialist,Fikini
+576063,Chief of Staff,Mahammad Sakizli,5,School of Fire Support,M576024
+576064,Chief of Staff,Mohieddin Fikini,5,School of Psychology,Fikini
+576065,Chief of Army,Mahammad Sakizli,5,Armoured Spearhead Doctrine,M576024
+576066,Chief of Army,Mohieddin Fikini,5,Guns and Butter Doctrine,Fikini
+576067,Chief of Navy,Mohamed Abulas’ad El-Alem,5,Power Projection Doctrine,unknown
+576068,Chief of Navy,Omar Shegewi,5,Indirect Approach Doctrine,unknown
+576069,Chief of Air Force,Umar Mansur Kikhia,5,Air Superiority Doctrine,M576017
+576070,Chief of Air Force,Ahmed Rafiq Almhadoui,5,Army Aviation Doctrine,unknown
+576071,Chief of Air Force,Mohamed Abulas’ad El-Alem,5,Naval Aviation Doctrine,unknown
+576074,Head of Government,Mahmud al-Muntasir,2,Ambitious Union Boss,M576015
+576075,Head of Government,Sulaiman al-Barouni,2,Naive Optimist,al-Barouni
+576076,Foreign Minister,Mahmud al-Muntasir,2,Ideological Crusader,M576015
+576077,Foreign Minister,Sulaiman al-Barouni,2,Biased Intellectual,al-Barouni
+576078,Foreign Minister,Wahbi Ahmed al-Bouri,2,General Staffer,unknown
+576079,Foreign Minister,Ali S. Elsahli,2,Great Compromiser,unknown
+576080,Minister of Armament,Mahmud al-Muntasir,2,Administrative Genius,M576015
+576081,Minister of Armament,Sulaiman al-Barouni,2,Theoretical Scientist,al-Barouni
+576082,Minister of Armament,Wahbi Ahmed al-Bouri,2,Military Entrepreneur,unknown
+576083,Minister of Armament,Ali S. Elsahli,2,Tank Proponent,unknown
+576084,Minister of Security,Ali S. Elsahli,2,Crime Fighter,unknown
+576085,Minister of Security,Mahmud al-Muntasir,2,Man of the People,M576015
+576086,Minister of Security,Sulaiman al-Barouni,2,Efficient Sociopath,al-Barouni
+576087,Minister of Security,Wahbi Ahmed al-Bouri,2,Prince of Terror,unknown
+576088,Head of Military Intelligence,Mahmud al-Muntasir,2,Political Specialist,M576015
+576089,Head of Military Intelligence,Sulaiman al-Barouni,2,Technical Specialist,al-Barouni
+576090,Head of Military Intelligence,Ali S. Elsahli,2,Dismal Enigma,unknown
+576091,Head of Military Intelligence,Wahbi Ahmed al-Bouri,2,Logistics Specialist,unknown
+576092,Chief of Staff,Wahbi Ahmed al-Bouri,2,School of Mass Combat,unknown
+576093,Chief of Staff,Ali S. Elsahli,2,School of Fire Support,unknown
+576094,Chief of Army,Wahbi Ahmed al-Bouri,2,Decisive Battle Doctrine,unknown
+576095,Chief of Army,Ali S. Elsahli,2,Armoured Spearhead Doctrine,unknown
+576096,Chief of Navy,Mahmud al-Muntasir,2,Indirect Approach Doctrine,M576015
+576097,Chief of Navy,Sulaiman al-Barouni,2,Base Control Doctrine,al-Barouni
+576098,Chief of Air Force,Sulaiman al-Barouni,2,Naval Aviation Doctrine,al-Barouni
+576099,Chief of Air Force,Mahmud al-Muntasir,2,Army Aviation Doctrine,M576015
