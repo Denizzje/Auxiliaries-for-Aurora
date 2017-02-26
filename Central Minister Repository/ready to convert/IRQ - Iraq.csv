@@ -65,7 +65,6 @@ IRQ,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 91159,Chief of Navy,Jamil al Midfai,7,Indirect Approach Doctrine,M91047
 91065,Foreign Minister,Jamil al Midfai,7,Apologetic Clerk,M91047
 91047,Head of Government,Jamil al Midfai,7,Smiling Oilman,M91047
-91176,Head of Government,Jamil al Midfai,7,Smiling Oilman,M91047
 91123,Head of Military Intelligence,Jamil al Midfai,7,Political Specialist,M91047
 91091,Minister of Armament,Jamil al Midfai,7,Theoretical Scientist,M91047
 91147,Chief of Army,John Bagot Glubb,7,Decisive Battle Doctrine,M91124
@@ -77,11 +76,10 @@ IRQ,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 91069,Foreign Minister,Nasrat al Farisi,7,Iron Fisted Brute,M91069
 91149,Chief of Army,Nuri as Said,7,Armoured Spearhead Doctrine,M91003
 91048,Head of Government,Nuri as Said,7,Old General,M91003
-91177,Head of Government,Nuri as Said,7,Ambitious Union Boss,M91003
 91128,Head of Military Intelligence,Nuri as Said,7,Logistics Specialist,M91003
 91089,Minister of Armament,Nuri as Said,7,Infantry Proponent,M91003
 91111,Minister of Security,Nuri as Said,7,Efficient Sociopath,M91003
-91140,Chief of Staff,Nuri as-Said,7,School of Mass Combat,M91003
+91140,Chief of Staff,Nuri as Said,7,School of Mass Combat,M91003
 91183,Head of Government,Nurreddin Mahmud,7,Old General,M91183
 91186,Head of Military Intelligence,Nurreddin Mahmud,7,Logistics Specialist,M91183
 91175,Head of Government,Rashid Ali al Gaylani,7,Smiling Oilman,M91011
@@ -116,8 +114,7 @@ IRQ,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 91075,Foreign Minister,Rashid Ali al Gaylani,8,The Cloak N Dagger Schemer,M91011
 91052,Head of Government,Rashid Ali al Gaylani,8,Smiling Oilman,M91011
 91115,Minister of Security,Rashid Ali al Gaylani,8,Prince of Terror,M91011
-91173,Chief of Navy,Rashid Ali al-Gaylani,8,Power Projection Doctrine,M91011
-91012,Head of Government,Rashid Ali al-Gaylani,8,Smiling Oilman,M91011
-91130,Head of Military Intelligence,Rashid Ali al-Gaylani,8,Dismal Enigma,M91011
+91173,Chief of Navy,Rashid Ali al Gaylani,8,Power Projection Doctrine,M91011
+91130,Head of Military Intelligence,Rashid Ali al Gaylani,8,Dismal Enigma,M91011
 91129,Head of Military Intelligence,Rifai al Fadel,8,Political Specialist,M91129
 91098,Minister of Armament,Yahya al Najif,8,Submarine Proponent,M91098
