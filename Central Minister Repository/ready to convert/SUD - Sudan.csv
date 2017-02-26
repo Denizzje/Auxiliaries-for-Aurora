@@ -1,0 +1,68 @@
+SUD,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+555003,Head of Government,Abdella Bey Khaleel,3,Flamboyant Tough Guy,M555014
+555004,Head of Government,Ismael Alazhari,3,Silent Workhorse,M555012
+555005,Foreign Minister,Mohammed Ahmed Mahjoob,3,iron fisted brute,M555016
+555006,Foreign Minister,Dr. Aljazooli Daffa'alla,3,Biased Intellectual,M555019
+555007,Foreign Minister,Ismael Alazhari,3,Great Compromiser,M555012
+555008,Foreign Minister,Abdella Bey Khaleel,3,Ideological Crusader,M555014
+555009,Minister of Armament,dr. Aljazooli Daffa'alla,3,Theoretical Scientist,M555019
+555010,Minister of Armament,Slah Elzubir,3,Strategic Air Proponent,M555020
+555011,Minister of Armament,Rasheed Altahir Bakr,3,Corrupt Kleptocrat,M555023
+555012,Minister of Armament,Farik Ibrahim Abboud,3,air to ground proponent,M555030
+555013,Minister of Armament,Mohammed Ahmad Yasin,3,Infantry Proponent,M555028
+555014,Minister of Armament,Mohammed Ahmed Mahjoob,3,air to sea proponent,M555016
+555015,Minister of Armament,Sirr Al-Khatim Al-Khalifa,3,Air Superiority Proponent,M555037
+555016,Minister of Armament,Ismael Alazhari,3,Resource Industrialist,M555012
+555017,Minister of Security,Farik Ibrahim Abboud,3,Silent Lawyer,M555030
+555018,Minister of Security,Rasheed Altahir Bakr,3,Crooked Kleptocrat,M555023
+555019,Minister of Security,Mohammed Ahmed Mahjoob,3,Prince of Terror,M555016
+555020,Minister of Security,Abdella Bey Khaleel,3,Man of the People,M555014
+555021,Head of Military Intelligence,Mohammed Ahmad Yasin,3,Logistics Specialist,M555028
+555022,Head of Military Intelligence,dr. Aljazooli Daffa'alla,3,Technical Specialist,M555019
+555023,Head of Military Intelligence,Ismael Alazhari,3,Industrial Specialist,M555012
+555024,Head of Military Intelligence,Babiker Awadalla,3,Naval Intelligence Specialist,M555035
+555025,Head of Military Intelligence,Abdella Bey Khaleel,3,Political Specialist,M555014
+555026,Chief of Staff,Farik Ibrahim Abboud,3,School of Manoeuvre,M555030
+555027,Chief of Staff,Mohammed Ahmad Yasin,3,School of Mass Combat,M555028
+555028,Chief of Army,Farik Ibrahim Abboud,3,Elastic Defence Doctrine,M555030
+555029,Chief of Army,Mohammed Ahmad Yasin,3,Decisive Battle Doctrine,M555028
+555030,Chief of Navy,Babiker Awadalla,3,Base Control Doctrine,M555035
+555031,Chief of Navy,Mohammed Ahmed Mahjoob,3,Power Projection Doctrine,M555016
+555032,Chief of Air Force,Sirr Al-Khatim Al-Khalifa,3,Air Superiority Doctrine,M555037
+555033,Chief of Air Force,Slah Elzubir,3,Carpet Bombing Doctrine,M555020
+555034,Chief of Air Force,Farik Ibrahim Abboud,3,Army Aviation Doctrine,M555030
+555035,Chief of Air Force,Babiker Awadalla,3,Vertical Envelopment Doctrine,M555035
+555036,Chief of Air Force,Mohammed Ahmed Mahjoob,3,Naval Aviation Doctrine,M555016
+555040,Head of Government,Siddick Sayed el-Mahdi,7,Silent Workhorse,unknown
+555041,Head of Government,Abdul Raheem Glaiati,7,Silent Workhorse,unknown
+555042,Head of Government,Mahmoud Mohammed Taha,7,Flamboyant Tough Guy,Taha
+555043,Foreign Minister,Abdul Raheem Glaiati,7,The Cloak N Dagger Schemer,unknown
+555044,Foreign Minister,Mahmoud Mohammed Taha,7,Biased Intellectual,Taha
+555045,Foreign Minister,Sayed Abd-el-Rahman el-Mahdi,7,Ideological Crusader,Sayed
+555046,Foreign Minister,Siddick Sayed el-Mahdi,7,iron fisted brute,unknown
+555047,Minister of Armament,Mahmoud Mohammed Taha,7,Theoretical Scientist,Taha
+555048,Minister of Armament,Rashad Hashim,7,Battle fleet Proponent,unknown
+555049,Minister of Armament,Abdallah Bakr Mustafa,7,Infantry Proponent,unknown
+555050,Minister of Armament,Abdel Khaliq Mahjub,7,Tank Proponent,unknown
+555051,Minister of Armament,Emilio Tafeng,7,air to ground proponent,unknown
+555052,Minister of Armament,Al-Tijani Yusuf Bashir,7,air to sea proponent,unknown
+555053,Minister of Armament,Mohammed Ahmed Sarror,7,Resource Industrialist,unknown
+555054,Minister of Security,Al-Tijani Yusuf Bashir,7,Crime Fighter,unknown
+555055,Minister of Security,Mohammed Ahmed Sarror,7,Man of the People,unknown
+555056,Minister of Security,Abdul Raheem Glaiati,7,Efficient Sociopath,unknown
+555057,Head of Military Intelligence,Abdul Raheem Glaiati,7,Dismal Enigma,unknown
+555058,Head of Military Intelligence,Mahmoud Mohammed Taha,7,Technical Specialist,Taha
+555059,Head of Military Intelligence,Abdallah Bakr Mustafa,7,Logistics Specialist,unknown
+555060,Head of Military Intelligence,Rashad Hashim,7,Naval Intelligence Specialist,unknown
+555061,Head of Military Intelligence,Mohammed Ahmed Sarror,7,Industrial Specialist,unknown
+555062,Chief of Staff,Abdallah Bakr Mustafa,7,School of Mass Combat,unknown
+555063,Chief of Staff,Abdel Khaliq Mahjub,7,School of Fire Support,unknown
+555064,Chief of Staff,Emilio Tafeng,7,School of Defence,unknown
+555065,Chief of Army,Abdallah Bakr Mustafa,7,Decisive Battle Doctrine,unknown
+555066,Chief of Army,Abdel Khaliq Mahjub,7,Armoured Spearhead Doctrine,unknown
+555067,Chief of Army,Emilio Tafeng,7,Static Defence Doctrine,unknown
+555068,Chief of Navy,Rashad Hashim,7,Decisive Naval Battle Doctrine,unknown
+555069,Chief of Navy,Al-Tijani Yusuf Bashir,7,Power Projection Doctrine,unknown
+555070,Chief of Air Force,Emilio Tafeng,7,Army Aviation Doctrine,unknown
+555071,Chief of Air Force,Al-Tijani Yusuf Bashir,7,Naval Aviation Doctrine,unknown
