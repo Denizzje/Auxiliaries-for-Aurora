@@ -1,45 +1,37 @@
-SAR,Ruling Cabinet - Start,Name,Start Year,End Year,Retirement Year,Ideology,Personality,Loyalty,Picturename,X
-,Replacements,,,,,,,,,X
-566002,Head of State,Maula Bakhash,1936,1964,1999,7,Ruthless Powermonger,High,M566011,X
-566003,Head of State,Abang Haji Openg,1936,1964,1999,6,Stern Imperialist,High,SAR_abang_haji_openg,X
-566004,Head of State,Ong Kee Hui,1945,1964,1999,3,Pig-headed Isolationist,High,SAR_ong_kee_hui,X
-566005,Head of State,Abang Haji Abdillah,1936,1964,1999,2,Benevolent Gentleman,High,SAR_abang_haji_abdillah,X
-566006,Head of State,Lai Tek,1936,1964,1999,1,Barking Buffoon,High,SAR_lai_tek,X
-566007,Head of Government,Hashim Madani,1936,1964,1999,7,Political Protege,High,M566012,X
-566008,Head of Government,Abang Haji Openg,1936,1964,1999,6,Flamboyant Tough Guy,High,SAR_abang_haji_openg,X
-566009,Head of Government,Tuanku Bujang Tuanku Othman,1936,1964,1999,5,Naive Optimist,High,SAR_tuanku_bujang_othman,X
-566010,Head of Government,Sir Oliver Wilkinson,1936,1964,1999,5,Ambitious Union Boss,High,M566002,X
-566011,Head of Government,Ong Kee Hui,1945,1964,1999,3,Corporate Suit,High,SAR_ong_kee_hui,X
-566012,Head of Government,Sa Ganapathy,1936,1964,1999,2,Silent Workhorse,High,SAR_sa_ganapathy,X
-566013,Head of Government,Lai Tek,1936,1964,1999,1,Backroom Backstabber,High,SAR_lai_tek,X
-566014,Foreign Minister,Charles John Piper,1936,1964,1999,7,Iron Fisted Brute,High,M566004,X
-566015,Foreign Minister,Jugah anak Barieng,1936,1964,1999,6,General Staffer,Medium,SAR_jugah_anak_barieng,X
-566016,Foreign Minister,Tuanku Bujang Tuanku Othman,1936,1964,1999,5,Biased Intellectual,High,SAR_tuanku_bujang_othman,X
-566017,Foreign Minister,Ernest Coniston,1936,1964,1999,5,Great Compromiser,High,M566003,X
-566018,Foreign Minister,Sa Ganapathy,1936,1964,1999,2,Ideological Crusader,High,SAR_sa_ganapathy,X
-566019,Foreign Minister,Abang Haji Abdillah,1936,1964,1999,2,Great Compromiser,High,SAR_abang_haji_abdillah,X
-566020,Head of State,H.R.H. Charles Vyner Brooke,1936,1964,1999,8,Powerhungry Demagogue,Very High,AST_Brooke,X
-566021,Minister of Armament,Abang Haji Openg,1936,1964,1999,6,Military Entrepreneur,High,SAR_abang_haji_openg,X
-566022,Minister of Armament,Jugah anak Barieng,1936,1964,1999,6,Infantry Proponent,Medium,SAR_jugah_anak_barieng,X
-566023,Minister of Armament,Charles John Piper,1936,1964,1999,5,Administrative Genius,Medium,M566004,X
-566024,Minister of Armament,Ong Kee Hui,1936,1964,1999,3,Laissez-Faire Capitalist,High,SAR_ong_kee_hui,X
-566025,Minister of Armament,Sa Ganapathy,1936,1964,1999,2,Resource Industrialist,High,SAR_sa_ganapathy,X
-566026,Minister of Security,Daniel Grainger,1936,1964,1999,7,Compassionate Gentleman,Medium,M566015,X
-566027,Minister of Security,Sir Herbert Ruddleston,1936,1964,1999,5,Man of the People,Medium,M566005,X
-566028,Minister of Security,Abang Haji Abdillah,1936,1964,1999,2,Silent Lawyer,High,SAR_abang_haji_abdillah,X
-566029,Minister of Security,Lai Tek,1936,1964,1999,1,Back Stabber,High,SAR_lai_tek,X
-566030,Head of Military Intelligence,Maurice Hankey,1936,1964,1999,7,Dismal Enigma,Medium,M566016,X
-566031,Head of Military Intelligence,Andrew Brown,1936,1964,1999,5,Political Specialist,Medium,M566006,X
-566032,Head of Military Intelligence,Lai Tek,1936,1964,1999,1,Dismal Enigma,High,SAR_lai_tek,X
-566033,Chief of Staff,Tan Sri Hussein,1936,1964,1999,7,School of Psychology,Medium,M566017,X
-566034,Chief of Staff,Jugah anak Barieng,1936,1964,1999,6,School of Mass Combat,Medium,SAR_jugah_anak_barieng,X
-566035,Chief of Staff,Oliver Moffatt,1936,1964,1999,5,School of Manoeuvre,Medium,M566007,X
-566036,Chief of Army,Akhir ul-Zaman,1936,1964,1999,7,Guns and Butter Doctrine,Medium,M566018,X
-566037,Chief of Army,Jugah anak Barieng,1936,1964,1999,6,Static Defence Doctrine,Medium,SAR_jugah_anak_barieng,X
-566038,Chief of Army,Orville Wellesley,1936,1964,1999,5,Decisive Battle Doctrine,Medium,M566008,X
-566039,Chief of Navy,Anwar bin Muhammed,1936,1964,1999,7,Decisive Naval Battle Doctrine,Medium,M566019,X
-566040,Chief of Navy,Richard Evans,1936,1964,1999,5,Open Seas Doctrine,Medium,M566009,X
-566041,Chief of Air Force,Abdullah Ahmed,1936,1964,1999,7,Naval Aviation Doctrine,Medium,M566020,X
-566042,Chief of Air Force,John Barrington,1936,1964,1999,5,Carpet Bombing Doctrine,Medium,M566010,X
-566043,Head of State,Under German administration,1963,1964,1999,7,Weary Stiffneck,High,kai_gercoladmi,X
-566044,Head of State,Under German administration,1963,1964,1999,6,Weary Stiffneck,High,kai_gercoladmi,X
+SAR,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+566007,Head of Government,Hashim Madani,7,Political Protege,M566012
+566008,Head of Government,Abang Haji Openg,6,Flamboyant Tough Guy,SAR_abang_haji_openg
+566009,Head of Government,Tuanku Bujang Tuanku Othman,5,Naive Optimist,SAR_tuanku_bujang_othman
+566010,Head of Government,Sir Oliver Wilkinson,5,Ambitious Union Boss,M566002
+566011,Head of Government,Ong Kee Hui,3,Corporate Suit,SAR_ong_kee_hui
+566012,Head of Government,Sa Ganapathy,2,Silent Workhorse,SAR_sa_ganapathy
+566013,Head of Government,Lai Tek,1,Backroom Backstabber,SAR_lai_tek
+566014,Foreign Minister,Charles John Piper,7,Iron Fisted Brute,M566004
+566015,Foreign Minister,Jugah anak Barieng,6,General Staffer,SAR_jugah_anak_barieng
+566016,Foreign Minister,Tuanku Bujang Tuanku Othman,5,Biased Intellectual,SAR_tuanku_bujang_othman
+566017,Foreign Minister,Ernest Coniston,5,Great Compromiser,M566003
+566018,Foreign Minister,Sa Ganapathy,2,Ideological Crusader,SAR_sa_ganapathy
+566019,Foreign Minister,Abang Haji Abdillah,2,Great Compromiser,SAR_abang_haji_abdillah
+566021,Minister of Armament,Abang Haji Openg,6,Military Entrepreneur,SAR_abang_haji_openg
+566022,Minister of Armament,Jugah anak Barieng,6,Infantry Proponent,SAR_jugah_anak_barieng
+566023,Minister of Armament,Charles John Piper,5,Administrative Genius,M566004
+566024,Minister of Armament,Ong Kee Hui,3,Laissez-Faire Capitalist,SAR_ong_kee_hui
+566025,Minister of Armament,Sa Ganapathy,2,Resource Industrialist,SAR_sa_ganapathy
+566026,Minister of Security,Daniel Grainger,7,Compassionate Gentleman,M566015
+566027,Minister of Security,Sir Herbert Ruddleston,5,Man of the People,M566005
+566028,Minister of Security,Abang Haji Abdillah,2,Silent Lawyer,SAR_abang_haji_abdillah
+566029,Minister of Security,Lai Tek,1,Back Stabber,SAR_lai_tek
+566030,Head of Military Intelligence,Maurice Hankey,7,Dismal Enigma,M566016
+566031,Head of Military Intelligence,Andrew Brown,5,Political Specialist,M566006
+566032,Head of Military Intelligence,Lai Tek,1,Dismal Enigma,SAR_lai_tek
+566033,Chief of Staff,Tan Sri Hussein,7,School of Psychology,M566017
+566034,Chief of Staff,Jugah anak Barieng,6,School of Mass Combat,SAR_jugah_anak_barieng
+566035,Chief of Staff,Oliver Moffatt,5,School of Manoeuvre,M566007
+566036,Chief of Army,Akhir ul-Zaman,7,Guns and Butter Doctrine,M566018
+566037,Chief of Army,Jugah anak Barieng,6,Static Defence Doctrine,SAR_jugah_anak_barieng
+566038,Chief of Army,Orville Wellesley,5,Decisive Battle Doctrine,M566008
+566039,Chief of Navy,Anwar bin Muhammed,7,Decisive Naval Battle Doctrine,M566019
+566040,Chief of Navy,Richard Evans,5,Open Seas Doctrine,M566009
+566041,Chief of Air Force,Abdullah Ahmed,7,Naval Aviation Doctrine,M566020
+566042,Chief of Air Force,John Barrington,5,Carpet Bombing Doctrine,M566010
