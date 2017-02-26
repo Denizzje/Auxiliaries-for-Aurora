@@ -7,7 +7,7 @@ COL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 37055,Head of Government,Querista Sellor,1,Backroom Backstabber,M37021
 37041,Head of State,Querista Sellor,1,Pig-headed Isolationist,M37021
 37092,Minister of Armament,Carlos Lozano y Lozano,2,laissez-faire capitalist,M37044
-37110,Minister of Security,DarÌo EchandÌa,2,Compassionate Gentleman,M37045
+37110,Minister of Security,Dar√≠o Echand√≠a,2,Compassionate Gentleman,M37045
 37149,Chief of Navy,Gabriel Quintanilla Morales,2,Power Projection Doctrine,M37029
 37091,Minister of Armament,Gabriel Quintanilla Morales,2,Battle Fleet Proponent,M37029
 37056,Head of Government,Jorge Eliecer Gaitan,2,Naive Optimist,M37037
@@ -21,14 +21,14 @@ COL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 37074,Minister of Armament,Alain Adair Arriaga,3,Resource Industrialist,M37074
 37060,Foreign Minister,Alberto Lleras Camargo,3,Biased Intellectual,M37033
 37095,Minister of Security,Alberto Lleras Camargo,3,Silent Lawyer,M37033
-37075,Minister of Armament,Alfonso LopÈz Pumarejo,3,Infantry Proponent,M37001
-37002,Head of Government,Alfonso LÛpez Pumarejo,3,Silent Workhorse,M37001
-37001,Head of State,Alfonso LÛpez Pumarejo,3,Weary Stiffneck,M37001
-37166,Head of State,Alfonso LÛpez Pumarejo,3,Weary Stiffneck,M37001
+37075,Minister of Armament,Alfonso Lop√©z Pumarejo,3,Infantry Proponent,M37001
+37002,Head of Government,Alfonso L√≥pez Pumarejo,3,Silent Workhorse,M37001
+37001,Head of State,Alfonso L√≥pez Pumarejo,3,Weary Stiffneck,M37001
+37166,Head of State,Alfonso L√≥pez Pumarejo,3,Weary Stiffneck,M37001
 37004,Minister of Armament,Benito Hernandez,3,Corrupt Kleptocrat,M37004
 37059,Foreign Minister,Carlos Lozano y Lozano,3,Great Compromiser,M37044
 37044,Head of Government,Carlos Lozano y Lozano,3,Smiling Oilman,M37044
-37045,Head of Government,DarÌo EchandÌa,3,Happy Amateur,M37045
+37045,Head of Government,Dar√≠o Echand√≠a,3,Happy Amateur,M37045
 37008,Chief of Army,Eduardo Poirier Escobar,3,Elastic Defence Doctrine,M37008
 37003,Foreign Minister,Ernesto Gonzalez Piedrahita,3,Ideological Crusader,M37003
 37006,Head of Military Intelligence,Fernando Londono y Londono,3,Industrial Specialist,M37006
@@ -43,7 +43,7 @@ COL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 37007,Chief of Staff,Jorge Mercado Sanchez,3,School of Defence,M37007
 37005,Minister of Security,Jorge Roa Martinez,3,Compassionate Gentleman,M37005
 37057,Foreign Minister,Jorge Soto del Corral,3,The Cloak N Dagger Schemer,M37057
-37127,Chief of Staff,JosÈ Guisa y Escalar,3,School of Defence,M37127
+37127,Chief of Staff,Jos√© Guisa y Escalar,3,School of Defence,M37127
 37150,Chief of Air Force,Luis Acevedo,3,Naval Aviation Doctrine,M37009
 37136,Chief of Army,Luis Acevedo,3,Armoured Spearhead Doctrine,M37009
 37009,Chief of Navy,Luis Acevedo,3,Decisive Naval Battle Doctrine,M37009
@@ -65,16 +65,16 @@ COL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 37032,Head of State,Eduardo Santos Montejo,4,Autocratic Charmer,M37032
 37064,Foreign Minister,Eduardo Zuleta Castillo,4,Great Compromiser,M37064
 37100,Minister of Security,Eduardo Zuleta Castillo,4,Crooked Kleptocrat,M37064
-37116,Head of Military Intelligence,Enrico DÌaz Carias,4,Political Specialist,M37116
+37116,Head of Military Intelligence,Enrico D√≠az Carias,4,Political Specialist,M37116
 37099,Minister of Security,Enrique Gomez Hurtado,4,Crime Fighter,M37099
 37062,Foreign Minister,Enrique Olaya Herrera,4,Apologetic Clerk,M37062
 37063,Foreign Minister,Fernando Londono y Londono,4,General Staffer,M37006
-37096,Minister of Security,Francesco JosÈ Urrutia,4,Man of the People,M37096
+37096,Minister of Security,Francesco Jos√© Urrutia,4,Man of the People,M37096
 37048,Head of Government,Gabriel Turbay Ayala,4,Ambitious Union Boss,M37034
 37034,Head of State,Gabriel Turbay Ayala,4,Benevolent Gentleman,M37034
 37077,Minister of Armament,Humberto Chica Pinzon,4,Theoretical Scientist,M37077
-37139,Chief of Army,JosÈ Guisa y Escalar,4,Elastic Defence Doctrine,M37127
-37061,Foreign Minister,Luis LÛpez de Mesa,4,Ideological Crusader,M37061
+37139,Chief of Army,Jos√© Guisa y Escalar,4,Elastic Defence Doctrine,M37127
+37061,Foreign Minister,Luis L√≥pez de Mesa,4,Ideological Crusader,M37061
 37152,Chief of Air Force,Manuel Quinones,4,Carpet Bombing Doctrine,M37138
 37138,Chief of Army,Manuel Quinones,4,Static Defence Doctrine,M37138
 37145,Chief of Navy,Mario Espinoza Gacitua,4,Decisive Naval Battle Doctrine,M37019
@@ -82,20 +82,20 @@ COL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 37114,Head of Military Intelligence,Mauricio Soto Gomez,4,Naval Intelligence Specialist,M37081
 37081,Minister of Armament,Mauricio Soto Gomez,4,Submarine Proponent,M37081
 37080,Minister of Armament,Plinio Mendoza,4,Corrupt Kleptocrat,M37080
-37038,Head of State,Mariano Ospina PÈrez,5,Barking Buffoon,M37038
-37082,Minister of Armament,Alberto NariÒo Cheyne,6,Air to Sea Proponent,M37082
+37038,Head of State,Mariano Ospina P√©rez,5,Barking Buffoon,M37038
+37082,Minister of Armament,Alberto Nari√±o Cheyne,6,Air to Sea Proponent,M37082
 37118,Head of Military Intelligence,Antonio Acevedo Escobar,6,Dismal Enigma,M37014
-37065,Foreign Minister,Antonio JosÈ Restrepo,6,General Staffer,M37065
+37065,Foreign Minister,Antonio Jos√© Restrepo,6,General Staffer,M37065
 37101,Minister of Security,Caesare Bernal Gustaves,6,Crooked Kleptocrat,M37101
 37087,Minister of Armament,Camilo Ospina Bernal,6,Resource Industrialist,M37087
-37050,Head of Government,Carlos Arango VÈlez,6,Silent Workhorse,M37036
-37036,Head of State,Carlos Arango VÈlez,6,Stern Imperialist,M37036
-37086,Minister of Armament,Carlos Arango VÈlez,6,Battle Fleet Proponent,M37036
+37050,Head of Government,Carlos Arango V√©lez,6,Silent Workhorse,M37036
+37036,Head of State,Carlos Arango V√©lez,6,Stern Imperialist,M37036
+37086,Minister of Armament,Carlos Arango V√©lez,6,Battle Fleet Proponent,M37036
 37130,Chief of Staff,Eduardo Porier Escobar,6,School of Fire Support,M37008
 37117,Head of Military Intelligence,Eduardo Porier Escobar,6,Logistics Specialist,M37008
-37157,Chief of Air Force,Enrico DÌaz Carias,6,Naval Aviation Doctrine,M37116
+37157,Chief of Air Force,Enrico D√≠az Carias,6,Naval Aviation Doctrine,M37116
 37156,Chief of Air Force,Felix Mercado,6,Army Aviation Doctrine,M37156
-37104,Minister of Security,Francesco JosÈ Urrutia,6,Man of the People,M37096
+37104,Minister of Security,Francesco Jos√© Urrutia,6,Man of the People,M37096
 37068,Foreign Minister,Francisco Umana Bernal,6,Biased Intellectual,M37068
 37141,Chief of Army,Guillermo Padilla Manrique,6,Guns and Butter Doctrine,M37119
 37119,Head of Military Intelligence,Guillermo Padilla Manrique,6,Dismal Enigma,M37119
@@ -104,20 +104,20 @@ COL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 37084,Minister of Armament,Joaquin Fernandez,6,Resource Industrialist,M37035
 37051,Head of Government,Jorge Eliecer Gaitan,6,Naive Optimist,M37037
 37037,Head of State,Jorge Eliecer Gaitan,6,Popular Figurehead,M37037
-37102,Minister of Security,JosÈ Ellis Quinsado,6,Back Stabber,M37016
-37067,Foreign Minister,Laureano GÛmez Castro,6,The Cloak N Dagger Schemer,M37067
-37168,Head of State,Laureano GÛmez Castro,6,Barking Buffoon,M37067
-37052,Head of Government,Mariano Ospina PÈrez,6,Happy Amateur,M37038
-37085,Minister of Armament,Mariano Ospina PÈrez,6,Military Entrepreneur,M37038
-37066,Foreign Minister,Roberto Urdaneta Arbel·ez,6,Apologetic Clerk,M37066
+37102,Minister of Security,Jos√© Ellis Quinsado,6,Back Stabber,M37016
+37067,Foreign Minister,Laureano G√≥mez Castro,6,The Cloak N Dagger Schemer,M37067
+37168,Head of State,Laureano G√≥mez Castro,6,Barking Buffoon,M37067
+37052,Head of Government,Mariano Ospina P√©rez,6,Happy Amateur,M37038
+37085,Minister of Armament,Mariano Ospina P√©rez,6,Military Entrepreneur,M37038
+37066,Foreign Minister,Roberto Urdaneta Arbel√°ez,6,Apologetic Clerk,M37066
 37140,Chief of Army,Ruben Piedrahita Arango,6,Decisive Battle Doctrine,M37017
 37147,Chief of Navy,Salvador Tiaga Gonzalez,6,Base Control Doctrine,M37131
 37131,Chief of Staff,Salvador Tiaga Gonzalez,6,School of Psychology,M37131
-37103,Minister of Security,Ulpiano Rengifo C·rdenas,6,Efficient Sociopath,M37103
-37083,Minister of Armament,William MartinÈz PÈrez,6,Tank Proponent,M37083
-37071,Foreign Minister,Baldomero SanÌn Cano,7,Iron Fisted Brute,M37071
+37103,Minister of Security,Ulpiano Rengifo C√°rdenas,6,Efficient Sociopath,M37103
+37083,Minister of Armament,William Martin√©z P√©rez,6,Tank Proponent,M37083
+37071,Foreign Minister,Baldomero San√≠n Cano,7,Iron Fisted Brute,M37071
 37070,Foreign Minister,Eduardo Porier Escobar,7,General Staffer,M37008
-37122,Head of Military Intelligence,Enrico DÌaz Carias,7,Dismal Enigma,M37116
+37122,Head of Military Intelligence,Enrico D√≠az Carias,7,Dismal Enigma,M37116
 37159,Chief of Air Force,German Olano,7,Air Superiority Doctrine,M37010
 37133,Chief of Staff,Gustavo Rojas Pinilla,7,School of Psychology,M37133
 37040,Head of State,Gustavo Rojas Pinilla,7,Resigned Generalissimo,M37040
@@ -125,12 +125,12 @@ COL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
 37089,Minister of Armament,Julio Valdez,7,Theoretical Scientist,M37011
 37158,Chief of Air Force,Luis Rodriguez,7,Carpet Bombing Doctrine,M37020
 37107,Minister of Security,M.E. Rojas de Moreno,7,Man of the People,M37107
-37121,Head of Military Intelligence,MelitÛn Rodriguez Roldan,7,Political Specialist,M37013
+37121,Head of Military Intelligence,Melit√≥n Rodriguez Roldan,7,Political Specialist,M37013
 37132,Chief of Staff,Ruben Piedrahita Arango,7,School of Manoeuvre,M37017
 37054,Head of Government,Ruben Piedrahita Arango,7,Old General,M37017
 37088,Minister of Armament,Antonio Acevedo Escobar,8,Corrupt Kleptocrat,M37014
-37120,Head of Military Intelligence,JosÈ Ellis Quinsado,8,Logistics Specialist,M37016
+37120,Head of Military Intelligence,Jos√© Ellis Quinsado,8,Logistics Specialist,M37016
 37053,Head of Government,Julio Valdez,8,Old General,M37011
 37039,Head of State,Julio Valdez,8,Resigned Generalissimo,M37011
-37069,Foreign Minister,MelitÛn Rodriguez Roldan,8,Biased Intellectual,M37013
-37105,Minister of Security,MelitÛn Rodriguez Roldan,8,Efficient Sociopath,M37013
+37069,Foreign Minister,Melit√≥n Rodriguez Roldan,8,Biased Intellectual,M37013
+37105,Minister of Security,Melit√≥n Rodriguez Roldan,8,Efficient Sociopath,M37013
