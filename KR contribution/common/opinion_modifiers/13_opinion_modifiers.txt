@@ -1,0 +1,5 @@
+﻿opinion_modifiers = {
+	close_ideology = { value = 40 } # net +20
+	similar_ideology = { value = 20 } # net +0
+	opposed_ideology = { value = -30 } # net -50 
+}

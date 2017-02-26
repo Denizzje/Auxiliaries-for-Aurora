@@ -1,0 +1,174 @@
+ideas = {
+	country = {
+		totalist_foreign_policy = {
+			allowed = { always = no }
+			modifier = {
+				totalist_acceptance = 20
+				syndicalist_acceptance = 5
+				radical_socialist_acceptance = 5
+				social_democrat_acceptance = 0
+				social_liberal_acceptance = -20
+				market_liberal_acceptance = -20
+				social_conservative_acceptance = -20
+				authoritarian_democrat_acceptance = -20
+				paternal_autocrat_acceptance = -20
+				national_populist_acceptance = 0
+			}
+			removal_cost = -1
+			picture = GFX_totalist_diplo
+		}
+		syndicalist_foreign_policy = {
+			allowed = { always = no }
+			modifier = {
+				totalist_acceptance = 5
+				syndicalist_acceptance = 20
+				radical_socialist_acceptance = 10
+				social_democrat_acceptance = 0
+				social_liberal_acceptance = 0
+				market_liberal_acceptance = -20
+				social_conservative_acceptance = -20
+				authoritarian_democrat_acceptance = -20
+				paternal_autocrat_acceptance = -20
+				national_populist_acceptance = -20
+			}
+			removal_cost = -1
+			picture = GFX_syndicalist_diplo
+		}
+		radical_socialist_foreign_policy = {
+			allowed = { always = no }
+			modifier = {
+				totalist_acceptance = 5
+				syndicalist_acceptance = 10
+				radical_socialist_acceptance = 20
+				social_democrat_acceptance = 0
+				social_liberal_acceptance = 0
+				market_liberal_acceptance = -20
+				social_conservative_acceptance = -20
+				authoritarian_democrat_acceptance = -20
+				paternal_autocrat_acceptance = -20
+				national_populist_acceptance = -20
+			}
+			removal_cost = -1
+			picture = GFX_radical_socialist_diplo
+		}
+		social_democrat_foreign_policy = {
+			allowed = { always = no }
+			modifier = {
+				totalist_acceptance = 0
+				syndicalist_acceptance = 0
+				radical_socialist_acceptance = 5
+				social_democrat_acceptance = 20
+				social_liberal_acceptance = 10
+				market_liberal_acceptance = 5
+				social_conservative_acceptance = 5
+				authoritarian_democrat_acceptance = 0
+				paternal_autocrat_acceptance = -20
+				national_populist_acceptance = -20
+			}
+			removal_cost = -1
+			picture = GFX_social_democrat_diplo
+		}
+		social_liberal_foreign_policy = {
+			allowed = { always = no }
+			modifier = {
+				totalist_acceptance = -20
+				syndicalist_acceptance = 0
+				radical_socialist_acceptance = 0
+				social_democrat_acceptance = 10
+				social_liberal_acceptance = 20
+				market_liberal_acceptance = 10
+				social_conservative_acceptance = 5
+				authoritarian_democrat_acceptance = 0
+				paternal_autocrat_acceptance = -20
+				national_populist_acceptance = -20
+			}
+			removal_cost = -1
+			picture = GFX_social_liberal_diplo
+		}
+		market_liberal_foreign_policy = {
+			allowed = { always = no }
+			modifier = {
+				totalist_acceptance = -20
+				syndicalist_acceptance = -20
+				radical_socialist_acceptance = -20
+				social_democrat_acceptance = 5
+				social_liberal_acceptance = 10
+				market_liberal_acceptance = 20
+				social_conservative_acceptance = 10
+				authoritarian_democrat_acceptance = 5
+				paternal_autocrat_acceptance = 0
+				national_populist_acceptance = 0
+			}
+			removal_cost = -1
+			picture = GFX_market_liberal_diplo
+		}
+		social_conservative_foreign_policy = {
+			allowed = { always = no }
+			modifier = {
+				totalist_acceptance = -20
+				syndicalist_acceptance = -20
+				radical_socialist_acceptance = -20
+				social_democrat_acceptance = 5
+				social_liberal_acceptance = 5
+				market_liberal_acceptance = 10
+				social_conservative_acceptance = 20
+				authoritarian_democrat_acceptance = 10
+				paternal_autocrat_acceptance = 5
+				national_populist_acceptance = 0
+			}
+			removal_cost = -1
+			picture = GFX_social_conservative_diplo
+		}
+		authoritarian_democrat_foreign_policy = {
+			allowed = { always = no }
+			modifier = {
+				totalist_acceptance = -20
+				syndicalist_acceptance = -20
+				radical_socialist_acceptance = -20
+				social_democrat_acceptance = 0
+				social_liberal_acceptance = 0
+				market_liberal_acceptance = 5
+				social_conservative_acceptance = 10
+				authoritarian_democrat_acceptance = 20
+				paternal_autocrat_acceptance = 10
+				national_populist_acceptance = 0
+			}
+			removal_cost = -1
+			picture = GFX_authoritarian_democrat_diplo
+		}
+		paternal_autocrat_foreign_policy = {
+			allowed = { always = no }
+			modifier = {
+				totalist_acceptance = -20
+				syndicalist_acceptance = -20
+				radical_socialist_acceptance = -20
+				social_democrat_acceptance = -20
+				social_liberal_acceptance = -20
+				market_liberal_acceptance = 0
+				social_conservative_acceptance = 5
+				authoritarian_democrat_acceptance = 10
+				paternal_autocrat_acceptance = 20
+				national_populist_acceptance = 0
+			}
+			removal_cost = -1
+			picture = GFX_paternal_autocrat_diplo
+		}
+		national_populist_foreign_policy = {
+			allowed = { always = no }
+			modifier = {
+				totalist_acceptance = -20
+				syndicalist_acceptance = -20
+				radical_socialist_acceptance = -20
+				social_democrat_acceptance = -20
+				social_liberal_acceptance = -20
+				market_liberal_acceptance = 0
+				social_conservative_acceptance = 0
+				authoritarian_democrat_acceptance = 0
+				paternal_autocrat_acceptance = 0
+				national_populist_acceptance = 20
+			}
+			removal_cost = -1
+			picture = GFX_national_populist_diplo
+		}
+	}
+}
