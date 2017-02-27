@@ -1,0 +1,118 @@
+FLA,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+510002,Head of Government,Staf de Clercq,9,Flamboyant Tough Guy,M15033
+510003,Foreign Minister,Staf de Clercq,9,Biased Intellectual,M15033
+510004,Minister of Armament,Hendrik de Man,7,Administrative Genius,M15056
+510005,Minister of Security,Jan Timmermans,9,Man of the People,M15117
+510006,Head of Military Intelligence,Reimond Tollenaere,9,Dismal Enigma,M15082
+510007,Chief of Staff,Jef Francois,9,School of Mass Combat,M15015
+510008,Chief of Army,Jef Francois,9,Decisive Battle Doctrine,M15015
+510009,Chief of Navy,Ernst Junkermann,9,Open Seas Doctrine,M510009
+510010,Chief of Air Force,Ottfried Sattler,9,Air Superiority Doctrine,M510010
+510011,Chief of Air Force,Egert Reeder,9,Vertical Envelopment Doctrine,M510061
+510012,Chief of Air Force,Konrad Schellong,9,Army Aviation Doctrine,L510007
+510013,Chief of Army,Egert Reeder,9,Elastic Defence Doctrine,M510061
+510014,Chief of Army,G.H. von Craushaar,9,Guns and Butter Doctrine,M510084
+510015,Chief of Army,Gottlob Berger,9,Guns and Butter Doctrine,M510027
+510016,Chief of Army,Hans-Albert von Lettow-Vorbeck,9,Decisive Battle Doctrine,M510088
+510017,Chief of Army,Konrad Schellong,9,Armoured Spearhead Doctrine,L510007
+510018,Chief of Army,Lucien Rijckeboer,9,Static Defence Doctrine,M510065
+510019,Chief of Army,Raf Van Hulse,9,Guns and Butter Doctrine,M510078
+510021,Chief of Army,Réné Lagrou,9,Decisive Battle Doctrine,M15017
+510022,Chief of Navy,Egert Reeder,9,Base Control Doctrine,M510061
+510024,Chief of Staff,Egert Reeder,9,School of Manoeuvre,M510061
+510025,Chief of Staff,G.H. von Craushaar,9,School of Fire Support,M510084
+510026,Chief of Staff,Gottlob Berger,9,School of Psychology,M510027
+510027,Chief of Staff,Lucien Rijckeboer,9,School of Defence,M510065
+510028,Chief of Staff,Raf Van Hulse,9,School of Manoeuvre,M510078
+510029,Chief of Staff,Robert Verbelen,9,School of Psychology,M510081
+510030,Chief of Staff,Seraf Trio,9,School of Fire Support,M510073
+510031,Foreign Minister,Dr. August Borms,8,Biased Intellectual,M510025
+510032,Foreign Minister,Cyriel Verschaeve,8,Great Compromiser,M510083
+510033,Foreign Minister,E. Van den Heuvel,9,Ideological Crusader,M510077
+510034,Foreign Minister,Frans Daels,8,Ideological Crusader,M510035
+510035,Foreign Minister,Gottlob Berger,9,General Staffer,M510027
+510036,Foreign Minister,Hendrik J. Elias,8,Biased Intellectual,M15039
+510037,Foreign Minister,Jef van de Wiele,9,Iron Fisted Brute,M15011
+510038,Foreign Minister,Jeroom Leuridan,9,Ideological Crusader,M510058
+510039,Foreign Minister,Karel Lambrechts,9,Great Compromiser,M510049
+510040,Foreign Minister,Odiel Daem,9,The Cloak N Dagger Schemer,M510037
+510041,Foreign Minister,Pol Le Roy,8,Biased Intellectual,M510054
+510042,Foreign Minister,Reimond Speleers,8,Biased Intellectual,M510072
+510043,Foreign Minister,Walter Lampaert,9,General Staffer,M510052
+510044,Head of Government,Alexander von Falkenhausen,9,Silent Workhorse,M510086
+510045,Head of Government,Dr. August Borms,8,Silent Workhorse,M510025
+510046,Head of Government,Dr. Schulze,9,Flamboyant Tough Guy,M510070
+510047,Head of Government,Frans Daels,8,Flamboyant Tough Guy,M510035
+510048,Head of Government,Gottlob Berger,9,Old General,M510027
+510049,Head of Government,Hendrik J. Elias,8,Political Protege,M15039
+510050,Head of Government,Jef van de Wiele,9,Backroom Backstabber,M15011
+510051,Head of Government,Jeroom Leuridan,9,Ambitious Union Boss,M510058
+510052,Head of Government,Lucien Rijckeboer,9,Happy Amateur,M510065
+510053,Head of Government,Piet Wijndaele,8,Naive Optimist,M510091
+510054,Head of Government,R. Claeys,9,Political Protege,M510033
+510055,Head of Military Intelligence,A. De Bontridder,8,Political Specialist,M510039
+510056,Head of Military Intelligence,Edgar Lehembre,9,Technical Specialist,M510056
+510057,Head of Military Intelligence,Jos Henskens,9,Logistics Specialist,M510044
+510058,Head of Military Intelligence,Karel Lambrechts,9,Industrial Specialist,M510049
+510059,Head of Military Intelligence,R. Claeys,9,Political Specialist,M510033
+510060,Head of Military Intelligence,Richard Jungclaus,9,Dismal Enigma,M510047
+510061,Head of Military Intelligence,Robert Verbelen,9,Technical Specialist,M510081
+510062,Head of Military Intelligence,Seraf Trio,9,Logistics Specialist,M510073
+510068,Minister of Armament,Alfons Wachtelaer,9,Infantry Proponent,M510089
+510069,Minister of Armament,Edgard Delvo,9,Resource Industrialist,M510042
+510070,Minister of Armament,Fritz-Jan Hendriks,8,Administrative Genius,M510043
+510071,Minister of Armament,Jan Timmermans,9,Resource Industrialist,M15117
+510072,Minister of Armament,Jef van de Wiele,9,Military Entrepreneur,M15011
+510073,Minister of Armament,Joris Fassotte,9,Military Entrepreneur,M15057
+510074,Minister of Armament,Jos Henskens,9,Infantry Proponent,M510044
+510075,Minister of Armament,Marcel Mannaerts,8,Resource Industrialist,M510060
+510076,Minister of Armament,Piet Wijndaele,8,laissez-faire capitalist,M510091
+510077,Minister of Armament,Victor Leemans,8,laissez-faire capitalist,M510055
+510078,Minister of Armament,Victor Matthys,9,Military Entrepreneur,M15058
+510079,Minister of Security,A. De Bontridder,8,Silent Lawyer,M510039
+510080,Minister of Security,Alfons Herten,9,Efficient Sociopath,M510046
+510081,Minister of Security,Alfons Wachtelaer,9,Efficient Sociopath,M510089
+510082,Minister of Security,Edgar Lehembre,9,Prince of Terror,M510056
+510083,Minister of Security,Gottlob Berger,9,Prince of Terror,M510027
+510084,Minister of Security,Hendrik J. Elias,8,Silent Lawyer,M15039
+510085,Minister of Security,J. De Meyer,9,Man of the People,M510041
+510086,Minister of Security,Joris Vansteenland,9,Prince of Terror,M510080
+510087,Minister of Security,Karel Lambrechts,9,Compassionate Gentleman,M510049
+510088,Minister of Security,Odiel Daem,9,Crime Fighter,M510037
+510089,Minister of Security,Reimond Tollenaere,9,Prince of Terror,M15082
+510090,Minister of Security,Richard Jungclaus,9,Efficient Sociopath,M510047
+510091,Minister of Security,Seraf Trio,9,Man of the People,M510073
+510092,Minister of Security,Walter Lampaert,9,Crime Fighter,M510052
+510094,Head of Government,Frans Van Cauwelaert,6,Naive Optimist,M15132
+510095,Foreign Minister,Frans Van Cauwelaert,6,Ideological Crusader,M15132
+510097,Head of Government,Staf de Clercq,7,Flamboyant Tough Guy,M15033
+510098,Foreign Minister,Staf de Clercq,7,Biased Intellectual,M15033
+510099,Foreign Minister,August Borms,8,Ideological Crusader,M510099
+510100,Foreign Minister,Clemens De Landtsheer,6,Ideological Crusader,M510100
+510102,Head of Government,Camille Huysmans,1,Happy Amateur,M15038
+510103,Head of Government,Achille Van Acker,3,Corporate Suit,M15041
+510104,Minister of Armament,Hendrik de Man,4,Administrative Genius,M15056
+510105,Minister of Armament,Franz de Voghel,5,Laissez-Faire Capitalist,M15067
+510106,Minister of Armament,Albert de Vleeschauwer,6,Resource Industrialist,M15069
+510107,Minister of Security,Albert Janssen,6,Compassionate Gentleman,M15071
+510108,Minister of Security,Paul Hymans,4,Compassionate Gentleman,M15073
+510109,Minister of Security,Adolphe Van Glabbeke,6,Man of the People,M15086
+510110,Minister of Security,Paul Struye,6,Man of the People,M15090
+510111,Head of Military Intelligence,Herman Vos,3,Political Specialist,M15099
+510112,Head of Military Intelligence,Pierre Vermeylen,6,Technical Specialist,M15102
+510113,Chief of Staff,Oscar Michiels,6,School of Mass Combat,M15107
+510114,Chief of Army,Raoul van Overstraeten,6,Guns and Butter Doctrine,M15110
+510115,Minister of Armament,Edmond Rubbens,6,Resource Industrialist,M15124
+510116,Minister of Armament,Albert Wauters,3,Military Entrepreneur,M15125
+510117,Minister of Armament,Louis Franck,6,Resource Industrialist,M15128
+510118,Minister of Armament,Hendrik Heyman,6,Air to Ground Proponent,M15129
+510119,Minister of Armament,Maurice Lippens,5,Resource Industrialist,M15130
+510120,Minister of Security,Philippe Van Isacker,6,Crime Fighter,M15131
+510121,Minister of Armament,Cyriel Van Overbergh,6,Theoretical Scientist,M15137
+510122,Minister of Armament,Gustaaf Sap,6,Military Entrepreneur,M15140
+510123,Chief of Navy,G. Timmermans,6,Indirect Approach Doctrine,M15009
+510124,Chief of Air Force,L.F.E. Wouters,6,Vertical Envelopment Doctrine,M15010
+510128,Head of Government,Henri de Man,1,Flamboyant Tough Guy,kai_henrdmn
+510129,Foreign Minister,August Vermeylen,1,Ideological Crusader,kai_augstver
+510130,Minister of Armament,Henri de Man,1,Resource Industrialist,kai_henrdmn

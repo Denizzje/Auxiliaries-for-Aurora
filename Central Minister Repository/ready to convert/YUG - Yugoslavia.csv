@@ -1,0 +1,79 @@
+YUG,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+20002,Head of Government,Milan Stojadinovic,7,Silent Workhorse,M20002
+20003,Foreign Minister,Milan Stojadinovic,7,The Cloak N Dagger Schemer,M20002
+20004,Minister of Armament,Boguljub Jevtic,7,Corrupt Kleptocrat,M20004
+20005,Minister of Security,Pavle Karadjordjevic,7,Prince of Terror,M20001
+20006,Head of Military Intelligence,Borivoje Josimovic,7,Political Specialist,L46013
+20007,Chief of Staff,Petar Kosic,7,School of Mass Combat,L46015
+20008,Chief of Army,Aleksandar Cincar-Markovic,7,Decisive Battle Doctrine,L46005
+20009,Chief of Navy,Bogoljub Ilic,7,Base Control Doctrine,L46043
+20010,Chief of Air Force,Dusan Simovic,7,Army Aviation Doctrine,L46060
+20032,Head of Government,Dragisa Cvetkovic,7,Naive Optimist,M20032
+20033,Head of Government,Dusan Simovic,6,Happy Amateur,M20033
+20034,Head of Government,Slobodan Jovanovic,8,Political Protege,M20034
+20035,Head of Government,Milos Trifunovic,9,Old General,M20035
+20036,Head of Government,Ivan Subasic,5,Corporate Suit,M20014
+20037,Head of Government,Josip Broz,2,Backroom Backstabber,M20021
+20038,Head of Government,Vlatko Macek,3,old airmarshal,M20038
+20039,Foreign Minister,Aleksandar Cincar-Markovic,7,General Staffer,L46005
+20040,Foreign Minister,Momcilo Nincic,6,Great Compromiser,M20013
+20041,Foreign Minister,Slobodan Jovanovic,8,Biased Intellectual,M20034
+20042,Foreign Minister,Milan Grol,9,Apologetic Clerk,M20042
+20043,Foreign Minister,Bozidar Puric,9,Ideological Crusader,M20043
+20044,Foreign Minister,Ivan Subasic,5,Apologetic Clerk,M20014
+20045,Foreign Minister,Stanoje Simic,2,Great Compromiser,M20023
+20046,Foreign Minister,Vlatko Macek,3,Apologetic Clerk,M20038
+20047,Foreign Minister,Edvard Kardelj,3,Ideological Crusader,M20047
+20048,Foreign Minister,Dimitrije Ljotic,9,Iron Fisted Brute,M20048
+20049,Minister of Armament,Edo Bogdan Markovic,7,Resource Industrialist,M20049
+20050,Minister of Armament,Ladislav Polic,6,laissez-faire capitalist,M20050
+20051,Minister of Armament,Anton Kozarev,8,Tank Proponent,M20051
+20052,Minister of Armament,Tanasije Tasa Dinic,9,Corrupt Kleptocrat,M20052
+20053,Minister of Armament,Petar Ivelich,5,Theoretical Scientist,M20053
+20054,Minister of Armament,Milentije Popovic,2,Resource Industrialist,M20024
+20055,Minister of Armament,Draza Mihailovic,3,Tank Proponent,M20055
+20056,Minister of Security,Michel Yovanovic,7,Compassionate Gentleman,M20056
+20057,Minister of Security,Momcilo Dujic,6,Silent Lawyer,M20015
+20058,Minister of Security,Petar Grabovski,8,Efficient Sociopath,M20058
+20059,Minister of Security,Milan Nedic,9,Prince of Terror,M20059
+20060,Minister of Security,Spiro Kitinchev,9,Back Stabber,M20060
+20061,Minister of Security,Dragoljub Stefanic,5,Crime Fighter,M20061
+20062,Minister of Security,Koca Popovic,3,Silent Lawyer,M20025
+20063,Head of Military Intelligence,Andrija Stampar,7,Technical Specialist,M20063
+20064,Head of Military Intelligence,Djorde Petrelic,6,Industrial Specialist,M20064
+20065,Head of Military Intelligence,Dimitar Ckatrov,8,Dismal Enigma,M20065
+20066,Head of Military Intelligence,Kosta Ecanec,9,Logistics Specialist,M20066
+20067,Head of Military Intelligence,Drogoljub Jovanovic,9,Political Specialist,M20067
+20068,Head of Military Intelligence,Mihail Milosajevic,5,Technical Specialist,M20068
+20069,Head of Military Intelligence,Aleksandar Rankovic,3,Dismal Enigma,M20026
+20071,Chief of Staff,Radivoje Jankovic,6,School of Fire Support,L46012
+20072,Chief of Staff,Dimitar Duzelov,8,School of Manoeuvre,M20072
+20073,Chief of Staff,Marko Bozovic,9,School of Mass Combat,L46002
+20074,Chief of Staff,Jovan Nikolic,5,School of Psychology,M20074
+20075,Chief of Staff,Arsa Jovanovic,2,School of Mass Combat,M20075
+20076,Chief of Staff,Draza Mihailovic,3,School of Defence,M20012
+20078,Chief of Army,Milutin Nedic,6,Decisive Battle Doctrine,L46026
+20079,Chief of Army,Dimitar Duzelov,8,Armoured Spearhead Doctrine,M20072
+20080,Chief of Army,Marko Bozovic,9,Elastic Defence Doctrine,L46002
+20081,Chief of Army,Jovan Nikolic,5,Guns and Butter Doctrine,M20074
+20082,Chief of Army,Draza Mihailovic,3,static defence doctrine,M20012
+20084,Chief of Navy,Milutin Nedic,6,Decisive Naval Battle Doctrine,L46026
+20085,Chief of Navy,Petra Dumev,8,Indirect Approach Doctrine,M20085
+20086,Chief of Navy,Nikola Mandic,9,Base Control Doctrine,M20086
+20087,Chief of Navy,Pavle Karadjordjevic,5,Power Projection Doctrine,M20001
+20090,Chief of Air Force,Petra Dumev,8,Vertical Envelopment Doctrine,M20085
+20091,Chief of Air Force,Ademaga Mesic,9,Army Aviation Doctrine,M20091
+20092,Chief of Air Force,Petar Vukcevic,5,Naval Aviation Doctrine,L46062
+20093,Chief of Air Force,Ivan Ribar,2,Air Superiority Doctrine,M20093
+20097,Foreign Minister,Momcilo Nincic,8,The Cloak N Dagger Schemer,M20013
+20100,Chief of Staff,Koca Popovic,2,School of Mass Combat,M20025
+20101,Chief of Army,Josip Broz,2,Armoured Spearhead Doctrine,M20028
+20102,Chief of Navy,Josip Broz,2,Indirect Approach Doctrine,M20029
+20012,Head of Government,Draza Mihailovic,6,Naive Optimist,M20012
+20014,Minister of Armament,Ivan Subasic,5,Infantry Proponent,M20014
+20016,Head of Military Intelligence,Miroslav Spalaikovic,5,Technical Specialist,M20016
+20017,Chief of Staff,Mihailo Lukic,5,School of Manoeuvre,L46020
+20030,Chief of Air Force,Josip Broz,2,Army Aviation Doctrine,M20028
+20104,Head of Government,Dragisa Cvetkovic,8,Corporate Suit,M20032
+20113,Chief of Army,Petar Bojovic,8,Static Defence Doctrine,kaiserreich Bojovic

@@ -1,0 +1,53 @@
+WLL,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+511002,Head of Government,Léon Degrelle,9,Old General,M511001
+511003,Foreign Minister,Léon Degrelle,9,Iron Fisted Brute,M511001
+511004,Minister of Armament,Victor Matthys,9,Military Entrepreneur,M15058
+511005,Minister of Security,Paul Ouwerx,9,Crime Fighter,M15075
+511006,Head of Military Intelligence,Paul Ouwerx,9,Logistics Specialist,M15075
+511007,Chief of Staff,Jean Vermeire,9,School of Defence,M511007
+511008,Chief of Army,Lambert Chardonne,8,Armoured Spearhead Doctrine,L68002
+511009,Chief of Navy,Jean Vermeire,9,Open Seas Doctrine,M511007
+511010,Chief of Air Force,Lucien Lippert,9,Army Aviation Doctrine,M511010
+511013,Head of Government,Alexander von Falkenhausen,9,Silent Workhorse,M510086
+511014,Head of Government,José Streel,8,Political Protege,M511014
+511015,Head of Government,Victor Matthys,9,Silent Workhorse,M15058
+511016,Foreign Minister,Jean-François Collard,8,Apologetic Clerk,M511016
+511017,Foreign Minister,José Streel,9,Ideological Crusader,M511014
+511018,Foreign Minister,Xavier de Grunne,8,Biased Intellectual,M511018
+511019,Minister of Armament,Baron de Launoit,8,Resource Industrialist,M511019
+511020,Minister of Armament,Jean-François Collard,8,laissez-faire capitalist,M511016
+511021,Minister of Armament,Léon Degrelle,9,Infantry Proponent,M511001
+511022,Minister of Armament,Paul Garain,9,Military Entrepreneur,M511022
+511023,Minister of Armament,Xavier de Grunne,8,laissez-faire capitalist,M511018
+511024,Minister of Security,Jean Vermeire,9,Efficient Sociopath,M511007
+511025,Minister of Security,John Hagemans,9,Man of the People,M511025
+511026,Minister of Security,José Streel,9,Man of the People,M511014
+511027,Minister of Security,Léon Degrelle,9,Prince of Terror,M511001
+511028,Minister of Security,Xavier de Grunne,8,Silent Lawyer,M511018
+511029,Head of Military Intelligence,John Hagemans,6,Dismal Enigma,M511025
+511030,Head of Military Intelligence,José Streel,9,Political Specialist,M511014
+511031,Chief of Staff,Egert Reeder,8,School of Manoeuvre,M510061
+511032,Chief of Staff,Lambert Chardonne,8,School of Fire Support,L68002
+511033,Chief of Staff,Léon Degrelle,9,School of Mass Combat,M511001
+511034,Chief of Staff,Lucien Lippert,6,School of Psychology,M511010
+511035,Chief of Staff,Paul Ouwerx,5,School of Manoeuvre,M15075
+511036,Chief of Army,Egert Reeder,9,Elastic Defence Doctrine,M510061
+511037,Chief of Army,Jean Vermeire,9,Static Defence Doctrine,M511007
+511038,Chief of Army,Léon Degrelle,9,Guns and Butter Doctrine,M511001
+511039,Chief of Army,Lucien Lippert,6,Decisive Battle Doctrine,M511010
+511040,Chief of Army,Paul Ouwerx,5,Static Defence Doctrine,M15075
+511041,Chief of Navy,Egert Reeder,9,Base Control Doctrine,M510061
+511042,Chief of Air Force,Egert Reeder,9,Air Superiority Doctrine,M510061
+511046,Head of Government,Charles Plisnier,1,Silent Workhorse,kai_charplis
+511047,Foreign Minister,Fernand Dehousse,1,Apologetic Clerk,kai_frndhss
+511048,Minister of Armament,Julien Lahut,1,Resource Industrialist,kai_jlnlht
+511049,Minister of Security,Pierre Paulus,1,Crime Fighter,kai_plsprri
+511050,Head of Military Intelligence,Pierre Paulus,1,Logistics Specialist,kai_plsprri
+511052,Head of Government,Victor de Laveleye,5,Political Protege,kai_vctdlav
+511053,Foreign Minister,Henri Story,5,Ideological Crusader,kai_hnrstr
+511054,Minister of Armament,Maurice Destenay,5,laissez-faire capitalist,kai_murdstn
+511055,Minister of Security,Albert Lilar,5,Crime Fighter,kai_albrtllr
+511057,Head of Government,Paul-Emilie Janson,4,Naive Optimist,kai_plemjns
+511058,Head of Government,Hubert Pierlot,6,Flamboyant Tough Guy,kai_hubrtpier
+511059,Foreign Minister,Georges Prosper Remi,6,Great Compromiser,kai_grgprosrm

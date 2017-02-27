@@ -1,0 +1,86 @@
+TUR,Ruling Cabinet - Start,Name,Ideology,Personality,Picturename
+,,,,,
+12002,Head of Government,Mustafa Ismet,7,Political Protege,M12002
+12003,Foreign Minister,Tewfik Rüstü Aras,7,Biased Intellectual,M12003
+12004,Minister of Armament,Zekai Apaydin,6,Resource Industrialist,M12004
+12005,Minister of Security,Sükrü Kaya,6,Man of the People,M12005
+12006,Head of Military Intelligence,Sükrü Ali Ogel,7,Industrial Specialist,M12006
+12007,Chief of Staff,Fevzi Cakmak,7,School of Defence,M12007
+12008,Chief of Army,Mehmet Nuri Yamut,7,Static Defence Doctrine,M12008
+12009,Chief of Navy,Mehmet Ali Ìngen,7,Base Control Doctrine,M12009
+12010,Chief of Air Force,Ali Örlungat,7,Army Aviation Doctrine,M12010
+12032,Head of Government,Mahmud Celal Bayar,6,Silent Workhorse,M12032
+12033,Head of Government,Refik Saydam,5,Smiling Oilman,M12024
+12034,Head of Government,Sükrü Saracoglu,5,Flamboyant Tough Guy,M12034
+12035,Foreign Minister,Sükrü Saracoglu,6,Biased Intellectual,M12034
+12036,Foreign Minister,Said Menemencioglu,5,Great Compromiser,M12036
+12038,Foreign Minister,Hassan Saka,6,Ideological Crusader,M12038
+12039,Foreign Minister,Necmettin Sadik Sadak,6,General Staffer,M12039
+12040,Foreign Minister,Refet Bele,7,General Staffer,M12040
+12041,Foreign Minister,Mustafa Ismet,6,Great Compromiser,M12002
+12042,Foreign Minister,Ali Fehti Okyar,5,Biased Intellectual,M12013
+12043,Foreign Minister,Abdülhalik Renda,5,Apologetic Clerk,M12043
+12045,Minister of Armament,Nurullah Esat Sümer,5,Corrupt Kleptocrat,M12045
+12046,Minister of Armament,Adnan Menderes,5,Theoretical Scientist,M12046
+12047,Minister of Armament,Ismet Inönü,6,Administrative Genius,M12031
+12048,Minister of Armament,Fuad Calistar,6,Infantry Proponent,M12048
+12049,Minister of Armament,Kazim Özalp,6,Military Entrepreneur,M12049
+12050,Minister of Armament,Tevfik Rüsta Aras,5,Theoretical Scientist,M12050
+12051,Minister of Armament,Mehmet Günaltay,6,Tank Proponent,M12051
+12052,Minister of Armament,Münir Bürsen,5,Laissez-Faire Capitalist,M12052
+12054,Minister of Armament,Mustafa Renda,5,Military Entrepreneur,M12054
+12056,Minister of Security,Hüsnü Cakir,5,Crooked Kleptocrat,M12056
+12057,Minister of Security,Hilmi Uran,5,Crime Fighter,M12057
+12059,Minister of Security,Memduh Tagmac,5,Prince of Terror,M12059
+12060,Minister of Security,Adnan Menderes,5,Back Stabber,M12046
+12061,Minister of Security,Abdul Naci Tinaz,5,Silent Lawyer,M12061
+12062,Minister of Security,Mahmud Celal Bayar,6,Back Stabber,M12032
+12063,Minister of Security,Abbas Cevat,3,Crooked Kleptocrat,M12025
+12064,Minister of Security,Saffet Arikan,6,Crime Fighter,M12058
+12065,Minister of Security,Ali Riza Türel,5,Efficient Sociopath,M12065
+12066,Minister of Security,Orhan Gökay,5,Silent Lawyer,M12015
+12067,Minister of Security,Mehmet Recep Peker,6,Compassionate Gentleman,M12067
+12068,Head of Military Intelligence,Mustafa Renda,6,Dismal Enigma,M12054
+12069,Head of Military Intelligence,Ali Rüza Artunkal,5,Logistics Specialist,M12069
+12070,Head of Military Intelligence,Mumtaz Ökmen,5,Industrial Specialist,M12070
+12071,Head of Military Intelligence,Mehmet Recep Peker,5,Industrial Specialist,M12067
+12072,Head of Military Intelligence,Fuad Köprülü,5,Naval Intelligence Specialist,M12026
+12073,Chief of Staff,Abdul Naci Tinaz,6,School of Fire Support,M12061
+12074,Chief of Staff,Ali Örlungat,5,School of Mass Combat,M12010
+12075,Chief of Staff,Abdurrahman Gürman,5,School of Manoeuvre,M12075
+12077,Chief of Army,Mustafa Eldelhun,5,Armoured Spearhead Doctrine,M12077
+12078,Chief of Army,Cemil Toüdemür,5,Decisive Battle Doctrine,M12078
+12079,Chief of Navy,Ali Fuat Cebesoy,6,Indirect Approach Doctrine,M12079
+12080,Chief of Navy,Vehbi Koc,5,Decisive Naval Battle Doctrine,M12080
+12081,Chief of Navy,Ahmet Aydam Bölak,5,Base Control Doctrine,M12081
+12083,Chief of Air Force,Erkan Gataly,5,Army Aviation Doctrine,M12083
+12084,Chief of Air Force,Memduh Tagmac,5,Air Superiority Doctrine,M12059
+12011,Head of State,Nihal Atsiz,8,Ruthless Powermonger,M12011
+12012,Head of Government,Zeki Velidi Togan,8,Old General,M12012
+12013,Foreign Minister,Ali Fethi Okyar,7,Ideological Crusader,M12013
+12014,Minister of Armament,Sadi Özbek,8,Air to Sea Proponent,M12014
+12016,Head of Military Intelligence,Ali Fehti Okyar,6,Dismal Enigma,M12013
+12017,Chief of Staff,Mustafa Ismet,7,School of Defence,M12002
+12018,Chief of Army,Alparslan Türkes,8,Guns and Butter Doctrine,M12018
+12019,Chief of Navy,Rauf Orbay,8,Base Control Doctrine,M12019
+12020,Chief of Air Force,Sadi Özbek,7,Naval Aviation Doctrine,M12014
+12022,Head of Government,Pertev Naili Boratav,0,Naive Optimist,M12022
+12023,Foreign Minister,Nazim Hikmet Ran,0,The Cloak N Dagger Schemer,M12023
+12024,Minister of Armament,Refik Saydam,2,Infantry Proponent,M12024
+12027,Chief of Staff,Abbas Cevat,2,School of Manoeuvre,M12025
+12028,Chief of Army,Pertev Naili Boratav,2,Elastic Defence Doctrine,M12022
+12029,Chief of Navy,Ismael Erim,1,Decisive Naval Battle Doctrine,M12029
+12030,Chief of Air Force,Refik Saydam,1,Air Superiority Doctrine,M12024
+12085,Head of State,Mahmud Celal Bayar,5,Barking Buffoon,M12032
+12086,Head of Government,Mehmet Recep Peker,6,Political Protege,M12067
+12087,Head of Government,Hassan Saka,6,Happy Amateur,M12038
+12088,Head of Government,Mehmet Günaltay,6,Silent Workhorse,M12051
+12089,Head of Government,Adnan Menderes,5,Ambitious Union Boss,M12046
+12090,Foreign Minister,Mehmet Fuat Köprülü,5,Iron Fisted Brute,M12090
+12091,Minister of Armament,Faik Ahmet Barutcu,6,Battle Fleet Proponent,M12091
+12092,Minister of Armament,Ismael Erim,6,Resource Industrialist,M12029
+12093,Minister of Armament,Samet Agaoglu,5,Theoretical Scientist,M12093
+12094,Minister of Armament,Fatim Rüstü Zorlu,5,Administrative Genius,M12094
+12095,Minister of Security,Refik Koraltan,5,Silent Lawyer,M12095
+12098,Head of Government,Ziyauddin Babakhan,8,Flamboyant Tough Guy,KYG_ziyauddin
+12100,Head of Government,Ishan Babakhan,8,Flamboyant Tough Guy,KYG_ishauddin
